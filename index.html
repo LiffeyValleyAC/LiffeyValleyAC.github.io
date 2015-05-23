@@ -1,0 +1,88 @@
+---
+layout: base
+---
+
+<div class="row">
+<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+  <!-- Indicators -->
+  <ol class="carousel-indicators">
+    <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+    <li data-target="#carousel-example-generic" data-slide-to="1"></li>
+    <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+    <li data-target="#carousel-example-generic" data-slide-to="3"></li>
+  </ol>
+
+  <!-- Wrapper for slides -->
+  <div class="carousel-inner">
+    <div class="item active">
+      <img src="/assets/images/dublin_novice.jpg" alt="Our women's team at the Dublin Novice Cross Country" class="center-block">
+      <div class="carousel-caption">
+      </div>
+    </div>
+    <div class="item">
+      <img src="/assets/images/club_race.jpg" alt="One of our club races" class="center-block">
+      <div class="carousel-caption">
+      </div>
+    </div>
+    <div class="item">
+      <img src="/assets/images/celebrate.jpg" alt="It's our 40th year!" class="center-block">
+      <div class="carousel-caption">
+      </div>
+    </div>
+    <div class="item">
+      <img src="/assets/images/club_mile.jpg" alt="The start of the million dollar mile" class="center-block">
+      <div class="carousel-caption">
+      </div>
+    </div>
+  </div>
+
+  <!-- Controls -->
+  <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left"></span>
+  </a>
+  <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right"></span>
+  </a>
+</div>
+</div>
+<div class="row">
+  <div class="bar">
+    &nbsp;
+  </div>
+</div>
+<div class="row content">
+  <div class="col-md-4">
+    <h2>Interested in running?</h2>
+    <h3>Enjoy running with other people?</h3>
+    <h3>How would you like to move your running to a new level?</h3>
+    <p>Liffey Valley Athletics Club are an Islandbridge based club welcoming new members.
+    <p>We welcome runners of all ages who are looking to improve their running through accessible, structured training sessions within a welcoming and encouraging environment.
+    <p>We compete year-round in cross-country, track and road races. We have expert coaches who plan training to help you race to your full potential
+    <p>If you would like to experience the unique training atmosphere you will find in our club, why not come along to our Tuesday and Thursday Training Sessions
+    <p>We meet at 6.45pm at our club house in Islandbridge
+    <p>We are located near the Phoenix Park or meet us on <a href="https://www.facebook.com/liffeyvalleyac">Facebook</a>
+  </div>
+  <div class="col-md-4">
+    <h2>News</h2>
+    <ul>
+      {% for post in site.posts %}
+      <li class="news">
+      <a href="/news/{{ post.url }}">{{ post.title }}</a><br>
+      <small>{{ post.date | date("l, F jS, Y") }}</small>
+      </li>
+      {% endfor %}
+    </ul>
+    <span class="news"><a href="/news">More News</a></span>
+  </div>
+  <div class="col-md-4">
+    <a href="/contact">
+    <div class="join">
+      <p class="head">JOIN US TODAY</p>
+      <p>New members always welcome!</p>
+    </div>
+  </a>
+    <div class="video">
+      <img src="/assets/images/backs.jpg" alt="">
+    </div>
+  </div>
+</div>
