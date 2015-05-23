@@ -1,0 +1,21 @@
+---
+layout: base
+---
+
+<div class="row">
+  <div class="bar">
+    &nbsp;
+  </div>
+</div>
+<div class="row content">
+  <div class="col-md-12">
+    <hr>
+      <h3>
+      {{ page.title }}
+      <small>{{ page.date | date: "%A, %-d %B, %Y" }}</small>
+    </h3>
+    <p>{{ page.location }}</p>
+    {{ content }}
+    <hr>
+  </div>
+</div>
