@@ -1,0 +1,9 @@
+safe:      true
+permalink: pretty
+highlighter: pygments
+markdown:  redcarpet
+exclude:   [ README.md, Gemfile ]
+
+site:
+    title:  Liffey Valley Athletics Club
+    url:    http://new.liffeyvalleyac.com
