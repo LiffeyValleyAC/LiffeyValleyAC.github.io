@@ -12,13 +12,13 @@ Looking forward to seeing you there.
 - The Registration tent can be found near the start line on the Furze road and will be open from 10am and will close at 11am.
 - If you have already registered, you can pick your number up from the tent at this time also.
 
-*When:* Thursday January 1st 2015
+**When:** Thursday January 1st 2015
 
-*Race Start:* 12.00 noon
+**Race Start:** 12.00 noon
 
-*Where:* The Furze Road, Phoenix Park 
+**Where:** The Furze Road, Phoenix Park 
 
-*Cost:* €25 on the day (must be entered 60 mins before race start)
+**Cost:** €25 on the day (must be entered 60 mins before race start)
 
 *Participants must be over 16 years of age to enter.*
 
