@@ -1,0 +1,39 @@
+---
+layout: base
+title: Contact
+---
+
+<div class="row">
+  <div class="bar">
+    &nbsp;
+  </div>
+</div>
+<div class="row content">
+  <div class="col-md-8">
+    <h2>Contact</h2>
+    <address>
+      <strong>Liffey Valley Athletics Club</strong><br>
+      Sandpitts Cottage,<br>
+      Islandbridge,<br>
+      Dublin 8
+    </address>
+    <address>
+      <strong>Club Secretary: Mark Toher</strong><br>
+      <abbr title="Phone">P:</abbr> (087) 955 8320<br>
+      <abbr title="Email">E:</abbr> <a href="mailto:marktoherlvac@gmail.com">marktoherlvac@gmail.com</a>
+    </address>
+  </div>
+  <div class="col-md-4">
+    <div id="map"></div>
+  </div>
+</div>
+<script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
+<script>
+  var map = L.map('map').setView([53.346295, -6.309119], 14);
+  L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+    attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors',
+  }).addTo(map);
+  L.marker([53.346295, -6.309119]).addTo(map)
+  .bindPopup('Liffey Valley AC,<br>Sandpitts Cottage')
+  .openPopup();
+</script>
