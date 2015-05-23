@@ -67,8 +67,8 @@ layout: base
     <ul>
       {% for post in site.posts %}
       <li class="news">
-      <a href="/news/{{ post.url }}">{{ post.title }}</a><br>
-      <small>{{ post.date | date("l, F jS, Y") }}</small>
+      <a href="{{ post.url }}">{{ post.title }}</a><br>
+      <small>{{ post.date | date: "%A, %-d %B, %Y" }}</small>
       </li>
       {% endfor %}
     </ul>
