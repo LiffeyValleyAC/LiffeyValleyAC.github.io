@@ -23,7 +23,7 @@ layout: base
 </div>
 <script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
 <script>
-  var map = L.map('map').setView([{{ race.getMap.latitude }}, {{ race.getMap.longitude }}], 14);
+  var map = L.map('map').setView([{{ page.latitude }}, {{ page.longitude }}], 14);
   L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
     attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors',
   }).addTo(map);
