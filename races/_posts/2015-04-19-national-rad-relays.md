@@ -1,6 +1,4 @@
 ---
-layout: race
-category: race
 title: National Road Relays
 latitude: 53.380405
 longitude: -6.175094

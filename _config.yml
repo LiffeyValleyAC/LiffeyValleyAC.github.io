@@ -4,5 +4,20 @@ highlighter: pygments
 exclude:   [ README.md, Gemfile ]
 
 site:
-    title:  Liffey Valley Athletics Club
-    url:    http://new.liffeyvalleyac.com
+  title:  Liffey Valley Athletics Club
+  url:    http://new.liffeyvalleyac.com
+defaults:
+  -
+    scope:
+      path: "_posts"
+      type: "posts"
+    values:
+      layout: "news"
+      category: "news"
+  -
+    scope:
+      path: "races"
+      type: "posts"
+    values:
+      layout: "race"
+      category: "race"
