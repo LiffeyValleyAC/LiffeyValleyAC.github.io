@@ -6,7 +6,7 @@ body {
   background: -o-linear-gradient(#254467, #254478);
   color: #ddd;
 }
-h2, h3 {
+h2, h3, h3 a {
   color: #ffd801;
 }
 #header {
