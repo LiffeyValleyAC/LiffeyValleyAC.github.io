@@ -65,7 +65,7 @@ layout: base
   <div class="col-md-4">
     <h2>News</h2>
     <ul class="news">
-      {% for post in site.posts %}
+      {% for post in site.posts limit:3 %}
       <li class="news">
       <a href="{{ post.url }}">{{ post.title }}</a><br>
       <small>{{ post.date | date: "%A, %-d %B, %Y" }}</small>
