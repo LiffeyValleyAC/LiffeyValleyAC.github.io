@@ -1,6 +1,4 @@
 ---
-layout: news
-category: news
 title: Women's Team Win Leinster Senior Championship Title
 location: Dunboyne, Co. Meath
 ---

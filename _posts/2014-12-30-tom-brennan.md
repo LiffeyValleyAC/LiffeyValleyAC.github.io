@@ -1,6 +1,4 @@
 ---
-layout: news
-category: news
 title: Tom Brennan Memorial 5k New Year's Day Road Race
 location: Phoenix Park
 ---

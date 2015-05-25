@@ -1,6 +1,4 @@
 ---
-layout: news
-category: news
 title: LVAC 2 Mile Road Race
 location: Polo Grounds, Phoenix Park
 ---

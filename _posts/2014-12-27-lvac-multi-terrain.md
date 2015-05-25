@@ -1,6 +1,4 @@
 ---
-layout: news
-category: news
 title: LVAC Multi Terrain
 location: Phoenix Park
 ---

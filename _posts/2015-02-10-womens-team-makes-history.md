@@ -1,6 +1,4 @@
 ---
-layout: news
-category: news
 title: Women's Team makes history winning the National Intermediate Cross Country Team Title
 location: Tuam, Co. Galway
 ---

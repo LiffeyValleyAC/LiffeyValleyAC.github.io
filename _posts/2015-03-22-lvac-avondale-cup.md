@@ -1,6 +1,4 @@
 ---
-layout: news
-category: news
 title: LVAC Avondale Cup
 location: Furze Road, Phoenix Park
 ---
