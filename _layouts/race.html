@@ -15,6 +15,7 @@ layout: base
         <br /><small>{{ page.date | date: "%A, %-d %B, %Y at %I:%M%p" }}</small>
       </h3>
     </div>
+    {% if page.results %}
     <table class="table table-striped">
     {% for result in page.results %}
     <tr>
@@ -25,6 +26,9 @@ layout: base
     </tr>
     {% endfor %}
   </table>
+  {% else %}
+  <p>There are no results yet. Check back again later.</p>
+  {% endif %}
   </div>
   <div class="col-md-4">
     <div id="map"></div>
