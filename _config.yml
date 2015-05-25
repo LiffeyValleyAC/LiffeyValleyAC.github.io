@@ -16,8 +16,11 @@ defaults:
       category: "news"
   -
     scope:
-      path: "races"
-      type: "posts"
+      path: ""
+      type: "races"
     values:
       layout: "race"
       category: "race"
+collections:
+  races:
+    output: true

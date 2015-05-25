@@ -15,7 +15,16 @@ layout: base
         <br /><small>{{ page.date | date: "%A, %-d %B, %Y at %I:%M%p" }}</small>
       </h3>
     </div>
-    {{ content }}
+    <table class="table table-striped">
+    {% for result in page.results %}
+    <tr>
+    <td>{{ result.place }}</td>
+    <td>{{ result.name }}</td>
+    <td>{{ result.finish_time }}</td>
+    <td>{{ result.actual_time }}</td>
+    </tr>
+    {% endfor %}
+  </table>
   </div>
   <div class="col-md-4">
     <div id="map"></div>
