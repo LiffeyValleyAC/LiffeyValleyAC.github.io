@@ -21,8 +21,21 @@ layout: base
     <tr>
     <td>{{ result.place }}</td>
     <td>{{ result.name }}</td>
+    {% if result.team %}
+    <td>{{ result.team }}</td>
+    {% endif %}
+    {% if result.county %}
+    <td>{{ result.county }}</td>
+    {% endif %}
+    {% if result.finish_time %}
     <td>{{ result.finish_time }}</td>
+    {% endif %}
+    {% if result.actual_time %}
     <td>{{ result.actual_time }}</td>
+    {% endif %}
+    {% if result.time %}
+    <td>{{ result.time }}</td>
+    {% endif %}
     </tr>
     {% endfor %}
   </table>
