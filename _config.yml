@@ -2,6 +2,8 @@ safe:      true
 permalink: pretty
 highlighter: pygments
 exclude:   [ README.md, Gemfile ]
+paginate: 10
+paginate_path: "/news/:num"
 
 site:
   title:  Liffey Valley Athletics Club
