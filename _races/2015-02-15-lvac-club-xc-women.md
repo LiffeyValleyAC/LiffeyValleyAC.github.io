@@ -1,7 +1,7 @@
 ---
 title: LVAC Womens Cross Country Championships
 location: Phoenix Park
-date: 2015-02-12
+date: 2015-02-12 11:30
 latitude: 53.3522291
 longitude: -6.3214874
 results:
