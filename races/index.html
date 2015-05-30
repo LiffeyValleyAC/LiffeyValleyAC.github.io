@@ -25,11 +25,16 @@ title: Races
   <div class="col-md-6">
     <h2>Previous Races</h2>
     {% for race in site.races reversed %}
+    {% capture currentyear %}{{race.date | date: "%Y"}}{% endcapture %}
+    {% if currentyear != year %}
+    <h1>{{ currentyear }}</h1>
+    {% capture year %}{{currentyear}}{% endcapture %} 
+    {% endif %}
       {% assign raceDate = race.date | date: '%s' %}
       {% if raceDate < curDate %}
         <h4>
         <a href="{{ race.url }}">{{ race.title }}</a>
-        <small>{{ race.date | date: "%A, %-d %B, %Y at %I:%M%p" }}</small>
+        <br /><small>{{ race.date | date: "%A, %-d %B at %I:%M%p" }}</small>
         </h4>
       {% endif %}
     {% endfor %}
