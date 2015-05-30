@@ -24,7 +24,7 @@ title: Races
   </div>
   <div class="col-md-6">
     <h2>Previous Races</h2>
-    {% for race in site.races %}
+    {% for race in site.races reversed %}
       {% assign raceDate = race.date | date: '%s' %}
       {% if raceDate < curDate %}
         <h4>
