@@ -23,6 +23,15 @@ defaults:
     values:
       layout: "race"
       category: "race"
+  -
+    scope:
+      path: ""
+      type: "albums"
+    values:
+      layout: "gallery"
+      category: "album"
 collections:
   races:
+    output: true
+  albums:
     output: true

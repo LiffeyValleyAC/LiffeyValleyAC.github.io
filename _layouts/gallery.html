@@ -1,0 +1,27 @@
+---
+layout: base
+title: Album
+---
+
+<div class="row">
+  <div class="bar">
+    &nbsp;
+  </div>
+</div>
+<div class="row content">
+  <div class="title">
+    <h3>
+      {{ page.title }}
+      <br /><small>{{ page.date | date: "%A, %-d %B, %Y" }}</small>
+    </h3>
+  </div>
+  <ul class="news">
+    {% for photo in page.photos %}
+    <li class="col-lg-3 col-md-4 col-sm-6 col-xs-12">
+    <a href="{{ photo.original }}">
+      <img src="{{ photo.thumbnail }}" alt="">
+    </a>
+    </li>
+    {% endfor %}
+  </ul>
+</div>
