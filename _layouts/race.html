@@ -15,6 +15,9 @@ layout: base
         <br /><small>{{ page.date | date: "%A, %-d %B, %Y at %I:%M%p" }}</small>
       </h3>
     </div>
+    {% assign curDate = site.time | date: '%s' %}
+      {% assign raceDate = page.date | date: '%s' %}
+      {% if curDate >= raceDate %}
     {% if page.results %}
     <table class="table table-striped">
     {% for result in page.results %}
@@ -41,6 +44,7 @@ layout: base
   </table>
   {% else %}
   <p>There are no results yet. Check back again later.</p>
+  {% endif %}
   {% endif %}
   </div>
   <div class="col-md-4">
