@@ -10,12 +10,13 @@ title: Gallery
 </div>
 <div class="row content">
   <ul class="news">
-    {% for album in site.albums %}
+    {% for album in site.albums reversed %}
     <li class="col-lg-3 col-md-4 col-sm-6 col-xs-12">
     <a href="/albums/{{ album.id }}.html">
       <img src="{{ album.cover }}" alt="{{ album.title }}" class="img-rounded">
       <h4 class="caption">
         {{ album.title }}
+        <br /><small>{{ album.date | date: "%A, %-d %B, %Y" }}</small>
       </h4>
     </a>
     </li>
