@@ -12,12 +12,12 @@ title: Races
   <div class="col-md-6">
     {% assign curDate = site.time | date: '%s' %}
     <h2>Upcoming Races</h2>
-    {% for race in site.races reversed %}
+    {% for race in site.races %}
       {% assign raceDate = race.date | date: '%s' %}
       {% if raceDate >= curDate %}
         <h4>
         <a href="{{ race.url }}">{{ race.title }}</a>
-        <br /><small>{{ race.date | date: "%A, %-d %B, %Y at %I:%M%p" }}</small>
+        <br /><small>{{ race.date | date: "%A, %-d %B, %Y at %H:%M" }}</small>
         </h4>
       {% endif %}
     {% endfor %}
@@ -34,7 +34,7 @@ title: Races
       {% if raceDate < curDate %}
         <h4>
         <a href="{{ race.url }}">{{ race.title }}</a>
-        <br /><small>{{ race.date | date: "%A, %-d %B at %I:%M%p" }}</small>
+        <br /><small>{{ race.date | date: "%A, %-d %B at %H:%M" }}</small>
         </h4>
       {% endif %}
     {% endfor %}
