@@ -1,14 +1,17 @@
-safe: true
 permalink: pretty
 highlighter: pygments
 exclude: [ README.md, Gemfile, scripts/ ]
 paginate: 10
 paginate_path: "/news/:num"
+
 site:
   title: Liffey Valley Athletics Club
   url: http://new.liffeyvalleyac.com
+
 gems:
   - jekyll-redirect-from
+  - jekyll-sitemap
+
 defaults:
   -
     scope:
@@ -31,6 +34,7 @@ defaults:
     values:
       layout: "gallery"
       category: "album"
+
 collections:
   races:
     output: true
