@@ -1,6 +1,8 @@
 ---
 title: Success for Women and Men at Leinster Intermediate XC
 location: Adamstown, Co. Wexford
+redirect_from:
+  - /article/Success-for-Women-and-Men-at-Leinster-Intermediate-XC/235/
 ---
 
 Two weeks after our team’s success at the Leinster Novice and Masters Cross Country Championships our men’s team won gold at the Leinster Intermediate with the women’s taking the silver medals.
