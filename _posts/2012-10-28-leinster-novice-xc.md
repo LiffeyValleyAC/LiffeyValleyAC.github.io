@@ -2,7 +2,7 @@
 title: Leinster Novice XC
 location: Rathdrum, Co. Wicklow
 redirect_from:
-  - /race/leinster-novice-xc/267/
+  - /race/Leinster-Novice-XC/267/
 ---
 
 Distance  4km
