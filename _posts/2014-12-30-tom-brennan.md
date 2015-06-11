@@ -3,7 +3,9 @@ title: Tom Brennan Memorial 5k New Year's Day Road Race
 location: Phoenix Park
 redirect_from:
   - /pages/Tom-Brennan-5k/13/
+  - /home.html/pages/Tom-Brennan-5k/13/
   - /home.html/pages/Tom-Brennan-5k/13/pages/Races/16/
+  - /newyearsrace.html
 ---
 
 The 10th running of Liffey Valley's Athletic Club Annual Tom Brennan Trophy 5km Race will take place in the Phoenix Park on January 1st 2015.

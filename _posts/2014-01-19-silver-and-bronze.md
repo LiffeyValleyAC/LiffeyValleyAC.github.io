@@ -1,6 +1,8 @@
 ---
 title: Silver and Bronze at Leinster Senior XC
 location: Ballyroan, Co. Laois
+redirect_from:
+  - /upload/event/303/SILVER%20FOR%20WOMENS%20TEAM%20AND%20BRONZE%20FOR%20MENS%20SQUAD%20IN%20LEINSTER%20SENIOR%20CROSS%20COUNTRY.doc
 ---
 
 It was a good afternoon for Liffey Valley in the rolling hills of Ballyroan Co. Laois as the women’s team continued their great season taking silver in the team championship with the means squad finishing in the bronze medal position.

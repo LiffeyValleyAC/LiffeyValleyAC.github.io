@@ -1,10 +1,11 @@
 ---
 title: Women's Team makes history winning the National Intermediate Cross Country Team Title
 location: Tuam, Co. Galway
+redirect_from:
+  - /race/National-Inter---Masters-XC/323/
 ---
 
-On the rolling fields of the Palace Sports ground in Tuam on Sunday last Feb 8th.
-Our women’s team became the first Liffey Valley team to win a National Club Cross Country Team Championship.
+On the rolling fields of the Palace Sports ground in Tuam on Sunday last Feb 8th, our women’s team became the first Liffey Valley team to win a National Club Cross Country Team Championship.
 
 In foggy and cold conditions the relatively tight course meant the girls had to complete two 1000mtr. laps followed by two 1500mtr. laps which had some deceptively testing climbs to cover the 5000mtrs.
 
