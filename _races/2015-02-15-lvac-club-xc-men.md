@@ -9,7 +9,7 @@ results:
     name: Peter Arthur
     time: 26m 34s
   - place: 2
-    name: Damien Cauvet
+    name: Damian Cauvet
     time: 27m 12s
   - place: 3
     name: Chris Morgan
@@ -24,10 +24,10 @@ results:
     name: Gavin Curran
     time: 28m 46s
   - place: 7
-    name: Noel 
+    name: Noel Cahill
     time: 30m 23s
   - place: 8
-    name: Gerry Daly
+    name: Gerry Daly (g)
     time: 30m 27s
   - place: 9
     name: Paul Quinn
@@ -36,10 +36,10 @@ results:
     name: Martin Dorgan
     time: 31m 55s
   - place: 11
-    name: Johnny Parker
+    name: John Parker
     time: 32m 22s
   - place: 12
-    name: Stephen 
+    name: Stephen Corri
     time: 34m 44s
   - place: 13
     name: Aonghus Crean
@@ -60,7 +60,7 @@ results:
     name: Stephen Coughlan
     time: 40m 35s
   - place: 19
-    name: Sean O'Brien
+    name: Sean O’Briain
     time: 41m 05s
   - place: 20
     name: Jim Davis
