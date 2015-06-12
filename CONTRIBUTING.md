@@ -4,7 +4,7 @@ Contributing
 ## Adding news posts
 
 1. Go to the [add new post](https://github.com/LiffeyValleyAC/LiffeyValleyAC.github.io/new/master/_posts) page.
-2. Name the file with a date and short title in the following format: 2015-06-12-new-news-post.md
+2. Name the file with a date and short title in the following format: `2015-06-12-new-news-post.md`
 ![screen shot 2015-06-12 at 22 19 09](https://cloud.githubusercontent.com/assets/17725/8140309/682fe088-1152-11e5-9739-f6f6b75b633f.png)
 
 3. Add a title and location.
