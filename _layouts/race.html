@@ -16,11 +16,11 @@ layout: base
       </h3>
     </div>
     {% assign curDate = site.time | date: '%s' %}
-      {% assign raceDate = page.date | date: '%s' %}
-      {% if curDate >= raceDate %}
-    {% if page.results %}
+    {% assign raceDate = page.date | date: '%s' %}
+    {% if curDate >= raceDate %}
+      {% if page.results %}
     <table class="table table-striped">
-    {% for result in page.results %}
+      {% for result in page.results %}
     <tr>
     <td>{{ result.place }}</td>
     <td>{{ result.name }}</td>
@@ -40,15 +40,15 @@ layout: base
     <td>{{ result.time }}</td>
     {% endif %}
     </tr>
-    {% endfor %}
-  </table>
-  {% else %}
-  <p>There are no results yet. Check back again later.</p>
-  {% endif %}
+      {% endfor %}
+    </table>
+      {% else %}
+    <p>There are no results yet. Check back again later.</p>
+    {% endif %}
     {% if page.race2 %}
     <h4>Race 2</h2>
     <table class="table table-striped">
-    {% for result in page.race2 %}
+      {% for result in page.race2 %}
     <tr>
     <td>{{ result.place }}</td>
     <td>{{ result.name }}</td>
@@ -68,9 +68,11 @@ layout: base
     <td>{{ result.time }}</td>
     {% endif %}
     </tr>
-    {% endfor %}
-  </table>
-  {% endif %}
+      {% endfor %}
+    </table>
+    {% endif %}
+  {% else %}
+    {{ content }}
   {% endif %}
   </div>
   <div class="col-md-4">
