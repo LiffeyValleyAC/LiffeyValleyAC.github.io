@@ -1,7 +1,7 @@
 ---
 title: Leinster Senior Cross Country Men
 location: Dunboyne, Co. Meath
-date: 2015-01-19 12m 00s:00
+date: 2015-01-19 12:00
 latitude: 53.415714
 longitude: -6.458190
 results:
