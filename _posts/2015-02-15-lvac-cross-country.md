@@ -3,6 +3,7 @@ title: LVAC Club XC Championships 2015
 location: Phoenix Park
 redirect_from:
   - /race/LVAC-Club-XC-Championships-2015/324/
+  - article/Sile-Carroll-and-Peter-Arthur-win-Club-Cross-Country-Championships/240/
 ---
 
 Peter Arthur and Sile Carroll are the LVAC Club XC Champions for 2015 after club championship races run on a new course around a 2K lap on the Munich/Khyber loop in the park. 
