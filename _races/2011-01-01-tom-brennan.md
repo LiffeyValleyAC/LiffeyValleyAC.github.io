@@ -4,6 +4,8 @@ location: Phoenix Park
 date: 2011-01-01 12:00
 latitude: 53.3522291
 longitude: -6.3214874
+redirect_from:
+  - /upload/event/133/TBM2011.xls
 results:
   - place: 1
     name: Tomas Fitzpatrick
