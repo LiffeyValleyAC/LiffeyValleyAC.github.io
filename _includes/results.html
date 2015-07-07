@@ -8,6 +8,9 @@
     {% if include.results[0].county %}
     <th>County</th>
     {% endif %}
+    {% if include.results[0].category %}
+    <th>Category</th>
+    {% endif %}
     {% if include.results[0].finish_time %}
     <th>Clock Time</th>
     {% endif %}
@@ -33,6 +36,9 @@
     {% endif %}
     {% if result.county %}
     <td>{{ result.county }}</td>
+    {% endif %}
+    {% if result.category %}
+    <td>{{ result.category }}</td>
     {% endif %}
     {% if result.finish_time %}
     <td>{{ result.finish_time }}</td>
