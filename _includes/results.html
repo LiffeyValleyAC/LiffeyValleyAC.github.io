@@ -2,7 +2,7 @@
   <tr>
     <th>Place</th>
     <th>Name</th>
-    {% if include.results[0].team %}
+    {% if include.results[0].club %}
     <th>Club</th>
     {% endif %}
     {% if include.results[0].county %}
@@ -28,8 +28,8 @@
   <tr>
     <td>{{ result.place }}</td>
     <td>{{ result.name }}</td>
-    {% if result.team %}
-    <td>{{ result.team }}</td>
+    {% if result.club %}
+    <td>{{ result.club }}</td>
     {% endif %}
     {% if result.county %}
     <td>{{ result.county }}</td>
