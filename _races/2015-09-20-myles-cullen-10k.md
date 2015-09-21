@@ -3,6 +3,7 @@ title: Myles Cullen 10k
 latitude: 53.348499
 longitude: -6.318000
 date: 2015-09-20 11:30
+results:
   - place: 1
     name: Peter Arthurs
     finish_time: 34m 09s
