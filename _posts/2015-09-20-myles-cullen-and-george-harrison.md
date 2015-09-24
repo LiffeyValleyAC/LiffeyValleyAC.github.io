@@ -21,3 +21,8 @@ Well done to all new members who competed the tough lap and some fine
 performances were evident in both races. Presentations of the club championship
 medals and the memorial trophies took place after the race in Gael Scoil
 Inchicore with members of the Harrison and Cullen family in attendance.
+
+The full results are available at:
+
+- [George Harrison 5k](/races/2015-09-20-george-harrison-5k.html)
+- [Myles Cullen 10k](/races/2015-09-20-myles-cullen-10k.html)
