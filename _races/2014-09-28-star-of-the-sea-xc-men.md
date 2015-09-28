@@ -1,5 +1,5 @@
 ---
-title: Star of the Sea Cross Country
+title: Star of the Sea Men's Cross Country
 location: Stamullen, Co Meath.
 date: 2014-09-28 11:00
 latitude: 53.6214518
