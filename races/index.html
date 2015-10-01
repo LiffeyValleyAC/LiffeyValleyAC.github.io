@@ -27,8 +27,10 @@ redirect_from:
   </div>
   <div class="col-md-6">
     <h2>Previous Races</h2>
+    {% capture thisyear %}{{site.time | date: "%Y"}}{% endcapture %}
     {% for race in site.races reversed %}
     {% capture currentyear %}{{race.date | date: "%Y"}}{% endcapture %}
+    {% if currentyear <= thisyear %}
     {% if currentyear != year %}
     <h1>{{ currentyear }}</h1>
     {% capture year %}{{currentyear}}{% endcapture %} 
@@ -40,6 +42,7 @@ redirect_from:
         <br /><small>{{ race.date | date: "%A, %-d %B at %H:%M" }}</small>
         </h4>
       {% endif %}
+    {% endif %}
     {% endfor %}
   </div>
 </div>
