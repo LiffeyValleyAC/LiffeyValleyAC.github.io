@@ -42,7 +42,7 @@ layout: base
     attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors',
   }).addTo(map);
   L.marker([{{ page.latitude }}, {{ page.longitude }}]).addTo(map)
-  .bindPopup('{{ page.title }}')
+  .bindPopup("{{ page.title }}")
   .openPopup();
 </script>
 
