@@ -16,7 +16,7 @@ results:
   - place: 3
     name: Neil O'Rourke
     club: Civil Service
-    time: 19.0
+    time: 19m 00s
   - place: 4
     name: Michael Kiely
     club: Crusaders
@@ -76,7 +76,7 @@ results:
   - place: 18
     name: Michael O'Connor
     club: Crusaders
-    time: 20.1
+    time: 20m 10s
   - place: 19
     name: Luke Boland
     club: Donore H
@@ -100,7 +100,7 @@ results:
   - place: 24
     name: Jody Gilhooley
     club: Raheny Shamrock
-    time: 20.2
+    time: 20m 20s
   - place: 25
     name: Kieran Gallagher
     club: MSB
@@ -120,7 +120,7 @@ results:
   - place: 29
     name: Rossa Hurley
     club: Donore H
-    time: 20.3
+    time: 20m 30h
   - place: 30
     name: Aaron Browne
     club: Rathfarnham
@@ -160,11 +160,11 @@ results:
   - place: 39
     name: Paul Cummins
     club: Donore H
-    time: 20.5
+    time: 20m 50s
   - place: 40
     name: Diarmuid Meldon
     club: DSD
-    time: 20.5
+    time: 20m 50s
   - place: 41
     name: David Saunders
     club: Sportsworld
@@ -208,7 +208,7 @@ results:
   - place: 51
     name: Derek Saville
     club: Sportsworld
-    time: 21.2
+    time: 21m 20s
   - place: 52
     name: John Parker
     club: Liffey Valley
@@ -296,7 +296,7 @@ results:
   - place: 73
     name: Matt Blythe
     club: Liffey Valley
-    time: 22.2
+    time: 22m 20s
   - place: 74
     name: Seabastien Le Roy
     club: Crusaders
@@ -316,11 +316,11 @@ results:
   - place: 78
     name: Sean McCabe
     club: Tallaght
-    time: 22.5
+    time: 22m 50s
   - place: 79
     name: Declan McGovern
     club: Civil Service
-    time: 22.5
+    time: 22m 50s
   - place: 80
     name: Michael Kenny
     club: MSB
@@ -348,7 +348,7 @@ results:
   - place: 86
     name: Gerard McDonald
     club: Donore H
-    time: 23.2
+    time: 23m 20s
   - place: 87
     name: Paul O'Neill
     club: Civil Service

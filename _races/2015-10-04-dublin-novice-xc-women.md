@@ -16,7 +16,7 @@ results:
   - place: 3
     name: Karla Doran
     club: Donore H
-    time: 15.3
+    time: 15m 30s
   - place: 4
     name: Helen Brouder
     club: Sportsworld
@@ -236,11 +236,11 @@ results:
   - place: 58
     name: Angela Eustace
     club: Donore H
-    time: 18.1
+    time: 18m 10s
   - place: 59
     name: Ciara O'Neill
     club: MSB
-    time: 18.1
+    time: 18m 10s
   - place: 60
     name: Larina Hayes
     club: MSB
