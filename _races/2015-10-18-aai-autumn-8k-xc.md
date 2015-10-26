@@ -1,9 +1,11 @@
 ---
-title: AAI Autumn Cross Country
+title: AAI Autumn 8k Cross Country
 location: Phoenix Park
-date: 2015-10-18 14m 00s
+date: 2015-10-18 14:00
 latitude: 53.3502469
 longitude: -6.3199964
+redirect_from:
+  - /races/2015-10-18-aai-autumn-xc.html
 results:
   - place: 1
     name: Brandon Hargreaves
