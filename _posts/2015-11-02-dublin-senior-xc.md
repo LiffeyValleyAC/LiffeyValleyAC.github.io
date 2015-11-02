@@ -1,6 +1,6 @@
 ---
 title: Womens Team Third in Dublin Senior Cross Country Championships
-location: Tymon North
+location: Tymon North, Dublin 24
 ---
 
 The women’s team finished third in the Dublin Senior Championships over 6k on the rolling hills of Tymon North on Sunday November 1st.
