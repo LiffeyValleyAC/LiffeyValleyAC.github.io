@@ -13,12 +13,12 @@ results:
   - place: 2
     name: Rennicks Darragh
     club: Bohermeen A.C.
-    county: 
+    county: ' '
     time: 26m 52s
   - place: 3
     name: Duffy Conor
     club: Glaslough Harriers A.C.
-    county: 
+    county: ' '
     time: 26m 57s
   - place: 4
     name: Thistlewood Ben
@@ -33,12 +33,12 @@ results:
   - place: 6
     name: Moran Thomas
     club: Dunshaughlin A.C.
-    county: 
+    county: ' '
     time: 27m 16s
   - place: 7
     name: McCormack Niall
     club: Clonmel A.C.
-    county: 
+    county: ' '
     time: 27m 18s
   - place: 8
     name: Harty Michael
@@ -53,7 +53,7 @@ results:
   - place: 10
     name: Lupton Harry
     club: Portlaoise A.C.
-    county: 
+    county: ' '
     time: 27m 42s
   - place: 11
     name: McMahon Michael
@@ -73,7 +73,7 @@ results:
   - place: 14
     name: Maunsell William
     club: Clonmel A.C.
-    county: 
+    county: ' '
     time: 28m 01s
   - place: 15
     name: Shine John
@@ -88,7 +88,7 @@ results:
   - place: 17
     name: Hunter Stephen
     club: St. Michael's AC
-    county: 
+    county: ' '
     time: 28m 15s
   - place: 18
     name: Casey Owen
@@ -113,27 +113,27 @@ results:
   - place: 22
     name: O' Rourke Neil
     club: Civil Service A.C.
-    county: 
+    county: ' '
     time: 28m 41s
   - place: 23
     name: Coghlan Alban
     club: Crusaders A.C.
-    county: 
+    county: ' '
     time: 28m 46s
   - place: 24
     name: O'Neill Shane
     club: Rathfarnham W.S.A.F. A.C.
-    county: 
+    county: ' '
     time: 28m 47s
   - place: 25
     name: Fitzpatrick Cormac
     club: Ballyfin A.C.
-    county: 
+    county: ' '
     time: 28m 50s
   - place: 26
     name: Collins Shane
     club: Crusaders A.C.
-    county: 
+    county: ' '
     time: 29m 06s
   - place: 27
     name: Murran Gareth
@@ -143,7 +143,7 @@ results:
   - place: 28
     name: Kiely Michael
     club: Crusaders A.C.
-    county: 
+    county: ' '
     time: 29m 16s
   - place: 29
     name: Finlay Gavin
@@ -158,7 +158,7 @@ results:
   - place: 31
     name: Majorlet Patrick
     club: Rathfarnham W.S.A.F. A.C.
-    county: 
+    county: ' '
     time: 29m 21s
   - place: 32
     name: Coakley Donal
@@ -168,7 +168,7 @@ results:
   - place: 33
     name: Kehoe Jason
     club: Crusaders A.C.
-    county: 
+    county: ' '
     time: 29m 41s
   - place: 34
     name: Berry Padraig
@@ -178,17 +178,17 @@ results:
   - place: 35
     name: Cross Rob
     club: Crusaders A.C.
-    county: 
+    county: ' '
     time: 29m 45s
   - place: 36
     name: Curran Gavin
     club: Liffey Valley A.C.
-    county: 
+    county: ' '
     time: 29m 50s
   - place: 37
     name: Comber David
     club: Leevale A.C.
-    county: 
+    county: ' '
     time: 29m 58s
   - place: 38
     name: Fox David
@@ -198,17 +198,17 @@ results:
   - place: 39
     name: Croal Derek
     club: Bohermeen A.C.
-    county: 
+    county: ' '
     time: 30m 04s
   - place: 40
     name: Moore Kevin
     club: Dundrum A.C.
-    county: 
+    county: ' '
     time: 30m 06s
   - place: 41
     name: Geoghegan Pierce
     club: Liffey Valley A.C.
-    county: 
+    county: ' '
     time: 30m 07s
   - place: 42
     name: Cronin Mark
@@ -218,42 +218,42 @@ results:
   - place: 43
     name: Magee Paul
     club: Shercock A.C.
-    county: 
+    county: ' '
     time: 30m 18s
   - place: 44
     name: Reilly Michael
     club: Shercock A.C.
-    county: 
+    county: ' '
     time: 30m 22s
   - place: 45
     name: O'Connor Michael
     club: Crusaders A.C.
-    county: 
+    county: ' '
     time: 30m 23s
   - place: 46
     name: Beere Brendan
     club: Liffey Valley A.C.
-    county: 
+    county: ' '
     time: 30m 27s
   - place: 47
     name: O'Briain Emmet
     club: Donore Harriers
-    county: 
+    county: ' '
     time: 30m 28s
   - place: 48
     name: Powell Donagh
     club: Rathfarnham W.S.A.F. A.C.
-    county: 
+    county: ' '
     time: 30m 47s
   - place: 49
     name: O'Callaghan Paul Pio
     club: Donore Harriers
-    county: 
+    county: ' '
     time: 30m 53s
   - place: 50
     name: Benjecar Arnaud
     club: Liffey Valley A.C.
-    county: 
+    county: ' '
     time: 30m 56s
   - place: 51
     name: Reilly Ciaran
@@ -263,22 +263,22 @@ results:
   - place: 52
     name: Curran Kevin
     club: Sportsworld A.C.
-    county: 
+    county: ' '
     time: 31m 09s
   - place: 53
     name: Byrne Raymond
     club: Sligo A.C.
-    county: 
+    county: ' '
     time: 31m 14s
   - place: 54
     name: McCarty Conor
     club: Sportsworld A.C.
-    county: 
+    county: ' '
     time: 31m 16s
   - place: 55
     name: Currid Darragh
     club: North Sligo A.C.
-    county: 
+    county: ' '
     time: 31m 35s
   - place: 56
     name: Cronin John
@@ -288,27 +288,27 @@ results:
   - place: 57
     name: Whelan John
     club: Shercock A.C.
-    county: 
+    county: ' '
     time: 31m 42s
   - place: 58
     name: Corri Stephen
     club: Liffey Valley A.C.
-    county: 
+    county: ' '
     time: 31m 42s
   - place: 59
     name: Mooney Martin
     club: Inishowen A.C.
-    county: 
+    county: ' '
     time: 31m 42s
   - place: 60
     name: Chatterton Karl
     club: Sportsworld A.C.
-    county: 
+    county: ' '
     time: 31m 47s
   - place: 61
     name: Brady James
     club: Sportsworld A.C.
-    county: 
+    county: ' '
     time: 32m 05s
   - place: 62
     name: Feehly Eugene
@@ -318,22 +318,22 @@ results:
   - place: 63
     name: Greensmyth William
     club: Sportsworld A.C.
-    county: 
+    county: ' '
     time: 32m 47s
   - place: 64
     name: Small Mark
     club: Sportsworld A.C.
-    county: 
+    county: ' '
     time: 32m 48s
   - place: 65
     name: O'Dwyer David
     club: East Cork A.C.
-    county: 
+    county: ' '
     time: 32m 48s
   - place: 66
     name: McGuinness Kevin
     club: Shercock A.C.
-    county: 
+    county: ' '
     time: 33m 15s
   - place: 67
     name: Mellgren Emil
@@ -343,22 +343,22 @@ results:
   - place: 68
     name: Geoghegan Stephen
     club: St. Finbarrs A.C.
-    county: 
+    county: ' '
     time: 33m 26s
   - place: 69
     name: Leonard David
     club: St. Finbarrs A.C.
-    county: 
+    county: ' '
     time: 33m 32s
   - place: 70
     name: Butler David
     club: St. Finbarrs A.C.
-    county: 
+    county: ' '
     time: 33m 33s
   - place: 71
     name: Reilly Conor
     club: Liffey Valley A.C.
-    county: 
+    county: ' '
     time: 33m 36s
   - place: 72
     name: Farrell Rory
@@ -373,7 +373,7 @@ results:
   - place: 74
     name: Telford Tim
     club: Sportsworld A.C.
-    county: 
+    county: ' '
     time: 34m 36s
   - place: 75
     name: Dalton Clive

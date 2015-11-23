@@ -8,12 +8,12 @@ results:
   - place: 1
     name: Danielle Fegan
     club: Armagh A.C.
-    county: 
+    county: ' '
     time: 19m 10s
   - place: 2
     name: Mary Ann O'Sullivan
     club: Tinryland A.C.
-    county: 
+    county: ' '
     time: 19m 15s
   - place: 3
     name: Sara Doohan
@@ -33,7 +33,7 @@ results:
   - place: 6
     name: Adrianna Melia
     club: Longford A.C
-    county: 
+    county: ' '
     time: 19m 55s
   - place: 7
     name: Maria McCarthy
@@ -48,12 +48,12 @@ results:
   - place: 9
     name: Sharon Grant
     club: Portlaoise A.C.
-    county: 
+    county: ' '
     time: 20m 08s
   - place: 10
     name: Emma Donlan
     club: Metro/St. Brigid's A.C.
-    county: 
+    county: ' '
     time: 20m 20s
   - place: 11
     name: Ilona McElroy
@@ -73,7 +73,7 @@ results:
   - place: 14
     name: Nicole Kenny
     club: Dundrum South Dublin A.C.
-    county: 
+    county: ' '
     time: 20m 43s
   - place: 15
     name: Sile Carroll
@@ -83,7 +83,7 @@ results:
   - place: 16
     name: Anne Linden
     club: Carrick Aces A.C.
-    county: 
+    county: ' '
     time: 20m 59s
   - place: 17
     name: Aileen Gittens
@@ -108,7 +108,7 @@ results:
   - place: 21
     name: Grace McConnell
     club: Ballyroan Abbeyleix & Dist. A.C.
-    county: 
+    county: ' '
     time: 21m 06s
   - place: 22
     name: Sarah Healy
@@ -128,17 +128,17 @@ results:
   - place: 25
     name: Marie Byrne
     club: Clonliffe Harriers A.C.
-    county: 
+    county: ' '
     time: 21m 44s
   - place: 26
     name: Louise Caraher
     club: Clonliffe Harriers A.C.
-    county: 
+    county: ' '
     time: 21m 48s
   - place: 27
     name: Sinead Peoples
     club: Letterkenny A.C.
-    county: 
+    county: ' '
     time: 21m 49s
   - place: 28
     name: Rachel Wisdom
@@ -158,12 +158,12 @@ results:
   - place: 31
     name: Yvonne MacAuley
     club: Crusaders A.C.
-    county: 
+    county: ' '
     time: 22m 01s
   - place: 32
     name: Lucy Backus
     club: Cranford A.C.
-    county: 
+    county: ' '
     time: 22m 04s
   - place: 33
     name: Aoife Carroll
@@ -183,7 +183,7 @@ results:
   - place: 36
     name: Maura Matthews
     club: Clonliffe Harriers A.C.
-    county: 
+    county: ' '
     time: 22m 29s
   - place: 37
     name: Niamh Clifford
@@ -198,12 +198,12 @@ results:
   - place: 39
     name: Sinead Hartnett
     club: Clonliffe Harriers A.C.
-    county: 
+    county: ' '
     time: 22m 35s
   - place: 40
     name: Rianne McHugh
     club: Sligo A.C.
-    county: 
+    county: ' '
     time: 22m 38s
   - place: 41
     name: Linda Lally
@@ -218,7 +218,7 @@ results:
   - place: 43
     name: Joyce O'Hare
     club: Clonliffe Harriers A.C.
-    county: 
+    county: ' '
     time: 22m 47s
   - place: 44
     name: Deirdre Ni Chearbhaill
@@ -228,7 +228,7 @@ results:
   - place: 45
     name: Claire Madigan
     club: St. John's A.C.
-    county: 
+    county: ' '
     time: 23m 08s
   - place: 46
     name: Jean O'Connor
@@ -243,17 +243,17 @@ results:
   - place: 48
     name: Aisling Andrews
     club: Clonliffe Harriers A.C.
-    county: 
+    county: ' '
     time: 23m 33s
   - place: 49
     name: Tara Rhatigan
     club: Sportsworld A.C.
-    county: 
+    county: ' '
     time: 23m 44s
   - place: 50
     name: Annie Gittens
     club: Liffey Valley A.C.
-    county: 
+    county: ' '
     time: 23m 46s
   - place: 51
     name: Elaine Fleming
@@ -263,12 +263,12 @@ results:
   - place: 52
     name: Kerri Page
     club: Clonliffe Harriers A.C.
-    county: 
+    county: ' '
     time: 24m 43s
   - place: 53
     name: Lauryn Sullivan
     club: Liffey Valley A.C.
-    county: 
+    county: ' '
     time: 25m 06s
   - place: 54
     name: Rebecca McEvoy
