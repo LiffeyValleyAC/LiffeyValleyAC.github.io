@@ -34,6 +34,16 @@ h2, h3, h3 a {
   top: 20px;
   left: 215px;
 }
+.tombrennan {
+  color: #254467;
+  background: #f9ed32;
+  padding-top: 20px;
+  padding-bottom: 30px;
+  text-align: center;
+}
+.tombrennan h2 {
+  color: #254467;
+}
 .facebook {
   padding-right: 15px;
 }
