@@ -1,6 +1,6 @@
 permalink: pretty
 highlighter: pygments
-exclude: [ README.md, CONTRIBUTING.md, Gemfile, scripts/ ]
+exclude: [ README.md, CONTRIBUTING.md, Gemfile, scripts/, vendor/ ]
 paginate: 10
 paginate_path: "/news/:num"
 
