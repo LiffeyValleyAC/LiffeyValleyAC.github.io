@@ -41,8 +41,13 @@ h2, h3, h3 a {
   padding-bottom: 30px;
   text-align: center;
 }
-.tombrennan h2 {
+.tombrennan h2, .tombrennan-banner h2 {
   color: #254467;
+}
+.tombrennan-banner {
+  color: #254467;
+  background: #f9ed32;
+  text-align: center;
 }
 .facebook {
   padding-right: 15px;
