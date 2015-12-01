@@ -22,6 +22,8 @@ layout: base
       {% include results.html results=page.results %}
       {% else %}
     <p>There are no results yet. Check back again later.</p>
+    {% else %}
+    {{ content }}
     {% endif %}
     {% if page.race2 %}
     <h4>Race 2</h2>
