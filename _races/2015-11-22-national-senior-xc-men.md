@@ -4,6 +4,8 @@ location: Santry
 date: 2015-11-22 12:00
 latitude: 53.4013794
 longitude: -6.2477711
+redirect_from:
+  - /races/2015-11-22-national-senior-xc.html
 results:
   - place: 1
     name: Mick Clohisey
