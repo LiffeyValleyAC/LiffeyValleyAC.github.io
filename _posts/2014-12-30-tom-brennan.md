@@ -2,11 +2,6 @@
 title: Tom Brennan Memorial 5k New Year's Day Road Race
 location: Phoenix Park
 redirect_from:
-  - /pages/Tom-Brennan-5k/13/
-  - /home.html/pages/Tom-Brennan-5k/13/
-  - /home.html/pages/Tom-Brennan-5k/13/pages/Races/16/
-  - /newyearsrace.html
-  - /article/Tom-Brennan-Memorial-5k-New-Year
   - archive/TBM20105kmRace.PDF
 ---
 
