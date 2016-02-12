@@ -6,8 +6,15 @@ body {
   background: -o-linear-gradient(#254467, #254478);
   color: #ddd;
 }
-h2, h3, h3 a {
+h2, h3 {
   color: #ffd801;
+}
+a, a:hover {
+  color: #ffd801;
+}
+.pager li > a, .pager li > a:hover {
+  background-color: #ffd801;
+  color: #254467;
 }
 #header {
   height: 250px;
