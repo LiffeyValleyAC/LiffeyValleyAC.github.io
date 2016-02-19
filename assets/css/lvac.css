@@ -187,6 +187,7 @@ ul.news {
 ul.news li {
   list-style:none;
   margin-bottom:25px;
+  height: 230px
 }
 ul.news li img {
   cursor: pointer;
