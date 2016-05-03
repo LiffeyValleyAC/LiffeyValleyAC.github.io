@@ -1,5 +1,5 @@
 ---
-title: LVAC Mens Cross Country Championships
+title: LVAC Womens Cross Country Championships
 location: Phoenix Park
 date: 2016-02-21 11:00
 latitude: 53.3522291
