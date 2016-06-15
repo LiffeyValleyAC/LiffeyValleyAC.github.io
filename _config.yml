@@ -9,6 +9,7 @@ site:
   url: http://new.liffeyvalleyac.com
 
 gems:
+  - jekyll-paginate
   - jekyll-redirect-from
   - jekyll-sitemap
 
