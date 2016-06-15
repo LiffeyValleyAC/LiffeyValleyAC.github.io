@@ -24,5 +24,5 @@ Inchicore with members of the Harrison and Cullen family in attendance.
 
 The full results are available at:
 
-- [George Harrison 5k](/races/2015-09-20-george-harrison-5k.html)
-- [Myles Cullen 10k](/races/2015-09-20-myles-cullen-10k.html)
+- [George Harrison 5k](/races/2015-09-20-george-harrison-5k/)
+- [Myles Cullen 10k](/races/2015-09-20-myles-cullen-10k/)
