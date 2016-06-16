@@ -180,13 +180,15 @@ hr {
 }
 .caption {
 }
-ul.news {
+ul.news, ul.gallery {
   padding:0 0 0 0;
   margin:0 0 0 0;
 }
-ul.news li {
+ul.news li, ul.gallery li {
   list-style:none;
   margin-bottom:25px;
+}
+ul.gallery li {
   height: 230px
 }
 ul.news li img {
