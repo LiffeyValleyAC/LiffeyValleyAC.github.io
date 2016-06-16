@@ -12,4 +12,4 @@ from Ruth Murphy and Joe Cooper filling the other podium spots.  
 
 Well done to all athletes competing
 
-<a href="/races/2016-02-06-lvac-4k-xc.html">Full results here</a>
+<a href="/races/2016-02-06-lvac-4k-xc/">Full results here</a>
