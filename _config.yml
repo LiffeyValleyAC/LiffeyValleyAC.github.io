@@ -1,8 +1,9 @@
 permalink: pretty
 highlighter: rouge
-exclude: [ README.md, CONTRIBUTING.md, Gemfile, Rakefile, scripts/, vendor/ ]
+exclude: [ README.md, CONTRIBUTING.md, LICENSE, Gemfile, Rakefile, scripts/, tests/, vendor/ ]
 paginate: 10
 paginate_path: "/news/:num"
+future: true
 
 site:
   title: Liffey Valley Athletics Club
