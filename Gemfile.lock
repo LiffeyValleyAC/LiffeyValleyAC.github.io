@@ -141,6 +141,7 @@ DEPENDENCIES
   jekyll-paginate
   jekyll-redirect-from
   jekyll-sitemap
+  minitest
   rake
   trollop
 

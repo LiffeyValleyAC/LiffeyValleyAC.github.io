@@ -9,4 +9,5 @@ gem 'jekyll-sitemap'
 group :test do
   gem 'html-proofer'
   gem 'rake'
+  gem "minitest"
 end
