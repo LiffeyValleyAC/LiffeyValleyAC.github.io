@@ -56,6 +56,10 @@ a, a:hover {
   background: #f9ed32;
   text-align: center;
 }
+.tombrennan-banner a {
+  color: #254467;
+  text-decoration: underline;
+}
 .facebook {
   padding-right: 15px;
 }
