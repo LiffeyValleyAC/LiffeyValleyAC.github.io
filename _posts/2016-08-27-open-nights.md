@@ -26,4 +26,4 @@ Contact <a href="mailto:marktoherlvac@gmail.com">marktoherlvac@gmail.com</a> for
 
 Don't put it off -- run faster, get fitter and make new friends!
 
-![open night poster](/assets/images/open-night-poster-r.jpg)
+![open night poster](/assets/images/open-night-poster.jpg)
