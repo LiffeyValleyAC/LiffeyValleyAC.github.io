@@ -15,5 +15,11 @@ module Blog
 
       posts
     end
+
+    def races
+      races = `git diff --name-only --diff-filter=ACMRTUXB origin/master... | grep _races`.split("\n")
+
+      races
+    end
   end
 end
