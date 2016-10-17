@@ -1,4 +1,6 @@
 language: ruby
 rvm:
   - 2.2
-script: "bundle exec rake test"
+script:
+  - "bundle exec rake test"
+  - "bundle exec rake runtest"
