@@ -1,10 +1,9 @@
 ---
-title:Tom Brennan 5km 2017 advance notice
-location:Phoenix Park
+title: Tom Brennan 5km 2017 advance notice
+location: Phoenix Park
 ---
-01.01.2017
+Tome Brennan 5k 2017
 
-TOM BRENNAN 5km
-LIFFEY VALLEY ATHLETICS CLUB
+The Tom Brennan 5km road race run by Liffey Valley Athletics Club will take place on January 1st 2017.
 
-Put the date in your diary now !
+Put the date in your diary now!
