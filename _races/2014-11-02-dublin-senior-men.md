@@ -1,5 +1,5 @@
 ---
-title: Dublin Senior XC
+title: Dublin Senior XC Men
 location: Santry
 date: 2014-11-02 12:00
 latitude: 53.4013794
