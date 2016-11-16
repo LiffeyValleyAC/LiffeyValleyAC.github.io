@@ -38,3 +38,7 @@ Championships being run in the same calendar year.
 In the men’s race Peter Arthur in 5th place led the team home to 4th
 place and also led the Dublin team to victory in the inter county team race. 
 
+The full results are available at:
+
+- [Women's](/races/2016-11-13-leinster-senior-xc-women/)
+- [Men's](/races/2016-11-13-leinster-senior-xc-men/)
