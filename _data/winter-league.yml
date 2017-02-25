@@ -1,0 +1,554 @@
+"2016":
+  results:
+    - place: 1
+      name: 'Brendan Beere'
+      races:
+        - cake-race: 54
+          club-xc: 55
+          four-k: 0
+          avondale-cup: 0
+          two-mile: 0
+          subtotal: 109
+          plus20: 20
+          plus10: 0
+          total: 129
+    - place: 2
+      name: 'Pierce Geoghegan'
+      races:
+        - cake-race: 51
+          club-xc: 54
+          four-k: 0
+          avondale-cup: 0
+          two-mile: 0
+          subtotal: 105
+          plus20: 20
+          plus10: 0
+          total: 125
+    - place: 3
+      name: 'Gaetan Le Page'
+      races:
+        - cake-race: 48
+          club-xc: 51
+          four-k: 0
+          avondale-cup: 0
+          two-mile: 0
+          subtotal: 99
+          plus20: 20
+          plus10: 0
+          total: 119
+    - place: 4
+      name: 'Paul Balfe'
+      races:
+        - cake-race: 52
+          club-xc: 46
+          four-k: 0
+          avondale-cup: 0
+          two-mile: 0
+          subtotal: 98
+          plus20: 20
+          plus10: 0
+          total: 118
+    - place: 5
+      name: 'Matt Blyth'
+      races:
+        - cake-race: 43
+          club-xc: 53
+          four-k: 0
+          avondale-cup: 0
+          two-mile: 0
+          subtotal: 96
+          plus20: 20
+          plus10: 0
+          total: 116
+    - place: 6
+      name: 'Tony Dunne'
+      races:
+        - cake-race: 53
+          club-xc: 40
+          four-k: 0
+          avondale-cup: 0
+          two-mile: 0
+          subtotal: 93
+          plus20: 20
+          plus10: 0
+          total: 113
+    - place: 7
+      name: 'Sile Carroll'
+      races:
+        - cake-race: 60
+          club-xc: 32
+          four-k: 0
+          avondale-cup: 0
+          two-mile: 0
+          subtotal: 92
+          plus20: 20
+          plus10: 0
+          total: 112
+    - place: 8
+      name: 'Eddie McGrath'
+      races:
+        - cake-race: 47
+          club-xc: 45
+          four-k: 0
+          avondale-cup: 0
+          two-mile: 0
+          subtotal: 92
+          plus20: 20
+          plus10: 0
+          total: 112
+    - place: 9
+      name: 'Eimear NicAnBhaird'
+      races:
+        - cake-race: 55
+          club-xc: 36
+          four-k: 0
+          avondale-cup: 0
+          two-mile: 0
+          subtotal: 91
+          plus20: 20
+          plus10: 0
+          total: 111
+    - place: 10
+      name: 'Joe Cooper'
+      races:
+        - cake-race: 39
+          club-xc: 52
+          four-k: 0
+          avondale-cup: 0
+          two-mile: 0
+          subtotal: 91
+          plus20: 20
+          plus10: 0
+          total: 111
+    - place: 11
+      name: 'Peter Arthur'
+      races:
+        - cake-race: 49
+          club-xc: 41
+          four-k: 0
+          avondale-cup: 0
+          two-mile: 0
+          subtotal: 90
+          plus20: 20
+          plus10: 0
+          total: 110
+    - place: 12
+      name: 'Tom O''Connor'
+      races:
+        - cake-race: 40
+          club-xc: 50
+          four-k: 0
+          avondale-cup: 0
+          two-mile: 0
+          subtotal: 90
+          plus20: 20
+          plus10: 0
+          total: 110
+    - place: 13
+      name: 'Mo Dahir'
+      races:
+        - cake-race: 37
+          club-xc: 44
+          four-k: 0
+          avondale-cup: 0
+          two-mile: 0
+          subtotal: 81
+          plus20: 20
+          plus10: 0
+          total: 101
+    - place: 14
+      name: 'Linda Spratt'
+      races:
+        - cake-race: 42
+          club-xc: 36
+          four-k: 0
+          avondale-cup: 0
+          two-mile: 0
+          subtotal: 78
+          plus20: 20
+          plus10: 0
+          total: 98
+    - place: 15
+      name: 'John Tuohy'
+      races:
+        - cake-race: 36
+          club-xc: 37
+          four-k: 0
+          avondale-cup: 0
+          two-mile: 0
+          subtotal: 73
+          plus20: 20
+          plus10: 0
+          total: 93
+    - place: 16
+      name: 'Clare Kavanagh'
+      races:
+        - cake-race: 33
+          club-xc: 39
+          four-k: 0
+          avondale-cup: 0
+          two-mile: 0
+          subtotal: 72
+          plus20: 20
+          plus10: 0
+          total: 92
+    - place: 17
+      name: 'Lauryn Sullivan'
+      races:
+        - cake-race: 28
+          club-xc: 39
+          four-k: 0
+          avondale-cup: 0
+          two-mile: 0
+          subtotal: 67
+          plus20: 20
+          plus10: 0
+          total: 87
+    - place: 18
+      name: 'Tommy Breheny'
+      races:
+        - cake-race: 0
+          club-xc: 60
+          four-k: 0
+          avondale-cup: 0
+          two-mile: 0
+          subtotal: 60
+          plus20: 20
+          plus10: 0
+          total: 80
+    - place: 19
+      name: 'Carmel McNamee'
+      races:
+        - cake-race: 0
+          club-xc: 49
+          four-k: 0
+          avondale-cup: 0
+          two-mile: 0
+          subtotal: 49
+          plus20: 20
+          plus10: 0
+          total: 69
+    - place: 20
+      name: 'Paul Quinn'
+      races:
+        - cake-race: 0
+          club-xc: 48
+          four-k: 0
+          avondale-cup: 0
+          two-mile: 0
+          subtotal: 48
+          plus20: 20
+          plus10: 0
+          total: 68
+    - place: 21
+      name: 'Daniel English'
+      races:
+        - cake-race: 0
+          club-xc: 47
+          four-k: 0
+          avondale-cup: 0
+          two-mile: 0
+          subtotal: 47
+          plus20: 20
+          plus10: 0
+          total: 67
+    - place: 22
+      name: 'Christine Roche'
+      races:
+        - cake-race: 0
+          club-xc: 43
+          four-k: 0
+          avondale-cup: 0
+          two-mile: 0
+          subtotal: 43
+          plus20: 20
+          plus10: 0
+          total: 63
+    - place: 23
+      name: 'Ruth Murphy'
+      races:
+        - cake-race: 0
+          club-xc: 43
+          four-k: 0
+          avondale-cup: 0
+          two-mile: 0
+          subtotal: 43
+          plus20: 20
+          plus10: 0
+          total: 63
+    - place: 24
+      name: 'Maeve Walsh'
+      races:
+        - cake-race: 0
+          club-xc: 36
+          four-k: 0
+          avondale-cup: 0
+          two-mile: 0
+          subtotal: 36
+          plus20: 20
+          plus10: 0
+          total: 56
+    - place: 25
+      name: 'Arnaud Benjacar'
+      races:
+        - cake-race: 0
+          club-xc: 33
+          four-k: 0
+          avondale-cup: 0
+          two-mile: 0
+          subtotal: 33
+          plus20: 20
+          plus10: 0
+          total: 53
+    - place: 26
+      name: 'Ciara Broderick Farrell'
+      races:
+        - cake-race: 0
+          club-xc: 31
+          four-k: 0
+          avondale-cup: 0
+          two-mile: 0
+          subtotal: 31
+          plus20: 20
+          plus10: 0
+          total: 51
+    - place: 27
+      name: 'Annie Gittens'
+      races:
+        - cake-race: 50
+          club-xc: 0
+          four-k: 0
+          avondale-cup: 0
+          two-mile: 0
+          subtotal: 50
+          plus20: 0
+          plus10: 0
+          total: 50
+    - place: 28
+      name: 'Anthony McMahon'
+      races:
+        - cake-race: 0
+          club-xc: 30
+          four-k: 0
+          avondale-cup: 0
+          two-mile: 0
+          subtotal: 30
+          plus20: 20
+          plus10: 0
+          total: 50
+    - place: 29
+      name: 'Eoin O''Rathallaigh'
+      races:
+        - cake-race: 0
+          club-xc: 29
+          four-k: 0
+          avondale-cup: 0
+          two-mile: 0
+          subtotal: 29
+          plus20: 20
+          plus10: 0
+          total: 49
+    - place: 30
+      name: 'Jakob Damco'
+      races:
+        - cake-race: 0
+          club-xc: 28
+          four-k: 0
+          avondale-cup: 0
+          two-mile: 0
+          subtotal: 28
+          plus20: 20
+          plus10: 0
+          total: 48
+    - place: 31
+      name: 'Dave Morley'
+      races:
+        - cake-race: 46
+          club-xc: 0
+          four-k: 0
+          avondale-cup: 0
+          two-mile: 0
+          subtotal: 46
+          plus20: 0
+          plus10: 0
+          total: 46
+    - place: 32
+      name: 'Lena Sinclair'
+      races:
+        - cake-race: 45
+          club-xc: 0
+          four-k: 0
+          avondale-cup: 0
+          two-mile: 0
+          subtotal: 45
+          plus20: 0
+          plus10: 0
+          total: 45
+    - place: 33
+      name: 'Aileen Gittens'
+      races:
+        - cake-race: 44
+          club-xc: 0
+          four-k: 0
+          avondale-cup: 0
+          two-mile: 0
+          subtotal: 44
+          plus20: 0
+          plus10: 0
+          total: 44
+    - place: 34
+      name: 'Ciaran Reilly'
+      races:
+        - cake-race: 41
+          club-xc: 0
+          four-k: 0
+          avondale-cup: 0
+          two-mile: 0
+          subtotal: 41
+          plus20: 0
+          plus10: 0
+          total: 41
+    - place: 35
+      name: 'Sergei Gordienov'
+      races:
+        - cake-race: 38
+          club-xc: 0
+          four-k: 0
+          avondale-cup: 0
+          two-mile: 0
+          subtotal: 38
+          plus20: 0
+          plus10: 0
+          total: 38
+    - place: 36
+      name: 'John Parker'
+      races:
+        - cake-race: 35
+          club-xc: 0
+          four-k: 0
+          avondale-cup: 0
+          two-mile: 0
+          subtotal: 35
+          plus20: 0
+          plus10: 0
+          total: 35
+    - place: 37
+      name: 'Lucia Venturi'
+      races:
+        - cake-race: 34
+          club-xc: 0
+          four-k: 0
+          avondale-cup: 0
+          two-mile: 0
+          subtotal: 34
+          plus20: 0
+          plus10: 0
+          total: 34
+    - place: 38
+      name: 'Paddy Reilly'
+      races:
+        - cake-race: 32
+          club-xc: 0
+          four-k: 0
+          avondale-cup: 0
+          two-mile: 0
+          subtotal: 32
+          plus20: 0
+          plus10: 0
+          total: 32
+    - place: 39
+      name: 'Chris Morgan'
+      races:
+        - cake-race: 31
+          club-xc: 0
+          four-k: 0
+          avondale-cup: 0
+          two-mile: 0
+          subtotal: 31
+          plus20: 0
+          plus10: 0
+          total: 31
+    - place: 40
+      name: 'Martin Dorgan'
+      races:
+        - cake-race: 30
+          club-xc: 0
+          four-k: 0
+          avondale-cup: 0
+          two-mile: 0
+          subtotal: 30
+          plus20: 0
+          plus10: 0
+          total: 30
+    - place: 41
+      name: 'Pat Gibbons'
+      races:
+        - cake-race: 29
+          club-xc: 0
+          four-k: 0
+          avondale-cup: 0
+          two-mile: 0
+          subtotal: 29
+          plus20: 0
+          plus10: 0
+          total: 29
+    - place: 42
+      name: 'Aonghus Crean'
+      races:
+        - cake-race: 27
+          club-xc: 0
+          four-k: 0
+          avondale-cup: 0
+          two-mile: 0
+          subtotal: 27
+          plus20: 0
+          plus10: 0
+          total: 27
+    - place: 43
+      name: 'Paul McDonnell'
+      races:
+        - cake-race: 26
+          club-xc: 0
+          four-k: 0
+          avondale-cup: 0
+          two-mile: 0
+          subtotal: 26
+          plus20: 0
+          plus10: 0
+          total: 26
+    - place: 44
+      name: 'John Cullen'
+      races:
+        - cake-race: 25
+          club-xc: 0
+          four-k: 0
+          avondale-cup: 0
+          two-mile: 0
+          subtotal: 25
+          plus20: 0
+          plus10: 0
+          total: 25
+    - place: 45
+      name: 'Larry Callaghan'
+      races:
+        - cake-race: 24
+          club-xc: 0
+          four-k: 0
+          avondale-cup: 0
+          two-mile: 0
+          subtotal: 24
+          plus20: 0
+          plus10: 0
+          total: 24
+    - place: 46
+      name: 'Stephen Coughlan'
+      races:
+        - cake-race: 23
+          club-xc: 0
+          four-k: 0
+          avondale-cup: 0
+          two-mile: 0
+          subtotal: 23
+          plus20: 0
+          plus10: 0
+          total: 23

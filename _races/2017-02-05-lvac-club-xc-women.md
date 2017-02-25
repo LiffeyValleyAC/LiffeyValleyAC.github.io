@@ -7,32 +7,32 @@ longitude: -6.3214874
 results:
   - place: 1
     name: Síle Carroll
-    time: 14.47
+    time: 14m 47s
   - place: 2
     name: Eimear Nic an Bhaird
-    time: 15.04
+    time: 15m 04s
   - place: 3
     name: Ciara Broderick Farrell
-    time: 17.01
+    time: 17m 01s
   - place: 4
     name: Maeve Walsh
-    time: 17.50
+    time: 17m 50s
   - place: 5
     name: Claire Kavanagh
-    time: 18.02
+    time: 18m 02s
   - place: 6
     name: Lauryn Sullivan
-    time: 18.15
+    time: 18m 15s
   - place: 7
     name: Christine Roche
-    time: 18.45
+    time: 18m 45s
   - place: 8
     name: Linda Spratt
-    time: 19.07
+    time: 19m 07s
   - place: 9
     name: Ruth Murphy
-    time: 19.33
+    time: 19m 33s
   - place: 10
     name: Carmel McNamee
-    time: 20.40
+    time: 20m 40s
 ---

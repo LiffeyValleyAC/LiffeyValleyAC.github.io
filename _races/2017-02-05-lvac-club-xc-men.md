@@ -7,59 +7,59 @@ longitude: -6.3214874
 results:
   - place: 1
     name: Peter Arthur
-    time: 25.33
+    time: 25m 33s
   - place: 2
     name: Pierce Geoghegan
-    time: 27.33
+    time: 27m 33s
   - place: 3
     name: Brendan Beere
-    time: 28.31
+    time: 28m 31s
   - place: 4
     name: Gaetan Le Page
-    time: 28.52
+    time: 28m 52s
   - place: 5
     name: Tom O Connor
-    time: 29.44
+    time: 29m 44s
   - place: 6
     name: Paul Balfe
-    time: 29.51
+    time: 29m 51s
   - place: 7
     name: Matt Blyth
-    time: 29.59
+    time: 29m 59s
   - place: 8
     name: Arnaud Benjacar
-    time: 30.23
+    time: 30m 23s
   - place: 9
     name: Paul Quinn
-    time: 30.32
+    time: 30m 32s
   - place: 10
     name: Mohamed Dohir
-    time: 31.40
+    time: 31m 40s
   - place: 11
     name: Tony Dunne
-    time: 31.57
+    time: 31m 57s
   - place: 12
     name: Eddie McGrath
-    time: 32.27
+    time: 32m 27s
   - place: 13
     name: John Touhy
-    time: 33.06
+    time: 33m 06s
   - place: 14
     name: Anthony McMahon
-    time: 33.20
+    time: 33m 20s
   - place: 15
     name: Tom Breheny
-    time: 33.28
+    time: 33m 28s
   - place: 16
     name: Daniel English
-    time: 35.26
+    time: 35m 26s
   - place: 17
     name: Eoin Ó Rathallaigh
-    time: 36.17
+    time: 36m 17s
   - place: 18
     name: Joe Cooper
-    time: 37.46
+    time: 37m 46s
   - place: 19
     name: Jacob Damco
-    time: 38.59
+    time: 38m 59s
 ---
