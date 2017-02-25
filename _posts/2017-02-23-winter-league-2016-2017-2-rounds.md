@@ -7,4 +7,4 @@ Brendan Beere leads the way in the winter league standings, followed closely by 
 
 ### Standings
 
-- [Winter league standings after 2 rounds](/races/2017-02-23-winter-league-2016-2017-2-rounds/)
+{% include winter-league.html year="2016" %}
