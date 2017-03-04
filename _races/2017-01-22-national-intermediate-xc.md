@@ -4,7 +4,7 @@ location: Palace Grounds, Tuam
 date: 2017-01-22 12:00
 latitude: 53.5190713
 longitude: -8.84935029999997
----
+results:
  - place: '1'
    name: Niall Sheehan
    club: Gowran A.C.
@@ -445,3 +445,4 @@ longitude: -8.84935029999997
    club: Athenry A.C.
    county: ''
    time: '48:59:00'
+---
