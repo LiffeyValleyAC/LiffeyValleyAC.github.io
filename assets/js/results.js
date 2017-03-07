@@ -1,6 +1,5 @@
 $(function(Query) {
-  var query = new Query(),
-  site = location.protocol + "//" + location.host;
+  var query = new Query();
 
   query
     .setFromURL('query')
@@ -14,7 +13,7 @@ $(function(Query) {
       searchIndex = lunr(function() {
         this.field('title');
         this.field('content');
-        this.field('excerpt');
+        this.field('results');
         this.ref('id');
       });
 
@@ -27,12 +26,19 @@ $(function(Query) {
       // search for the query and store the results as an array
       results = searchIndex.search(query.get());
 
+      $('h3').append(' for "' + query.get() + '"');
       // go through the results
       $.each(results, function(i,result) {
-        $results.append(' <h3><a href="' + data[result.ref].url +'">'+ data[result.ref].title +'</a>' +
-        '<br /><small>'+ data[result.ref].date +'</small></h3>' +
-        data[result.ref].excerpt +
-        '<hr>');
+        if(data[result.ref].type == 'news') {
+          $results.append(' <h4><span class="label label-primary">News Item</span> <a href="' + data[result.ref].url +'">'+ data[result.ref].title +'</a>' +
+              '<br /><small>'+ data[result.ref].date +'</small></h4>' +
+              data[result.ref].excerpt +
+              '<hr>');
+        } else if(data[result.ref].type == 'race') {
+          $results.append(' <h4><span class="label label-info">Race Results</span> <a href="' + data[result.ref].url +'">'+ data[result.ref].title +'</a>' +
+              '<br /><small>'+ data[result.ref].date +'</small></h4>' +
+              '<hr>');
+        }
       });
     });    
 }(Query));
