@@ -2,8 +2,8 @@
 title: LVAC Avondale Cup
 location: Phoenix Park
 date: 2017-03-12 11:30
-latitude: 53.3522291
-longitude: -6.3214874
+latitude: 53.36259
+longitude: -6.335077
 results:
   - place: 1
     name: Damien Cauvet
