@@ -1,12 +1,11 @@
 ---
-title: LVAC Avondale Cup Race Report
+title: Damien Cauvet wins Avondale Cup in a new course record
 location: Furze Road, Phoenix Park
 ---
 
-Damien Cauvet wins Avondale Cup in a new course record. Running off virtual
-scratch Damien Cauvet set a new course record of 19m36secs. To win the Avondale
-Cup four mile road race ahead of Paul Quinn and John Tuohy who both ran faster
-than previously on this circuit.
+Running off virtual scratch Damien Cauvet set a new course record of 19m36secs.
+To win the Avondale Cup four mile road race ahead of Paul Quinn and John Tuohy
+who both ran faster than previously on this circuit.
 
 A pleasant spring Sunday morning on the two lap circuit in the Phoenix Park
 provided an opportunity for some good racing. As the handicap unfolded after
