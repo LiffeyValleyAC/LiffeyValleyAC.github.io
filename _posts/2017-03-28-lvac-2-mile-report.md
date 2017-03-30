@@ -32,3 +32,5 @@ Tommy Breheny won the Winter League, helped by his win in the 4k, three
 points ahead Matthew Blyth with Sile Carroll third. A total of 57 competed in
 the league overall which is an indication of the inclusiveness of the competition
 the handicap system providing an opportunity for all to feature.
+
+<a href="/races/2017-03-28-lvac-2-mile/">Full results here</a>
