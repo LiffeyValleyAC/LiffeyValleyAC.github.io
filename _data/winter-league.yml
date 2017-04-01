@@ -144,18 +144,18 @@
           plus20: '20'
           plus10: '0'
           total: '198'
-    - place: 13Linda Spratt
-      name: '42'
+    - place: '13'
+      name: Linda Spratt
       races:
-        - cake-race: '36'
-          club-xc: '37'
-          four-k: '39'
-          avondale-cup: '34'
-          two-mile: '154'
-          subtotal: '20'
-          plus20: '10'
-          plus10: '184'
-          total: 
+        - cake-race: '42'
+          club-xc: '36'
+          four-k: '37'
+          avondale-cup: '39'
+          two-mile: '34'
+          subtotal: '154'
+          plus20: '20'
+          plus10: '10'
+          total: '184'
     - place: '14'
       name: Aileen Gittens
       races:
