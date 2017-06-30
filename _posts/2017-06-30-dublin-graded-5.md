@@ -7,10 +7,10 @@ Last weeks graded meeting at Tallaght saw many fine performances from the athlet
 with Peter Arthur and Damien Cauvet leading the way with a one and two in the Dublin
 3000 Mtrs Championships with training partner Neil O Rourke of Civil Service in third spot.
 
-Peter, Damian and Neil set the pace from the gun with an opening lap of 66 secs which saw
+Peter, Damien and Neil set the pace from the gun with an opening lap of 66 secs which saw
 this trio move away from the field and share the pacemaking before Peter drew away on
-the last lap to take the gold medal with Damian and Neil also finishing strongly. Peter finishing
-time was 8 mins 37.87 secs, Damian 8 mins 42.56 sec and Neil 8 mins 51.39 which is a new Personal
+the last lap to take the gold medal with Damien and Neil also finishing strongly. Peter finishing
+time was 8 mins 37.87 secs, Damien 8 mins 42.56 sec and Neil 8 mins 51.39 which is a new Personal
 Best. Also competing over 3K were Arnaud Benjacar 9 mins 51.02 for 7th in grade while Matt Blyth
 broke new ground with 10 mins 18.35.
 
