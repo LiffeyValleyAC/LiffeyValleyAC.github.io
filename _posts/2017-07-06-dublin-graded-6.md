@@ -20,6 +20,8 @@ Sile Carroll in the A race finish in 6th place in a time of 2mins 21 secs.
 At last Sundays National Masters Championships Arnaud Benjacar struck gold in the M3, 1500 Mtrs
 while Tom O Connor continued his great championships medal haul with 3rd in the M5, 1500 mtrs.
 
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Ffinn.v.ac%2Fvideos%2F1468080579914784%2F&show_text=0&width=560" width="560" height="308" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+
 ### Club 1500 / 3000  Mtrs Club Championships
 
 Thursday next July 13th is the date for the Women's 1500 and the Mens 3000 Mtrs championship
