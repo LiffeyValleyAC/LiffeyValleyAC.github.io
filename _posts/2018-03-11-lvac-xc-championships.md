@@ -13,7 +13,7 @@ in the conditions with Aileen Gittens second in 20m28s and her sister Annie thir
 Orla Gordon and Aoife Brady had their usual battle for the next places and Bridget Reilly ran
 her first ever cross country race in 6th place.
 
-Full results of womens race can be found <a href="/races/2018-03-11-lvac-xc-womens/">here</a>
+Full results of womens race can be found <a href="/races/2018-03-11-lvac-xc-women/">here</a>
 
 Peter Arthur moved ahead in the early stages of the mens race with Bogdan Florean, who is
 experiencing his first Irish cross country season, giving chase ahead of Chris Morgan and
@@ -23,4 +23,4 @@ There were some interesting battles for the next places but up front Peter conti
 way to retain the title in 26m02s ahead of Bogdan in 28m07s with Chris third in 28m58s. There
 were some battles throughout the field with winter league points up for grabs.
 
-Full results of mens race can be found <a href="/races/2018-03-11-lvac-xc-mens/">here</a>
+Full results of mens race can be found <a href="/races/2018-03-11-lvac-xc-men/">here</a>
