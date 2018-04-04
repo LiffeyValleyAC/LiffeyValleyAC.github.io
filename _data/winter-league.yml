@@ -712,6 +712,7 @@
           total: '237'
     - place: '3'
       name: Aoife Brady
+      races:
         - cake-race: '60'
           club-xc: '51'
           four-k: '47'
@@ -723,6 +724,7 @@
           total: '232'
     - place: '4'
       name: Orla Gordon
+      races:
         - cake-race: '54'
           club-xc: '54'
           four-k: '38'
@@ -734,6 +736,7 @@
           total: '217'
     - place: '5'
       name: Matt Blyth
+      races:
         - cake-race: '33'
           club-xc: '47'
           four-k: '39'
@@ -745,6 +748,7 @@
           total: '214'
     - place: '5'
       name: Paul Balfe
+      races:
         - cake-race: '49'
           club-xc: '46'
           four-k: '0'
@@ -755,7 +759,8 @@
           plus10: '0'
           total: '214'
     - place: '7'
-      name:
+      name: Sile Carroll
+      races:
         - cake-race: '50'
           club-xc: '48'
           four-k: '50'
@@ -767,6 +772,7 @@
           total: '200'
     - place: '8'
       name: Joe Cooper
+      races:
         - cake-race: '45'
           club-xc: '43'
           four-k: '35'
@@ -778,6 +784,7 @@
           total: '198'
     - place: '9'
       name: Paul Quinn
+      races:
         - cake-race: '43'
           club-xc: '52'
           four-k: '0'
@@ -789,6 +796,7 @@
           total: '197'
     - place: '9'
       name: Bernard O'Sullivan
+      races:
         - cake-race: '26'
           club-xc: '60'
           four-k: '53'
@@ -800,6 +808,7 @@
           total: '197'
     - place: '11'
       name: Peter Arthur
+      races:
         - cake-race: '40'
           club-xc: '45'
           four-k: '0'
@@ -811,6 +820,7 @@
           total: '194'
     - place: '12'
       name: Eddie McGrath
+      races:
         - cake-race: '44'
           club-xc: '0'
           four-k: '42'
@@ -822,6 +832,7 @@
           total: '187'
     - place: '13'
       name: Chris Morgan
+      races:
         - cake-race: '47'
           club-xc: '41'
           four-k: '37'
@@ -833,6 +844,7 @@
           total: '185'
     - place: '14'
       name: Tommy Breheny
+      races:
         - cake-race: '30'
           club-xc: '40'
           four-k: '43'
@@ -844,6 +856,7 @@
           total: '182'
     - place: '15'
       name: Aileen Gittens
+      races:
         - cake-race: '0'
           club-xc: '51'
           four-k: '0'
@@ -855,6 +868,7 @@
           total: '169'
     - place: '16'
       name: Martin Dorgan
+      races:
         - cake-race: '28'
           club-xc: '0'
           four-k: '36'
@@ -866,6 +880,7 @@
           total: '163'
     - place: '17'
       name: Luke Ryder
+      races:
         - cake-race: '25'
           club-xc: '0'
           four-k: '49'
@@ -877,6 +892,7 @@
           total: '162'
     - place: '18'
       name: Gaetan Le Page
+      races:
         - cake-race: '0'
           club-xc: '44'
           four-k: '44'
@@ -888,6 +904,7 @@
           total: '160'
     - place: '19'
       name: Anthony McMahon
+      races:
         - cake-race: '0'
           club-xc: '0'
           four-k: '60'
@@ -899,6 +916,7 @@
           total: '150'
     - place: '20'
       name: Brigid Reilly
+      races:
         - cake-race: '0'
           club-xc: '51'
           four-k: '0'
@@ -910,6 +928,7 @@
           total: '148'
     - place: '21'
       name: Stephen Coughlan
+      races:
         - cake-race: '22'
           club-xc: '0'
           four-k: '34'
@@ -921,6 +940,7 @@
           total: '146'
     - place: '22'
       name: Jen Preston
+      races:
         - cake-race: '34'
           club-xc: '0'
           four-k: '0'
@@ -932,6 +952,7 @@
           total: '135'
     - place: '23'
       name: Ger Feely
+      races:
         - cake-race: '55'
           club-xc: '0'
           four-k: '0'
@@ -943,6 +964,7 @@
           total: '125'
     - place: '24'
       name: Bogdan Florian
+      races:
         - cake-race: '0'
           club-xc: '42'
           four-k: '0'
@@ -954,6 +976,7 @@
           total: '114'
     - place: '25'
       name: Pierce Geoghegan
+      races:
         - cake-race: '53'
           club-xc: '0'
           four-k: '0'
@@ -965,6 +988,7 @@
           total: '108'
     - place: '26'
       name: Hillary McDonnell
+      races:
         - cake-race: '37'
           club-xc: '0'
           four-k: '0'
@@ -976,6 +1000,7 @@
           total: '97'
     - place: '27'
       name: Brendan Beere
+      races:
         - cake-race: '52'
           club-xc: '0'
           four-k: '41'
@@ -987,6 +1012,7 @@
           total: '93'
     - place: '28'
       name: Tom O'Connor
+      races:
         - cake-race: '32'
           club-xc: '0'
           four-k: '51'
@@ -998,6 +1024,7 @@
           total: '83'
     - place: '28'
       name: Michael Ferreira
+      races:
         - cake-race: '29'
           club-xc: '0'
           four-k: '54'
@@ -1008,7 +1035,8 @@
           plus10: '0'
           total: '83'
     - place: '30'
-      name:
+      name: Linda Spratt
+      races:
         - cake-race: '35'
           club-xc: '0'
           four-k: '0'
@@ -1020,6 +1048,7 @@
           total: '65'
     - place: '31'
       name: Conor Reilly
+      races:
         - cake-race: '31'
           club-xc: '0'
           four-k: '0'
@@ -1031,6 +1060,7 @@
           total: '64'
     - place: '32'
       name: Caroline Murray
+      races:
         - cake-race: '0'
           club-xc: '0'
           four-k: '0'
@@ -1042,6 +1072,7 @@
           total: '54'
     - place: '33'
       name: Paul Griffin
+      races:
         - cake-race: '0'
           club-xc: '0'
           four-k: '52'
@@ -1053,6 +1084,7 @@
           total: '52'
     - place: '34'
       name: Mike McCarthy
+      races:
         - cake-race: '48'
           club-xc: '0'
           four-k: '0'
@@ -1064,6 +1096,7 @@
           total: '48'
     - place: '35'
       name: Martin O'Callaghan
+      races:
         - cake-race: '46'
           club-xc: '0'
           four-k: '0'
@@ -1074,7 +1107,8 @@
           plus10: '0'
           total: '46'
     - place: '35'
-      name:
+      name: Neil O'Rourke
+      races:
         - cake-race: '0'
           club-xc: '0'
           four-k: '46'
@@ -1086,6 +1120,7 @@
           total: '46'
     - place: '35'
       name: Simon Mons
+      races:
         - cake-race: '0'
           club-xc: '0'
           four-k: '0'
@@ -1097,6 +1132,7 @@
           total: '46'
     - place: '38'
       name: Graham Lynch
+      races:
         - cake-race: '0'
           club-xc: '0'
           four-k: '45'
@@ -1108,6 +1144,7 @@
           total: '45'
     - place: '39'
       name: Andy Nason
+      races:
         - cake-race: '0'
           club-xc: '0'
           four-k: '0'
@@ -1119,6 +1156,7 @@
           total: '43'
     - place: '40'
       name: Arnaud Benjacar
+      races:
         - cake-race: '0'
           club-xc: '0'
           four-k: '0'
@@ -1130,6 +1168,7 @@
           total: '42'
     - place: '40'
       name: Pat Gibbons
+      races:
         - cake-race: '42'
           club-xc: '0'
           four-k: '0'
@@ -1141,6 +1180,7 @@
           total: '42'
     - place: '42'
       name: Ciaran Reilly
+      races:
         - cake-race: '41'
           club-xc: '0'
           four-k: '0'
@@ -1152,6 +1192,7 @@
           total: '41'
     - place: '43'
       name: Clare Kavanagh
+      races:
         - cake-race: '0'
           club-xc: '0'
           four-k: '40'
@@ -1163,6 +1204,7 @@
           total: '40'
     - place: '43'
       name: Eimear Nic an Bhaird
+      races:
         - cake-race: '0'
           club-xc: '0'
           four-k: '0'
@@ -1174,6 +1216,7 @@
           total: '40'
     - place: '45'
       name: Aonghus Crean
+      races:
         - cake-race: '39'
           club-xc: '0'
           four-k: '0'
@@ -1185,6 +1228,7 @@
           total: '39'
     - place: '45'
       name: Gavin Ryan
+      races:
         - cake-race: '0'
           club-xc: '0'
           four-k: '0'
@@ -1196,6 +1240,7 @@
           total: '39'
     - place: '47'
       name: Mo Dahir
+      races:
         - cake-race: '38'
           club-xc: '0'
           four-k: '0'
@@ -1207,6 +1252,7 @@
           total: '38'
     - place: '48'
       name: Maeve Walsh
+      races:
         - cake-race: '0'
           club-xc: '0'
           four-k: '0'
@@ -1218,6 +1264,7 @@
           total: '32'
     - place: '49'
       name: Darren Warren
+      races:
         - cake-race: '0'
           club-xc: '0'
           four-k: '0'
@@ -1229,6 +1276,7 @@
           total: '28'
     - place: '50'
       name: Jimmy Davis
+      races:
         - cake-race: '27'
           club-xc: '0'
           four-k: '0'
@@ -1239,18 +1287,20 @@
           plus10: '0'
           total: '27'
     - place: '51'
-       name: Frank Novel
-         - cake-race: '24'
-           club-xc: '0'
-           four-k: '0'
-           avondale-cup: '0'
-           two-mile: '0'
-           subtotal: '24'
-           plus20: '0'
-           plus10: '0'
-           total: '24'
+      name: Frank Novel
+      races:
+        - cake-race: '24'
+          club-xc: '0'
+          four-k: '0'
+          avondale-cup: '0'
+          two-mile: '0'
+          subtotal: '24'
+          plus20: '0'
+          plus10: '0'
+          total: '24'
     - place: '52'
       name: Una Reilly
+      races:
         - cake-race: '23'
           club-xc: '0'
           four-k: '0'
