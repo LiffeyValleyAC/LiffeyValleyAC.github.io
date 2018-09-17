@@ -1,0 +1,27 @@
+backend:
+  name: github
+  repo: LiffeyValleyAC/LiffeyValleyAC.github.io
+  branch: master
+media_folder: "images/uploads"
+collections:
+  - name: "news"
+    label: "News"
+    folder: "_posts"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Location", name: "location", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "races"
+    label: "Races"
+    folder: "_races"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Location", name: "location", widget: "string"}
+      - {label: "Date", name: "date", widget: "datetime"}
+      - {label: "Latitude", name: "latitude", widget: "number"}
+      - {label: "Longitude", name: "longitude", widget: "number"}
+      - {label: "Body", name: "body", widget: "markdown"}
