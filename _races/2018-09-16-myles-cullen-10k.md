@@ -99,7 +99,7 @@ results:
     finish_time: 46m 37s
     handicap: 13m 00s
     actual_time: 33m 37s
-  - place:20 
+  - place: 20 
     name: Tommy Breheny
     finish_time: 47m 14s
     handicap: 11m 00s
