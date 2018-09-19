@@ -2,7 +2,7 @@
 title: Myles Cullen 10k
 latitude: 53.348499
 longitude: -6.318000
-date: 2017-09-17 11:30
+date: 2017-09-16 11:30
 results:
   - place: 1
     name: Peter Arthur
@@ -62,8 +62,8 @@ results:
   - place: 12
     name: Derek Cullen
     finish_time: 41m 06s
-    handicap: 
-    actual_time: 
+    handicap: 0m 00s
+    actual_time: 0m 00s
   - place: 13
     name: Anthony Mcmahon
     finish_time: 41m 20s
