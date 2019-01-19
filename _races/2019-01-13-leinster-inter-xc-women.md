@@ -1,7 +1,7 @@
 ---
-title: Leinster Intermediate Cross Country - Women
+title: Leinster Intermediate Cross Country Women
 location: Gowran, Co Kilkenny
-date: 2019-01-22 13:30
+date: 2019-01-13 13:30
 latitude: 52.619959 
 longitude: -7.064579
 results:
