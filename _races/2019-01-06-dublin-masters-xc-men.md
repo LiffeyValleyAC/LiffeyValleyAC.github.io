@@ -1,7 +1,7 @@
 ---
-title: Dublin Masters Cross Country - Men
+title: Dublin Masters Cross Country Men
 location: St Annes Park, Raheny
-date: 2019-01-15 13:30
+date: 2019-01-06 13:30
 latitude: 53.374814
 longitude: -6.170177
 results:
