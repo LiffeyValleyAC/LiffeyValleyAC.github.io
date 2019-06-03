@@ -1,5 +1,5 @@
 ---
-title: Liffey Valley Marshalling the Women's Mini-Marathon
+title: Marshalling the Women's Mini-Marathon
 location: Dublin, Baggot Street
 ---
 This Sunday just gone Liffey Valley were out in force marshalling the 37th Women's 
@@ -18,23 +18,20 @@ The winning times were:
 | Aoibhe Richardson     | 34m 35s |
 | Catherina Mullen      | 35m 01s |
 | Breege Connolly       | 35m 13s |
-
-
+:
 Visually impaired winner:
-
 
 | Name             | Time    |
 |------------------|--------:|
 |Sinead Kane       | 44m 29s | 
-
+:
 
 Wheelchair category winner:
-
 
 | Name             | Time    |
 |------------------|--------:|
 |Shauna Bocquet    | 31m30s  |
-
+:
 
 See below for the full results:
 https://www.vhiwomensminimarathon.ie/
