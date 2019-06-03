@@ -5,7 +5,7 @@ location: Dublin, Baggot Street
 This Sunday just gone Liffey Valley were out in force marshalling the 37th Women's 
 Mini-Marathon. With over 30000 entrants it is billed by the organisers as the biggest
 event of its kind in the world. Liffey Valley club members were stationed from Sandymount
-Avenue to the finish and so were on-hand to provide help to the crowds and encouragement
+Avenue to the finish and so were on-hand to provide help and encouragement
 to the runners as they neared the end of the hard slog. 
 
 Congratulations to all the runners and we look forwrd to seeing you all making the superb 
