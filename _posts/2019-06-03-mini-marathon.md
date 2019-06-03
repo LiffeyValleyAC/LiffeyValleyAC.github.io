@@ -19,6 +19,7 @@ The winning times were:
 | Catherina Mullen      | 35m 01s |
 | Breege Connolly       | 35m 13s |
 |                       |         |
+
 Visually impaired winner:
 
 | Name             | Time    |
