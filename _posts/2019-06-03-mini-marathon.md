@@ -13,23 +13,28 @@ physical and charitable efforts again next year.
 
 The winning times were:
 
-| Name                | Time    |
-|---------------------|--------:|
-| Aoibhe Richardson   | 34m 35s |
-| Catherina Mullen    | 35m 01s |
-| Breege Connolly     | 35m 13s |
+| Name                  | Time    |
+|-----------------------|--------:|
+| Aoibhe Richardson     | 34m 35s |
+| Catherina Mullen      | 35m 01s |
+| Breege Connolly       | 35m 13s |
+
 
 Visually impaired winner:
+
 
 | Name             | Time    |
 |------------------|--------:|
 |Sinead Kane       | 44m 29s | 
 
+
 Wheelchair category winner:
+
 
 | Name             | Time    |
 |------------------|--------:|
 |Shauna Bocquet    | 31m30s  |
+
 
 See below for the full results:
 https://www.vhiwomensminimarathon.ie/
