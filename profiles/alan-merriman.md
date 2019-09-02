@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: news
 title: 1995 Profile of Alan Merriman
 redirect_from:
   - pages/1995-Profile-of-Alan-Merriman/132/

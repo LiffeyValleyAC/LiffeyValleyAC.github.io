@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: news
 title: Myles Cullen Appreciation
 redirect_from:
   - /pages/Myles-Cullen-Appreciation/67/
