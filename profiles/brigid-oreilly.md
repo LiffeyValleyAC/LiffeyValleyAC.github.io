@@ -1,6 +1,6 @@
 ---
 layout: base
-title: Meet Bridgid O'Reilly
+title: Meet Brigid O'Reilly
 ---
 
 **Name**: Brigid
