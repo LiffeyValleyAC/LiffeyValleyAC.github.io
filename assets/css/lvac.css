@@ -198,3 +198,11 @@ ul.gallery li {
 ul.news li img {
   cursor: pointer;
 }
+dt {
+  padding-bottom: 5px;
+  color: #ffd801;
+}
+dd {
+  margin-left: 10px;
+  padding-bottom: 15px;
+}
