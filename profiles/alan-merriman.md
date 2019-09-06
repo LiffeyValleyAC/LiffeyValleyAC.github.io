@@ -1,6 +1,8 @@
 ---
-layout: news
+layout: profile
 title: 1995 Profile of Alan Merriman
+photo: alan-merriman.jpg
+alt_text: Alan Merriman
 redirect_from:
   - pages/1995-Profile-of-Alan-Merriman/132/
 ---
