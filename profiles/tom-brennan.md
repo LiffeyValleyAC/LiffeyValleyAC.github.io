@@ -1,6 +1,8 @@
 ---
 layout: profile
 title: Tom Brennan Wins National Senior Cross Country Championship
+photo: tom-brennan.jpg
+alt_text: Tom Brennan
 redirect_from:
   - /pages/Tom-Brennan-Wins-National-Senior-Cross-Country-Championship/24/
 ---
