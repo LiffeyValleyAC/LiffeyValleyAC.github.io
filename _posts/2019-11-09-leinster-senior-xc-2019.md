@@ -3,7 +3,7 @@ title: Leinster Senior Cross Country
 location: Ferbane, Co. Offaly
 ---
 
-<img src="/assets/images/leinster-senior-xc-2019.jpg" height=300 width=500 alt="Leinster Senior Cross Country 2019"/>
+![Leinster Senior Cross Country](/assets/images/leinster-senior-xc-2019.jpg)
 
 On Saturday last in Ferbane Co Offaly club member Peter Arthur
 finished in the silver medal position in the Leinster Senior Cross Country
