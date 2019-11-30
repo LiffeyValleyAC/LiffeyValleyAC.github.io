@@ -1,24 +1,21 @@
 ---
-title: Leinster Senior Cross Country
-location: Ferbane, Co. Offaly
+title: National Bronze For Mens Team
+location: Adamstown, Dublin
 ---
 
-![Leinster Senior Cross Country](/assets/images/leinster-senior-xc-2019.jpg){:height="300px" width="500px"}
+At last Sundays National Senior Cross Country Championships
+The club team led by Peter Arthur in 30th place finished in the
+Bronze Medal position in the Grade B section with clubs from all
+over Ireland taking part.
 
-On Saturday last in Ferbane Co Offaly club member Peter Arthur
-finished in the silver medal position in the Leinster Senior Cross Country
-Championships held over four laps of a testing course.
+Peter who was second in the recent Leinster Senior Championships
+Was always in the thirties from a field of 166 of Irelands leading distance
+Runners on very heavy course following the heavy rain of recent times.
 
-Peter has a great record in the championship having won it in 2017 and
-was 3rd last year was in a group of six that were chasing the early leader
-Liam Brady of Tullamore Harriers.
+Peter was backed with excellent runs from Pierce Geoghegan 68th,
+Chris Morgan 122nd, Brendan Beere 128th, Ciaran Reilly 136th, Eoin
+Brennan 141st, Simon Monds 146th, and Rory Geraghty 147th.
 
-This group was whittled down to three with a lap to go when Peter pulled
-clear to come home in the silver medal position and gain another individual
-Leinster championship medal.
-
-Next man home was Pierce Geoghegan in 8th position while Brendan Beere
-25th, Rory Geraghty 33rd and Mathis Sourmaille-Cecille 35th all combined
-to push the team into medals to continue the clubs great record in these
-championships. Pierce Geoghegan also scored on the winning Dublin county
-team.
+Brendan, Eoin, Simon and Rory were making their debuts at this
+Level and the experience gained will be of benefit to them as they
+go forward in the coming months.
