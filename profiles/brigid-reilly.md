@@ -1,6 +1,6 @@
 ---
 layout: profile
-title: Meet Brigid O'Reilly
+title: Meet Brigid Reilly
 ---
 
 <dl>
