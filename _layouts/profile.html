@@ -5,7 +5,7 @@ layout: base
 <div class="row content">
   {% if page.photo %}
   <div class="col-md-4">
-    <img src="/assets/images/{{ page.photo }}" alt="{{ page.alt_text }}">
+    <img src="/assets/images/{{ page.photo }}" alt="{{ page.alt_text }}" height="{{ page.height }}" width="{{ page.width }}">
   </div>
   <div class="col-md-8">
   {% endif %}
