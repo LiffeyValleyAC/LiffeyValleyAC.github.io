@@ -1,8 +1,8 @@
 ---
 layout: profile
-title: Meet Brigid O'Reilly
+title: Meet Brigid Reilly
 photo: brigid_deer.jpg
-alt_text: Brigid O'Reilly
+alt_text: Brigid Reilly
 ---
 
 <dl>

@@ -1,6 +1,8 @@
 ---
 layout: profile
 title: Meet Pierce Geoghegan
+photo: pierce_ireland.png
+alt_text: Pierce, pictured here 3rd from the right, representing Ireland at the British and Irish XC International event in Aintree
 ---
 
 <dl>
