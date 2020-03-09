@@ -5,7 +5,7 @@ location: Avondale House, Co. Wicklow
 
 All Ireland Masters Cross Country Championships saw Liffey Valley athletes to the fore
 and in the medals with Peter Arthur and Pierce Geoghegan finishing in the top three
-places and winning The Gold and Silver medals in the Vi Category and also leading 
+places and winning The Gold and Silver medals in the V1 Category and also leading 
 the club team to silver medals in the team competition. 
 
 From the gun three athletes broke clear with Brian Maher of KCH, Peter and Pierce
