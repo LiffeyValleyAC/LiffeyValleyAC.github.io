@@ -706,10 +706,10 @@ results:
     category: M45
     time: 26m09s
   - place: 141
-    name: Eoin HODGE
-    club: Dublin Front Runners
-    category: M35
-    time: 26m10s
+    name: 
+    club: 
+    category: 
+    time: 
   - place: 142
     name: Diarmuid BYRNE
     club: Crusaders A.C.
