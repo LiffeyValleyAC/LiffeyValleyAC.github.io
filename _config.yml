@@ -9,7 +9,7 @@ site:
   title: Liffey Valley Athletics Club
   url: http://new.liffeyvalleyac.com
 
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-redirect-from
   - jekyll-sitemap
