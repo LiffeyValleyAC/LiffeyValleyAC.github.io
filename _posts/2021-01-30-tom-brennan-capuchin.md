@@ -11,6 +11,6 @@ for the event and we wish to thank everyone who contributed to this very deservi
 We would also like to thank the Dublin City Council 5 Alive Project for their continued support
 to the event.
 
-Full results on Myrun Results <a href="myrunresults.com/events/tom_brennan_new_year's_day_free_virtual_5k/4029/results">website</a>.
+Full results on Myrun Results <a href="https://myrunresults.com/events/tom_brennan_new_year's_day_free_virtual_5k/4029/results">website</a>.
 
 Looking forward to everyone's continuing support on Jan 1st 2022.
