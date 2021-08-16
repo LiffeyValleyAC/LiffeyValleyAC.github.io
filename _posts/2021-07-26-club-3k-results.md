@@ -4,8 +4,20 @@ location: Lucan, Dublin
 ---
 ### Women 1500m
 
-| Position | Name | Time |
-|----------|------|------|
+| Position | Name               | Time    |
+|----------|--------------------|--------:|
+| 1        | Sinead McDonald    | 4:49.9  |
+| 2        | Elle O'Driscoll    | 5:06    |
+| 3        | Aileen Arthur      | 5:09.4  |
+| 4        | Siobhan Nugent     | 5:32.4  |
+| 5        | Bridgid Long       | 5:35.6  |
+| 6        | Orla Gordon        | 5:38.7  |
+| 7        | Aisling McAleen    | 5:39.5  |
+| 8        | Aoife Brady        | 6:08.5  |
+| 9        | April Dunne        | 6:24.1  |
+
+
+
 
 ### Men 3000m
 | Position | Name               | Time   |
