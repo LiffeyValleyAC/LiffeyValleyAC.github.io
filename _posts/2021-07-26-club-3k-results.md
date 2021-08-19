@@ -10,9 +10,9 @@ location: Lucan, Dublin
 | 2        | Elle O'Driscoll    | 5:06.0  |
 | 3        | Aileen Arthur      | 5:09.4  |
 | 4        | Siobhan Nugent     | 5:32.4  |
-| 5        | Bridgid Long       | 5:35.6  |
+| 5        | Brigid Long        | 5:35.6  |
 | 6        | Orla Gordon        | 5:38.7  |
-| 7        | Aisling McAleen    | 5:39.5  |
+| 7        | Aisling McAleer    | 5:39.5  |
 | 8        | Aoife Brady        | 6:08.5  |
 | 9        | April Dunne        | 6:24.1  |
 
