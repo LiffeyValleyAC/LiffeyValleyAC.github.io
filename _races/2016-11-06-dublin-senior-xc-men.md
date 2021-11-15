@@ -206,7 +206,7 @@ results:
     club: Liffey Valley A.C.
     time: 35m 29s
   - place: 51
-    name: Mike Griffen
+    name: Mike Griffin
     club: Liffey Valley A.C.
     time: 35m 44s
   - place: 52
