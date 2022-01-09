@@ -3,13 +3,9 @@ title: Dublin Marathon 2019
 location: Dublin
 ---
 
-The Dublin Marathon on the October Bank holiday weekend saw six club members toe
-the line with both Paul Balfe and Matthew Blyth making their debut over the classic
-distance.
+The Dublin Marathon on the October Bank holiday weekend saw six club members toe the line with both Paul Balfe and Matthew Blyth making their debut over the classic distance.
 
-Simon Monds was the lead club man from the gun and the all the miles including the
-specific club marathon sessions saw Simon record a new Personal best crossing the
-line in 2 Hrs 45 mins 10secs an improvement of 8 minutes on his previous best.
+Simon Monds was the lead club man from the gun and the all the miles including the specific club marathon sessions saw Simon record a new Personal best crossing the line in 2 Hrs 45 mins 10secs an improvement of 8 minutes on his previous best.
 
 FULL RESULTS BELOW
 
