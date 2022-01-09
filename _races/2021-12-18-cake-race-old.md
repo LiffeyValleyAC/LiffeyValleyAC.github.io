@@ -1,7 +1,7 @@
 ---
 title: LVAC Cake Race
 location: Dog Pond, Phoenix Park
-date: 2021-12-18 11:30
+date: 2019-12-14 11:30
 latitude: 53.3515897
 longitude: -6.3090013
 results:
