@@ -4,6 +4,10 @@ Do you want to add some news? Read [CONTRIBUTING.md](https://github.com/LiffeyVa
 
 ### Local Development
 
+You should have the following version of `ruby` and `gem` installed.
+- ruby `>2.50` (working on windows with `2.6.8)
+- gem (working on windows with `3.0.3.1`) 
+
 To run the site locally, for testing, you can install the required libraries with:
 
 ```
