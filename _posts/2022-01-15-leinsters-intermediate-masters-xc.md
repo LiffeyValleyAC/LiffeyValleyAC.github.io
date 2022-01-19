@@ -21,7 +21,7 @@ Men's Team M50 2nd 🥈
 
 There was great support around the course for our Athletes from our Coaches and fellow club members. Thanks to Tom for putting up the tent and ensuring our athletes had somewhere sheltered to get ready.
 
-Before each race, everyone paused to remember <a href="https://liffeyvalleyac.com/news/2022/01/14/condolences-ashling-murphy/">Ashling Murphy </a> who tragically lost her life this week, while her local club Tullamore Harriers wore black ribbons on their singlets as their mark of respect. 
+Before each race, everyone paused to remember <a href="https://liffeyvalleyac.com/news/2022/01/14/condolences-ashling-murphy/">Ashling Murphy</a> who tragically lost her life this week, while her local club Tullamore Harriers wore black ribbons on their singlets as their mark of respect. 
 
 <a href="https://www.myrunresults.com/events/athletics_leinster_master_and_inter_xc_2022/4305/results" target="_blank" rel="noopener noreferrer">Full results at myrunresults</a>
 
