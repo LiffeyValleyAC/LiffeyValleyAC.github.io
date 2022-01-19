@@ -3,13 +3,13 @@ title: Leinster Intermediate and Masters Cross Country Championships
 location: Dunboyne, Co. Meath
 ---
 
-It was a fantastic day of racing for Liffey Valley at the <a href="https://www.instagram.com/athleticsleinster/" target="_blank" rel="noopener noreferrer">Athletics Leinster</a>Intermediate and Masters XC Championships in Dunboyne.
+It was a fantastic day of racing for Liffey Valley at the <a href="https://www.instagram.com/athleticsleinster/" target="_blank" rel="noopener noreferrer">Athletics Leinster</a> Intermediate and Masters XC Championships in Dunboyne.
 
 Our Intermediate Women had a strong race to win bronze🥉in the Team race, led home by Sinead McDonald (10th), with Mollie O'Donnell (23rd), Jen Preston (27th) and Siobhan Nugent (32nd) the scoring four, with Rachel Murphy (33rd) just missing out.
 
 Our intermediate men's team fought hard and finished 6th in a competitive race. 
 
-Geoffrey Alexandre ran one of his strongest races to finish 25th and win a silver medal as part of the Dublin County Team.
+Geoffrey Alexandre ran one of his strongest races to finish 25th and win a silver medal as part of the Dublin County Team.🥈
 
 There were plenty of medals for our Masters Men
 
