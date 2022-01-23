@@ -5,7 +5,6 @@ redirect_from:
   - /pages/PhotoGallery/8/
   - /home.html/gallery/gallery/
 custom_js:
-  - bootstrap
   - bootstrap-image-gallery.min
 ---
 
@@ -19,13 +18,15 @@ custom_js:
   <ul class="gallery">
     {% for album in site.albums reversed %}
     <li class="col-lg-3 col-md-4 col-sm-6 col-xs-12">
-    <a href="{{ album.url }}">
-      <img src="{{ album.cover }}" alt="{{ album.title }}" class="img-rounded">
-      <h4 class="caption">
-        {{ album.title }}
-        <br /><small>{{ album.date | date: "%A, %-d %B, %Y" }}</small>
-      </h4>
-    </a>
+      <a href="{{ album.url }}" class="link-gallery">
+        <img src="{{ album.cover }}" alt="{{ album.title }}" class="img-rounded">
+        <h4 class="caption">
+            {{ album.title }}
+        </h4>
+      </a>
+      <p>
+        <small class="text-muted">{{ album.date | date: "%A, %-d %B, %Y" }}</small>
+      </p>
     </li>
     {% endfor %}
   </ul>
