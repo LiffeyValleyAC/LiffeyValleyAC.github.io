@@ -252,3 +252,8 @@ dd {
   /* color: #FFFFFF; */
   text-decoration: none;
 }
+
+.img-section{
+  margin-right: -24px;
+  margin-left: -22px;
+}

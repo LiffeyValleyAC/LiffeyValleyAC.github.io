@@ -5,7 +5,7 @@ redirect_from:
   - /pages/Training/11/
 ---
 
-<div class="row">
+<div class="row img-section">
   <img src="/assets/images/track.jpg" alt="The track at ALSAA" class="img-responsive center-block">
 </div>
 <div class="row">
@@ -37,15 +37,15 @@ redirect_from:
     Thursday evenings 7pm ALSAA track near Dublin Airport
   </div>
   <div class="col-md-4">
-    <h3>Our coaches</h3>
-    <ul class="nav nav-stacked">
-      <li><a href="#jimdavis">Jim Davis</a>
-      <li><a href="#nickdavis">Nick Davis</a>
-    </ul>
     <div id="map"></div>
   </div>
 </div>
 <div class="row content">
+  <h3>Our coaches</h3>
+    <!-- <ul class="nav nav-stacked">
+      <li><a href="#jimdavis">Jim Davis</a>
+      <li><a href="#nickdavis">Nick Davis</a>
+    </ul> -->
   <a name="jimdavis"></a>
   <div class="col-md-4">
     <img src="/assets/images/jim.jpg" alt="Jim Davis">
@@ -81,7 +81,7 @@ redirect_from:
     Athletics Ireland.
   </div>
 </div>
-    <script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.3/leaflet.js"></script>
 <script>
   var map = L.map('map').setView([53.346295, -6.309119], 14);
   L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
