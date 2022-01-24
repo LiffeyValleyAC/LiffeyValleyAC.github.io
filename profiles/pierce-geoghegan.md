@@ -41,7 +41,7 @@ I love coming down to the club too. It’s like a family. All sorts of people jo
 
 <dt>What is your proudest running achievement?</dt>
 <dd>My proudest running achievement was to represent Ireland at the British and Irish Masters XC this year (2019). It’s something I never even dreamed could happen. It felt like a validation of all the support that Jim and Liffey Valley have given me over the years (their commitment to helping me has been second to none). It was really nice to have my wife Eadaoin and my daughter Roisin there – it’s a whole family effort to make time for running (but it’s worth it!).</dd>
-</dl>
+
 
 <dt>What advice would you give to someone thinking about joining?</dt>
 <dd>Definitely, definitely join. Running with a club will help you improve and achieve what you want out of running regardless of your ability or experience (we have a very wide range of both at the club). Liffey Valley is a really friendly club and you’ll be well looked after. It’s incredibly reasonably priced, mostly because it is fuelled by volunteers who do it because of enthusiasm for and love of running – you’ll get literally world class coaching essentially for free. Especially if you want to run faster, running with others with a coach using a structured training program is the only way. Do it!!!</dd>

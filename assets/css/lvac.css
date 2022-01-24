@@ -24,7 +24,7 @@ a, a:hover {
   position: relative;
 }
 #header h1 {
-  padding: 150px 0 0 220px;
+  padding: 150px 0 0 190px;
   font-size: 350%;
   font-weight: bold;
   margin: 0;
@@ -69,9 +69,21 @@ a, a:hover {
 .navbar {
   background-color: #254467;
   border-color: #254467;
-  margin-bottom: -10px;
+  /*margin-bottom: -10px;*/
 }
-.navbar-default .nav-pills > li > a {
+
+.navbar .navbar-collapse .navbar-nav .nav-item .nav-link {
+  color: #f9ed32;
+  border-radius: 0;
+}
+
+.navbar .navbar-collapse .navbar-nav .nav-item .nav-link:hover {
+  background-color: #369;
+  color: #fea;
+  text-decoration: underline;
+}
+
+/* .navbar-default .nav-pills > li > a {
   color: #f9ed32;
   border-radius: 0;
 }
@@ -79,7 +91,7 @@ a, a:hover {
   background-color: #369;
   color: #fea;
   text-decoration: underline;
-}
+} */
 .bar {
   height: 12px;
   width: 100%;
@@ -173,6 +185,9 @@ hr {
 #footer p {
   margin: 0;
 }
+.table {
+  color: white;
+}
 .table > thead > tr > th,
 .table > tbody > tr > th,
 .table > tfoot > tr > th,
@@ -185,8 +200,8 @@ hr {
 .table-striped > tbody > tr:nth-child(odd) > th {
   background-color: #333;
 }
-.caption {
-}
+/* .caption {
+} */
 ul.news, ul.gallery {
   padding:0 0 0 0;
   margin:0 0 0 0;
@@ -196,7 +211,8 @@ ul.news li, ul.gallery li {
   margin-bottom:25px;
 }
 ul.gallery li {
-  height: 230px
+  height: 230px;
+  float: left;
 }
 ul.news li img {
   cursor: pointer;
@@ -208,4 +224,31 @@ dt {
 dd {
   margin-left: 10px;
   padding-bottom: 15px;
+}
+
+#carouselExampleIndicators {
+  padding-right: 0;
+  padding-left: 0;
+}
+
+.social-media-orga {
+  padding: 0 0 0 85%;
+}
+.social-media-orga-row {
+  float: right;
+}
+
+.logo-social-media{
+  float: right;
+}
+
+.image-col img {
+  display: block;
+  height: auto;
+  max-width: 100%;
+}
+
+.link-gallery > p > small{
+  /* color: #FFFFFF; */
+  text-decoration: none;
 }
