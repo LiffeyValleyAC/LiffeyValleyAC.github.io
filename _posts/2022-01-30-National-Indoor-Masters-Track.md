@@ -1,5 +1,5 @@
 ---
-title: Irish Life Health National Masters Indoor Championships
+title: National Gold for Tom O'Connor at the National Masters Indoor Championships
 location: TUS International Arena, Athlone, Co. Westmeath
 ---
 
