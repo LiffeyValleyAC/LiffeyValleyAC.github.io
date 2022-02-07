@@ -258,7 +258,12 @@ dd {
   margin-left: -22px;
 }
 
-.carousel-inner > .carousel-item > img {
-  width:100%;
-  height: 850px;
+/* .carousel-inner > .carousel-item > img {
+  width: 100%;
+  height: 350px;;
+} */
+
+.img-fluid {
+  width: 100%;
+  height: 775px;
 }
