@@ -265,5 +265,6 @@ dd {
 
 .img-fluid {
   width: 100%;
-  height: 825px;
+  height: auto; 
+  max-height: 715px;
 }
