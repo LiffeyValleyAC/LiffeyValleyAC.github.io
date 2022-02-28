@@ -1,5 +1,5 @@
 ---
-title: Adare 10k 2022 
+title: Gold for Tom O'Connor at the Adare 10k 2022 
 location: Adare, Co. Limerick.
 ---
 
