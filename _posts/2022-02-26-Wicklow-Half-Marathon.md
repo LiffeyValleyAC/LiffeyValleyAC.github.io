@@ -1,5 +1,5 @@
 ---
-title: Wicklow Hospice Half Marathon 
+title: Bronze for Geoffrey Alexandre at Wicklow Hospice Half Marathon 
 location: Wicklow Gaol, Wicklow.
 ---
 
