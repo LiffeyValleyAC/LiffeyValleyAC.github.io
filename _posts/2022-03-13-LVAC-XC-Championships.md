@@ -1,5 +1,5 @@
 ---
-title: Sinead & Geoffrey are the 2022 Cross Country Champions
+title: LVAC 2022 Cross Country 5k & 10k Championships
 location: Dog Pond Lap, Phoenix Park.
 ---
 
