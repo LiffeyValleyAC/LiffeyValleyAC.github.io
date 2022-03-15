@@ -11,7 +11,9 @@ The women's race was also a great race with many women racing cross country for 
 
 Well done to all athletes and a big thank you to all the officials who made the race possible. 
 
-<a href="/races/2022-03-13-lvac-xc/" target="_blank" rel="noopener noreferrer">Race Results</a>
+<a href="/races/2022-03-13-lvac-club-xc-women/" target="_blank" rel="noopener noreferrer">Women Results</a>
+
+<a href="/races/2022-03-13-lvac-club-xc-men/" target="_blank" rel="noopener noreferrer">Mens Results</a>
 
 <a href="https://www.instagram.com/p/CbC36LOsZUM/" target="_blank" rel="noopener noreferrer">Photos on Instagram</a>
  
