@@ -1,5 +1,5 @@
 ---
-title: LVAC 2022 Cross Country 5k & 10k Championships
+title: LVAC 2022 Cross Country Championships
 location: Dog Pond Lap, Phoenix Park.
 ---
 
