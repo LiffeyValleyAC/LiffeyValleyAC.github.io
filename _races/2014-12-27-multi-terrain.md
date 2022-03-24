@@ -1,7 +1,7 @@
 ---
 title: LVAC Multi Terrain
 location: Phoenix Park
-date: 2014-12-27
+date: 2014-12-27 12:00
 latitude: 53.3522291
 longitude: -6.3214874
 results:
