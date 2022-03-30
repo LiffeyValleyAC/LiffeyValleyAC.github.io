@@ -11,7 +11,7 @@ Well done to all the athletes who competed in the 4th race of our Winter League.
 
 Well done to all athletes and a big thank you to all the officials for organising a great race.
 
-<a href="/races/2022-03-27-avondale-cup/" target="_blank" rel="noopener noreferrer">Avondale Cup Results</a>
+<a href="/races/2022-03-27-lvac-avondale-cup/" target="_blank" rel="noopener noreferrer">Avondale Cup Results</a>
 
 <a href="hhttps://www.instagram.com/p/Cbmx1rQMRB5/" target="_blank" rel="noopener noreferrer">Photos on Instagram</a>
  
