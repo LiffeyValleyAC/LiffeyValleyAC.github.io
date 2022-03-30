@@ -7,12 +7,12 @@ longitude: -6.335077
 results:
   - Provisional Rank: 1
     name: David Carroll
-    Cake Race: 26m 22s
-    5k Cross Country: 8m 45s
-    XC Championships: 17m 37s
-    Avondale Cup: 17m 37s
-    2 Mile Road Race: 
-    Bonus for competing in all races: 
-    Total: 
+    Cake Race: 50pts
+    5k Cross Country: 50pts
+    XC Championships: 50pts
+    Avondale Cup: 50pts
+    2 Mile Road Race: 10pts
+    Bonus for competing in all races: 10pts
+    Total: 100pts
 
 ---
