@@ -9,11 +9,9 @@ Congratulations to David Carroll the 2022 winner of the Avondale Cup and to meda
 
 Well done to all the athletes who competed in the 4th race of our Winter League.
 
-Thank you to our officials for organising a great race.
+Well done to all athletes and a big thank you to all the officials for organising a great race.
 
-Well done to all athletes and a big thank you to all the officials who made the race possible. 
-
-<a href="/races/2022-03-27-avondale-cup/" target="_blank" rel="noopener noreferrer">Avondale Results</a>
+<a href="/races/2022-03-27-avondale-cup/" target="_blank" rel="noopener noreferrer">Avondale Cup Results</a>
 
 <a href="hhttps://www.instagram.com/p/Cbmx1rQMRB5/" target="_blank" rel="noopener noreferrer">Photos on Instagram</a>
  
