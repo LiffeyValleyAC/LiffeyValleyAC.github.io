@@ -185,23 +185,6 @@ hr {
 #footer p {
   margin: 0;
 }
-.table {
-  color: white;
-}
-.table > thead > tr > th,
-.table > tbody > tr > th,
-.table > tfoot > tr > th,
-.table > thead > tr > td,
-.table > tbody > tr > td,
-.table > tfoot > tr > td {
-  border-top: 1px solid #333;
-}
-.table-striped > tbody > tr:nth-child(odd) > td,
-.table-striped > tbody > tr:nth-child(odd) > th {
-  background-color: #333;
-}
-/* .caption {
-} */
 ul.news, ul.gallery {
   padding:0 0 0 0;
   margin:0 0 0 0;
