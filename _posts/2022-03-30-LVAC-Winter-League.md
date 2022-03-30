@@ -5,11 +5,11 @@ title: LVAC 2022 Winter League 2021/22
 <head>
 <style>
 table, th, td {
-  border: 1px solid black;
+  border: 2px solid black;
   border-collapse: collapse;
 }
 th, td {
-  padding: 15px;
+  padding: 5px;
 }
 </style>
 </head>
