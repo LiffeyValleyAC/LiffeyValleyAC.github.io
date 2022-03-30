@@ -5,11 +5,11 @@ title: LVAC 2022 Winter League 2021/22
 <head>
 <style>
 table, th, td {
-  border: 2px solid black;
+  border: 1px solid black;
   border-collapse: collapse;
 }
 th, td {
-  padding: 5px;
+  padding: 2px;
 }
 </style>
 </head>
@@ -64,7 +64,7 @@ th, td {
   </tr>
   <tr>
     <td>4</td>
-    <td>Brigit Long</td>
+    <td>Brigid Long</td>
     <td>28</td>
     <td>26</td>
     <td>50</td>
@@ -95,5 +95,50 @@ th, td {
     <td> </td>
     <td>142</td>
   </tr>
+  <tr>
+    <td>7</td>
+    <td>Orla Gordon</td>
+    <td>24</td>
+    <td>25</td>
+    <td>50</td>
+    <td>32</td>
+    <td> </td>
+    <td>10</td>
+    <td>141</td>
+  </tr>
+  <tr>
+    <td>8</td>
+    <td>Aoife Brady</td>
+    <td>25</td>
+    <td>23</td>
+    <td>50</td>
+    <td>27</td>
+    <td> </td>
+    <td>10</td>
+    <td>135</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>Mary Ellen Ryan</td>
+    <td>50</td>
+    <td>29</td>
+    <td>50</td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td>129</td>
+  </tr>
+    <tr>
+    <td>10</td>
+    <td>John Touhy</td>
+    <td>33</td>
+    <td>45</td>
+    <td>50</td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td>128</td>
+  </tr>
+
 </table>
 
