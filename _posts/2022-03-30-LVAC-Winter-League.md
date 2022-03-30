@@ -18,15 +18,15 @@ th, td {
 
 <table style="width:100%">
   <tr>
-    <th>Rank</th>
-    <th>Athlete</th>
-    <th>Cake Race</th>
-    <th>5k XC</th>
-    <th>XC Champs</th>
+    <th>Rank        </th>
+    <th>Athlete     </th>
+    <th>Cake Race   </th>
+    <th>5k XC       </th>
+    <th>XC Champs   </th>
     <th>Avondale Cup</th>
-    <th>2 Mile Road</th>
+    <th>2 Mile Road </th>
     <th>5 Race Bonus</th>
-    <th>Total</th>
+    <th>Total       </th>
     
   </tr>
   <tr>
