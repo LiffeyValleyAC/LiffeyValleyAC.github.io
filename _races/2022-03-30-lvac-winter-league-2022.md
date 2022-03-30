@@ -5,7 +5,7 @@ date: 2022-03-27 12:00
 latitude: 53.36259
 longitude: -6.335077
 results:
-  - Provisional Rank: 1
+  - Provisional Rank: 2
     name: David Carroll
     Cake Race: 50pts
     5k Cross Country: 50pts
