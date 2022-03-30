@@ -1,7 +1,15 @@
 ---
 title: LVAC 2022 Winter League 2021/22
 ---
-
+<html>
+<head>
+<style>
+table, th, td {
+  border: 1px solid black;
+}
+</style>
+</head>
+<body>
 
 
 <table style="width:100%">
