@@ -2,7 +2,9 @@
 title: LVAC 2022 Winter League 2021/22
 ---
 
-<table>
+
+
+<table style="width:100%">
   <tr>
     <th>Rank</th>
     <th>Athlete</th>
