@@ -49,47 +49,47 @@ table, th, td {
   </tr>
   <tr>
     <td>3</td>
-    <td>Joe Cooper</td>
-    <td>45</td>
+    <td>Siobhán Nugent</td>
+    <td>29</td>
     <td>44</td>
     <td>50</td>
-    <td>36</td>
+    <td>30</td>
     <td> </td>
     <td>10</td>
-    <td>168</td>
+    <td>163</td>
   </tr>
   <tr>
     <td>4</td>
-    <td>Joe Cooper</td>
-    <td>45</td>
-    <td>44</td>
+    <td>Brigit Long</td>
+    <td>28</td>
+    <td>26</td>
     <td>50</td>
-    <td>36</td>
+    <td>45</td>
     <td> </td>
     <td>10</td>
-    <td>168</td>
+    <td>159</td>
   </tr>
   <tr>
     <td>5</td>
     <td>Tom O'Connor</td>
-    <td>45</td>
-    <td>44</td>
+    <td>32</td>
+    <td>30</td>
     <td>50</td>
-    <td>36</td>
+    <td>34</td>
     <td> </td>
     <td>10</td>
-    <td>168</td>
+    <td>156</td>
   </tr>
   <tr>
     <td>6</td>
     <td>Sean O'Meallaigh</td>
-    <td>45</td>
-    <td>44</td>
-    <td>50</td>
-    <td>36</td>
     <td> </td>
-    <td>10</td>
-    <td>168</td>
+    <td>50</td>
+    <td>50</td>
+    <td>42</td>
+    <td> </td>
+    <td> </td>
+    <td>142</td>
   </tr>
 </table>
 
