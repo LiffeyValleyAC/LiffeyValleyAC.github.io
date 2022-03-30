@@ -1,13 +1,12 @@
 ---
-title: LVAC 2022 Avondale Cup
-location: George Harrison 5k Lap, Phoenix Park.
+title: LVAC 2022 Winter League 2021/22
 ---
 
 <table>
   <tr>
-    <th>Company</th>
-    <th>Contact</th>
-    <th>Country</th>
+    <th>Provisional Rank</th>
+    <th>Athlete</th>
+    <th>Cake Race</th>
   </tr>
   <tr>
     <td>Alfreds Futterkiste</td>
