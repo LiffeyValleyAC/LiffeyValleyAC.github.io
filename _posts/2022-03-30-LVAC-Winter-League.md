@@ -19,7 +19,7 @@ th, td {
 <table style="width:100%">
   <tr>
     <th>Rank        </th>
-    <th>Athlete     </th>
+    <th style="width:20%">Athlete</th>
     <th>Cake Race   </th>
     <th>5k XC       </th>
     <th>XC Champs   </th>
