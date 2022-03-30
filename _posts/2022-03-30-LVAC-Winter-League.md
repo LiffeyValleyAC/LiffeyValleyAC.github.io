@@ -9,11 +9,12 @@ table, th, td {
   border-collapse: collapse;
 }
 th, td {
-  padding: 2px;
+  padding: 2px;text-align: center
 }
 </style>
 </head>
 <body>
+
 
 
 <table style="width:100%">
