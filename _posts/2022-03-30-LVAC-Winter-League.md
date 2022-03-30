@@ -9,7 +9,7 @@ table, th, td {
   border-collapse: collapse;
 }
 th, td {
-  padding: 1px;text-align: center
+      text-align: center
 }
 </style>
 </head>
