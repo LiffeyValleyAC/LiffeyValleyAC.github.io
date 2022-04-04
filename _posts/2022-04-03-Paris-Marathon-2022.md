@@ -9,7 +9,7 @@ Missing from picture is one of our newest members Nadia Oussarghin who travelled
 
 Congratulations to all our athletes on a great weekend of racing. 
 
-<a href="https://resultscui.active.com/events/SchneiderElectricMarathondeParis2022" target="_blank" rel="noopener noreferrer">Schneider Electric Marathon de Paris 2022 Results</a>
+<a href="/races/2022-04-03-paris-marathon-2022/">Schneider Electric Marathon de Paris 2022 Results</a>
 
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSdNvD2pVPg6tw2roTlAXyqTUtYi8r-SUd7vHim3Bi6fNfuFwQ/viewform?usp=sf_link" target="_blank" rel="noopener noreferrer">Photos on Instagram</a>
+<a href="https://www.instagram.com/p/Cb5zBS0sUqY/" target="_blank" rel="noopener noreferrer">Photos on Instagram</a>
  
