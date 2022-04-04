@@ -114,7 +114,7 @@ custom_js:
   <div class="col-md-4">
     <h2>News</h2>
     <ul class="news">
-      {% for post in site.categories.news limit:6 %}
+      {% for post in site.categories.news limit:8 %}
       <li class="news">
       <a href="{{ post.url }}">{{ post.title }}</a><br>
       <small>{{ post.date | date: "%A, %-d %B, %Y" }}</small>
