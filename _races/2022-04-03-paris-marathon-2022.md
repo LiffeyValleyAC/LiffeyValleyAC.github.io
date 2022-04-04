@@ -5,31 +5,31 @@ date: 2022-04-03 09:00
 latitude: 48.8566
 longitude: 2.3522
 results:
-  - Overall: 673
+  - place: 673
     name: Tadhg Prendiville
     finish_time: 2hrs 51m 12s
-  - Overall: 1322
+  - place: 1322
     name: David van Buren
     finish_time: 2hrs 58m 13s
-  - Overall: 1506
+  - place: 1506
     name: Geoffrey Alexandre
     finish_time: 2hrs 59m 18s
-  - Overall: 1624
+  - place: 1624
     name: Ben O'Connor
     finish_time: 2hrs 59m 55s
-  - Overall: 1741
+  - place: 1741
     name: Keith Lunders
     finish_time: 3hrs 00m 52s
-  - Overall: 2598
+  - place: 2598
     name: Kevin McDonnell
     finish_time: 3hrs 09m 28s
-  - Overall: 4037
+  - place: 4037
     name: Declan Connor
     finish_time: 3hrs 17m 56s
-  - Overall: 4328
+  - place: 4328
   name: Philip Williams
     finish_time: 3hrs 19m 35s
-  - Overall: 34293
-  name: Nadia Oussarghin
+  - place: 34293
+    name: Nadia Oussarghin
     finish_time: 6hrs 31m 25s
 ---
