@@ -5,11 +5,14 @@ date: 2022-04-03 09:00
 latitude: 48.8566
 longitude: 2.3522
 results:
-  - name: Tadhg Prendiville
+  - Overall: 673
+    name: Tadhg Prendiville
     finish_time: 2hrs 51m 12s
-  - name: David van Buren
+  - Overall: 1322
+    name: David van Buren
     finish_time: 2hrs 58m 13s
-  - name: Geoffrey Alexandre
+  - Overall: 1506
+    name: Geoffrey Alexandre
     finish_time: 2hrs 59m 18s
   - name: Ben O'Connor
     finish_time: 2hrs 59m 55s
