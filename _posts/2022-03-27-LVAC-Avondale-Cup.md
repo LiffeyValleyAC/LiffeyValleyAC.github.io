@@ -5,7 +5,7 @@ location: George Harrison 5k Lap, Phoenix Park.
 
 It was a fantastic day for the Avondale Cup in the Phoenix Park. 
 
-Congratulations to David Carroll the 2022 winner of the Avondale Cup and to medalists Brigit Long and Jen Preston. 
+Congratulations to David Carroll the 2022 winner of the Avondale Cup and to medalists Brigid Long and Jen Preston. 
 
 Well done to all the athletes who competed in the 4th race of our Winter League.
 
