@@ -13,5 +13,5 @@ Well done to all athletes and a big thank you to all the officials for organisin
 
 <a href="/races/2022-03-27-lvac-avondale-cup/" target="_blank" rel="noopener noreferrer">Avondale Cup Results</a>
 
-<a href="hhttps://www.instagram.com/p/Cbmx1rQMRB5/" target="_blank" rel="noopener noreferrer">Photos on Instagram</a>
+<a href="https://www.instagram.com/p/Cbmx1rQMRB5/" target="_blank" rel="noopener noreferrer">Photos on Instagram</a>
  
