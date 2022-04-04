@@ -14,16 +14,22 @@ results:
   - Overall: 1506
     name: Geoffrey Alexandre
     finish_time: 2hrs 59m 18s
-  - name: Ben O'Connor
+  - Overall: 1624
+    name: Ben O'Connor
     finish_time: 2hrs 59m 55s
-  - name: Keith Lunders
+  - Overall: 1741
+    name: Keith Lunders
     finish_time: 3hrs 00m 52s
-  - name: Kevin McDonnell
+  - Overall: 2598
+    name: Kevin McDonnell
     finish_time: 3hrs 09m 28s
-  - name: Declan Connor
+  - Overall: 4037
+    name: Declan Connor
     finish_time: 3hrs 17m 56s
-  - name: Philip Williams
+  - Overall: 4328
+  name: Philip Williams
     finish_time: 3hrs 19m 35s
-  - name: Nadia Oussarghin
+  - Overall: 34293
+  name: Nadia Oussarghin
     finish_time: 6hrs 31m 25s
 ---
