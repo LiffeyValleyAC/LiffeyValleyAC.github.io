@@ -1,5 +1,5 @@
 ---
-title: LVAC 2022 Winter League 2021/22
+title: LVAC 2022 Final Winter League 2021/22 - Top 10
 ---
 <html>
 <head>
@@ -17,7 +17,7 @@ th, td {
 
 <table style="width:100%">
   <tr>
-    <th style="width:10%">Rank        </th>
+    <th style="width:10%">Rank</th>
     <th style="width:20%">Athlete</th>
     <th style="width:10%">Cake Race   </th>
     <th style="width:10%">5k XC       </th>
@@ -25,12 +25,11 @@ th, td {
     <th style="width:10%">Avondale Cup</th>
     <th style="width:10%">2 Mile Road </th>
     <th style="width:10%">5 Race Bonus</th>
-    <th style="width:10%">Total       </th>
-    
+    <th style="width:10%">Total</th>
   </tr>
   <tr>
     <td>1</td>
-    <td>Joe Cooper/td>
+    <td>Joe Cooper</td>
     <td>45</td>
     <td>27</td>
     <td>50</td>
@@ -41,7 +40,7 @@ th, td {
   </tr>
   <tr>
     <td>2</td>
-    <td>Sinead McDonald<</td>
+    <td>Sinead McDonald</td>
     <td>40</td>
     <td>36</td>
     <td>50</td>
