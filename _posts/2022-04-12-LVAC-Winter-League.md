@@ -1,6 +1,14 @@
 ---
-title: LVAC 2022 Final Winter League 2021/22 - Top 10
+title: The LVAC 2022 Winter League 2021/22 Champion is Joe Cooper
 ---
+The results are in and it is official. <b>Joe Cooper</b> is the winner of our Winter League. Joe is a long time member of the club and we are all delighted to see him take home the trophy.
+
+Congratulations to <b>Sinéad McDonald</b> and <b>John Touhy</b> who finished second and third respectively.
+
+Well done to all 53 athletes who competed in at least one of our league races this year. 
+
+As always thank you to our coaches and officials who made it all possible. The Top 10 places are listed below, with the full table to follow shortly.
+
 <html>
 <head>
 <style>
@@ -137,9 +145,7 @@ th, td {
     <td>-</td>
     <td>142</td>
   </tr>
-
 </table>
 
-<a href="/LVAC%20Final%20Winter%20League%202021-22.pdf/" target="_blank" rel="noopener noreferrer">LVAC Winter League 2021-22 Table</a>
 
 
