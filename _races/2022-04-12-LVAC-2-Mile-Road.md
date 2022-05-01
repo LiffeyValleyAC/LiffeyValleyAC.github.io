@@ -1,0 +1,103 @@
+---
+title: LVAC 2 Mile Road Race
+location: Phoenix Park
+date: 2022-04-12 19:30
+latitude: 53.3522291
+longitude: -6.3214874
+results:
+  - place: 1
+    name: Joe Cooper
+    finish_time: 16m 26s
+    handicap: 1m 15s
+    actual_time: 15m 11s
+  - place: 2
+    name: Paul Balfe
+    finish_time: 16m 34s
+    handicap: 5m 30s
+    actual_time: 11m 04s
+  - place: 3
+    name: Stephen Coughlan
+    finish_time: 16m 43s
+    handicap: 1m 00s
+    actual_time: 15m 43s
+  - place: 4
+    name: John Touhy
+    finish_time: 16m 46s
+    handicap: 5m 00s
+    actual_time: 11m 46s
+  - place: 5
+    name: Phil Williams
+    finish_time: 16m 52s
+    handicap: 5m 00s
+    actual_time: 11m 52s
+  - place: 6
+    name: David Van Buren
+    finish_time: 16m 53s
+    handicap: 6m 15s
+    actual_time: 10m 38s
+  - place: 7
+    name: Sergie Dolgy
+    finish_time: 16m 55s
+    handicap: 6m 30s
+    actual_time: 10m 25s
+  - place: 8
+    name: Mark Naylor
+    finish_time: 16m 57s
+    handicap: 6m 00s
+    actual_time: 10m 57s
+  - place: 9
+    name: Lea Fulcher
+    finish_time: 17m 01s
+    handicap: 7m 00s
+    actual_time: 10m 01s
+  - place: 10
+    name: Kevin McDonald
+    finish_time: 17m 05s
+    handicap: 5m 30s
+    actual_time: 11m 35s
+  - place: 11
+    name: Hilary McDonnell
+    finish_time: 17m 12s
+    handicap: 1m 15s
+    actual_time: 15m 57s
+  - place: 12
+    name: Ciara Broderick Farrell
+    finish_time: 17m 16s
+    handicap: 4m 45s
+    actual_time: 12m 31s
+  - place: 13
+    name: Ben O'Connor
+    finish_time: 17m 21s
+    handicap: 6m 00s
+    actual_time: 11m 21s
+  - place: 14
+    name: Arnaud Benjacar
+    finish_time: 17m 25s
+    handicap: 6m 45s
+    actual_time: 10m 40s
+  - place: 15
+    name: Una Reilly
+    finish_time: 17m 37s
+    handicap: 2m 15s
+    actual_time: 15m 22s
+  - place: 16
+    name: Paddy Reilly
+    finish_time: 17m 40s
+    handicap: 2m 30s
+    actual_time: 15m 10s
+  - place: 17
+    name: Sinead McDonald
+    finish_time: 17m 41s
+    handicap: 6m 30s
+    actual_time: 11m 11s
+  - place: 18
+    name: Elle O'Driscoll
+    finish_time: 17m 46s
+    handicap: 6m 15s
+    actual_time: 11m 31s
+  - place: 19
+    name: Jim Davis
+    finish_time: 17m 51s
+    handicap: 0m 00s
+    actual_time: 17m 51s 
+---
