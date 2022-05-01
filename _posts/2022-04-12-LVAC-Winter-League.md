@@ -9,6 +9,8 @@ Well done to all 53 athletes who competed in at least one of our league races th
 
 As always thank you to our coaches and officials who made it all possible. The Top 10 places are listed below, with the full table to follow shortly.
 
+<a href="https://www.instagram.com/p/CcSLJ1OMr7z/" target="_blank" rel="noopener noreferrer">Photos on Instagram</a>
+
 <html>
 <head>
 <style>
