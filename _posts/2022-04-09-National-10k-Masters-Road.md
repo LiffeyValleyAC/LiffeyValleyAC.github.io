@@ -15,7 +15,7 @@ Lea Fulcher, Rachel Murphy and Brigid Reilly also put in strong performances on 
 
 Well done to all! Great to see so many Liffey Valley AC athletes competing at a national championship.
 
-<a href="hhttps://www.athleticsireland.ie/downloads/events/National_10K_Road_Race_Men_Team_Results.pdf" target="_blank" rel="noopener noreferrer">Mens Teams Race Results</a>
+<a href="https://www.athleticsireland.ie/downloads/events/National_10K_Road_Race_Men_Team_Results.pdf" target="_blank" rel="noopener noreferrer">Mens Teams Race Results</a>
 
 <a href="https://www.instagram.com/p/CcIx0XQMtyB/" target="_blank" rel="noopener noreferrer">Instagram</a>
  
