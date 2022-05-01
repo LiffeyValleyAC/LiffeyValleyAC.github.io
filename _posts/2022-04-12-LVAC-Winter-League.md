@@ -30,113 +30,113 @@ th, td {
   </tr>
   <tr>
     <td>1</td>
-    <td>Sinead McDonald</td>
+    <td>Joe Cooper/td>
+    <td>45</td>
+    <td>27</td>
+    <td>50</td>
+    <td>36</td>
+    <td>50</td>
+    <td>10</td>
+    <td>191</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Sinead McDonald<</td>
     <td>40</td>
     <td>36</td>
     <td>50</td>
     <td>40</td>
-    <td> </td>
+    <td>30</td>
     <td>10</td>
     <td>176</td>
   </tr>
   <tr>
-    <td>2</td>
-    <td>Joe Cooper</td>
+    <td>3</td>
+    <td>John Touhy</td>
+    <td>33</td>
     <td>45</td>
-    <td>44</td>
     <td>50</td>
-    <td>36</td>
-    <td> </td>
-    <td>10</td>
-    <td>168</td>
+    <td>-</td>
+    <td>43</td>
+    <td>-</td>
+    <td>171</td>
   </tr>
   <tr>
-    <td>3</td>
+    <td>4</td>
+    <td>Sergei Dolgy</td>
+    <td>37</td>
+    <td>-</td>
+    <td>50</td>
+    <td>37</td>
+    <td>40</td>
+    <td>-</td>
+    <td>164</td>
+  </tr>
+  <tr>
+    <td>5</td>
     <td>Siobhán Nugent</td>
     <td>29</td>
     <td>44</td>
     <td>50</td>
     <td>30</td>
-    <td> </td>
+    <td>27</td>
     <td>10</td>
     <td>163</td>
   </tr>
   <tr>
-    <td>4</td>
+    <td>6</td>
     <td>Brigid Long</td>
-    <td>28</td>
-    <td>26</td>
+    <td>29</td>
+    <td>44</td>
     <td>50</td>
     <td>45</td>
-    <td> </td>
+    <td>26</td>
     <td>10</td>
     <td>159</td>
   </tr>
   <tr>
-    <td>5</td>
+    <td>7</td>
+    <td>Arnaud Benjacar</td>
+    <td>39</td>
+    <td>37</td>
+    <td>-</td>
+    <td>43</td>
+    <td>33</td>
+    <td>-</td>
+    <td>152</td>
+  </tr>
+  <tr>
+    <td>8</td>
     <td>Tom O'Connor</td>
     <td>32</td>
     <td>30</td>
     <td>50</td>
     <td>34</td>
-    <td> </td>
-    <td>10</td>
-    <td>156</td>
-  </tr>
-  <tr>
-    <td>6</td>
-    <td>Sean O'Meallaigh</td>
-    <td> </td>
-    <td>50</td>
-    <td>50</td>
-    <td>42</td>
-    <td> </td>
-    <td> </td>
-    <td>142</td>
-  </tr>
-  <tr>
-    <td>7</td>
-    <td>Orla Gordon</td>
-    <td>24</td>
-    <td>25</td>
-    <td>50</td>
-    <td>32</td>
-    <td> </td>
-    <td>10</td>
-    <td>141</td>
-  </tr>
-  <tr>
-    <td>8</td>
-    <td>Aoife Brady</td>
-    <td>25</td>
-    <td>23</td>
-    <td>50</td>
-    <td>27</td>
-    <td> </td>
-    <td>10</td>
-    <td>135</td>
+    <td>-</td>
+    <td>-</td>
+    <td>146</td>
   </tr>
   <tr>
     <td>9</td>
-    <td>Mary Ellen Ryan</td>
+    <td>Stephanie Hawkins</td>
+    <td>-</td>
+    <td>42</td>
     <td>50</td>
-    <td>29</td>
-    <td>50</td>
-    <td> </td>
-    <td> </td>
-    <td> </td>
-    <td>129</td>
+    <td>31</td>
+    <td>20</td>
+    <td>-</td>
+    <td>143</td>
   </tr>
     <tr>
     <td>10</td>
-    <td>John Touhy</td>
-    <td>33</td>
-    <td>45</td>
+    <td>Sean O'Malley</td>
+    <td>-</td>
     <td>50</td>
-    <td> </td>
-    <td> </td>
-    <td> </td>
-    <td>128</td>
+    <td>50</td>
+    <td>42</td>
+    <td>-</td>
+    <td>-</td>
+    <td>142</td>
   </tr>
 
 </table>
