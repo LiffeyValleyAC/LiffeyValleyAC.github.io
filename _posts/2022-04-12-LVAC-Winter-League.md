@@ -7,7 +7,7 @@ Congratulations to <b>Sinéad McDonald</b> and <b>John Touhy</b> who finished se
 
 Well done to all 53 athletes who competed in at least one of our league races this year. 
 
-As always thank you to our coaches and officials who made it all possible. The Top 10 places are listed below, with the full table <a href="https://liffeyvalleyac.com/assets/results/winter-league-2021-2022/LVAC-Final-Winter-League-2021-22.pdf/" target="_blank" rel="noopener noreferrer">here:</a>
+As always thank you to our coaches and officials who made it all possible. The Top 10 places are listed below, with the full table <a href="https://liffeyvalleyac.com/assets/results/winter-league-2021-2022/LVAC-Final-Winter-League-2021-22.pdf" target="_blank" rel="noopener noreferrer">here:</a>
 
 <a href="https://www.instagram.com/p/CcSLJ1OMr7z/" target="_blank" rel="noopener noreferrer">Photos on Instagram</a>
 
