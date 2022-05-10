@@ -7,5 +7,3 @@ Well done to <b>Lea</b> who took won the 5k race in Kells, just 2 days after win
 
 <a href="https://www.myrunresults.com/events/royal__county_5k__10k/4327/results" target="_blank" rel="noopener noreferrer">Race Results</a>
 
-<a href="https://www.instagram.com/lea.fulcher_plantbased_runner/" target="_blank" rel="noopener noreferrer">Instagram</a>
- 
