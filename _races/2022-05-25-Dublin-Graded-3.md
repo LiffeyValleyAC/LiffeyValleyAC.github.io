@@ -43,10 +43,10 @@ results:
     category: 800m Men Grade C1
   - place: 2
     name: David Carroll
-    time: 2.15.3 
+    time: 2.15.30
     category: 800m Men Grade D2
   - place: 2
     name: Declan Connor
-    time: 2.39.4
+    time: 2.39.40
     category: 800m Men Grade D2
 ---

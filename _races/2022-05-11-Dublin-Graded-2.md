@@ -15,7 +15,7 @@ results:
     category: 1500m Women Grade C1
   - place: 3
     name: Jen Preston
-    time: 5m 08.71s
+    time: 5.08.71
     category: 1500m Women Grade C1
   - place: 8
     name: Ciara Broderick Farrell
