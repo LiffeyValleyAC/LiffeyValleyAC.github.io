@@ -7,10 +7,10 @@ longitude: -6.3214874
 results:
   - place: 2
     name: Sile Muldowney
-    official_time: 2m 36.81s
-    event: 800m Women Grade C2
+    time: 2m36s
+    category: 800m Women Grade C2
   - place: 4
     name: Siobhán Nugent
-    official_time: 2m 42.97s
-    event: 800m Women Grade C2
+    time: 2m42s
+    category: 800m Women Grade C2
 ---
