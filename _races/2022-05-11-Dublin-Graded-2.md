@@ -5,26 +5,26 @@ date: 2022-05-11 19:30
 latitude: 53.3522291
 longitude: -6.3214874
 results:
-  - place: 2
-    name: Síle Muldowney
-    time: 2m 36.81s
-    category: 800m Women Grade C2
-  - place: 4
+  - place: 11
     name: Siobhán Nugent
-    time: 2m 42.97s
-    category: 800m Women Grade C2
-  - place: 5
-    name: Stephanie Hawkins
-    time: 2m 50.17s
-    category: 800m Women Grade C2
-  - place: 6
-    name: Brigid Reilly
-    time: 2m 51.92s
-    category: 800m Women Grade C2
+    time: 5.33.53
+    category: 1500m Women Grade ABC1
+  - place: 2
+    name: Elle O'Driscoll
+    time: 5.06.31
+    category: 1500m Women Grade C1
+  - place: 3
+    name: Jen Preston
+    time: 5m 08.71s
+    category: 1500m Women Grade C1
   - place: 8
-    name: Orla Gordon
-    time: 2m 58.02s 
-    category: 800m Women Grade C2
+    name: Ciara Broderick Farrell
+    time: 5.24.64
+    category: 1500m Women Grade C1
+  - place: 13
+    name: Síle Muldowney
+    time: 5.51.28 
+    category: 1500m Women Grade C1
   - place: 1
     name: Sergei Dolgy
     time: 2m 11.84s
