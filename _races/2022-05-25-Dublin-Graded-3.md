@@ -7,8 +7,8 @@ longitude: -6.3214874
 results:
   - place: --2
     name: Sile Muldowney
-    finish_time: 2m 36s 
+    finish_time: 2m 36.81s 
   - place: --673
     name: Siobhán Nugent
-    finish_time: 2m 43m
+    finish_time: 2m 42.97m
 ---
