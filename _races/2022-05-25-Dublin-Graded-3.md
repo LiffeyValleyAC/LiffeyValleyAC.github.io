@@ -11,6 +11,6 @@ results:
     event: 800m Women Grade C2
   - place: 4
     name: Siobhán Nugent
-    official_time: 2m 42.97m
+    official_time: 2m 42.97s
     event: 800m Women Grade C2
 ---
