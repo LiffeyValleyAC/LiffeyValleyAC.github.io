@@ -25,28 +25,36 @@ results:
     name: Síle Muldowney
     time: 5.51.28 
     category: 1500m Women Grade C1
-  - place: 1
-    name: Sergei Dolgy
-    time: 2m 11.84s
-    category: 800m Men Grade C1
   - place: 3
+    name: Sergei Dolgy
+    time: 4.28.93
+    category: 1500m Men Grade C1
+  - place: 6
     name: Geoffrey Alexandre
-    time: 2m 14.21s
-    category: 800m Men Grade C1
-  - place: 4
+    time: 4.34.26
+    category: 1500m Men Grade C1
+  - place: 7
+    name: Ciaran Reilly
+    time: 4.35.12
+    category: 1500m Men Grade C1
+  - place: 8
+    name: Tadhg Prendiville
+    time: 4.36.18
+    category: 1500m Men Grade C1
+  - place: 3
     name: Keith Lunders
-    time: 2m 15.25s
-    category: 800m Men Grade C1
-  - place: 11
-    name: David Van Buren
-    time: 2m 18.79s
-    category: 800m Men Grade C1
-  - place: 2
-    name: David Carroll
-    time: 2m 15.3s 
-    category: 800m Men Grade D2
-  - place: 2
+    time: 4.46.08
+    category: 1500m Men Grade D1
+  - place: 3
+    name: Paul Balfe
+    time: 4.59.70 
+    category: 1500m Men Grade D2
+  - place: 5
+    name: John Tuohy
+    time: 5.09.38
+    category: 1500m Men Grade D2
+  - place: 3
     name: Declan Connor
-    time: 2m 39.4s 
-    category: 800m Men Grade D2
+    time: 5.21.01 
+    category: 1500m Men Grade D2
 ---
