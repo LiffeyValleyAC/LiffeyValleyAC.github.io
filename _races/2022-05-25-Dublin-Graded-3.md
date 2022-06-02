@@ -5,10 +5,10 @@ date: 2022-05-25 19:30
 latitude: 53.3522291
 longitude: -6.3214874
 results:
-  - place: --2
+  - place: 2
     name: Sile Muldowney
     finish_time: 2m 36.81s 
-  - place: --673
+  - place: 4
     name: Siobhán Nugent
     finish_time: 2m 42.97m
 ---
