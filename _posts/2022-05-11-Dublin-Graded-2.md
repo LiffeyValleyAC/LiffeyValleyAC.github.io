@@ -5,6 +5,6 @@ Last Wednesday night a group of athletes competed over 1500 in the second Dublin
 
 Thanks as always to the officials for organising and the supporters for cheering us on. 
 
- <a href="/races/2022-05-12-Dublin-Graded-2/" target="_blank" rel="noopener noreferrer">Results</a>
+ <a href="/races/2022-05-11-Dublin-Graded-2/" target="_blank" rel="noopener noreferrer">Results</a>
 
 <a href="https://www.instagram.com/p/CdpvNw0Mcqr/" target="_blank" rel="noopener noreferrer">Photos on Instagram</a>
