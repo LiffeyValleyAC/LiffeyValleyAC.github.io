@@ -5,30 +5,30 @@ date: 2022-06-08 19:30
 latitude: 53.3522291
 longitude: -6.3214874
 results:
-  - place: 11
-    name: Siobhán Nugent
-    time: 5.33.53
-    category: 1500m Women Grade ABC1
-  - place: 2
-    name: Elle O'Driscoll
-    time: 5.06.31
-    category: 1500m Women Grade C1
-  - place: 3
+  - place: 4
     name: Jen Preston
-    time: 5.08.71
+    time: 5.08.31
+    category: 1500m Women Grade B1
+  - place: 1
+    name: Mollie O'Donnell
+    time: 5.09.95
     category: 1500m Women Grade C1
-  - place: 8
-    name: Ciara Broderick Farrell
-    time: 5.24.64
+  - place: 7
+    name: Siobhán Nugent
+    time: 5.35.07
     category: 1500m Women Grade C1
-  - place: 13
-    name: Síle Muldowney
-    time: 5.51.28 
+  - place: 9
+    name: Brigid Reilly
+    time: 5.40.73
     category: 1500m Women Grade C1
-  - place: 3
-    name: Sergei Dolgy
-    time: 4.28.93
-    category: 1500m Men Grade C1
+  - place: 10
+    name: Palina Piankova
+    time: 5.44.97
+    category: 1500m Women Grade C1
+  - place: 11
+    name: Orla Gordon
+    time: 5.55.20
+    category: 1500m Women Grade C1
   - place: 6
     name: Geoffrey Alexandre
     time: 4.34.26
