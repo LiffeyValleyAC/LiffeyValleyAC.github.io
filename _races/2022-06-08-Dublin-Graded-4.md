@@ -1,7 +1,7 @@
 ---
 title: Dublin Athletics Graded Meeting 4 - Morton Stadium, Santry 
-location: Tallaght Athletic Club Stadium 
-date: 2022-06-208 19:30
+location: Morton Stadium, Santry
+date: 2022-06-08 19:30
 latitude: 53.3522291
 longitude: -6.3214874
 results:
