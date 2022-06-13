@@ -15,7 +15,7 @@ On June 12th, we saw some fantastic club performances at the Athletics Ireland N
 🥉Masters M50 Team
 
 
-Well done to all! Great to see so many Liffey Valley AC athletes competing at a national championship.
+Well done to all! Great to see so many Liffey Valley AC athletes competing at a National Championship. Thanks to the fantastic support from LVAC Coaches and Members.
 
 <a href="https://www.myrunresults.com/events/irish_runner_5_mile_/4421/results" target="_blank" rel="noopener noreferrer">Irish Runner Race Results</a>
 
