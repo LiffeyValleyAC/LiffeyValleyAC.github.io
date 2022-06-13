@@ -17,7 +17,6 @@ results:
     name: Siobhán Nugent
     time: 5.35.07
     category: 1500m Men Grade C1
-    category: 
   - place: 9
     name: Brigid Reilly
     time: 5.40.73
@@ -47,7 +46,7 @@ results:
     time: 4.44.81
     category: 1500m Men Grade D1
   - place: 4
-    name: Seán Ó Meallaigh
+    name: Seán O'Meallaigh
     time: 5.02.07
     category: 1500m Men Grade D1
 ---
