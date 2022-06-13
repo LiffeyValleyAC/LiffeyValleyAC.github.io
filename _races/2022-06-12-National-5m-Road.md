@@ -5,56 +5,52 @@ date: 2022-06-12 09:00
 latitude: 53.3522291
 longitude: -6.3214874
 results:
-  - place: 22
-    name: Rachel Murphy
-    time: 20.07
-    category: F40
-  - place: 29
-    name: Brigid Reilly
-    time: 20.37
-    category: F35
-  - place: 30
-    name: Siobhan Nugent
-    time: 20.50
+  - place: 3
+    name: Jen Preston
+    time: 30.58
     category: FS
-  - place: 15
+  - place: 8
+    name: Mollie O'Donnell
+    time: 31.52
+    category: FS
+  - place: 4
+    name: Brigid Reilly
+    time: 33.18
+    category: F35
+  - place: 2
+    name: Rachel Murphy
+    time: 33.38
+    category: F40
+  - place: 6
+    name: Orla Gordon
+    time: 34.57
+    category: F35
+  - place: 3
     name: Lea Fulcher
-    time: 16.09
+    time: 26.56
     category: M45
-  - place: 24
+  - place: 9
     name: Geoffrey Alexandre
-    time: 16.38
+    time: 27.08
     category: MS
-  - place: 28
-    name: Arnaud Benjacar
-    time: 16.57
-    category: M50
-  - place: 35
+  - place: 10
     name: Sergei Dolgy
-    time: 17.17
+    time: 27.18
     category: MS
-  - place: 53
-    name: Paul Balfe
-    time: 17.50
+  - place: 2
+    name: Arnaud Benjacar
+    time: 28.08
     category: M50
-  - place: 67
+  - place: 1
     name: Tom O'Connor
-    time: 18.13
+    time: 29.05
     category: M60
-  - place: 78
-    name: Keith Lunders
-    time: 18.44
-    category: M35
-  - place: 80
-    name: Declan Connor
-    time: 19.02
+  - place: 14
+    name: Mark Naylor
+    time: 29.11
     category: MS
-  - place: 121
-    name: Philip Williams
-    time: 19.12
-    category: MS
-  - place: 165
-    name: Kevin McDonnell
-    time: 20.19
-    category: MS
+  - place: 8
+    name: Paul Balfe
+    time: 29.50
+    category: M50
 ---
