@@ -20,5 +20,3 @@ Well done to all! Great to see so many Liffey Valley AC athletes competing at a 
 <a href="/races/2022-06-12-National-5m-Road/" target="_blank" rel="noopener noreferrer">Individual Race Results</a>
 
 <a href="https://www.instagram.com/p/CevbL57saX5/" target="_blank" rel="noopener noreferrer">Instagram</a>
- 
-x	
