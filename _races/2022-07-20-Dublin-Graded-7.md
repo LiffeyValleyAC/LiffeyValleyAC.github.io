@@ -20,12 +20,12 @@ results:
     time: 5.36.20
     category: 1500m Men Grade C1
     note:
-- place: 7
+  - place: 7
     name: Brigid Reilly
     time: 5.43.59
     category: 1500m Men Grade C1
     note:
-- place: 8
+  - place: 8
     name: Orla Gordon
     time: 5.48.84
     category: 1500m Men Grade C1
