@@ -54,7 +54,7 @@ results:
     name: Keith Lunders
     time: 4.47.95
     category: 1500m Men Grade D1
-    note: Personal Best
+    note: 
   - place: 7
     name: John Tuohy
     time: 4.56.61
