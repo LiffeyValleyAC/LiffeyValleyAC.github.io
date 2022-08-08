@@ -19,27 +19,27 @@ results:
     name: David Carroll
     time: 2.12.37
     category: 800m Men Grade C1
-    note: Personal Best
+    note: 
   - place: 1
     name: Sergei Dolgy
     time: 9.36.05
     category: 3000m Men Grade CD1
-    note: Personal Best
+    note: 
   - place: 2
     name: Geoffrey Alexandre
     time: 9.36.45
     category: 3000m Men Grade CD1
-    note: Personal Best
-   - place: 8
+    note: 
+  - place: 8
     name: Keith Lunders
     time: 10.35.85
     category: 3000m Men Grade CD1
-    note: Personal Best
+    note: 
   - place: 10
     name: Kevin McDonnell
     time: 10.46.58
     category: 3000m Men Grade CD1
-    note: Personal Best
+    note:
   - place: 11
     name: John Tuohy
     time: 10.47.03
