@@ -15,15 +15,14 @@ results:
     time: 6.13.52
     category: 1 mile Women Grade C1
     note: 
-- place: 8
+  - place: 8
     name: Brigid Reilly
     time: 6.17.54
     category: 1 mile Women Grade C1
     note: 
-- place: 10
+  - place: 10
     name: Orla Gordon
     time: 6.20.28
     category: 1 mile Women Grade C1
     note: 
-      
 ---
