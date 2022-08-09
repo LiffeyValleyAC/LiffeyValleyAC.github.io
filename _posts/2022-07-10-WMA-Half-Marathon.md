@@ -1,6 +1,6 @@
 ---
 title: World Masters Athletics Gold Medal for Tom O'Connor
-location: Tampere, Finland
+location: Tampere, Finland.
 ---
 
 July 10th 2022 - Congratulations to Tom O'Connor who was a member of the Irish gold medal winning M60 team in the half marathon at the World Masters Championships in Finland over the weekend. Tom finished a fantastic 5th individually in a time of 83.04 and helped secure gold for the Irish team alongside Pat O'Grady and Philip O'Doherty. 
