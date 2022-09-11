@@ -1,7 +1,7 @@
 ---
-title: Dublin Athletics Graded Meeting 7 
-location: Tallaght Athletic Club Stadium  
-date: 2022-07-20 19:30
+title: Dublin Athletics Graded Meeting 8 
+location: Lucan Athletic Club Stadium  
+date: 2022-08-03 19:30
 latitude: 53.3522291
 longitude: -6.3214874
 results:
