@@ -30,29 +30,19 @@ results:
     time: 11.03.44
     category: 3000m Women Grade ABC1
     note:
-  - place: 9
-    name: Mark Naylor
-    time: 4.27.01
-    category: 1500m Men Grade B1
-    note:
   - place: 11
     name: Geoffrey Alexandre
     time: 4.27.80
     category: 1500m Men Grade B1
     note:
+  - place: 4
+    name: Sergei Dolgy
+    time: 9.31.60
+    category: 3000m Men Grade B1
+    note:
   - place: 5
     name: Keith Lunders
-    time: 4.47.95
-    category: 1500m Men Grade D1
+    time: 10.34.88
+    category: 3000m Men Grade CD1
     note:
-  - place: 7
-    name: John Tuohy
-    time: 4.56.61
-    category: 1500m Men Grade D1
-    note:
-  - place: 8
-    name: Kevin McDonnell
-    time: 4.57.40
-    category: 1500m Men Grade D1
-    note:
----
+ ---
