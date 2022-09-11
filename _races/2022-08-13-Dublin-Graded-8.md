@@ -13,17 +13,17 @@ results:
   - place: 6
     name: Siobhán Nugent
     time: 5.36.20
-    category: 1 mile Men Grade C1
+    category: 1 mile Women Grade C1
     note:
   - place: 7
     name: Brigid Reilly
     time: 5.43.59
-    category: 1 mile Men Grade C1
+    category: 1 mile Women Grade C1
     note:
   - place: 8
     name: Orla Gordon
     time: 5.48.84
-    category: 1 mile Men Grade C1
+    category: 1 mile Women Grade C1
     note:
   - place: 8
     name: Sergei Dolgy
