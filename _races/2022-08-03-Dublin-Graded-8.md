@@ -37,12 +37,12 @@ results:
     note:
   - place: 4
     name: Sergei Dolgy
-    time: 9.31.59
+    time: 9.31.56
     category: 3000m Men Grade B1
     note:
   - place: 5
     name: Keith Lunders
-    time: 10.34.48
+    time: 10.34.58
     category: 3000m Men Grade CD1
     note:
  ---
