@@ -42,7 +42,7 @@ results:
     note:
   - place: 5
     name: Keith Lunders
-    time: 10.34.88
+    time: 10.34.48
     category: 3000m Men Grade CD1
     note:
  ---
