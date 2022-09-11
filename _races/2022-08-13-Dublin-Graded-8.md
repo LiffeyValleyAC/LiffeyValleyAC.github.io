@@ -6,23 +6,23 @@ latitude: 53.3522291
 longitude: -6.3214874
 results:
   - place: 1
-    name: Mollie O'Donnell
+    name: Sile Muldowney
     time: 5.34.19
     category: 1 mile Women Grade C1
     note:
-  - place: 6
-    name: Siobhán Nugent
-    time: 5.36.20
-    category: 1 mile Women Grade C1
-    note:
   - place: 7
-    name: Brigid Reilly
-    time: 5.43.59
+    name: Siobhán Nugent
+    time: 6.13.52
     category: 1 mile Women Grade C1
     note:
   - place: 8
+    name: Brigid Reilly
+    time: 6.17.54
+    category: 1 mile Women Grade C1
+    note:
+  - place: 10
     name: Orla Gordon
-    time: 5.48.84
+    time: 6.20.28
     category: 1 mile Women Grade C1
     note:
   - place: 8
