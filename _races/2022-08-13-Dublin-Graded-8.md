@@ -35,9 +35,9 @@ results:
     time: 9.31.36
     category: 3000m Men Grade B1
     note:
-  - place: 8
+  - place: 4
     name: Sergei Dolgy
-    time: 4.25.62
-    category: 1500m Men Grade B1
+    time: 9.31.56
+    category: 3000m Men Grade B1
     note:
 ---
