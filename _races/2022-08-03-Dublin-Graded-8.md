@@ -1,5 +1,5 @@
 ---
-title: Dublin Athletics Graded Meeting 8 
+title: Dublin Athletics Graded Meeting 8
 location: Lucan Athletic Club Stadium  
 date: 2022-08-03 19:30
 latitude: 53.3522291
@@ -30,14 +30,14 @@ results:
     time: 11.03.44
     category: 3000m Women Grade ABC1
     note:
-  - place: 11
+  - place: 3
     name: Geoffrey Alexandre
-    time: 4.27.80
-    category: 1500m Men Grade B1
+    time: 9.31.36
+    category: 3000m Men Grade B1
     note:
   - place: 4
     name: Sergei Dolgy
-    time: 9.31.60
+    time: 9.31.59
     category: 3000m Men Grade B1
     note:
   - place: 5
