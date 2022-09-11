@@ -30,6 +30,11 @@ results:
     time: 11.03.44
     category: 3000m Women Grade ABC1
     note:
+  - place: 3
+    name: Geoffrey Alexandre
+    time: 9.31.36
+    category: 3000m Men Grade B1
+    note:
   - place: 8
     name: Sergei Dolgy
     time: 4.25.62
