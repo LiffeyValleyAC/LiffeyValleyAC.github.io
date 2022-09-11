@@ -40,29 +40,4 @@ results:
     time: 4.25.62
     category: 1500m Men Grade B1
     note:
-  - place: 9
-    name: Mark Naylor
-    time: 4.27.01
-    category: 1500m Men Grade B1
-    note:
-  - place: 11
-    name: Geoffrey Alexandre
-    time: 4.27.80
-    category: 1500m Men Grade B1
-    note:
-  - place: 5
-    name: Keith Lunders
-    time: 4.47.95
-    category: 1500m Men Grade D1
-    note:
-  - place: 7
-    name: John Tuohy
-    time: 4.56.61
-    category: 1500m Men Grade D1
-    note:
-  - place: 8
-    name: Kevin McDonnell
-    time: 4.57.40
-    category: 1500m Men Grade D1
-    note:
 ---
