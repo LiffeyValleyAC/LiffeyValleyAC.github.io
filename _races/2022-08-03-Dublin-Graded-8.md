@@ -34,15 +34,15 @@ results:
     name: Geoffrey Alexandre
     time: 9.31.36
     category: 3000m Men Grade B1
-    note:
+    note: Personal Best
   - place: 4
     name: Sergei Dolgy
     time: 9.31.56
     category: 3000m Men Grade B1
-    note:
+    note: Personal Best
   - place: 5
     name: Keith Lunders
     time: 10.34.58
     category: 3000m Men Grade CD1
-    note:
+    note: Personal Best
 ---
