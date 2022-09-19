@@ -5,7 +5,7 @@ longitude: -6.318000
 date: 2022-09-18 11:30
 results:
   - place: 1
-    name: Peter Arthurs
+    name: Peter Arthurs (2)
     finish_time: 33m 49s
     handicap: 0m 00s
     actual_time: 33m 49s
@@ -25,7 +25,7 @@ results:
     handicap: 1m 00s
     actual_time: 34m 30s
   - place: 5
-    name: David Carroll
+    name: David Carroll (3)
     finish_time: 38m 27s
     handicap: 4m 15s
     actual_time: 34m 12s
@@ -45,7 +45,7 @@ results:
     handicap: 4m 00s
     actual_time: 34m 21s
   - place: 9
-    name: Matt Blyth
+    name: Matt Blyth (3)
     finish_time: 40m 12s
     handicap: 6m 00s
     actual_time: 34m 12s
