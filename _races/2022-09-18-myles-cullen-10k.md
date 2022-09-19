@@ -30,7 +30,7 @@ results:
     handicap: 4m 15s
     actual_time: 34m 12s
   - place: 6
-    name: Paul Balfe
+    name: Paul Balfe (1)
     finish_time: 38m 31s
     handicap: 4m 45s
     actual_time: 33m 46s
