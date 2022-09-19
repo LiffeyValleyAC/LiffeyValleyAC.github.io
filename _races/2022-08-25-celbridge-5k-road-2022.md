@@ -6,11 +6,11 @@ latitude: 48.8566
 longitude: 2.3522
 results:
   - place: 19
-    name: Mark Naylor (PB)
+    name: Mark Naylor
     time: 16.35
-    note: PB
+    note: Personal Best
   - place: 59
-    name: Keith Lunders (PB)
+    name: Keith Lunders
     time: 18.06
-    note: PB
+    note: Personal Best
 ---
