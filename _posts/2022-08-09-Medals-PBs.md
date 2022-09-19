@@ -1,5 +1,5 @@
 ---
-title: A Fantasic Summer of Medals and Personal Bests. Onto the Cross Country.
+title: A Fantasic Summer of Medals and Personal Bests.
 ---
 
 <p>The work done during winter and spring delivered rewards at the 
