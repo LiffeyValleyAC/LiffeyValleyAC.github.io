@@ -12,18 +12,18 @@ results:
   - place: 2
     name: Geoffrey Alexandre
     finish_time: 34m 37s
-    handicap: 3m 00s
-    actual_time: 32m 05s
+    handicap: 0m 00s
+    actual_time: 0m 00s
   - place: 3
     name: Mark Naylor
     finish_time: 34m 48s
-    handicap: 1m 15s
-    actual_time: 34m 06s
+    handicap: 0m 00s
+    actual_time: 0m 00s
   - place: 4
     name: Ben
     finish_time: 38m 01s
-    handicap: 1m 00s
-    actual_time: 34m 30s
+    handicap: 0m 00s
+    actual_time: 0m 00s
   - place: 5
     name: David Carroll (3)
     finish_time: 38m 27s
@@ -37,13 +37,13 @@ results:
   - place: 7
     name: John Touhy
     finish_time: 39m 17s
-    handicap: 3m 20s
-    actual_time: 33m 28s
+    handicap: 0m 00s
+    actual_time: 0m 00s
   - place: 8
     name: Conor 
     finish_time: 39m 39s
-    handicap: 4m 00s
-    actual_time: 34m 21s
+    handicap: 0m 00s
+    actual_time: 0m 00s
   - place: 9
     name: Matt Blyth (3)
     finish_time: 40m 12s
@@ -52,27 +52,27 @@ results:
   - place: 10
     name: Pierce Geoghegan
     finish_time: 40m 50s
-    handicap: 4m 00s
-    actual_time: 35m 40s
+    handicap: 0m 00s
+    actual_time: 0m 00s
   - place: 11
     name: Tom O'Connor
     finish_time: 41m 14s
-    handicap: 8m 45s
-    actual_time: 31m 43s
+    handicap: 0m 00s
+    actual_time: 0m 00s
   - place: 12
     name: Simon Monds
     finish_time: 41m 27s
-    handicap: 5m 30s
-    actual_time: 35m 03s
+    handicap: 0m 00s
+    actual_time: 0m 00s
   - place: 13
-    name: Michael Ferr
+    name: Michael Ferreira
     finish_time: 44m 15s
-    handicap: 9m 30s
-    actual_time: 31m 28s
+    handicap: 0m 00s
+    actual_time: 0m 00s
   - place: 14
     name: Paddy Reilly
     finish_time: 49m 40s
-    handicap: 7m 45s
-    actual_time: 33m 17s
+    handicap: 0m 00s
+    actual_time: 0m 00s
 
 ---
