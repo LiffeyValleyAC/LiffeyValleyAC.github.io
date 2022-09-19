@@ -1,5 +1,5 @@
 ---
-title: George Harrison 5k Road Race
+title: LVAC 5k Road Championship (George Harrison Trophy)
 latitude: 53.348499
 longitude: -6.318000
 date: 2022-09-18 11:30
