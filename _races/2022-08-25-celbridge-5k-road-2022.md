@@ -8,7 +8,9 @@ results:
   - place: 19
     name: Mark Naylor (PB)
     time: 16.35
+    note: PB
   - place: 59
     name: Keith Lunders (PB)
     time: 18.06
+    note: PB
 ---
