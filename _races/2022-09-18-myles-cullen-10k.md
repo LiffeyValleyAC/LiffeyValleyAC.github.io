@@ -1,5 +1,5 @@
 ---
-title: Myles Cullen 10k Road Race
+title: LVAC 10k Road Championship (Myles Cullen Trophy)
 latitude: 53.348499
 longitude: -6.318000
 date: 2022-09-18 11:30
@@ -19,7 +19,7 @@ results:
     finish_time: 34m 48s
     handicap: 0m 10s
     actual_time: 34m 38s
-  - place: 
+  - place: 4
     name: Sergei Dolgy (12)
     finish_time: 36m 19s
     handicap: 0m 25s
