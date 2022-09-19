@@ -1,61 +1,52 @@
 ---
-title: Club Championship & George Harrison 5k
+title: Club Championship & George Harrison 5k Road Race
 latitude: 53.348499
 longitude: -6.318000
 date: 2022-09-18 11:30
 results:
   - place: 1
-    name: Mollie O'Donnell
+    name: Mollie O'Donnell (3)
     finish_time: 18m 51s
     handicap: 0m 00s
     actual_time: 18m 51s
-    trophy_place: 3
   - place: 2
-    name: Jen Preston
+    name: Jen Preston (4)
     finish_time: 19m 09s
     handicap: 0m 15s
     actual_time: 18m 54s
-    trophy_place: 3
-  - place: 3
-    name: Bridget Long
+   - place: 3
+    name: Bridget Long (5)
     finish_time: 20m 55s
     handicap: 2m 00s
     actual_time: 18m 55s
-    trophy_place: 3
-  - place: 4
-    name: Siobhan Nugent
+     - place: 4
+    name: Siobhan Nugent (1)
     finish_time: 21m 30s
     handicap: 3m 00s
     actual_time: 18m 30s
-    trophy_place: 3
-  - place: 5
-    name: Rebecca McLoughlin
+    - place: 5
+    name: Rebecca McLoughlin (2)
     finish_time: 21m 39s
     handicap: 3m 00s
     actual_time: 18m 39s
-    trophy_place: 3
-  - place: 6
-    name: Orla Gordon
+   - place: 6
+    name: Orla Gordon (6)
     finish_time: 21m 55s
     handicap: 3m 00s
     actual_time: 18m 55s
-    trophy_place: 3
-  - place: 7
-    name: Aoife Brady
+    - place: 7
+    name: Aoife Brady (7)
     finish_time: 23m 48s
     handicap: 4m 00s
     actual_time: 19m 48s
-    trophy_place: 3
   - place: 8
-    name: Una Reilly
+    name: Una Reilly (8)
     finish_time: 24m 19s
     handicap: 5m 00s
     actual_time: 19m 19s
-    trophy_place: 3
-  - place: 9
-    name: Clare Kavanagh
+   - place: 9
+    name: Clare Kavanagh (9)
     finish_time: 26m 19s
     handicap: 5m 00s
     actual_time: 21m 19s
-    trophy_place: 3
----
+   ---
