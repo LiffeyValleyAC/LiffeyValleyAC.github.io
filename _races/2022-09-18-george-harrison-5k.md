@@ -1,5 +1,5 @@
 ---
-title: Club Championship & George Harrison 5k Road Race
+title: Club Championship and George Harrison 5k Road Race
 latitude: 53.348499
 longitude: -6.318000
 date: 2022-09-18 11:30
