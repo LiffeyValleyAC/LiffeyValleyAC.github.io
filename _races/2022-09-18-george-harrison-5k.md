@@ -14,27 +14,27 @@ results:
     finish_time: 19m 09s
     handicap: 0m 15s
     actual_time: 18m 54s
-   - place: 3
+  - place: 3
     name: Bridget Long (5)
     finish_time: 20m 55s
     handicap: 2m 00s
     actual_time: 18m 55s
-     - place: 4
-    name: Siobhan Nugent (1)
+  - place: 4
+    name: Siobhán Nugent (1)
     finish_time: 21m 30s
     handicap: 3m 00s
     actual_time: 18m 30s
-    - place: 5
+  - place: 5
     name: Rebecca McLoughlin (2)
     finish_time: 21m 39s
     handicap: 3m 00s
     actual_time: 18m 39s
-   - place: 6
+  - place: 6
     name: Orla Gordon (6)
     finish_time: 21m 55s
     handicap: 3m 00s
     actual_time: 18m 55s
-    - place: 7
+  - place: 7
     name: Aoife Brady (7)
     finish_time: 23m 48s
     handicap: 4m 00s
@@ -44,7 +44,7 @@ results:
     finish_time: 24m 19s
     handicap: 5m 00s
     actual_time: 19m 19s
-   - place: 9
+  - place: 9
     name: Clare Kavanagh (9)
     finish_time: 26m 19s
     handicap: 5m 00s
