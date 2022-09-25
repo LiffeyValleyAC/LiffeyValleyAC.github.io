@@ -6,7 +6,7 @@ latitude: 53.3522291
 longitude: -6.3214874
 results:
   - place: 18
-    name: Siobhan Nugent
+    name: Siobhán Nugent
     time: 13.11
     category: FS
   - place: 25
