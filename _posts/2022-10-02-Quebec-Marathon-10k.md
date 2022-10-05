@@ -1,5 +1,5 @@
 ---
-title: New PB for Geoffrey Alexandre at Qeubec Marathon Series 10k Race
+title: New PB for Geoffrey Alexandre at Quebec Marathon Series 10k Race
 location: Quebec, Canada
 ---
 
