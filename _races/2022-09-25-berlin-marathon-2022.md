@@ -9,5 +9,5 @@ results:
   - place: 878
     name: Peter Bowe
     time: 3.20.52
-    note: Personal Best
+    note: 
 ---
