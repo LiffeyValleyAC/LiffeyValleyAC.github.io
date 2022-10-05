@@ -17,7 +17,7 @@ results:
     note: 
   - place: DNF
     name: Tommy Breheny
-    time: 
+    time: DNF
     category: M60
     note: 
 ---
