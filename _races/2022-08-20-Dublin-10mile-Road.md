@@ -10,4 +10,14 @@ results:
     time: 1.05.44
     category: M50
     note: 
+  - place: 49
+    name: Barry Stokes
+    time: 1.08.24
+    category: MS
+    note: 
+  - place: DNF
+    name: Tommy Breheny
+    time: 
+    category: M60
+    note: 
 ---
