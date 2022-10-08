@@ -1,6 +1,6 @@
 ---
 title: Leinster Indoor Track Championships
-location: Abbotstown, Dublin.
+location: Athlone, Co. Westmeath.
 ---
 
 Congratulations to Ciaran Reilly on double gold in the 800m & 1500m M45 Races.
