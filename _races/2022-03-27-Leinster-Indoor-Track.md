@@ -1,6 +1,6 @@
 ---
-title: Leinster Track Championships
-location: Tullamore, Co. Offally
+title: Leinster Indoor Track Championships
+location: Abbotstown, Dublin.
 date: 2022-03-27 15:37
 latitude: 53.3522291
 longitude: -6.3214874
