@@ -1,5 +1,5 @@
 ---
-title: Leinster Indoor Track Championships
+title: Double Gold for Ciaran Reilly at Leinster Indoor Track Championships
 location: Athlone, Co. Westmeath.
 ---
 
