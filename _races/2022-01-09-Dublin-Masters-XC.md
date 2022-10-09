@@ -62,7 +62,7 @@ results:
     time: 34.05
     category: M55
   - place: 1
-    name: Tom'Connor
+    name: Tom O'Connor
     time: 24.33
     category: M60
   - place: 11
