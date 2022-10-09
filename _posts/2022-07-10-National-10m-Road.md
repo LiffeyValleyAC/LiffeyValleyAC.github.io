@@ -3,7 +3,7 @@ title: Bronze for Brigid Long in National 10m Road Championships
 location: Phoenix Park, Dublin
 ---
 
-🥉Congratulations to Brigid Reilly who finished 3rd F35 in the National 10 Mile yesterday in the Phoenix Park. Brigid ran a big PB on what was a warm day for racing. 
+🥉Congratulations to Brigid Long who finished 3rd F35 in the National 10 Mile yesterday in the Phoenix Park. Brigid ran a big PB on what was a warm day for racing. 
 
 <a href="/races/2022-07-10-National-10m-Road/" target="_blank" rel="noopener noreferrer">Individual Race Results</a>
 
