@@ -18,6 +18,6 @@ Well done to all! Great to see so many Liffey Valley AC athletes competing at a 
 
 Well done to all! Great to see so many Liffey Valley AC athletes competing at a National Championship. Thanks to the fantastic support from LVAC Coaches and Members.
 
-<a href="/races/2022-04-13-National-10k-Road/" target="_blank" rel="noopener noreferrer">Individual Race Results</a>
+<a href="/races/2022-04-13-National-10k-Road/" target="_blank" rel="noopener noreferrer">Race Results</a>
 
 <a href="https://www.instagram.com/p/CcIx0XQMtyB/" target="_blank" rel="noopener noreferrer">Instagram</a>
