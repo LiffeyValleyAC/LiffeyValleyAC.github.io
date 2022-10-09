@@ -34,7 +34,7 @@ results:
     time: 17.52
     category: Novice Women
   - place: 92
-    name: Aoife Martin
+    name: Aoife Brady
     time: 19.53
     category: Novice Women
   - place: 20
