@@ -22,7 +22,7 @@ results:
     time: 21.31
     category: Inter Women
   - place: 30
-    name: Siobhan Nugent
+    name: Siobhán Nugent
     time: 22.18
     category: Inter Women
   - place: 38
