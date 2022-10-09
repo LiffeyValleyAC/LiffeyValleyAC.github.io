@@ -13,6 +13,8 @@ Congratulations to all the teams for competing! The conditions were good and the
 
 Thanks to Raheny Shamrock AC for hosting a fantastic day of racing as always. 
 
+<a href="/races/2022-04-24-National-Road-Relays/" target="_blank" rel="noopener noreferrer">Race Results</a>
+
 <a href="https://www.athleticsireland.ie/downloads/results/Road_Relay_Results_2022.pdf" target="_blank" rel="noopener noreferrer">AAI Race Results</a>
 
 <a href="https://www.instagram.com/p/Ccw_J9KMady/" target="_blank" rel="noopener noreferrer">Instagram</a>
