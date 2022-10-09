@@ -1,7 +1,7 @@
 ---
 title: National 10k Road Race
 location: Phoenix Park
-date: 2022-04-13 09:00
+date: 2022-04-10 09:00
 latitude: 53.3522291
 longitude: -6.3214874
 results:
