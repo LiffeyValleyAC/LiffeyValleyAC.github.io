@@ -16,11 +16,11 @@ results:
   - place: 2
     name: Arnaud Benjacar
     time: 21.44
-    category: Inter Women
+    category: M50
   - place: 13
     name: Paul Balfe
     time: 23.43
-    category: Inter Women
+    category: M50
   - place: 2
     name: Tom O'Connor
     time: 22.21
