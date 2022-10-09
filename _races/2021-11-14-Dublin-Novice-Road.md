@@ -1,7 +1,7 @@
 ---
 title: Dublin Novice 5km Road Championships
 location: Tallaght, Dublin
-date: 2021-11-14 14:00
+date: 2021-11-14 10:00
 latitude: 53.3522291
 longitude: -6.3214874
 results:
