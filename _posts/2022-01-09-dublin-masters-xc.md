@@ -7,7 +7,7 @@ Congratulations to all our athletes who competed in St. Anne's Park, Raheny in w
 
 Well done to Una Reilly and Tom O'Connor who both won individual gold in their categories, Lea Fulcher who won silver and to our M50 team who brought home bronze medals.
 
-🥇Una Reilly M65
+🥇Una Reilly F65
 🥇Tom O'Connor M60 
 🥈Lea Fulcher M45  
 🥉Masters M50 Team
