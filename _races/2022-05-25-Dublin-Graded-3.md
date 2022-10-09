@@ -21,7 +21,7 @@ results:
     category: 800m Women Grade C2
     note:
   - place: 6
-    name: Brigid Reilly
+    name: Brigid Long
     time: 2.51.92
     category: 800m Women Grade C2
     note:

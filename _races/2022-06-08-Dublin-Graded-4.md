@@ -21,7 +21,7 @@ results:
     category: 1500m Women Grade C1
     note: 
   - place: 9
-    name: Brigid Reilly
+    name: Brigid Long
     time: 5.40.73
     category: 1500m Women Grade C1
     note: 

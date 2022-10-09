@@ -21,7 +21,7 @@ results:
     category: 1500m Men Grade C1
     note:
   - place: 7
-    name: Brigid Reilly
+    name: Brigid Long
     time: 5.43.59
     category: 1500m Men Grade C1
     note:

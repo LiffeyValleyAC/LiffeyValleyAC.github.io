@@ -16,7 +16,7 @@ results:
     category: 1 mile Women Grade C1
     note:
   - place: 8
-    name: Brigid Reilly
+    name: Brigid Long
     time: 6.17.54
     category: 1 mile Women Grade C1
     note:
