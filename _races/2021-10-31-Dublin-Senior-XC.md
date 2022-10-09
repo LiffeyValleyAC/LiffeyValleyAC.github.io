@@ -18,7 +18,7 @@ results:
     time: 24.04.0
     category: Senior Women
   - place: 43
-    name: Siobhan Nugent
+    name: Siobhán Nugent
     time: 25.38.0
     category: Senior Women
   - place: 44
@@ -26,7 +26,7 @@ results:
     time: 25.50.0
     category: Senior Women
   - place: 46
-    name: Brigid Reilly
+    name: Brigid Long
     time: 26.26.0
     category: Senior Women
   - place: 47
