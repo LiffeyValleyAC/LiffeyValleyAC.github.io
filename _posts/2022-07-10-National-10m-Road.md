@@ -7,6 +7,6 @@ location: Phoenix Park, Dublin
 
 <a href="/races/2022-07-10-National-10m-Road/" target="_blank" rel="noopener noreferrer">Race Results</a>
 
-<a href="https://www.athleticsireland.ie/downloads/events/Womens_National_10_Mile_Results_1.pdf" target="_blank" rel="noopener noreferrer">Athletcis Ireland Results</a>
+<a href="https://www.athleticsireland.ie/downloads/events/Womens_National_10_Mile_Results_1.pdf" target="_blank" rel="noopener noreferrer">Athletics Ireland Results</a>
 
 <a href="https://www.instagram.com/p/Cf3to4gsIkZ/" target="_blank" rel="noopener noreferrer">Instagram</a>
