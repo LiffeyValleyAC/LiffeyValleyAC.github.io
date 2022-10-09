@@ -23,7 +23,10 @@ There was great support around the course for our Athletes from our Coaches and 
 
 Before each race, everyone paused to remember <a href="https://liffeyvalleyac.com/news/2022/01/14/condolences-ashling-murphy/">Ashling Murphy</a> who tragically lost her life this week, while her local club Tullamore Harriers wore black ribbons on their singlets as their mark of respect. 
 
+<a href="/races/2022-01-15-Leinster-Inter-XC/" target="_blank" rel="noopener noreferrer">Inter Race Results</a>
+
+<a href="/races/2022-01-15-Leinster-Masters-XC/" target="_blank" rel="noopener noreferrer">Masters Race Results</a>
+
 <a href="https://www.myrunresults.com/events/athletics_leinster_master_and_inter_xc_2022/4305/results" target="_blank" rel="noopener noreferrer">Full results at myrunresults</a>
 
 <a href="https://www.instagram.com/p/CYySV3vM4JV/?utm_source=ig_web_copy_link" target="_blank" rel="noopener noreferrer">Photos on Instagram here</a>
- 
