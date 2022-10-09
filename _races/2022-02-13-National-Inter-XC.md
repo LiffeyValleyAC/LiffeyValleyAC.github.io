@@ -26,7 +26,7 @@ results:
     time: 22.07
     category: Inter Women
   - place: 51
-    name: Siobhan Nugent
+    name: Siobhán Nugent
     time: 22.18
     category: Inter Women
   - place: 52

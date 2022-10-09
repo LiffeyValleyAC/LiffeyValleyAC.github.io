@@ -14,7 +14,7 @@ results:
     time: 16.24
     category: Novice Women
   - place: 110
-    name: Siobhan Nugent
+    name: Siobhán Nugent
     time: 17.27
     category: Novice Women
   - place: 120
