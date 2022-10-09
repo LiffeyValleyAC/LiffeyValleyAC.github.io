@@ -1,12 +1,18 @@
 ---
-title: Leinster Senior Cross Country Championships
-location: Avondale House, Co. Wicklow
+title: Leinster Novice Cross Country Championships
+location: Mountain View Golf Club, Co. Kilkenny
 ---
 
-Congratulations to our senior men's team on their 4th place finish at the Leinster Senior XC Championships today in Wicklow. A strong performance on a tough hilly course. 
+Fantastic racing by our novice women at the Leinster Novice Championships at Mountain View Golf Club, Co. Kilkenny with a strong 5th place finish. Well done all on a great performance.
 
-<a href="/races/2021-11-07-Leinster-Senior-XC/" target="_blank" rel="noopener noreferrer">Race Results</a>
+Congratulations to Sinead McDonald who was a member of the gold medal winning Dublin team. 🥇🥇
 
-<a href="https://www.myrunresults.com/events/leinster_xc_senior_and_u23/4237/results" target="_blank" rel="noopener noreferrer">My Run Results</a>
+A special shout out to all the supporters who made there way to Kilkenny to cheer on the team and to Tom McCormack for bringing the tent.
 
-<a href="https://www.instagram.com/p/CV-24bXsMZ1/" target="_blank" rel="noopener noreferrer">Instagram</a>
+Thanks to St. Senan's AC for hosting. 
+
+<a href="/races/2021-10-23-Leinster-Novice-XC/" target="_blank" rel="noopener noreferrer">Race Results</a>
+
+<a href="https://www.myrunresults.com/events/leinster_xc_novice_2021/4220/results" target="_blank" rel="noopener noreferrer">My Run Results</a>
+
+<a href="https://www.instagram.com/p/CVYCKzvMB03/" target="_blank" rel="noopener noreferrer">Instagram</a>
