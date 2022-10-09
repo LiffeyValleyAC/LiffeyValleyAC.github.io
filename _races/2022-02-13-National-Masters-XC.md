@@ -19,7 +19,7 @@ results:
     category: M55
   - place: 3
     name: Tom O'Connor
-    time: 21.48
+    time: 26.46
     category: M60
   - place: 17
     name: Tommy Breheny
