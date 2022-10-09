@@ -6,7 +6,7 @@ latitude: 53.3522291
 longitude: -6.3214874
 results:
   - place: 3
-    name: Brigig Long
+    name: Brigid Long
     time: 1.11.31
     category: F35
 ---
