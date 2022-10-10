@@ -61,7 +61,7 @@ results:
     handicap: 2m 30s
     actual_time: 25m 04s
   - place: 12
-    name: Una Reilly
+    name: Úna Reilly
     finish_time: 27m 41s
     handicap: 4m 15s
     actual_time: 23m 41s
