@@ -26,7 +26,7 @@ results:
     handicap: 9m 45s
     actual_time: 17m 17s
   - place: 5
-    name: Sean O'Meallaigh
+    name: Seán O'Meallaigh
     finish_time: 27m 03s
     handicap: 7m 15s
     actual_time: 19m 48s
