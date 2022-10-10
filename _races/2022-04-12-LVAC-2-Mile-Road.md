@@ -116,7 +116,7 @@ results:
     handicap: 6m 15s
     actual_time: 11m 49s
   - place: 23
-    name: Palina Piancova
+    name: Palina Piankova
     finish_time: 18m 21s
     handicap: 4m 15s
     actual_time: 14m 06s
