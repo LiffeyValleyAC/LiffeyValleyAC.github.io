@@ -70,7 +70,7 @@ results:
     handicap: 3m 00s
     actual_time: 38m 27s
   - place: 14
-    name: Michael Ferreira (15)
+    name: Michael Ferriera (15)
     finish_time: 44m 15s
     handicap: 4m 30s
     actual_time: 39m 45s
