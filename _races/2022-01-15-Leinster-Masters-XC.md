@@ -6,7 +6,7 @@ latitude: 53.3522291
 longitude: -6.3214874
 results:
   - place: 6
-    name: Una Reilly
+    name: Úna Reilly
     time: 19.53
     category: F60
   - place: 3
