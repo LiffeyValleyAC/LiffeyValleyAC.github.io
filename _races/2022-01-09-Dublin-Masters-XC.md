@@ -26,7 +26,7 @@ results:
     time: 16.07
     category: F50
   - place: 1
-    name: Una Reilly
+    name: Úna Reilly
     time: 16.37
     category: F65
   - place: 28
