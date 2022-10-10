@@ -26,7 +26,7 @@ results:
     handicap: 5m 00s
     actual_time: 11m 46s
   - place: 5
-    name: Phil Williams
+    name: Philip Williams
     finish_time: 16m 52s
     handicap: 5m 00s
     actual_time: 11m 52s
