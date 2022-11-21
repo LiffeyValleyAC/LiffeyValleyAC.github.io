@@ -1,0 +1,51 @@
+---
+layout: base
+---
+
+<div class="row">
+  <div class="bar">
+    &nbsp;
+  </div>
+</div>
+<!-- {% include tombrennan.html %} -->
+<div class="row content">
+  <div class="col-md-8">
+    <div class="title">
+      <h3>
+        {{ page.title }}
+        <br /><small>{{ page.date | date: "%A, %-d %B, %Y at %H:%M" }}</small>
+      </h3>
+    </div>
+    {% assign curDate = site.time | date: '%s' %}
+    {% assign raceDate = page.date | date: '%s' %}
+    {% if curDate >= raceDate %}
+      {% if page.results %}
+      {% include results.html results=page.results %}
+      {% else %}
+    <p>There are no results yet. Check back again later.</p>
+    {% else %}
+    {{ content }}
+    {% endif %}
+    {% if page.race2 %}
+    <h4>Race 2</h2>
+      {% include results.html results=page.race2 %}
+    {% endif %}
+  {% else %}
+    {{ content }}
+  {% endif %}
+  </div>
+  <div class="col-md-4">
+    <div id="map"></div>
+  </div>
+</div>
+<script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
+<script>
+  var map = L.map('map').setView([{{ page.latitude }}, {{ page.longitude }}], 14);
+  L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+    attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors',
+  }).addTo(map);
+  L.marker([{{ page.latitude }}, {{ page.longitude }}]).addTo(map)
+  .bindPopup("{{ page.title }}")
+  .openPopup();
+</script>
+

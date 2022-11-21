@@ -1,0 +1,93 @@
+---
+layout: base
+title: Training
+redirect_from:
+  - /pages/Training/11/
+---
+
+<div class="row img-section">
+  <img src="/assets/images/track.jpg" alt="The track at ALSAA" class="img-responsive center-block">
+</div>
+<div class="row">
+  <div class="bar">
+    &nbsp;
+  </div>
+</div>
+<!-- {% include tombrennan.html %} -->
+<div class="row content">
+  <div class="col-md-8">
+    <h2>Training Details</h2>
+    <p>
+    Organised training sessions are on Tuesday and Thursday at 7 pm.
+    Weekend training sessions are arranged for Saturdays and Sunday, with specific times shared week to week via our social media channels.
+    Advice on training and racing is available from qualified NCTC coaches with experience up to International and Olympic Level.</p>
+
+    <p>Our clubhouse with shower facilities is situated in Islandbridge beside Memorial Park entrance and all training sessions take place in the nearby Phoenix Park with lots of trails and routes ideal for distance running and excellent for training.</p>
+
+    <p>The club can offer an excellent training environment whether you are a beginner or of international level, with a great club spirit and camaraderie that is unique to Liffey Valley.</p>
+
+    <p>If you are interested in distance running and want to join a group who can offer organised training and racing facilities with top class advice to help your running why not come along to one of our sessions?
+    Below are the scheduled training times:</p>
+
+    <h3>September-April (Cross Country and Road)</h3>
+    Tuesday and Thursday evenings 7pm from our clubhouse in Islandbridge
+
+    <h3>May-August (Track and Field season)</h3>
+    Tuesday and Thursday evenings 7pm from our clubhouse in Islandbridge<br>
+    Saturday morning speed sessions are held at a Track.
+  </div>
+  <div class="col-md-4">
+    <div id="map"></div>
+  </div>
+</div>
+<div class="row content">
+  <h3>Our coaches</h3>
+    <!-- <ul class="nav nav-stacked">
+      <li><a href="#jimdavis">Jim Davis</a>
+      <li><a href="#nickdavis">Nick Davis</a>
+    </ul> -->
+  <a name="jimdavis"></a>
+  <div class="col-md-4">
+    <img src="/assets/images/jim.jpg" alt="Jim Davis">
+  </div>
+  <div class="col-md-8">
+    <h3>Jim Davis</h3>
+    <p>Jim Davis is one of our coaches and has European, World &amp; Olympic Games
+    experience. Jim is a fully qualified athletics coach and can be contacted
+    for advice or correspondence at <a
+      href=mailto:coach@liffeyvalleyac.com>coach@liffeyvalleyac.com</a>.</p>
+
+    <p>Jim is a recognised coach among his peers and has proved himself
+    successful, having been part of the 2004 Irish Olympic Team and represented
+    the club at the 2005 World Cross Country Champonships, 2006 &amp; 2008 European
+    Athletics Championships.</p>
+  </div>
+</div>
+<div class="row content">
+  <a name="nickdavis"></a>
+  <div class="col-md-4">
+    <img src="/assets/images/nick.jpg" alt="Nick Davis">
+  </div>
+  <div class="col-md-8">
+    <h3>Nick Davis</h3>
+    <p>Nick Davis is the Liffey Valley AC women’s team coach and has a
+    distinguished record in coaching and athletics administration in Ireland.
+    He has coached athletes to win both National Track and Cross Country
+    Championships and to compete in the World Championships. He has managed
+    Irish Teams at Olympic Games, World Championships and Europa Cup Team
+    Competitions. His coaching philosophy is to help athletes of whatever
+    standard to reach their potential and enjoy this great sport. Nick was
+    President of BLE, the fore runner of AAI and was instrumental in setting up
+    Athletics Ireland.
+  </div>
+</div>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.3/leaflet.js"></script>
+<script>
+  var map = L.map('map').setView([53.346295, -6.309119], 14);
+  L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+    attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors',
+  }).addTo(map);
+  L.marker([53.346295, -6.309119]).addTo(map)
+  .bindPopup('Liffey Valley AC,<br>Sandpitts Cottage')
+  .openPopup();
+</script>

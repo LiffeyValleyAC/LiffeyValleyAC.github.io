@@ -1,0 +1,36 @@
+---
+layout: base
+title: News Archive
+redirect_from:
+  - /article/
+---
+
+<div class="row">
+  <div class="bar">
+    &nbsp;
+  </div>
+</div>
+<!-- {% include tombrennan.html %} -->
+<div class="row content">
+  <div class="col-md-12">
+    <hr>
+      {% for post in paginator.posts %}
+      <h3>
+        <a href="{{ post.url }}">{{ post.title }}</a>
+        <br /><small>{{ post.date | date: "%A, %-d %B, %Y" }}</small>
+      </h3>
+      {{ post.excerpt }}
+      <a href="{{ post.url }}">read more</a>
+      <hr>
+    {% endfor %}
+    <!-- Pagination links -->
+    <ul class="pager">
+      {% if paginator.next_page %}
+      <li class="previous"><a href="{{ paginator.next_page_path }}">&larr; Older</a></li>
+      {% endif %}
+      {% if paginator.previous_page %}
+      <li class="next"><a href="{{ paginator.previous_page_path }}">Newer &rarr;</a></li>
+      {% endif %}
+    </ul>
+  </div>
+</div>

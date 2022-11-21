@@ -1,0 +1,25 @@
+---
+layout: base
+---
+
+<div class="row">
+  <div class="bar">
+    &nbsp;
+  </div>
+</div>
+<!-- {% include tombrennan.html %} -->
+<div class="row content">
+  <div class="col-md-8">
+    <hr>
+      <h3>
+      {{ page.title }}
+      <br /><small>{{ page.date | date: "%A, %-d %B, %Y" }}</small>
+    </h3>
+    <p>{{ page.location }}</p>
+    {{ content }}
+    <hr>
+    <a href="javascript:history.back()">Go Back</a>
+  </div>
+  <div class="col-md-4">
+  </div>
+</div>

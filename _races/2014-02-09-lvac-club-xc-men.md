@@ -1,0 +1,77 @@
+---
+title: LVAC Mens Cross Country Championships
+location: Phoenix Park
+date: 2014-02-09 11:30
+latitude: 53.3522291
+longitude: -6.3214874
+results:
+  - place: 1
+    name: Mike Griffin
+    time: 29m 28s
+  - place: 2
+    name: Ciaran Reilly
+    time: 29m 37s
+  - place: 3
+    name: Andy Nason
+    time: 29m 58s
+  - place: 4
+    name: Kieran Murray
+    time: 30m 09s
+  - place: 5
+    name: Chris Morgan
+    time: 30m 32s
+  - place: 6
+    name: Billy Hanley
+    time: 30m 56s
+  - place: 7
+    name: Tom O’Connor
+    time: 31m 19s
+  - place: 8
+    name: Arnoud Benjacar
+    time: 31m 27s
+  - place: 9
+    name: Peter Arthur
+    time: 31m 47s
+  - place: 10
+    name: Niall Coughlan
+    time: 31m 47s
+  - place: 11
+    name: Tony Timmons
+    time: 31m 50s
+  - place: 12
+    name: John Cullen
+    time: 32m 08s
+  - place: 13
+    name: Mohammed Dahir
+    time: 32m 32s
+  - place: 14
+    name: Matthew Blyth
+    time: 32m 36s
+  - place: 15
+    name: Dave Morley
+    time: 33m 33s
+  - place: 16
+    name: Conor Reilly
+    time: 35m 12s
+  - place: 17
+    name: Martin O’Callaghan
+    time: 35m 30s
+  - place: 18
+    name: Colm Gormley
+    time: 36m 12s
+  - place: 19
+    name: Pat Collins
+    time: 36m 20s
+  - place: 20
+    name: Joe Cooper
+    time: 36m 28s
+  - place: 21
+    name: Anthony Dunne
+    time: 37m 16s
+  - place: 22
+    name: Paddy Reilly
+    time: 39m 20s
+  - place: 23
+    name: Stephen Coughlan
+    time: 39m 46s
+---
