@@ -1,0 +1,25 @@
+---
+layout: base
+---
+
+<div class="row">
+  <div class="bar">
+    &nbsp;
+  </div>
+</div>
+<!-- {% include tombrennan.html %} -->
+<div class="row content">
+  {% if page.photo %}
+  <div class="col-md-4">
+    <img src="/assets/images/{{ page.photo }}" alt="{{ page.alt_text }}" height="{{ page.height }}" width="{{ page.width }}">
+  </div>
+  <div class="col-md-8">
+  {% endif %}
+    <h3>
+      {{ page.title }}
+    </h3>
+    {{ content }}
+  {% if page.photo %}
+  </div>
+  {% endif %}
+</div>
