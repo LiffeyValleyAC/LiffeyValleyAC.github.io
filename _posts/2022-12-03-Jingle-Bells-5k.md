@@ -18,6 +18,7 @@ Well done to everyone who competed.
 
 Team was 7th of 36 Teams.
 
+<a href="/races/2022-12-03-jingle-bells-5k/" target="_blank" rel="noopener noreferrer">Race Results</a>
 
 <a href="https://www.popupraces.ie/race/jingle-bells-5k-2022/" target="_blank" rel="noopener noreferrer">Pop Up Races</a>
  
