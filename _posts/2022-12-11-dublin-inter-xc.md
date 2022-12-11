@@ -9,7 +9,7 @@ Well done also to our men who narrowly missed out on bronze medals. They finishe
 
 Fantastic running by all our athletes in very challenging conditions! 
 
-<a href="/races/2022-12-10-dublin-inter-xc/" target="_blank" rel="noopener noreferrer">Race Results</a>
+<a href="/races/2022-12-11-dublin-inter-xc/" target="_blank" rel="noopener noreferrer">Race Results</a>
 
 <a href="https://www.myrunresults.com/events/dublin_intermediate_xc_championships/4659/results/" target="_blank" rel="noopener noreferrer">My Run Results</a>
 
