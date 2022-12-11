@@ -1,5 +1,5 @@
 ---
-title: Dublin Intermediate XC
+title: Silver Medals for LVAC Women at the Dublin Intermediate XC
 location: Tymon Park, Dublin
 ---
 
