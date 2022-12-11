@@ -10,7 +10,7 @@ results:
     time: 22.34
     category: FS
   - place: 9
-    name: Siobhan Nugent
+    name: Siobhán Nugent
     time: 23.13
     category: FS
   - place: 10
