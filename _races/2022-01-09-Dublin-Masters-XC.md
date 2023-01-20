@@ -56,7 +56,7 @@ results:
   - place: 13
     name: Paul Balfe
     time: 25.32
-    category: Master Men
+    category: M50
   - place: 34
     name: Stephen Coughlan
     time: 34.05
