@@ -1,5 +1,5 @@
 ---
-title: Winter League Race 2 - Jan 21st 11am
+title: Winter League Race 2 - January 21st 11.00
 location: Dog Pond, Phoenix Park
 ---
 
