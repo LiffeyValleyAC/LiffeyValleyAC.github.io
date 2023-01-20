@@ -7,7 +7,7 @@ Congratulations to our master athletes who were competing at the Dublin Masters 
 
 A special congratulations to our medalists:
 🥇Tom O Connor M60
-🥈Una Reilly F70
+🥈Úna Reilly F70
 🥉Arnaud Benjacar M50
 
 A great day of racing as always. Thank you to Raheny Shamrocks AC for hosting and all our supporters for coming along. Special mention to Steve Coughlan for putting up the tent.  
