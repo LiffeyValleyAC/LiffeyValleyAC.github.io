@@ -1,5 +1,5 @@
 ---
-title: Silver Medals for LVAC Women at the Leinster Intermediate XC
+title: Gold for Peter Arthur at the Leinster Masters XC
 location: Avondale House, Co. Wicklow
 ---
 
@@ -18,6 +18,6 @@ Peter led our M35 team (Ciarán Reilly, Keith Lunders, Matt Blyth) home to a str
 
 <a href="https://www.myrunresults.com/events/leinster_inter_masters__juvenile_relay_xc_championships/4561/results/" target="_blank" rel="noopener noreferrer">My Run Results</a>
 
-<a href="https://www.instagram.com/p/CncoLgOMNkN/" target="_blank" rel="noopener noreferrer">Instagram</a>
+<a href="https://www.instagram.com/p/CncnAQfM5w_/" target="_blank" rel="noopener noreferrer">Instagram</a>
 
-<a href="/races/2023-01-15-leinster-inter-xc/" target="_blank" rel="noopener noreferrer">Race Results</a>
+<a href="/races/2023-01-15-leinster-masters-xc/" target="_blank" rel="noopener noreferrer">Race Results</a>
