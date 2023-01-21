@@ -29,35 +29,35 @@ results:
     name: Shauna Dunne 
     time: 18.23
     category: FS
-    note: 
+    note: 🥈Club Team
   - place: 19
     name: Siobhán Nugent
     time: 18.27
     category: FS
-    note: 
+    note: 🥈Club Team
   - place: 22
     name: Orla Gordon
     time: 18.41
     category: FS
-    note: 
+    note: 🥈Club Team
   - place: 11
     name: Geoffrey Alexandre
     time: 29.35
     category: MS
-    note: 
+    note: 4th Club Team
   - place: 15
     name: David Carroll
     time: 30.18
     category: MS
-    note: 
+    note: 4th Club Team
   - place: 34
     name: Kevin McDonnell
     time: 35.15
     category: MS
-    note: 
+    note: 4th Club Team
   - place: 35  
     name: Conor Galvin
     time: 35.54
     category: MS
-    note: 
+    note: 4th Club Team
 ---
