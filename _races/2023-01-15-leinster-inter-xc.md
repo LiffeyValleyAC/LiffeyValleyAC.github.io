@@ -9,22 +9,22 @@ results:
     name: Ciara Broderick Farrell
     time: 17.13
     category: FS
-    note: Team Silver
+    note: 🥈Club Team
   - place: 13
     name: Mollie O'Donnell
     time: 17.54
     category: FS
-    note: Team Silver
+    note: 🥈Club Team
   - place: 15
     name: Brigid Reilly
     time: 18.23
     category: FS
-    note: Team Silver
+    note: 🥈Club Team
   - place: 16
     name: Stephanie Hawkins
     time: 18.23
     category: FS
-    note: Team Silver
+    note: 🥈Club Team
   - place: 17
     name: Shauna Dunne 
     time: 18.23
