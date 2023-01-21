@@ -1,7 +1,7 @@
 ---
 title: Dublin Masters Cross Country Championships
 location: St. Annes Park, Raheny
-date: 2022-01-09 13:00
+date: 2023-01-08 13:00
 latitude: 53.3522291
 longitude: -6.3214874
 results:
