@@ -13,8 +13,8 @@ with Raheny, DSD and Celtic/DCH.
 
 Siobhan Keenehan lead the team home in 9th position after being in the first 10
 for the whole of the race. Lena Sinclair was next in 13th. place and there was
-a great battle for the next place with Sile Carroll and Emer Nic an Bhaird
-exchanging positions on a few occasions with Sile in 15th edging out Emer in
+a great battle for the next place with Síle Carroll and Emer Nic an Bhaird
+exchanging positions on a few occasions with Síle in 15th edging out Emer in
 17th down the finish straight. Aileen Gettings ran a fine race in 32nd. place
 battling all the way as did Maeve Walsh 48th and Susan Arthurs running her
 first cross country race ever.
