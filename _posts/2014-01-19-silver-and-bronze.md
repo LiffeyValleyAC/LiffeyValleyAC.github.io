@@ -9,7 +9,7 @@ It was a good afternoon for Liffey Valley in the rolling hills of Ballyroan Co. 
 
 A testing 2k course which included a few hills provided a challenge for all and the women’s 5k saw Raheny's Aoife Talty dominate the race with Leona contesting the silver and bronze medals positions for some of the race. While Leona was battling away at the front the next scoring places were being contested by all the team, the essence of good team running.
 
-At the finish Leona was 5th. with Eimear in 19th. the first time she occupied the second scoring position on the team. Lena in 20th just held off the fast finishing Sile and Aileen was just three places behind with Siobhan not having one of her better days in 27th.
+At the finish Leona was 5th. with Eimear in 19th. the first time she occupied the second scoring position on the team. Lena in 20th just held off the fast finishing Síle and Aileen was just three places behind with Siobhan not having one of her better days in 27th.
 Leona was also on the Dublin winning team so gold and silver on the day.
 It has been quite a season for the women’s team in Leinster winning the Novice and Intermediate titles and adding the Silver at Senior level a remarkable achievement given that some of the athletes are having their first ever cross country season.
 
