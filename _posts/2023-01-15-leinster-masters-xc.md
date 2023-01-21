@@ -9,9 +9,11 @@ Congratulations to Peter Arthur on a superb performance who was a convincing win
 
 Peter led our M35 team (Ciarán Reilly, Keith Lunders, Matt Blyth) home to a strong 6th place finish in what is always a competitive race. 
 
+Gold Medals also Peter and Arnaud who both scored on the Dublin County Teams, while Tom O'Connor claimed an individual silver and Pat Collins finished 3rd in the M70 race, while also making his debut in the M75 category.
+
 🥇 M35 - Peter Arthur
-🥈 M70 - Pat Collins
 🥈 M60 - Tom O'Connor
+🥉 M70 - Pat Collins
 🥇 County Team M35 - Peter Arthur
 🥇 County Team M50 - Arnaud Benjacar
 
