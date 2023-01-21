@@ -18,7 +18,7 @@ results:
     handicap: 4m 00s
     actual_time: 23m 47s
   - place: 3
-    name: Sile Carroll
+    name: Síle Carroll
     finish_time: 13m 21s
     estimated: 28m 19s
     handicap: 4m 30s
