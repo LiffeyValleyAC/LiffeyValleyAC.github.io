@@ -96,7 +96,7 @@ results:
     handicap: 0m 00s
     actual_time: 28m 45s
   - place: 19
-    name: Hillary McDonnell
+    name: Hilary McDonnell
     finish_time: 28m 50s
     handicap: 2m 30s
     actual_time: 26m 20s
