@@ -9,44 +9,55 @@ results:
     name: Ciara Broderick Farrell
     time: 17.13
     category: FS
+    note: 
   - place: 13
     name: Mollie O'Donnell
     time: 17.54
     category: FS
+    note: 
   - place: 15
     name: Brigid Reilly
     time: 18.23
     category: FS
+    note: 
   - place: 16
     name: Stephanie Hawkins
     time: 18.23
     category: FS
+    note: 
   - place: 17
     name: Shauna Dunne 
     time: 18.23
     category: FS
+    note: 
   - place: 19
     name: Siobhán Nugent
     time: 18.27
     category: FS
+    note: 
   - place: 22
     name: Orla Gordon
     time: 18.41
     category: FS
+    note: 
   - place: 11
     name: Geoffrey Alexandre
     time: 29.35
     category: MS
+    note: 
   - place: 15
     name: David Carroll
     time: 30.18
     category: MS
+    note: 
   - place: 34
     name: Kevin McDonnell
     time: 35.15
     category: MS
+    note: 
   - place: 35  
     name: Conor Galvin
     time: 35.54
     category: MS
+    note: 
 ---
