@@ -1,7 +1,7 @@
 ---
 title: National Masters Cross Country Championships
 location: Gowran, Co. Kilkenny
-date: 2023-02-14 14:00
+date: 2023-02-12 14:00
 latitude: 53.3522291
 longitude: -6.3214874
 results:
