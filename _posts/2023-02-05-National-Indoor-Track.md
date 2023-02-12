@@ -1,9 +1,9 @@
 ---
-title: National Indoor Masters Championships 2023
+title: Medals for LVAC at National Indoor Masters Championships 2023
 location: Athlone, Co. Westmeath
 ---
 
-Well done to Arnaud Benjacar and Tom O'Connor who claimed medals at the 1500m &3000m championships.
+Well done to Arnaud Benjacar and Tom O'Connor who claimed medals at the 1500m & 3000m championships.
 
 🥈M60 3000m Tom O'Connor 11.12.14
 🥉M50 1500m Arnaud Benjacar 4.25.69
