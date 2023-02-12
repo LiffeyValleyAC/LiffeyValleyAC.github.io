@@ -5,12 +5,12 @@ location: Gowran, Co. Kilkenny
 
 Well done to our medal winners and Teams competing today.
 
-🥇M75 Pat Collins
-🥉M70 Una Reilly
-🥉M35 Peter Arthur
-🥇M50 County Arnaud Benjacar
-🥈MS County Geoffrey Alexandre
-🥈M35 County Peter Arthur
+<p>🥇M75 Pat Collins</p>
+<p>🥉M70 Una Reilly</p>
+<p>🥉M35 Peter Arthur</p>
+<p>🥇M50 County Arnaud Benjacar</p>
+<p>🥈MS County Geoffrey Alexandre</p>
+<p>🥈M35 County Peter Arthur</p>
 
 Team Results:
 Men Inter 5th 
