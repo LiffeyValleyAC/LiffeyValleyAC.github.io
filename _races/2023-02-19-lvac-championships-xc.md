@@ -106,7 +106,7 @@ results:
     time: 43.30
     category: MS
   - place: 13
-    name: Alejandro
+    name: Diego Alejandro Cavallo
     time: 43.41
     category: MS
   - place: 14

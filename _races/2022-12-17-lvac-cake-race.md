@@ -114,7 +114,7 @@ results:
     actual_time: 17m 50s
     note:
   - place: 19
-    name: Tito Lo
+    name: Antonio Lorente
     finish_time: 26m 38s
     handicap: 5m 00s
     actual_time: 21m 38s
