@@ -97,4 +97,24 @@ results:
     name: Paul Balfe
     time: 41.45
     category: MS
+  - place: 11
+    name: Peter Bowe
+    time: 43.18
+    category: MS
+  - place: 12
+    name: John Touhy
+    time: 43.30
+    category: MS
+  - place: 13
+    name: Alejandro
+    time: 43.41
+    category: MS
+  - place: 14
+    name: Bernard O'Sullivan
+    time: 45.28
+    category: MS
+  - place: 15
+    name: Paulius Zeimys
+    time: 45.35
+    category: MS
 ---
