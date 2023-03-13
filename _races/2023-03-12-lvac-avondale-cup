@@ -144,12 +144,18 @@ results:
     actual_time: 25m 17s
     note:
   - place: 24
+    name: Orla Gordon
+    finish_time: 00m 00s
+    handicap: 00m 00s
+    actual_time: 22m 52s
+    note:
+  - place: 25
     name: John Costigan
     finish_time: 00m 00s
     handicap: 00m 00s
     actual_time: 21m 54s
     note:
-  - place: 25
+  - place: 26
     name: Jim Davis
     finish_time: 00m 00s
     handicap: 00m 00s
