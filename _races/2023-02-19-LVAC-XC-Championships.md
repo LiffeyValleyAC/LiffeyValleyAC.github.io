@@ -57,4 +57,44 @@ results:
     name: Jim Davis
     time: 29.07
     category: M60
+  - place: 1
+    name: David Carroll
+    time: 36.06
+    category: MS
+  - place: 2
+    name: Geoffrey Alexandre
+    time: 36.14
+    category: MS
+  - place: 3
+    name: Sergei Dolgy
+    time: 36.20
+    category: MS
+  - place: 4
+    name: Arnaud Benjacar
+    time: 36.48
+    category: MS
+  - place: 5
+    name: Keith Lunders
+    time: 39.24
+    category: MS
+  - place: 6
+    name: Matt Blyth
+    time: 39.40
+    category: MS
+  - place: 7
+    name: Conor O'Loughlin
+    time: 40.17
+    category: MS
+  - place: 8
+    name: Patrick Fox
+    time: 40.43
+    category: MS
+  - place: 9
+    name: Javier Silvan
+    time: 41.40
+    category: MS
+  - place: 10
+    name: Paul Balfe
+    time: 41.45
+    category: MS
 ---
