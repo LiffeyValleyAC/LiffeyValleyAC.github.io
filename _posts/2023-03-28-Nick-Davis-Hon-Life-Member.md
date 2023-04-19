@@ -5,7 +5,7 @@ location: Phoenix Park, Dublin
 
 Tonight, we presented an Honorary Life Membership of Liffey Valley Athletics Club Award to Nick Davis to officially recognise the long-term commitment, dedication, support and the significant contribution that Nick has made to LVAC over the years – Nick has been central and at the heart of many of the athletics success the club has had over the years.
 
-While many of us know the many achievements that Nick has had as an athlete and also with the club and indeed nationally and internationally, i would like to highlight a few:
+While many of us know the many achievements that Nick has had as an athlete and also with the club and indeed nationally and internationally, we would like to highlight a few:
 
 <b>Nick as an Athlete<b/>
 
