@@ -251,3 +251,7 @@ dd {
   height: auto; 
   max-height: 715px;
 }
+
+.table {
+  color: #ddd;
+}
