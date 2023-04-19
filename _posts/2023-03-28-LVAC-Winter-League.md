@@ -1,7 +1,7 @@
 ---
 title: The LVAC 2023 Winter League Champion is Dave Carroll
 ---
-The results are in and it is official. <b>Dave Carroll/b> is the winner of our Winter League. This year, the difference was the bonus 10 pts for David who pipped Patrick by 2 pts. 
+The results are in and it is official. <b>Dave Carroll</b> is the winner of our Winter League. This year, the difference was the bonus 10 pts for David who pipped Patrick by 2 pts. 
 
 Congratulations to <b>Patrick Fox</b> and <b>Arnaud Benjacar</b> who finished second and third respectively.
 
@@ -77,70 +77,71 @@ th, td {
   <tr>
     <td>4</td>
     <td>Hilary McDonnell</td>
-    <td>37</td>
-    <td>-</td>
+    <td>16</td>
+    <td>41</td>
     <td>50</td>
-    <td>37</td>
-    <td>40</td>
-    <td>-</td>
+    <td>45</td>
+    <td>18</td>
+    <td>10</td>
+    <td>-16</td>
     <td>164</td>
   </tr>
   <tr>
     <td>4</td>
     <td>Bernard O'Sullivan</td>
-    <td>29</td>
-    <td>44</td>
+    <td>20</td>
     <td>50</td>
-    <td>30</td>
-    <td>27</td>
-    <td>10</td>
-    <td>10</td>
-    <td>163</td>
+    <td>50</td>
+    <td>-</td>
+    <td>44</td>
+    <td>-</td>
+    <td>-</td>
+    <td>164</td>
   </tr>
   <tr>
     <td>6</td>
     <td>Orla Gordon</td>
-    <td>29</td>
-    <td>44</td>
+    <td>27</td>
+    <td>41</td>
     <td>50</td>
-    <td>45</td>
-    <td>26</td>
+    <td>24</td>
+    <td>35</td>
     <td>10</td>
-    <td>10</td>
-    <td>159</td>
+    <td>-24</td>
+    <td>163</td>
   </tr>
   <tr>
     <td>7</td>
     <td>Mollie O'Donnell</td>
-    <td>39</td>
-    <td>37</td>
-    <td>-</td>
-    <td>43</td>
-    <td>33</td>
-    <td>-</td>
-    <td>-</td>
+    <td>36</td>
+    <td>31</td>
+    <td>50</td>
+    <td>28</td>
+    <td>32</td>
+    <td>10</td>
+    <td>-28</td>
     <td>159</td>
   </tr>
   <tr>
     <td>7</td>
     <td>Brigid Long</td>
-    <td>32</td>
     <td>30</td>
+    <td>28</td>
     <td>50</td>
-    <td>34</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
+    <td>36</td>
+    <td>33</td>
+    <td>10</td>
+    <td>-28</td>
     <td>159</td>
   </tr>
   <tr>
     <td>7</td>
     <td>John Touhy</td>
-    <td>-</td>
-    <td>42</td>
-    <td>50</td>
+    <td>41</td>
     <td>31</td>
-    <td>20</td>
+    <td>50</td>
+    <td>37</td>
+    <td>-</td>
     <td>-</td>
     <td>-</td>
     <td>159</td>
