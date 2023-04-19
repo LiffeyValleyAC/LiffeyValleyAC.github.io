@@ -7,6 +7,8 @@ It was a disappointing end to this race as it ended up being 1.4k short, due to 
 
 The 10k championship will be re-planned for a later date.
 
+<a href="https://www.athleticsireland.ie/news/national-10k-statement/" target="_blank" rel="noopener noreferrer">Athletics Ireland Statement</a>
+
 Great to see so many Liffey Valley AC athletes competing at a national championship and much thanks also for the fantastic support from LVAC Coaches and Members around the course.
 
 <a href="/races/2023-04-16-National-10k-Road/" target="_blank" rel="noopener noreferrer">Race Results</a>
