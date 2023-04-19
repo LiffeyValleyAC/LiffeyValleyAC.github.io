@@ -27,12 +27,12 @@ When the club revived the Women’s section in the early 2000's, Nick became coa
 
 <b>Athletics Ireland<b/>
 
-Nick was a founding member of the Athletics Association of Ireland in 1999 &was elected it's first president upon its inception. 
+Nick is a founding member of the Athletics Association of Ireland in 1999 and was elected it's first President upon its inception. 
 
-Nick has also been a council member of European Athletics for over 30 years and has attended meetings throughout Europe in that role
+Nick has also been a council member of European Athletics for over 30 years and has attended meetings throughout Europe in that role.
 
-He was also Team Manager of Irish teams at Olympic Games, World Championships and European  Championships.
+Nick has also been Team Manager of Irish teams at Olympic Games, World Championships and European  Championships.
 
-He was also RTE Radios Athletics Correspondent for many years reporting on all the major events throughout the country, He has been AAIs Stadium Announcer for all major events including the World and European cross country when those events were held in Ireland.
+RTE Radio Sport have relied on Nick as an Athletics Correspondent for many years, reporting on all the major athletics events throughout the country. Nick has also been heard throughout all major athletics events held in Ireland as the official announcer, including the World and European Cross Country Championships.
 
 <a href="https://www.instagram.com/p/CqXJ-57MnZ6/" target="_blank" rel="noopener noreferrer">Instagram</a>
