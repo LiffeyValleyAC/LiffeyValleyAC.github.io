@@ -1,5 +1,5 @@
 ---
-title: LVAC 2023 2 Mile Road Race
+title: Peter Bowe wins the LVAC 2 Mile Road Race
 location: Eagle Monument 2 Mile Lap, Phoenix Park.
 ---
 
