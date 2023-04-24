@@ -136,45 +136,45 @@ results:
     handicap: 5m 50s
     actual_time: 10m 28s
   - place: 27
-    name: Stephanie Hawkins
-    finish_time: 19m 09s
-    handicap: 5m 30s
-    actual_time: 13m 39s
+    name: Heather Browning
+    finish_time: 16m 20s
+    handicap: 0m 00s
+    actual_time: 16m 20s
   - place: 28
-    name: Clare Kavanagh
-    finish_time: 19m 48s
-    handicap: 4m 15s
-    actual_time: 15m 33s
+    name: Hilary McDonnell
+    finish_time: 16m 21s
+    handicap: 0m 00s
+    actual_time: 16m 21s
   - place: 29
-    name: Sora Enriquez
-    finish_time: 21m 07s
-    handicap: 5m 45s
-    actual_time: 15m 22s
+    name: Paddy Reilly
+    finish_time: 16m 24s
+    handicap: 0m 05s
+    actual_time: 15m 29s
   - place: 30
-    name: Sharon Kinsella
-    finish_time: 21m 15s
-    handicap: 5m 00s
-    actual_time: 16m 15s 
+    name: Louise Brennan
+    finish_time: 16m 30s
+    handicap: 1m 20s
+    actual_time: 15m 10s 
   - place: 31
-    name: Anna Flynn
-    finish_time: 21m 29s
-    handicap: 4m 40s
-    actual_time: 16m 49s
+    name: Shauna Dunne
+    finish_time: 16m 51s
+    handicap: 3m 45s
+    actual_time: 13m 06s
   - place: 32
-    name: Clare Kavanagh
-    finish_time: 19m 48s
-    handicap: 4m 15s
-    actual_time: 15m 33s
+    name: Úna Reilly
+    finish_time: 17m 00s
+    handicap: 1m 00s
+    actual_time: 16m 00s
   - place: 33
-    name: Sora Enriquez
-    finish_time: 21m 07s
-    handicap: 5m 45s
-    actual_time: 15m 22s
+    name: Tom Breheny
+    finish_time: 17m 02s
+    handicap: 2m 50s
+    actual_time: 14m 12s
   - place: 34
-    name: Sharon Kinsella
-    finish_time: 21m 15s
-    handicap: 5m 00s
-    actual_time: 16m 15s 
+    name: Stephen Coughlan
+    finish_time: 17m 03s
+    handicap: 0m 40s
+    actual_time: 16m 23s 
   - place: 35
     name: Pat Gibbons
     finish_time: 17m 39s
