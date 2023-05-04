@@ -8,3 +8,5 @@ We had plenty of PBs and some track debuts. Looking forward to getting stronger 
  <a href="/races/2023-04-29-Dublin-Graded-1/" target="_blank" rel="noopener noreferrer">Results</a>
 
 <a href="https://www.instagram.com/p/CroqmP8MAoX/" target="_blank" rel="noopener noreferrer">Photos on Instagram</a>
+
+<a href="https://flic.kr/p/2owMj3g/" target="_blank" rel="noopener noreferrer">Photos on Flickr (c) Lindie Naughton</a>
