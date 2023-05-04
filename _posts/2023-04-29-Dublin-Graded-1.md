@@ -9,4 +9,4 @@ We had plenty of PBs and some track debuts. Looking forward to getting stronger 
 
 <a href="https://www.instagram.com/p/CroqmP8MAoX/" target="_blank" rel="noopener noreferrer">Photos on Instagram</a>
 
-<a href="https://flic.kr/p/2owMj3g/" target="_blank" rel="noopener noreferrer">Photos on Flickr (c) Lindie Naughton</a>
+<a href="https://flic.kr/p/2owMj3g/" target="_blank" rel="noopener noreferrer">Photos on Flickr courtesy of Lindie Naughton</a>
