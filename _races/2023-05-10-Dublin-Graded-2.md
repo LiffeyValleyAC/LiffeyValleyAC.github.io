@@ -43,6 +43,6 @@ results:
   - place: 11
     name: Alejandro Cavallo
     time: 5.20.64 
-    category: 150m Men Grade D Heat 1
+    category: 1500m Men Grade D Heat 1
     note:
 ---
