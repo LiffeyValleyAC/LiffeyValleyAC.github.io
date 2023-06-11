@@ -20,7 +20,7 @@ results:
     time: 4.22.15
     category: 1500m Men Grade C Heat 1
     note:
- - place: 1
+  - place: 1
     name: Conor Galvin
     time: 4.49.00
     category: 1500m Men Grade D Heat 1
@@ -30,7 +30,7 @@ results:
     time: 4.49.80 
     category: 1500m Men Grade D Heat 1
     note:
- - place: 6
+  - place: 6
     name: Oisin Murphy
     time: 5.05.01 
     category: 1500m Men Grade D Heat 1
