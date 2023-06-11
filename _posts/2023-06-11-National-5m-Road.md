@@ -1,5 +1,5 @@
 ---
-title: All Ireland Champions for Liffey Valley Senior Men and Pat Collins at National 5 Mile Championships.
+title: Liffey Valley are All Ireland Champions at the National 5 Mile Championships.
 location: Phoenix Park, Dublin
 ---
 
