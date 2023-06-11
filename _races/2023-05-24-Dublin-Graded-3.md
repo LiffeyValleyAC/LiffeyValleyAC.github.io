@@ -2,8 +2,8 @@
 title: Dublin Athletics Graded Meeting 3 
 location: Lucan, Dublin.
 date: 2023-05-24 19:00
-latitude: 53.346336945345435
-longitude: -6.450455450690875
+latitude: 53.3463369
+longitude: -6.4504554
 results:
   - place: 3
     name: Brianna McGhee
