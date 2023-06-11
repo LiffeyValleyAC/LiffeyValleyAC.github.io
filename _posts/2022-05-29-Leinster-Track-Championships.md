@@ -1,5 +1,5 @@
 ---
-title: Leinster Track and Field Championships
+title: Silver for Ciaran Reilly at the Leinster Track and Field Championships
 location: SETU, Co. Carlow.
 ---
 
