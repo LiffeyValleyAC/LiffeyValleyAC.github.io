@@ -9,6 +9,8 @@ Congratulations also to individual medal winners with🥇Pat Collins winning the
 
 It was another ideal day for racing in the Phoenix Park today with 20 Liffey Valley AC athletes out in force. A fantastic day for our club with tremendous support around the course from fellow athletes and coaches cheering on all our athletes to deliver such strong performances over the 5 mile distance.
 
+<img src="/assets/images/races/2023-national-5-mile/men-team-national-5-mile.jpg" class="img-fluid" alt="Men team National 5 Mile">
+
 <a href="/races/2023-06-11-National-5m-Road/" target="_blank" rel="noopener noreferrer">Race Results</a>
 
 <a href="https://www.instagram.com/p/CtWLjeNsG8j/" target="_blank" rel="noopener noreferrer">Instagram</a>
