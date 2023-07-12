@@ -2,8 +2,8 @@
 title: Dublin Athletics Graded Track Meeting 2
 location: Tallaght Stadium
 date: 2023-05-10 19:00
-latitude: 53.3522291
-longitude: -6.3214874
+latitude: 53.291224453739275
+longitude: -6.35620708331228
 results:
   - place: 14
     name: Orla Gordon
@@ -20,7 +20,7 @@ results:
     time: 4.22.15
     category: 1500m Men Grade C Heat 1
     note:
- - place: 1
+  - place: 1
     name: Conor Galvin
     time: 4.49.00
     category: 1500m Men Grade D Heat 1
@@ -30,7 +30,7 @@ results:
     time: 4.49.80 
     category: 1500m Men Grade D Heat 1
     note:
- - place: 6
+  - place: 6
     name: Oisin Murphy
     time: 5.05.01 
     category: 1500m Men Grade D Heat 1

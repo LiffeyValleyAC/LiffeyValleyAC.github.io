@@ -2,8 +2,8 @@
 title: Dublin Athletics Graded Meeting 1 
 location: Belfield, UCD
 date: 2023-04-29 14:00
-latitude: 53.3522291
-longitude: -6.3214874
+latitude: 53.31098719630516
+longitude: -6.233811202247855
 results:
   - place: 5
     name: Orla Gordon
