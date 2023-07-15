@@ -1,15 +1,15 @@
 ---
 title: Dublin Athletics Graded Meeting 2 
-location: Belfield, UCD
+location: Tallaght Stadium
 date: 2023-05-10 19:00
 latitude: 53.31098719630516
 longitude: -6.233811202247855
 results:
-  - place: 5
+  - place: 14
     name: Orla Gordon
-    time: 6.09.37
-    category: Paced Mile 6 Min 
-    note: Personal Best
+    time: 5.43.98
+    category: 1500m Grade D 
+    note: 
   - place: 5
     name: Sergei Dolgy
     time: 2.18.32
