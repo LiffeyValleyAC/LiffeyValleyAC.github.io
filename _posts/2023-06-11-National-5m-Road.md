@@ -1,5 +1,5 @@
 ---
-title: Pat Collins All Ireland Masters 75 Champion at the National 5 Mile Championships.
+title: LVAC Men Win All Ireland 5 Mile Road Championships.
 location: Phoenix Park, Dublin
 ---
 
