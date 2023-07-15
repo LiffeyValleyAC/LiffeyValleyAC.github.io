@@ -1,7 +1,7 @@
 ---
 title: Dublin Athletics Graded Meeting 2
 location: Tallaght Stadium
-date: 2023-05-10 19:00
+date: 2023-05-10 19:30
 latitude: 53.31098719630516
 longitude: -6.233811202247855
 results:
