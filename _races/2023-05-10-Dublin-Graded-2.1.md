@@ -40,9 +40,9 @@ results:
     time: 2.18.61 
     category: 800m Men Grade D Heat 4
     note:
-  - place: 5
-    name: Peter Bowe
-    time: 2.24.83
-    category: 800m Men Grade D Heat 4
+  - place: 11
+    name: Alejandro Cavallo
+    time: 5.20.64 
+    category: 1500m Men Grade D Heat 1
     note:
 ---
