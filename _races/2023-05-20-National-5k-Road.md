@@ -12,7 +12,7 @@ results:
     note: 🥇M75
   - place: 22
     name: Jen Preston
-    time: 18.50
+    time: 18.50.00
     category: FS
     note:
   - place: 27
@@ -72,7 +72,7 @@ results:
     note:
   - place: 25
     name: Mark Naylor
-    time: 16.00
+    time: 16.00.00
     category: M50
     note:
   - place: 31
@@ -107,7 +107,7 @@ results:
     note: 10th in category
   - place: 104
     name: Peter Bowe
-    time: 18.30
+    time: 18.30.00
     category: M40
     note: 12th in category
   - place: 115
@@ -150,9 +150,4 @@ results:
     time: 23.32
     category: M50
     note: 22nd in category
-  - place: 362
-    name: Pat Collins
-    time: 23.31
-    category: M75
-    note: 1st in category
 ---
