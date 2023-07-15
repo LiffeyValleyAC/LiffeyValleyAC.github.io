@@ -2,8 +2,8 @@
 title: Dublin Athletics Graded Meeting 2 
 location: Tallaght Stadium
 date: 2023-05-10 19:00
-latitude: 53.31098719630516
-longitude: -6.233811202247855
+latitude: 53.283504
+longitude: -6.373669
 results:
   - place: 14
     name: Orla Gordon
