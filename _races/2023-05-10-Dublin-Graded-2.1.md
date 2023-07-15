@@ -10,35 +10,35 @@ results:
     time: 5.43.98
     category: 1500m Grade D 
     note: 
-  - place: 5
-    name: Sergei Dolgy
-    time: 2.18.32
-    category: 800m Men Grade B Heat 1
+  - place: 4
+    name: David Carroll
+    time: 4.20.75
+    category: 1500m Men Grade C Heat 1
     note:
-  - place: 3
+  - place: 6
+    name: Mark Naylor
+    time: 4.22.15
+    category: 1500m Men Grade C Heat 1
+    note:
+  - place: 1
     name: Conor Galvin
-    time: 2.13.30
-    category: 800m Men Grade D Heat 2
-    note:
-  - place: 4
-    name: Keith Lunders
-    time: 2.14.23 
-    category: 800m Men Grade D Heat 2
-    note:
-  - place: 5
-    name: Ciaran Reilly
-    time: 2.14.66 
-    category: 800m Men Grade D Heat 2
-    note:
-  - place: 4
-    name: Tom Ward
-    time: 2.20.96
-    category: 800m Men Grade D Heat 3
+    time: 4.49.00
+    category: 1500m Men Grade D Heat 1
     note:
   - place: 2
+    name: Keith Lunders
+    time: 4.49.80 
+    category: 1500m Men Grade D Heat 1
+    note:
+  - place: 6
     name: Oisin Murphy
-    time: 2.18.61 
-    category: 800m Men Grade D Heat 4
+    time: 5.05.01 
+    category: 1500m Men Grade D Heat 1
+    note:
+  - place: 8
+    name: Peter Bowe
+    time: 5.10.43
+    category: 1500m Men Grade D Heat 1
     note:
   - place: 11
     name: Alejandro Cavallo
