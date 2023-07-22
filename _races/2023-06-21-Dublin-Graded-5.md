@@ -30,11 +30,6 @@ results:
     time: 2.12.91
     category: 800m Men Grade C Heat 2
     note:
-  - place: 5
-    name: Conor Galvin
-    time: 2.11.69
-    category: 800m Men Grade C Heat 2
-    note:
   - place: 2
     name: Patrick Fox
     time: 2.23.00 
