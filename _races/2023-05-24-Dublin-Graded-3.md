@@ -27,7 +27,7 @@ results:
     note:
   - place: 5
     name: Geoffrey Alexandre
-    time: 2.14.23 
+    time: 2.11.15 
     category: 800m Men Grade C Heat 1
     note:
   - place: 4
