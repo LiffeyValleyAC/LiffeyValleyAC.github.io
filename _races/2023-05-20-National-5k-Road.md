@@ -1,5 +1,5 @@
 ---
-title: National 5k Road Race within the Irish Runner 5k
+title: National 5k Road Race
 location: Phoenix Park
 date: 2023-05-20 09:30
 latitude: 53.3522291
