@@ -32,7 +32,7 @@ results:
     note: 16th in category
   - place: 15
     name: Pierce Geoghegan
-    time: 0.54.00
+    time: 0.54.01
     category: M35
     note: 4th in category 
   - place: 26
