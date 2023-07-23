@@ -30,6 +30,11 @@ results:
     time: 1.22.20
     category: F35
     note: 16th in category
+  - place: 225
+    name: Hilary McDonnell
+    time: 1.31.00
+    category: F
+    note: 
   - place: 15
     name: Pierce Geoghegan
     time: 0.54.01
