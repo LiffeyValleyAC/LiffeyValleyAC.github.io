@@ -1,5 +1,5 @@
 ---
-title: National 10 Mile Road Championships - Silver Medals for LVAC Senior Men
+title: National 10 Mile Road Championships - Individual Gold and Team Silver Medals for LVAC
 location: Phoenix Park, Dublin
 ---
 
