@@ -1,5 +1,5 @@
 ---
-title: National 10 mile Road Race
+title: National 10 Miles Road Championships
 location: Phoenix Park
 date: 2023-07-23 09:00
 latitude: 53.370780 
@@ -7,7 +7,7 @@ longitude: -6.342892
 results:
   - place: 689
     name: Pat Collins
-    time: 1.26.08
+    time: 1:26:08
     category: M75
     note: 🥇M75
   - place: 228
@@ -32,7 +32,7 @@ results:
     note: 16th in category
   - place: 15
     name: Pierce Geoghegan
-    time: 54.00
+    time: 0:54.00
     category: M35
     note: 4th in category 
   - place: 26
