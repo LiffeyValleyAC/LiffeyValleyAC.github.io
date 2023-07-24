@@ -16,6 +16,8 @@ Hardly an ideal day for racing in the Phoenix Park with 10 Liffey Valley AC athl
 
 <img src="/assets/images/races/2023-national-10-mile/lvac-10-mile-men.jpeg" class="img-fluid" alt="LVAC 2nd Senior Team National 10 Mile">
 
+<img src="/assets/images/races/2023-national-10-mile/pat_collins.jpg" class="img-fluid" alt="Pat Collins National 10 Mile">
+
 <img src="/assets/images/races/2023-national-10-mile/lvac-10-mile-group.jpeg" class="img-fluid" alt="LVAC Group National 10 Mile">
 
 
