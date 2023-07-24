@@ -61,4 +61,3 @@ results:
     category: M35
     note: 23rd in category 
 ---
-<img src="/assets/images/races/2023-national-10-mile/lvac-10-mile-men.jpeg" class="img-fluid" alt="LVAC 2nd Senior Team National 10 Mile">
