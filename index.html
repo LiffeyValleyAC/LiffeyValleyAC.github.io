@@ -109,7 +109,7 @@ custom_js:
   <div class="col-md-4">
     <h2>News</h2>
     <ul class="news">
-      {% for post in site.categories.news limit:30 %}
+      {% for post in site.categories.news limit:10 %}
       <li class="news">
       <a href="{{ post.url }}">{{ post.title }}</a><br>
       <small>{{ post.date | date: "%A, %-d %B, %Y" }}</small>
@@ -120,13 +120,15 @@ custom_js:
   </div>
   <div class="col-md-4">
     <a href="/join-us">
-    <div class="join">
-      <p class="head">JOIN US TODAY</p>
-      <p>New members always welcome!</p>
-    </div>
-  </a>
+      <div class="join">
+        <p class="head">JOIN US TODAY</p>
+        <p>New members always welcome!</p>
+      </div>
+    </a>
     <div class="video">
       <img src="/assets/images/backs.jpg" alt="The backs of some runners">
+    </div>
+    <div id="mapNews">
     </div>
   </div>
   <div class="fb-page" data-href="https://www.facebook.com/liffeyvalleyac" data-tabs="timeline" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"></div>
@@ -180,4 +182,14 @@ custom_js:
     "longitude": "-6.309119"
   },
 }
+</script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.3/leaflet.js"></script>
+<script>
+  var map = L.map('mapNews').setView([53.346295, -6.309119], 14);
+  L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+    attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors',
+  }).addTo(map);
+  L.marker([53.346295, -6.309119]).addTo(map)
+  //.bindPopup('Liffey Valley AC,<br>Sandpitts Cottage')
+  .openPopup();
 </script>
