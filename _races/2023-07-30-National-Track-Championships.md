@@ -1,9 +1,9 @@
 ---
-title: National Track Championships 
+title: National Senior Track Championships 2023 
 location: Morton Stadium
 date: 2023-07-30 14:00
-latitude: 53.291533 
-longitude: -6.356521
+latitude: 53.400939 
+longitude: -6.244406
 results:
   - place: 5
     name: Geoffrey Alexandre
