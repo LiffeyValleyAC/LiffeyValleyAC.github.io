@@ -1,5 +1,5 @@
 ---
-title: National Senior Track Championships 2023 
+title: National Senior Track Championships 
 location: Morton Stadium
 date: 2023-07-30 14:00
 latitude: 53.400939 
