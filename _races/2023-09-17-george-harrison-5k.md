@@ -1,52 +1,47 @@
 ---
 title: LVAC 5k Road Championship (George Harrison Trophy)
-latitude: 53.348499
-longitude: -6.318000
+latitude: 53.356585
+longitude: -6.324889
 date: 2023-09-17 11:30
 results:
   - place: 1
-    name: Mollie O'Donnell (3)
-    finish_time: 18m 51s
+    name: Brianna McGee
+    finish_time: 20m 15s
     handicap: 0m 00s
-    actual_time: 18m 51s
+    actual_time: 20m 15s
   - place: 2
-    name: Jen Preston (4)
-    finish_time: 19m 09s
-    handicap: 0m 15s
-    actual_time: 18m 54s
+    name: Bridget Long
+    finish_time: 20m 27s
+    handicap: 1m 20s
+    actual_time: 19m 07s
   - place: 3
-    name: Bridget Long (5)
-    finish_time: 20m 55s
-    handicap: 2m 00s
-    actual_time: 18m 55s
-  - place: 4
     name: Siobhán Nugent (1)
-    finish_time: 21m 30s
-    handicap: 3m 00s
+    finish_time: 21m 00s
+    handicap: 2m 30s
     actual_time: 18m 30s
+  - place: 4
+    name: Rebecca McLoughlin
+    finish_time: 21m 26s
+    handicap: 2m 10s
+    actual_time: 19m 16s
   - place: 5
-    name: Rebecca McLoughlin (2)
-    finish_time: 21m 39s
-    handicap: 3m 00s
-    actual_time: 18m 39s
+    name: Orla Gordon
+    finish_time: 22m 39s
+    handicap: 1m 10s
+    actual_time: 21m 29s
   - place: 6
-    name: Orla Gordon (5)
-    finish_time: 21m 55s
-    handicap: 3m 00s
-    actual_time: 18m 55s
+    name: Annie Gittens (2)
+    finish_time: 23m 23s
+    handicap: 4m 30s
+    actual_time: 18m 53s
   - place: 7
-    name: Aoife Brady (7)
-    finish_time: 23m 48s
-    handicap: 4m 00s
-    actual_time: 19m 48s
+    name: Heather Browning (1)
+    finish_time: 25m 30s
+    handicap: 7m 00s
+    actual_time: 18m 30s
   - place: 8
     name: Una Reilly (8)
-    finish_time: 24m 49s
-    handicap: 5m 00s
-    actual_time: 19m 49s
-  - place: 9
-    name: Clare Kavanagh (9)
-    finish_time: 26m 19s
-    handicap: 5m 00s
-    actual_time: 21m 19s
+    finish_time: 26m 11s
+    handicap: 5m 50s
+    actual_time: 20m 21s
 ---
