@@ -1,5 +1,5 @@
 ---
-title: Dublin Novice Cross Country
+title: Dublin Novice Cross Country Championships
 location: Tymon Park, Dublin
 date: 2023-10-08 13:00
 latitude: 53.302456
