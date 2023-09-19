@@ -44,17 +44,17 @@ results:
     finish_time: 26m 11s
     handicap: 5m 50s
     actual_time: 20m 21s
-  - place: -
+  - place: 1
     name: Tom O'Connor
     finish_time: 19m 36s
     handicap: 0m 00s
     actual_time: 19m 36s
-  - place: -
+  - place: 2
     name: Paddy Reilly
     finish_time: 24m 25s
     handicap: 0m 00s
     actual_time: 24m 25s
-  - place: -
+  - place: 3
     name: Joe Cooper
     finish_time: 26m 32s
     handicap: 0m 00s
