@@ -4,11 +4,11 @@ title: Club 5k & 10k Road Championships and George Harrison and Myles Cullen Tro
 
 <p> The George Harrison and Myles Cullen Memorial Races took place on Sunday in the Phoenix Park.<p/>
 
-<p> <b>Myles Cullen<b/> was the founding chairperson of Liffey Valley AC and was integral to the founding of the club. The Myles Cullen Memorial Trophy is awarded to the winner of the closed handicap 10km race for men.</p> 
+<p> <b>Myles Cullen</b> was the founding chairperson of Liffey Valley AC and was integral to the founding of the club. The Myles Cullen Memorial Trophy is awarded to the winner of the closed handicap 10km race for men.</p> 
 
-<p> <b>George Harrison<b/> played a key role in the development of the women's section of Liffey Valley. The George Harrison Trophy is awarded to the winner of the closed handicap 5km race for women.</p>
+<p> <b>George Harrison</b> played a key role in the development of the women's section of Liffey Valley. The George Harrison Trophy is awarded to the winner of the closed handicap 5km race for women.</p>
 
-<p>It was fantastic to see George and Myles Families again for these races, with George's daughter <b>Grace Harrison<b/> baking a wonderful LVAC Cake and Myles' grandson <b>Oisin Cullen<b/> racing in the 10k race. </p>
+<p>It was fantastic to see George and Myles Families again for these races, with George's daughter <b>Grace Harrison</b>> baking a wonderful LVAC Cake and Myles' grandson <b>Oisin Cullen</b> racing in the 10k race. </p>
 
 <p>Congratulations to this year's winners - Conal Fagan and Heather Browning. Both Conal and Heather are newer members of our club and have made great improvements since joining!</p>
 
