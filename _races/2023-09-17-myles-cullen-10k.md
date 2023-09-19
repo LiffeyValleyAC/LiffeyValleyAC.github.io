@@ -65,8 +65,8 @@ results:
     handicap: 10m 00s
     actual_time: 32m 40s
   - place: 13
-    name: Oisin Cullen 
+    name: Oisín Cullen (Guest)
     finish_time: 45m 16s
-    handicap: 
+    handicap: 0m 00s
     actual_time: 45m 16s
 ---
