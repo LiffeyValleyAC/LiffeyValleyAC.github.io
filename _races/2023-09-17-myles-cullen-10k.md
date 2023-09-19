@@ -45,7 +45,7 @@ results:
     handicap: 5m 30s
     actual_time: 33m 55s
   - place: 9
-    name: Conal Fagan
+    name: Conal Fagan (1)
     finish_time: 40m 48s
     handicap: 9m 00s
     actual_time: 31m 48s
