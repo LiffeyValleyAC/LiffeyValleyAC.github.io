@@ -3,7 +3,7 @@ title: Dublin Senior Cross Country Championships
 location: Citywest Hotel Leisure Centre, Dublin
 ---
 
-Congratulations to both our teams for placing 5th place at the Dublin Senior XC Championships in Citywest today.
+Well done to both Womens and Mens teams today in high class fields in both races. The club continued its long tradition of competing at the  top level in all competions, with both our teams for placing 5th place at the Dublin Senior XC Championships in Citywest today
 
 The conditions were good if soft underfoot for the women's 6km race but the skies opened just in time for the men's 10km race making it all the more challenging. 🌧️🌧️🌧️🌧️
 
