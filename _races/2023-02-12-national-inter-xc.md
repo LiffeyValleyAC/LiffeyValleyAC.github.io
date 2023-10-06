@@ -10,7 +10,7 @@ results:
     time: 20.48
     category: FS - 6th Team
   - place: 41
-    name: Siobhan Nugent
+    name: Siobhán Nugent
     time: 21.42
     category: FS - 6th Team
   - place: 42
