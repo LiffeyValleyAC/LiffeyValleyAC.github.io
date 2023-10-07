@@ -7,6 +7,6 @@ longitude: -8.107351
 results:
   - place: 77
     name: Siobhán Nugent
-    time: 22.00
+    time: 18.19
     category: FS
 ---
