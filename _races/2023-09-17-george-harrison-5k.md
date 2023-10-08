@@ -30,7 +30,7 @@ results:
     handicap: 1m 10s
     actual_time: 21m 29s
   - place: 6
-    name: Annie Gittens (2)
+    name: Annie Gittens (3)
     finish_time: 23m 23s
     handicap: 4m 30s
     actual_time: 18m 53s
