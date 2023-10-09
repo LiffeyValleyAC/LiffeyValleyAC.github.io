@@ -8,7 +8,7 @@ results:
   - place: 5
     name: Brigid Reilly
     time: 1.31.14
-    category: F35
+    category: F35 - 3rd place
   - place: 52
     name: Oisín Murphy
     time: 1.25.42
