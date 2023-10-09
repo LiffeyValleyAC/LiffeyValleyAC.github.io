@@ -72,8 +72,8 @@ results:
     note:
   - place: 25
     name: Mark Naylor
-    time: 16.00.00
-    category: M50
+    time: 16.00
+    category: MS
     note:
   - place: 31
     name: Sergei Dolgy
