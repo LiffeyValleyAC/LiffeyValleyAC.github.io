@@ -38,7 +38,7 @@ results:
     time: 04.51
     category: M35
   - place: 8
-    name: Lea Fulcher
+    name: Paul Balfe
     time: 10.14
     category: M35
   - place: 8
