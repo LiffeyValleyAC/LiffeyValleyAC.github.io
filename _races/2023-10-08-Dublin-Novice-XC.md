@@ -7,58 +7,82 @@ longitude: -6.3214874
 results:
   - place: 8
     name: Ciara Broderick Farrell
-    time: 16.00
+    time: 15.58
     category: FS
-  - place: 10
-    name: Mollie O'Donnell
-    time: 16.08
+  - place: 21
+    name: Rebecca McLoughlin
+    time: 16.37
     category: FS
-  - place: 34
+  - place: 23
     name: Brigid Reilly
-    time: 17.35
-    category: FS
-  - place: 37
-    name: Siobhán Nugent
-    time: 17.42
+    time: 16.37
     category: FS
   - place: 40
     name: Orla Gordon
-    time: 17.57
+    time: 17.47
     category: FS
   - place: 41
-    name: Rebecca McLoughlin
-    time: 18.01
+    name: Siobhán Nugent
+    time: 17.51
     category: FS
-  - place: 22
-    name: Mark Naylor
-    time: 21.21
+  - place: 42
+    name: Annie Gittens
+    time: 17.55
+    category: FS
+  - place: 63
+    name: Aoife Page
+    time: 19.16
+    category: FS
+  - place: 70
+    name: Heather Browning
+    time: 20.04
+    category: FS
+  - place: 72
+    name: Melissa Thompson
+    time: 20.19
+    category: FS
+  - place: 73
+    name: Michelle Skeath
+    time: 20.25
+    category: FS
+  - place: 78
+    name: Brianna McGhee
+    time: 24.46
+    category: FS
+  - place: 16
+    name: Geoffrey Alexandre
+    time: 20.47
     category: MS
-  - place: 31
-    name: Sergei Dolgy
-    time: 21.40
-    category: MS
-  - place: 35
+  - place: 26
     name: David Carroll
-    time: 21.56
+    time: 21.22
     category: MS
-  - place: 47
-    name: Conor Galvin
-    time: 22.35
+  - place: 27
+    name: Arnaud Benjacar
+    time: 21.26
     category: MS
-  - place: 62
-    name: Ben O'Connor
-    time: 23.09
+  - place: 38
+    name: James McKenna
+    time: 21.48
     category: MS
   - place: 69
-    name: Keith Lunders
-    time: 23.36
+    name: Donal Iremonger
+    time: 23.04
     category: MS
-  - place: 73
-    name: David Van Buren
-    time: 23.51
+  - place: 72
+    name: Patrick Fox
+    time: 23.13
     category: MS
-  - place: 80
-    name: Matt Blyth
-    time: 24.08
+  - place: 77
+    name: Alejandro Cavallo
+    time: 23.39
+    category: MS
+  - place: 94
+    name: Bernard O'Sullivan
+    time: 25.03
+    category: MS
+  - place: 103
+    name: Anthony McMahon
+    time: 25.40
     category: MS
 ---
