@@ -19,4 +19,4 @@ Congratulations to our women's team on their strong performance in Dunboyne yest
 
 <a href="https://www.instagram.com/p/CzQga-MMXDI/?img_index=1" target="_blank" rel="noopener noreferrer">Instagram - Men</a>
 
-<a href="/races/2023-11-04-leinster-senior-xc/" target="_blank" rel="noopener noreferrer">Race Results</a>
+<a href="/races/2023-11-04-leinster-senior/" target="_blank" rel="noopener noreferrer">Race Results</a>
