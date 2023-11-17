@@ -9,7 +9,7 @@ The months of miles and hard work paid off and they had some great performances.
 
 Well done to Simon, Keith, Ciara, Brigid, John, Alejandro, Patrick, Hilary and David!
 
-<a href="/races/2023-10-29-National-Dublin-Marathon/" target="_blank" rel="noopener noreferrer">Race Results</a>
+<a href="/races/2023-10-29-Dublin-Marathon/" target="_blank" rel="noopener noreferrer">Race Results</a>
 
 <a href="https://www.myrunresults.com/events/athletics_ireland_national_marathon/4965/results" target="_blank" rel="noopener noreferrer">My Run Results</a>
 
