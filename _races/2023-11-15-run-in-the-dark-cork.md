@@ -13,7 +13,7 @@ results:
     note: 1st Overall 🥇 & Personal Best
   - place: 163
     name: Michelle Skeath
-    time: 41.02
+    time: 52.46
     category: FS - Dublin Race
     note: Personal Best
 ---
