@@ -1,7 +1,7 @@
 ---
 title: Leinster Senior Cross Country Championships
 location: Dunboyne, Co. Meath
-date: 2023-11-04 13:00
+date: 2023-11-04 14:00
 latitude: 53.3522291
 longitude: -6.3214874
 results:
@@ -29,25 +29,25 @@ results:
     name: Pierce Geoghegan
     time: 34.08
     category: MS
-    note: 🥉Club Team
+    note: 🥉Club Team🥉
   - place: 16
     name: Geoffrey Alexandre
     time: 35.50
     category: MS
-    note: 🥉Club Team
+    note: 🥉Club Team🥉
   - place: 30
     name: Conor Galvin
     time: 37.37
     category: MS
-    note: 🥉Club Team
+    note: 🥉Club Team🥉
   - place: 31
     name: James McKenna
     time: 37.52
     category: MS
-    note: 🥉Club Team
+    note: 🥉Club Team🥉
   - place: 38
     name: Conor O'Loughlin
     time: 39.25
     category: MS
-    note: 🥉Club Team
+    note: 🥉Club Team🥉
 ---
