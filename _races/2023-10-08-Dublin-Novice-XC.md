@@ -6,7 +6,7 @@ latitude: 53.3522291
 longitude: -6.3214874
 results:
   - place: 8
-    name: Ciara Broderick Far
+    name: Ciara Broderick Farrell
     time: 16.00
     category: FS
   - place: 10
