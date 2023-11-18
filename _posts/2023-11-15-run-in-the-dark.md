@@ -1,5 +1,5 @@
 ---
-title: Run In The Dark 10k Races - Cork / Dublin
+title: Brigid Wins Cork Run In The Dark 10k Race
 location: Dublin & Cork
 ---
 
