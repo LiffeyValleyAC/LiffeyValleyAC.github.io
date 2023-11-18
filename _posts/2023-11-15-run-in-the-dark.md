@@ -1,5 +1,5 @@
 ---
-title: Brigid Wins Cork Run In The Dark 10k Race
+title: Brigid Long wins Cork Run In The Dark 10k Race
 location: Dublin & Cork
 ---
 
