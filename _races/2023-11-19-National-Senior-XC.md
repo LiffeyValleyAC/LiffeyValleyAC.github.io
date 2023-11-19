@@ -25,10 +25,4 @@ results:
     time: 44.13
     category: MS
     note: 2nd Club Grade "B" All Ireland Senior🥈
-  - place: 218
-    name: Mark Naylor
-    time: 1.06.32
-    category: MS
-    note: 2nd Club Grade "B" All Ireland Senior🥈
-
 ---
