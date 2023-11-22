@@ -1,5 +1,5 @@
 ---
-title: Dublin Novice Cross Country Championships
+title: LVAC Women 4th at Dublin Novice Cross Country Championships
 location: Tymon Park, Dublin
 ---
 
