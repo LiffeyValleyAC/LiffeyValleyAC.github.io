@@ -20,11 +20,11 @@ results:
   - place: 61
     name: Ciara Broderick Farrell
     time: 3.14.44
-    category: FS
+    category: 🥉 3rd Dublin Championships Senior
   - place: 10
     name: Brigid Reilly
     time: 3.17.30
-    category: F35
+    category: 🥉 3rd Dublin Championships F35
   - place: 124
     name: Alejandro Cavallo
     time: 3.20.57
