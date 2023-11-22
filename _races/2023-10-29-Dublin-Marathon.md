@@ -1,6 +1,6 @@
 ---
 title: 2023 Irish Life Dublin  Marathon
-location: PDublin
+location: Dublin
 date: 2023-09-23 09:00
 latitude: 53.365516
 longitude: -6.337371
@@ -17,11 +17,11 @@ results:
     name: Keith Lunders
     time: 3.05.45
     category: M35
-  - place: 61
+  - place: 3
     name: Ciara Broderick Farrell
     time: 3.14.44
     category: 🥉 3rd Dublin Championships Senior
-  - place: 10
+  - place: 3
     name: Brigid Reilly
     time: 3.17.30
     category: 🥉 3rd Dublin Championships F35
