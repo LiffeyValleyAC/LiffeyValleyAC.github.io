@@ -1,9 +1,11 @@
 ---
-title: Dublin Marathon 2023
+title: Bronze Medals for Ciara and Brigid in Dublin Marathon Championships 2023
 location: Dublin
 ---
 
 A big congratulations to all our athletes who competed in the Dublin Marathon over the weekend.
+
+Special congratulations go to 🥉Ciara Broderick Farrell (3.14.44 - 3rd Senior) and 🥉 Brigid Reilly (3.17.30 - 3rd F35) who both won bronze medals in their respective Dublin Championship categories.
 
 The months of miles and hard work paid off and they had some great performances.
 
