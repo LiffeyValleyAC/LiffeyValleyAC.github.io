@@ -9,9 +9,9 @@ Congratulations to our senior men's team on their third place finish in the Lein
 
 Congratulations to our women's team on their strong performance in Dunboyne yesterday. The women battled it out for every place to finish 5th in the Leinster Senior XC Championships.
 
-<img src="/assets/images/races/2023-leinster-senior-xc/Women-Leinster-Senior-XC.jpeg" class="img-fluid" alt="Women's Team">
+<img src="/assets/images/races/2023/leinster-senior-xc/Women-Leinster-Senior-XC.jpeg" class="img-fluid" alt="Women's Team">
 
-<img src="/assets/images/races/2023-leinster-senior-xc/Men-Leinster-Senior-XC.jpeg" class="img-fluid" alt="Men's Team">
+<img src="/assets/images/races/2023/leinster-senior-xc/Men-Leinster-Senior-XC.jpeg" class="img-fluid" alt="Men's Team">
 
 <a href="https://www.myrunresults.com/events/leinster_senior_xc_championships_2023/4980/results" target="_blank" rel="noopener noreferrer">My Run Results</a>
 
