@@ -1,5 +1,5 @@
 ---
-title: Bronze Medal for Brigid in Dublin Half Marathon Championships 2023
+title: Bronze Medal for Brigid Long in Dublin Half Marathon Championships 2023
 location: Dublin
 ---
 
@@ -7,7 +7,7 @@ A great morning of racing for five of our athletes in the Dublin Half Marathon i
 
 Congratulations to Brigid Reilly, Oisín Murphy and David Mitchell, Siobhan Nugent and David Van Buren.
 
-Special congratulations go to 🥉 Brigid Reilly (1.31.14 - 3rd F35) who both won bronze in the Dublin Championship, adding to her growing medal collection.
+Special congratulations go to 🥉 Brigid Long (1.31.14 - 3rd F35) who both won bronze in the Dublin Championship, adding to her growing medal collection.
 
 <img src="/assets/images/races/2023/dublin-half-marathon/Brigid.jpeg" class="img-fluid" alt="Brigid">
 

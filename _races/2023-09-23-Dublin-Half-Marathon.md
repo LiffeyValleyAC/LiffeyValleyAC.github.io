@@ -6,7 +6,7 @@ latitude: 53.365516
 longitude: -6.337371
 results:
   - place: 5
-    name: Brigid Reilly
+    name: Brigid Long
     time: 1.31.14
     category: F35 
     note: 🥉 3rd Dublin Championship 🥉
