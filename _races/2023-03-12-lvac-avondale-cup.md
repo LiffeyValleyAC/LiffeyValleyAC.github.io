@@ -1,22 +1,22 @@
 ---
 title: LVAC Avondale Cup
 location: Phoenix Park, George Harrison 5k Lap
-date: 2022-03-27 11:00
+date: 2023-03-12 11:00
 latitude: 53.36259
 longitude: -6.335077
 results:
   - place: 1
-    name: David Carroll
-    finish_time: 26m 22s
-    handicap: 8m 45s
-    actual_time: 17m 37s
+    name: Patrick Fox
+    finish_time: 27m 02s
+    handicap: 8m 20s
+    actual_time: 18m 42s
   - place: 2
-    name: Brigit Long
-    finish_time: 26m 33s
-    handicap: 5m 30s
-    actual_time: 21m 03s
+    name: Hilary McDonnell 
+    finish_time: 27m 21s
+    handicap: 1m 00s
+    actual_time: 26m 21s
   - place: 3
-    name: Jen Preston
+    name: Seán O'Meallaigh
     finish_time: 26m 54s
     handicap: 8m 00s
     actual_time: 18m 54s
@@ -26,93 +26,113 @@ results:
     handicap: 9m 45s
     actual_time: 17m 17s
   - place: 5
-    name: Seán O'Meallaigh
+    name: David Carroll
     finish_time: 27m 03s
     handicap: 7m 15s
     actual_time: 19m 48s
   - place: 6
-    name: Paul Balfe
-    finish_time: 27m 04s
-    handicap: 8m 30s
-    actual_time: 18m 34s
+    name: Shauna Dunne
+    finish_time: 27m 48s
+    handicap: 7m 00s
+    actual_time: 20m 48s
   - place: 7
-    name: Sinead McDonald
-    finish_time: 27m 06s
-    handicap: 8m 30s
-    actual_time: 18m 36s
-  - place: 8
-    name: Tadgh Prendeville
-    finish_time: 27m 21s
-    handicap: 9m 45s
-    actual_time: 17m 36s
-  - place: 9
     name: Tommy Breheny
-    finish_time: 27m 29s
-    handicap: 5m 30s
-    actual_time: 21m 59s
-  - place: 10
-    name: Sergei Dolgy
-    finish_time: 27m 31s
-    handicap: 10m 00s
-    actual_time: 17m 31s
-  - place: 11
-    name: Joe Cooper
-    finish_time: 27m 34s
-    handicap: 2m 30s
-    actual_time: 25m 04s
-  - place: 12
-    name: Úna Reilly
     finish_time: 27m 41s
-    handicap: 4m 15s
-    actual_time: 23m 41s
-  - place: 13
-    name: Tom O'Connor
-    finish_time: 27m 45s
-    handicap: 9m 30s
-    actual_time: 18m 15s
-  - place: 14
-    name: Paddy Reilly
+    handicap: 6m 10s
+    actual_time: 21m 31s
+  - place: 8
+    name: Joe Cooper
+    finish_time: 27m 55s
+    handicap: 1m 15s
+    actual_time: 26m 40s
+  - place: 9
+    name: Ciaran Reilly
     finish_time: 27m 56s
-    handicap: 4m 15s
-    actual_time: 23m 41s
+    handicap: 10m 10s
+    actual_time: 17m 46s
+  - place: 10
+    name: John Touhy
+    finish_time: 27m 58s
+    handicap: 8m 20s
+    actual_time: 19m 38s
+  - place: 11
+    name: Brigid Long
+    finish_time: 28m 04s
+    handicap: 7m 00s
+    actual_time: 21m 04s
+  - place: 12
+    name: Conor O'Loughlin
+    finish_time: 28m 06s
+    handicap: 9m 30s
+    actual_time: 18m 36s
+  - place: 13
+    name: Kevin McDonnell
+    finish_time: 28m 12s
+    handicap: 9m 00s
+    actual_time: 19m 12s
+  - place: 14
+    name: Paulius Zeimys
+    finish_time: 28m 19s
+    handicap: 8m 10s
+    actual_time: 20m 09s
   - place: 15
-    name: Orla Gordon
-    finish_time: 28m 14s
-    handicap: 5m 15s
-    actual_time: 22m 59s
+    name: Úna Reilly
+    finish_time: 28m 20s
+    handicap: 3m 15s
+    actual_time: 25m 05s
   - place: 16
-    name: Stephanie Hawkins
-    finish_time: 28m 18s
-    handicap: 5m 30s
-    actual_time: 22m 48s
+    name: David Van Buren
+    finish_time: 28m 22s
+    handicap: 9m 30s
+    actual_time: 18m 52s
   - place: 17
-    name: Siobhan Nugent
-    finish_time: 28m 44s
-    handicap: 7m 30s
-    actual_time: 21m 14s
+    name: Tom Ward
+    finish_time: 28m 31s
+    handicap: 9m 00s
+    actual_time: 19m 31s
   - place: 18
-    name: Jim Davis
-    finish_time: 28m 45s
-    handicap: 0m 00s
-    actual_time: 28m 45s
+    name: Pat Collins
+    finish_time: 28m 33s
+    handicap: 4m 15s
+    actual_time: 24m 18s
   - place: 19
-    name: Hilary McDonnell
-    finish_time: 28m 50s
-    handicap: 2m 30s
-    actual_time: 26m 20s
+    name: Mollie O'Donnell
+    finish_time: 28m 33s
+    handicap: 8m 30s
+    actual_time: 20m 03s
   - place: 20
-    name: Aoife Brady
-    finish_time: 29m 03s
-    handicap: 5m 00s
-    actual_time: 24m 03s
+    name: Mary Ellen Ryan
+    finish_time: 28m 35s
+    handicap: 3m 50s
+    actual_time: 24m 45s
   - place: 21
-    name: Soraya Enriquez
-    finish_time: 29m 34s
-    handicap: 4m 45s
-    actual_time: 24m 49s
+    name: Paul Balfe
+    finish_time: 28m 42s
+    handicap: 9m 10s
+    actual_time: 19m 32s
   - place: 22
-    name: Tara Fitzsimon
-    finish_time: 32m 07s
-    handicap: 5m 30s
-    actual_time: 26m 37s
+    name: Michael Ferriera
+    finish_time: 28m 53s
+    handicap: 8m 15s
+    actual_time: 20m 38s
+  - place: 23
+    name: Orla Gordon
+    finish_time: 29m 12s
+    handicap: 6m 10s
+    actual_time: 23m 02s
+  - place: 24
+    name: Paddy Reilly
+    finish_time: 29m 17s
+    handicap: 4m 00s
+    actual_time: 25m 17s
+  - place: 25
+    name: John Costigan
+    finish_time: 29m 24s
+    handicap: 7m 30s
+    actual_time: 21m 54s
+  - place: 26
+    name: Jim Davis
+    finish_time: 29m 27s
+    handicap: 0m 00s
+    actual_time: 29m 27s
 ---
