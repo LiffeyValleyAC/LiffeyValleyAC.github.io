@@ -9,9 +9,9 @@ Congratulations also to our men's team on their 6th place finish. It was great t
 
 Well done to all!
 
-<img src="/assets/images/races/2023-dublin-novice-xc/Women-Novice-XC-2023.jpeg" class="img-fluid" alt="Women's Team">
+<img src="/assets/images/races/2023/dublin-novice-xc/Women-Novice-XC-2023.jpeg" class="img-fluid" alt="Women's Team">
 
-<img src="/assets/images/races/2023-dublin-novice-xc/Men-Novice-XC-2023.jpeg" class="img-fluid" alt="Men's Team">
+<img src="/assets/images/races/2023/dublin-novice-xc/Men-Novice-XC-2023.jpeg" class="img-fluid" alt="Men's Team">
 
 <a href="/races/2023-10-08-Dublin-Novice-XC/" target="_blank" rel="noopener noreferrer">Race Results</a>
 
