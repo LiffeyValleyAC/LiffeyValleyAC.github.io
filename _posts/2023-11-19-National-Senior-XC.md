@@ -8,7 +8,7 @@ Congratulations to our men's team who claimed 🥈 in Grade B at the National Cr
 Overall, a great performance in very testing conditions.
 
 
-<img src="/assets/images/races/2023-national-senior-xc/Group.jpeg" class="img-fluid" alt="Mens Team National Senior XC">
+<img src="/assets/images/races/2023/national-senior-xc/Group.jpeg" class="img-fluid" alt="Mens Team National Senior XC">
 
 
 <a href="/races/2023-11-19-National-Senior-XC/" target="_blank" rel="noopener noreferrer">Race Results</a>
