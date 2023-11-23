@@ -11,23 +11,23 @@ The months of miles and hard work paid off and they had some great performances.
 
 Well done to Simon, Keith, Ciara, Brigid, John, Alejandro, Patrick, Hilary and David!
 
-<img src="/assets/images/races/2023-dublin-marathon/Hilary.jpeg" class="img-fluid" alt="Hilary">
+<img src="/assets/images/races/2023/dublin-marathon/Hilary.jpeg" class="img-fluid" alt="Hilary">
 
-<img src="/assets/images/races/2023-dublin-marathon/Patrick.jpeg" class="img-fluid" alt="Patrick">
+<img src="/assets/images/races/2023/dublin-marathon/Patrick.jpeg" class="img-fluid" alt="Patrick">
 
-<img src="/assets/images/races/2023-dublin-marathon/Ciara.jpeg" class="img-fluid" alt="Ciara">
+<img src="/assets/images/races/2023/dublin-marathon/Ciara.jpeg" class="img-fluid" alt="Ciara">
 
-<img src="/assets/images/races/2023-dublin-marathon/Brigid.jpeg" class="img-fluid" alt="Brigid">
+<img src="/assets/images/races/2023/dublin-marathon/Brigid.jpeg" class="img-fluid" alt="Brigid">
 
-<img src="/assets/images/races/2023-dublin-marathon/Simon.jpeg" class="img-fluid" alt="Simon">
+<img src="/assets/images/races/2023/dublin-marathon/Simon.jpeg" class="img-fluid" alt="Simon">
 
-<img src="/assets/images/races/2023-dublin-marathon/David.jpeg" class="img-fluid" alt="David">
+<img src="/assets/images/races/2023/dublin-marathon/David.jpeg" class="img-fluid" alt="David">
 
-<img src="/assets/images/races/2023-dublin-marathon/Alejandro.jpeg" class="img-fluid" alt="Alejandro">
+<img src="/assets/images/races/2023/dublin-marathon/Alejandro.jpeg" class="img-fluid" alt="Alejandro">
 
-<img src="/assets/images/races/2023-dublin-marathon/Keith.jpeg" class="img-fluid" alt="Keith">
+<img src="/assets/images/races/2023/dublin-marathon/Keith.jpeg" class="img-fluid" alt="Keith">
 
-<img src="/assets/images/races/2023-dublin-marathon/John.jpeg" class="img-fluid" alt="John">
+<img src="/assets/images/races/2023/dublin-marathon/John.jpeg" class="img-fluid" alt="John">
 
 <a href="/races/2023-10-29-Dublin-Marathon/" target="_blank" rel="noopener noreferrer">Race Results</a>
 
