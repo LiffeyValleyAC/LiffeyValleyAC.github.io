@@ -117,7 +117,7 @@ custom_js:
   <div class="col-md-4">
     <h2>News</h2>
     <ul class="news">
-      {% for post in site.categories.news limit:30 %}
+      {% for post in site.categories.news limit:15 %}
       <li class="news">
       <a href="{{ post.url }}">{{ post.title }}</a><br>
       <small>{{ post.date | date: "%A, %-d %B, %Y" }}</small>
@@ -134,7 +134,7 @@ custom_js:
       </div>
     </a>
     <div class="video">
-      <img src="/assets/images/tbm-2024-small.jpeg" alt="TTom Brennan Memorial 2024">
+      <img src="/assets/images/tbm-2024-small.jpeg" alt="Tom Brennan Memorial 2024">
     </div>
     <div id="mapNews">
     </div>
