@@ -3,7 +3,7 @@ title: Bronze Medals for LVAC Men at the Dublin Intermediate XC
 location: Tymon Park, Co. Dublin
 ---
 
-🥉Dublin Intermediate Bronze 🥉
+🥉Dublin Intermediate Bronze🥉
 
 Congratulations to our senior men's team on their third place finish in the Dublin Inter XC Championships in Tymon Park. With every place counting, our total of 76 points was just enough to edge out Raheny Shamrocks AC (78 pts) in 4th and Donore Harriers AC (79) in 5th.
 
