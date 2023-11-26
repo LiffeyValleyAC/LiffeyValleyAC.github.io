@@ -13,11 +13,6 @@ So many thanks for the LVAC Supporters around the course who gave our 11 women a
 
 <img src="/assets/images/races/2023/dublin-inter-xc/Women-Group.jpeg" class="img-fluid" alt="Women's Team">
 
-
 <a href="https://www.myrunresults.com/events/dublin_juvenile_xc_league_1_and_intermediate_xc_championships_2023/4913/results" target="_blank" rel="noopener noreferrer">My Run Results</a>
 
---<a href="https://www.instagram.com/p/CzQgiacMwdR/?img_index=4" target="_blank" rel="noopener noreferrer">Instagram - Women</a>
-
---<a href="https://www.instagram.com/p/CzQga-MMXDI/?img_index=1" target="_blank" rel="noopener noreferrer">Instagram - Men</a>
-
---<a href="/races/2023-11-04-leinster-senior/" target="_blank" rel="noopener noreferrer">Race Results</a>
+<a href="/races/2023-11-26-Dublin-Inter-XC/" target="_blank" rel="noopener noreferrer">Race Results</a>
