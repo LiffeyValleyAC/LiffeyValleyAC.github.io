@@ -11,10 +11,9 @@ The months of miles and hard work paid off and they had some great performances.
 
 Well done to Simon, Keith, Ciara, Brigid, John, Alejandro, Patrick, Hilary and David!
 
+<img src="/assets/images/races/2023/dublin-marathon/Brigid-Medal.JPG" class="img-fluid" alt="Brigid">
 
 <img src="/assets/images/races/2023/dublin-marathon/Ciara.jpeg" class="img-fluid" alt="Ciara">
-
-<img src="/assets/images/races/2023/dublin-marathon/Brigid.jpeg" class="img-fluid" alt="Brigid">
 
 <img src="/assets/images/races/2023/dublin-marathon/Hilary.jpeg" class="img-fluid" alt="Hilary">
 
