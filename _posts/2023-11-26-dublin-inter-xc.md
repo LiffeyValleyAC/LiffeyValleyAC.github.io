@@ -11,7 +11,11 @@ Congratulations also to our women's team on their strong performance as they bat
 
 So many thanks for the LVAC Supporters around the course who gave our 11 women and 13 men the necessary encouragement to gain those extra places and points on a tough course.
 
-<img src="/assets/images/races/2023/dublin-inter-xc/Women-Group.jpeg" class="img-fluid" alt="Women's Team">
+<img src="/assets/images/races/2023/dublin-inter-xc/Men-Team.JPG" class="img-fluid" alt="Men's Team">
+
+<img src="/assets/images/races/2023/dublin-inter-xc/Men-Squad.JPG" class="img-fluid" alt="Men's Squad">
+
+<img src="/assets/images/races/2023/dublin-inter-xc/Women-Group.jpeg" class="img-fluid" alt="Women's Squad">
 
 <a href="https://www.myrunresults.com/events/dublin_juvenile_xc_league_1_and_intermediate_xc_championships_2023/4913/results" target="_blank" rel="noopener noreferrer">My Run Results</a>
 
