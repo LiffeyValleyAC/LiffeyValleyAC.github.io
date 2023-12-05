@@ -1,23 +1,26 @@
 ---
-title: Personal Bests for LVAC Athletes in Jingle Bells 5k
-location: Phoenix Park, Dublin
+title: National Novice XC
+location: Navan, Co. Meath
 ---
 
-Well done to all of our members who took part in the Donore Harriers Jingle Bells 5k this morning.
+Well done to the LVAC Mens Team who finished 11th club teams in a very competive National Novice XC in Navan.
 
-There were a lot of targets beaten and new PBs set in the chilly conditions! ❄️
-Our Female team placed 11th out of a total of 102 teams. Congratulations Everyone!
+61 David Carroll 21.57
+66 Mark Naylor 22.05
+75 Conor Galvin 22.25
+119 Oisin Murphy 24.15
+122 Patrick Fox 24.22
+123 Simon Monds 24.24
+136 Cormac Long 25.25
 
-Official times:
-Pierce Geoghegan 15:12
-Brianna McGhee 18:58
-Keith Lunders 19:10
-Brigid Reilly 19:30
-Siobhan Nugent 19:40
-Orla Gordon 20:04
-Annie Gittens 20:54
-John Cullen 23:39
+Siobhan Nugent ran 17.26 as an individual entrant in the women's race, rubbing shoulders with former LVAC Team mate Sinead McDonald.
 
-<a href="https://www.instagram.com/p/C0W-BYpMMCf/" target="_blank" rel="noopener noreferrer">Instagram</a>
+<img src="/assets/images/races/2023/national-novice-xc/Men-Group-2.jpeg" class="img-fluid" alt="Mens Group">
 
-<a href="/races/2023-12-02-jingle-bells-5k/" target="_blank" rel="noopener noreferrer">Race Results</a>
+<img src="/assets/images/races/2023/national-novice-xc/Women-Group.jpeg" class="img-fluid" alt="Womens Team">
+
+<img src="/assets/images/races/2023/national-novice-xc/Men-Group-1.jpeg" class="img-fluid" alt="Mens Group">
+
+<a href="https://www.instagram.com/p/C0Zx-s1MQN1/?img_index=2" target="_blank" rel="noopener noreferrer">Instagram</a>
+
+<a href="/races/2023-12-03-national-novice-xc/" target="_blank" rel="noopener noreferrer">Race Results</a>
