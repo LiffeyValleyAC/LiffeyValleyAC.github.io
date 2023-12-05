@@ -1,9 +1,9 @@
 ---
-title: National Novice XC
+title: Strong Performances at the National Novice XC
 location: Navan, Co. Meath
 ---
 
-Well done to the LVAC Mens Team who finished 11th club teams in a very competive National Novice XC in Navan.
+Well done to the LVAC Mens Team who finished 11th club team in a very competive National Novice XC in Navan.
 
 61 David Carroll 21.57
 66 Mark Naylor 22.05
