@@ -24,7 +24,7 @@ results:
     actual_time: 18m 52s
     note:
   - place: 4
-    name: Alex D
+    name: Alex Du Marquez
     finish_time: 26m 14s
     handicap: 4m 45s
     actual_time: 21m 29s
@@ -84,7 +84,7 @@ results:
     actual_time: 21m 05s
     note:
   - place: 14
-    name: TBC
+    name: Tommy Breheny
     finish_time: 27m 14s
     handicap: 3m 30s
     actual_time: 23m 44s
@@ -132,7 +132,7 @@ results:
     actual_time: 22m 57s
     note:
   - place: 22
-    name: TBC
+    name: Jeanne Nicollier
     finish_time: 28m 10s
     handicap: 4m 30s
     actual_time: 23m 40s
@@ -143,14 +143,14 @@ results:
     handicap: 7m 45s
     actual_time: 20m 31s
     note:
-  - place: 25
+  - place: 24
     name: Tom O'Connor
     finish_time: 28m 34s
     handicap: 6m 30s
     actual_time: 22m 04s
     note:
   - place: 25
-    name: Tommy Breheny
+    name: Sean Conneally
     finish_time: 31m 56s
     handicap: 4m 45s
     actual_time: 27m 11s
