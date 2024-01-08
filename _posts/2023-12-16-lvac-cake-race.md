@@ -1,5 +1,5 @@
 ---
-title: LVAC Cake Race
+title: Victory is sweet for Bernard O'Sullivan at the LVAC Cake Race
 location: Phoenix Park, Dublin
 ---
 
