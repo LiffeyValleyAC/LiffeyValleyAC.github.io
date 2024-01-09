@@ -19,7 +19,7 @@ F35 - 9th
 M35 - 7th
 M50 - 9th
 
-Thank you to Raheny Shamrocks AC for for being wonderful hosts. 
+Thank you to Raheny Shamrocks A.C. for being wonderful hosts. 
 
 <img src="/assets/images/races/2024/dublin-masters-xc/Medalists.jpeg" class="img-fluid" alt="Medalists">
 
