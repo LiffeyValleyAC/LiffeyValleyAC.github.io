@@ -7,6 +7,8 @@ Well done to Donal Iremonger who won a silver medal at the 800m championships. T
 
 🥈M50 800m Donal Iremonger 2.10.84
 
+<img src="/assets/images/races/2024/national-indoors-masters/Donal.PNG" class="img-fluid" alt="Donal">
+
 <a href="https://www.instagram.com/p/C2FxGgnsdYA/" target="_blank" rel="noopener noreferrer">Instagram</a>
 
 <a href="http://results.athleticsireland.ie/results_13012024/menu.html" target="_blank" rel="noopener noreferrer">Athletics Ireland Results</a>
