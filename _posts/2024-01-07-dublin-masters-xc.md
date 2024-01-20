@@ -1,5 +1,5 @@
 ---
-title: Gold for Pat Collins at the Dublin Masters XC
+title: Gold for Pat Collins as LVAC take medals at the Dublin Masters XC
 location: Raheny, Dublin
 ---
 
