@@ -1,5 +1,5 @@
 ---
-title: Leinster Intermediate Cross Country Championships
+title: Bronze for LVAC Women at Leinster Intermediate Cross Country Championships
 location: Avondale House, Co. Wicklow
 ---
 
