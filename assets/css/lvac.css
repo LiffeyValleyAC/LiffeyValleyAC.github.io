@@ -135,7 +135,7 @@ a, a:hover {
   border-bottom-left-radius:6px;
   text-indent:0;
   border:1px solid #143356;
-  display:inline-block;
+  /* display:inline-block; */
   color:#FCD50D;
   text-align:center;
   text-shadow:1px 1px 0px #143356;
@@ -180,9 +180,10 @@ hr {
 
 #mapNews {
   /* padding: 10px; */
-  margin: 20px 5px 20px 0px;
+  /* margin: 20px 5px 20px 0px; */
+  margin: 0px 0px 20px 0px;
   height: 180px;
-  width: 290px;
+  /* width: 290px; */
 }
 
 .leaflet-popup-content {
