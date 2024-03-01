@@ -8,15 +8,15 @@ results:
   - place: 2
     name: Una Reilly
     time: 16.26
-    category: 🥈 F70
+    category: F70 🥈
   - place: 1
     name: Pat Collins
     time: 15.09
-    category: 🥇 M75
+    category: M75 🥇 
   - place: 2
     name: Paddy Reilly
     time: 15.52
-    category: 🥈 M75
+    category: M75 🥈
   - place: 4
     name: Joe Cooper
     time: 16.03
@@ -24,7 +24,7 @@ results:
   - place: 3
     name: Tom O'Connor
     time: 30.28
-    category: 🥉 M60
+    category: M60 🥉
   - place: 9
     name: Tommy Breheny
     time: 35.05
@@ -52,7 +52,7 @@ results:
   - place: 2
     name: Pierce Geoghegan
     time: 24.13
-    category: 🥈 M35
+    category: M35 🥈
   - place: 32
     name: Cormac Long 
     time: 29.54
