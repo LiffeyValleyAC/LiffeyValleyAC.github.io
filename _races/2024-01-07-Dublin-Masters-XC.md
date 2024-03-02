@@ -6,7 +6,7 @@ latitude: 53.3522291
 longitude: -6.3214874
 results:
   - place: 2
-    name: Una Reilly
+    name: Úna Reilly
     time: 16.26
     category: F70 🥈
   - place: 1
@@ -66,7 +66,7 @@ results:
     time: 27.34
     category: M40
   - place: 30
-    name: Sean O'Meallaigh
+    name: Sean Ó'Meallaigh
     time: 28.55
     category: M40
   - place: 40
