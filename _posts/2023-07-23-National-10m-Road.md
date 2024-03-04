@@ -14,11 +14,11 @@ Hardly an ideal day for racing in the Phoenix Park with 10 Liffey Valley AC athl
 "Thanks everyone for the unreal support today! I lost track of all the cheers I got along the way. The LV train was the envy of all the other clubs, pushed us all the way!"
 
 
-<img src="/assets/images/races/2023-national-10-mile/lvac-10-mile-men.jpeg" class="img-fluid" alt="LVAC 2nd Senior Team National 10 Mile">
+<img src="/assets/images/races/2023/national-10-mile/lvac-10-mile-men.jpeg" class="img-fluid" alt="LVAC 2nd Senior Team National 10 Mile">
 
-<img src="/assets/images/races/2023-national-10-mile/pat_collins.jpg" class="img-fluid" alt="Pat Collins National 10 Mile">
+<img src="/assets/images/races/2023/national-10-mile/pat_collins.jpg" class="img-fluid" alt="Pat Collins National 10 Mile">
 
-<img src="/assets/images/races/2023-national-10-mile/lvac-10-mile-group.jpeg" class="img-fluid" alt="LVAC Group National 10 Mile">
+<img src="/assets/images/races/2023/national-10-mile/lvac-10-mile-group.jpeg" class="img-fluid" alt="LVAC Group National 10 Mile">
 
 
 <a href="/races/2023-07-23-National-10m-Road/" target="_blank" rel="noopener noreferrer">Race Results</a>
