@@ -15,7 +15,7 @@ Congratulations to Pat Collins in winning his first (of many to come) national t
 
 Well done to all! Great to see so many Liffey Valley AC athletes competing at a national championship.
 
-<img src="/assets/images/races/2023-national-5k/lvac-team-pic-5k-2023.jpeg" class="img-fluid" alt="LVAC Team 5k 2023">
+<img src="/assets/images/races/2023/national-5k/lvac-team-pic-5k-2023.jpeg" class="img-fluid" alt="LVAC Team 5k 2023">
 
 <a href="/races/2023-05-20-National-5k-Road/" target="_blank" rel="noopener noreferrer">Race Results</a>
 
