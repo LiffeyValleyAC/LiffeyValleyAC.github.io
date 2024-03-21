@@ -146,7 +146,7 @@ results:
     handicap: 4m 15s
     actual_time: 15m 33s
   - place: 29
-    name: Sora Enriquez
+    name: AN Other
     finish_time: 21m 07s
     handicap: 5m 45s
     actual_time: 15m 22s
