@@ -106,7 +106,7 @@ results:
     handicap: 5m 00s
     actual_time: 24m 03s
   - place: 21
-    name: Soraya Enriquez
+    name: AN Other
     finish_time: 29m 34s
     handicap: 4m 45s
     actual_time: 24m 49s
