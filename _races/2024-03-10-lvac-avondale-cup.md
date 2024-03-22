@@ -10,129 +10,124 @@ results:
     finish_time: 25m 15s
     handicap: 9m 15s
     actual_time: 16m 00s
+    note: 🥇 Fastest Time (Men)
   - place: 2
     name: Bernard O'Sullivan
     finish_time: 25m 35s
     handicap: 5m 45s
     actual_time: 19m 50s
+    note: 🥈
   - place: 3
     name: John Touhy
     finish_time: 25m 40s
     handicap: 5m 30s
     actual_time: 20m 10s
+    note: 🥉
   - place: 4
     name: Mark Naylor
     finish_time: 25m 45s
     handicap: 9m 25s
     actual_time: 16m 20s
+    note: 2nd Fastest Time (Men)
   - place: 5
     name: Conor Galvin
     finish_time: 25m 59s
     handicap: 8m 35s
     actual_time: 19m 48s
+    note:
   - place: 6
     name: Oisín Murphy
     finish_time: 26m 00s
     handicap: 8m 00s
     actual_time: 18m 00s
+    note:
   - place: 7
     name: Aifric Gallagher
     finish_time: 26m 01s
     handicap: 4m 55s
     actual_time: 21m 06s
+    note:
   - place: 8
-    name: Melissa Cooper
-    finish_time: 27m 55s
-    handicap: 1m 15s
-    actual_time: 26m 40s
+    name: Melissa Thompson
+    finish_time: 26m 02s
+    handicap: 2m 05s
+    actual_time: 23m 57s
+    note:
   - place: 9
-    name: Ciaran Reilly
-    finish_time: 27m 56s
-    handicap: 10m 10s
-    actual_time: 17m 46s
-  - place: 10
-    name: John Touhy
-    finish_time: 27m 58s
+    name: Patrick Fox
+    finish_time: 26m 02s
     handicap: 8m 20s
-    actual_time: 19m 38s
+    actual_time: 17m 42s
+    note:
+  - place: 10
+    name: Annie Gittens
+    finish_time: 26m 04s
+    handicap: 5m 15s
+    actual_time: 20m 49s
+    note:
   - place: 11
-    name: Brigid Long
-    finish_time: 28m 04s
-    handicap: 7m 00s
-    actual_time: 21m 04s
-  - place: 12
     name: Conor O'Loughlin
-    finish_time: 28m 06s
-    handicap: 9m 30s
-    actual_time: 18m 36s
-  - place: 13
-    name: Kevin McDonnell
-    finish_time: 28m 12s
-    handicap: 9m 00s
-    actual_time: 19m 12s
-  - place: 14
-    name: Paulius Zeimys
-    finish_time: 28m 19s
-    handicap: 8m 10s
-    actual_time: 20m 09s
-  - place: 15
-    name: Úna Reilly
-    finish_time: 28m 20s
-    handicap: 3m 15s
-    actual_time: 25m 05s
-  - place: 16
-    name: David Van Buren
-    finish_time: 28m 22s
-    handicap: 9m 30s
-    actual_time: 18m 52s
-  - place: 17
-    name: Tom Ward
-    finish_time: 28m 31s
-    handicap: 9m 00s
-    actual_time: 19m 31s
-  - place: 18
-    name: Pat Collins
-    finish_time: 28m 33s
-    handicap: 4m 15s
-    actual_time: 24m 18s
-  - place: 19
-    name: Mollie O'Donnell
-    finish_time: 28m 33s
-    handicap: 8m 30s
-    actual_time: 20m 03s
-  - place: 20
-    name: Mary Ellen Ryan
-    finish_time: 28m 35s
-    handicap: 3m 50s
-    actual_time: 24m 45s
-  - place: 21
-    name: Paul Balfe
-    finish_time: 28m 42s
-    handicap: 9m 10s
-    actual_time: 19m 32s
-  - place: 22
-    name: Michael Ferriera
-    finish_time: 28m 53s
-    handicap: 8m 15s
-    actual_time: 20m 38s
-  - place: 23
-    name: Orla Gordon
-    finish_time: 29m 12s
-    handicap: 6m 10s
-    actual_time: 23m 02s
-  - place: 24
-    name: Paddy Reilly
-    finish_time: 29m 17s
-    handicap: 4m 00s
-    actual_time: 25m 17s
-  - place: 25
-    name: John Costigan
-    finish_time: 29m 24s
+    finish_time: 26m 05s
+    handicap: 8m 45s
+    actual_time: 17m 20s
+    note: 3rd Fastest Time (Men)
+  - place: 12
+    name: Cormac Long 
+    finish_time: 26m 08s
     handicap: 7m 30s
-    actual_time: 21m 54s
-  - place: 26
-    name: Jim Davis
-    finish_time: 29m 27s
+    actual_time: 18m 38s
+    note:
+  - place: 13
+    name: Eddie McGrath
+    finish_time: 26m 13s
+    handicap: 5m 15s
+    actual_time: 20m 58s
+  - place: 14
+    name: Rebecca McLaughlin
+    finish_time: 26m 19s
+    handicap: 6m 20s
+    actual_time: 19m 59s
+    note: 2nd Fastest Time (Women)
+  - place: 15
+    name: Anthony McMahon
+    finish_time: 26m 24s
+    handicap: 8m 10s
+    actual_time: 18m 14s
+    note:
+  - place: 16
+    name: Brigid Long 
+    finish_time: 26m 36s
+    handicap: 6m 35s
+    actual_time: 20m 01s
+    note: 3rd Fastest Time (Women)
+  - place: 17
+    name: Hilary McDonnell
+    finish_time: 26m 54s
     handicap: 0m 00s
-    actual_time: 29m 27s
+    actual_time: 26m 54s
+    note:
+  - place: 18
+    name: Jen Preston
+    finish_time: 26m 55s
+    handicap: 7m 10s
+    actual_time: 19m 45s
+    note:
+  - place: 19
+    name: Arnaud Benjacar
+    finish_time: 27m 00s
+    handicap: 8m 35s
+    actual_time: 18m 25s
+    note:
+  - place: 20
+    name: Paddy Reilly
+    finish_time: 27m 36s
+    handicap: 2m 15s
+    actual_time: 25m 21s
+    note: Fastest Time (Women)
+  - place: 21
+    name: Pat Collins
+    finish_time: 27m 56s
+    handicap: 2m 30s
+    actual_time: 25m 26s
+    note:
 ---
