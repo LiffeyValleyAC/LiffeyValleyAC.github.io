@@ -6,10 +6,10 @@ latitude: 53.348753
 longitude: -6.318130
 results:
   - place: 1
-    name: 🥇 Geoffrey Alexandre  Fastest Time (Men)
+    name: 🥇 Geoffrey Alexandre
     finish_time: 25m 15s
     handicap: 9m 15s
-    actual_time: 16m 00s [Fastest Time]
+    actual_time: 16m 00s [1st]
   - place: 2
     name: 🥈 Bernard O'Sullivan 
     finish_time: 25m 35s
@@ -21,10 +21,10 @@ results:
     handicap: 5m 30s
     actual_time: 20m 10s
   - place: 4
-    name: Mark Naylor 2nd Fastest Time (Men)
+    name: Mark Naylor
     finish_time: 25m 45s
     handicap: 9m 25s
-    actual_time: 16m 20s [2nd Fastest Time]
+    actual_time: 16m 20s [2nd]
   - place: 5
     name: Conor Galvin
     finish_time: 25m 59s
@@ -56,10 +56,10 @@ results:
     handicap: 5m 15s
     actual_time: 20m 49s
   - place: 11
-    name: Conor O'Loughlin 3rd Fastest Time (Men)
+    name: Conor O'Loughlin
     finish_time: 26m 05s 
     handicap: 8m 45s
-    actual_time: 17m 20s [3rd Fastest Time]
+    actual_time: 17m 20s [3rd]
   - place: 12
     name: Cormac Long 
     finish_time: 26m 08s
@@ -71,30 +71,30 @@ results:
     handicap: 5m 15s
     actual_time: 20m 58s
   - place: 14
-    name: Rebecca McLaughlin 2nd Fastest Time (Women)
+    name: Rebecca McLaughlin 
     finish_time: 26m 19s
     handicap: 6m 20s
-    actual_time: 19m 59s
+    actual_time: 19m 59s [2nd]
   - place: 15
     name: Anthony McMahon
     finish_time: 26m 24s
     handicap: 8m 10s
     actual_time: 18m 14s
   - place: 16
-    name: Brigid Long 3rd Fastest Time (Women)
+    name: Brigid Long
     finish_time: 26m 36s
     handicap: 6m 35s
-    actual_time: 20m 01s
+    actual_time: 20m 01s [3rd]
   - place: 17
     name: Hilary McDonnell
     finish_time: 26m 54s
     handicap: 0m 00s
     actual_time: 26m 54s
   - place: 18
-    name: Jen Preston 1st Fastest Time (Women)
+    name: Jen Preston
     finish_time: 26m 55s
     handicap: 7m 10s
-    actual_time: 19m 45s
+    actual_time: 19m 45s [1st]
   - place: 19
     name: Arnaud Benjacar
     finish_time: 27m 00s
