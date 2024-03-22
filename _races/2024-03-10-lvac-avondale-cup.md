@@ -9,7 +9,7 @@ results:
     name: 🥇 Geoffrey Alexandre  Fastest Time (Men)
     finish_time: 25m 15s
     handicap: 9m 15s
-    actual_time: 16m 00s
+    actual_time: 16m 00s [Fastest Time]
   - place: 2
     name: 🥈 Bernard O'Sullivan 
     finish_time: 25m 35s
@@ -24,7 +24,7 @@ results:
     name: Mark Naylor 2nd Fastest Time (Men)
     finish_time: 25m 45s
     handicap: 9m 25s
-    actual_time: 16m 20s
+    actual_time: 16m 20s [2nd Fastest Time]
   - place: 5
     name: Conor Galvin
     finish_time: 25m 59s
@@ -59,7 +59,7 @@ results:
     name: Conor O'Loughlin 3rd Fastest Time (Men)
     finish_time: 26m 05s 
     handicap: 8m 45s
-    actual_time: 17m 20s
+    actual_time: 17m 20s [3rd Fastest Time]
   - place: 12
     name: Cormac Long 
     finish_time: 26m 08s
