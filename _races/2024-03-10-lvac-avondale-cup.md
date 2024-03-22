@@ -1,7 +1,7 @@
 ---
 title: LVAC Avondale Cup
 location: Phoenix Park, George Harrison 5k Lap at The Magazine Fort
-date: 2024-03-10 11:00
+date: 2024-03-10 11:30
 latitude: 53.348753
 longitude: -6.318130
 results:
