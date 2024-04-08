@@ -1,5 +1,5 @@
 ---
-title: LVAC 2024 2 Mile Road Race
+title: Hearther Browning is the winner of the LVAC 2 Mile Road Race
 location: Polo Grounds 1 Mile Lap, Phoenix Park.
 ---
 
