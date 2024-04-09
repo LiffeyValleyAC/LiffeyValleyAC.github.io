@@ -3,7 +3,7 @@ title: Steve Coughlan recalls LVAC participation at many World Cross Country Cha
 location: Sandpitts Cottage, Islandbridge.
 ---
 
-To go with the latest brilliant LV podcast on Mairéad Murphy who raced in the 1999 World XC in Belfast, and this year's World Cross in Belgrade tomorrow, here's a few things about Liffey Valley and the World Cross you mightn't know, or you might remember, or you might even have been there (so now read on 😉🏃🏼🏃‍♀️)
+To go with the latest brilliant LV podcast on Mairéad Murphy who raced in the 1999 World XC in Belfast, and this year's World Cross in Belgrade tomorrow, here's a few things about Liffey Valley and the World Cross you mightn't know, or you might remember, or you might even have been there...so now read on....
 
 This Saturday the World XC championships are on in Belgrade with 8 Irish athletes competing in all. Don't miss it on telly (Virgin Media Two 950am -120pm) or web, it's a race with a truly great history. The race starts are a sight to be seen, like a cross between the Grand National and the Charge of the Light Brigade. They go out hard and very fast, and then it gets a bit tougher after that.
 
@@ -47,9 +47,11 @@ There's been a few memorable LV trips to the World Cross too. 1999 in Belfast is
 
 Tom Brennan, Alan Merriman and Mairéad Murphy all started in the Novice XC grade. It's now 25 years since Mairéad raced for Ireland, so we're well due other Liffey Valley athletes on Irish teams for the World Cross (and the Euro Cross is up there too these days). It's time we wrote some new Liffey Valley history. It could be you who writes it, some year soon. Why not? Aim high. 
 
+<img src="/assets/images/races/2024/lvac-world-xc/Mairead-LVAC.jpeg" class="img-fluid" alt="Edinburgh">
+
 Enjoy the World Cross, and see you down the clubhouse soon to start writing that new LV history 🏃🏼🏃‍♀️
 
-Steve Coughlan.
+Steve Coughlan 
 
 <a href="https://www.instagram.com/p/C5FoHNssBUL/?img_index=1" target="_blank" rel="noopener noreferrer">Instagram</a>
  
