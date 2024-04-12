@@ -156,7 +156,7 @@ results:
     handicap: 0m 35s
     actual_time: 16m 20s
   - place: 31
-    name: Colin G
+    name: Colin Garrigan
     finish_time: 16m 56s
     handicap: 4m 10s
     actual_time: 12m 46s
