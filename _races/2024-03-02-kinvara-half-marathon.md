@@ -1,7 +1,7 @@
 ---
 title: Kinvara Half Marathon
 location: Kinvara, Co. Galway
-date: 2024-03-02 12:10
+date: 2024-03-02 12:00
 latitude: 53.139098
 longitude: -8.936288
 

@@ -1,7 +1,7 @@
 ---
 title: Dublin Athletics Graded Meeting 1 
 location: Belfield, UCD
-date: 2024-05-05 14:00
+date: 2024-05-05 12:00
 latitude: 53.31098719630516
 longitude: -6.233811202247855
 results:
