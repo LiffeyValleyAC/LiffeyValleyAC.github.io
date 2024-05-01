@@ -11,8 +11,6 @@ Congratulations to <b>Ciara Wilson (DMP A.C.)</b> and <b>Efrem Gidey (Clonliffe 
 
 <a href="https://www.myrunresults.com/events/tom_brennan_memorial_5k_2024/4933/details" target="_blank" rel="noopener noreferrer">My Run Results</a>
 
-<a href="https://www.instagram.com/p/C1y3sErM18h/" target="_blank" rel="noopener noreferrer">Instagram</a>
-
 <a href="https://www.instagram.com/p/C1nSt40MC9h/" target="_blank" rel="noopener noreferrer">Giveaway Winners</a>
 
 <a href="https://liffeyvalleyac.com/tom_brennan_proves_top/" target="_blank" rel="noopener noreferrer">Tom Brennan - 1975 National Cross Country Champion</a>
