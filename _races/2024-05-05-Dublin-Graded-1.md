@@ -9,7 +9,7 @@ results:
     name: Orla Gordon
     time: 12.20.60
     category: 3000m Women Grade C
-    note: 
+    note: 3rd Dublin Championship
   - place: 5
     name: Heather Browning
     time: 3.02.37
