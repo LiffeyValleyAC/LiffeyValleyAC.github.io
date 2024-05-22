@@ -5,44 +5,48 @@ date: 2024-05-05 12:00
 latitude: 53.31098719630516
 longitude: -6.233811202247855
 results:
-  - place: 5
+  - place: 1
     name: Orla Gordon
-    time: 6.09.37
-    category: Paced Mile 6 Min 
+    time: 12.20.60
+    category: 3000m Women Grade C
     note: Personal Best
   - place: 5
-    name: Sergei Dolgy
-    time: 2.18.32
-    category: 800m Men Grade B Heat 1
+    name: Heather Browning
+    time: 3.02.37
+    category: 800m Women Grade D
     note:
-  - place: 3
-    name: Conor Galvin
-    time: 2.13.30
-    category: 800m Men Grade D Heat 2
-    note:
+  - place: 1
+    name: David Carroll
+    time: 2.08.23
+    category: 800m Men Grade C
   - place: 4
-    name: Keith Lunders
-    time: 2.14.23 
-    category: 800m Men Grade D Heat 2
+    name: Patrick Fox
+    time: 2.17.70
+    category: 800m Men Grade D Heat 1
     note:
-  - place: 5
-    name: Ciaran Reilly
-    time: 2.14.66 
-    category: 800m Men Grade D Heat 2
-    note:
-  - place: 4
-    name: Tom Ward
-    time: 2.20.96
-    category: 800m Men Grade D Heat 3
+  - place: 6
+    name: Sean O'Meallaigh
+    time: 2.27.52 
+    category: 800m Men Grade D Heat 1
     note:
   - place: 2
+    name: Donal Iremonger
+    time: 2.13.57 
+    category: 800m Men Grade D Heat 2
+    note:
+  - place: 3
     name: Oisin Murphy
-    time: 2.18.61 
-    category: 800m Men Grade D Heat 4
+    time: 2.18.40
+    category: 800m Men Grade D Heat 3
     note:
   - place: 5
-    name: Peter Bowe
-    time: 2.24.83
-    category: 800m Men Grade D Heat 4
+    name: Anthony McMahon
+    time: 2.21.27 
+    category: 800m Men Grade D Heat 3
+    note:
+  - place: 8
+    name: Alejandro Cavallo
+    time: 2.28.08
+    category: 800m Men Grade D Heat 3
     note:
 ---
