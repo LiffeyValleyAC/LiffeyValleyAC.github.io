@@ -1,5 +1,5 @@
 ---
-title: Simon Cumber 6k Road Race
+title: Pat Collins wins the M70 category Simon Cumber 6k Road Race
 location: Navan, Co. Meath.
 ---
 
