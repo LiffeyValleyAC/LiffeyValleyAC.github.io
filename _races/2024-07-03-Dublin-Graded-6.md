@@ -5,59 +5,59 @@ date: 2024-07-03 19:00
 latitude: 53.291533 
 longitude: -6.356521
 results:
-  - place: 3
-    name: Brigid Reilly
-    time: 5.57.38
-    category: Mile Women Grade D
-    note: 
   - place: 8
+    name: Siobhán Nugent
+    time: 5.23.73
+    category: 1500m Women Grade C + D
+    note: 
+  - place: 10
+    name: Brigid Long
+    time: 5.36.51
+    category: 1500m Women Grade C + D
+    note: 
+  - place: 11
     name: Orla Gordon
-    time: 6.11.44
-    category: Mile Women Grade D
+    time: 5.47.36
+    category: 1500m Women Grade C + D
     note: 
-  - place: 2
-    name: Geoffrey Alexandre
-    time: 9.20.82
-    category: 3000m Men Grade B
-    note: 
-  - place: 1
-    name: Sergei Dolgy
-    time: 9.42.33
-    category: 3000m Men Grade C
+  - place: 7
+    name: David Carroll
+    time: 4.13.51
+    category: 1500m Men Grade B
     note: 
   - place: 5
-    name: Alejandro Cavallo
-    time: 11.08.34
-    category: 3000m Men Grade D
+    name: Conor Galvin
+    time: 4.26.94
+    category: 1500m Men Grade C Heat 1
     note: 
-  - place: 6
+  - place: 5
     name: Mark Naylor
-    time: 4.47.02
-    category: Mile Men Grade B
+    time: 4.21.97
+    category: 1500m Men Grade C Heat 2
     note: 
-  - place: 6
-    name: Arnaud Benjacar
-    time: 4.51.29 
-    category: Mile Men Grade C 
+  - place: 8
+    name: Cormac Long
+    time: 4.49.89 
+    category: 1500m Men Grade D Heat 1
     note: 
-  - place: 1
-    name: Conor O'Loughlin
-    time: 5.05.60
-    category: Mile Men Grade D Heat 1
+  - place: 12
+    name: Paul Balfe
+    time: 5.11.76
+    category: 1500m Men Grade D Heat 1
     note:
   - place: 2
-    name: Sean O'Meallaigh
-    time: 5.22.10
-    category: Mile Men Grade D Heat 1
+    name: Conor O'Loughlin
+    time: 4.32.99
+    category: 1500m Men Grade D Heat 2
     note:
-  - place: 6
-    name: Matt Blyth
-    time: 5.42.10
-    category: Mile Men Grade D Heat 1
+  - place: 8
+    name: Patrick Fox
+    time: 4.41.04
+    category: 1500m Men Grade D Heat 2
     note:
-  - place: 4
-    name: Anthony McMahon
-    time: 5.14.60 
-    category: Mile Men Grade D Heat 2
+  - place: 11
+    name: Donal Iremonger
+    time: 4.46.40 
+    category: 1500m Men Grade D Heat 2
     note:
 ---
