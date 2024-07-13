@@ -8,7 +8,7 @@ longitude: 153.41503124232753
 results:
   - place: 62
     name: Elle O'Driscoll
-    time: 3:04:52
+    time: 3.04.52
     category: FS
     note: Personal Best
 ---
