@@ -5,44 +5,49 @@ date: 2024-05-22 18:45
 latitude: 53.291533 
 longitude: -6.356521
 results:
-  - place: 14
-    name: Orla Gordon
-    time: 5.43.98
-    category: 1500m Grade D 
-    note: 
   - place: 4
-    name: David Carroll
-    time: 4.20.75
-    category: 1500m Men Grade C Heat 1
-    note:
-  - place: 6
-    name: Mark Naylor
-    time: 4.22.15
-    category: 1500m Men Grade C Heat 1
-    note:
-  - place: 1
-    name: Conor Galvin
-    time: 4.49.00
-    category: 1500m Men Grade D Heat 1
-    note:
+    name: Brigid Long 
+    time: 6.02.17
+    category: Mile Women Grade D
+    note: 
+  - place: 5
+    name: Orla Gordon
+    time: 6.15.15
+    category: Mile Women Grade D
+    note: 
   - place: 2
-    name: Keith Lunders
-    time: 4.49.80 
-    category: 1500m Men Grade D Heat 1
+    name: Geoffrey Alexandre
+    time: 33.46.05
+    category: 10000m Men 
+    note: 🥈 Dublin Championship
+  - place: 2
+    name: Conor Galvin
+    time: 4.55.68
+    category: Mile Men Grade C
     note:
-  - place: 6
-    name: Oisin Murphy
-    time: 5.05.01 
-    category: 1500m Men Grade D Heat 1
-    note:
-  - place: 8
-    name: Peter Bowe
-    time: 5.10.43
-    category: 1500m Men Grade D Heat 1
+  - place: 10
+    name: Arnaud Benjacar
+    time: 5.07.56
+    category: Mile Men Grade C
     note:
   - place: 11
+    name: Patrick Fox
+    time: 5.09.80
+    category: Mile Men Grade C
+    note:
+  - place: 1
+    name: Anthony McMahon
+    time: 5.14.60 
+    category: Mile Men Grade D
+    note:
+  - place: 2
+    name: Peter Bowe
+    time: 5.16.94
+    category: Mile Men Grade D
+    note:
+  - place: 6
     name: Alejandro Cavallo
-    time: 5.20.64 
-    category: 1500m Men Grade D Heat 1
+    time: 5.43.12 
+    category: Mile Men Grade D
     note:
 ---
