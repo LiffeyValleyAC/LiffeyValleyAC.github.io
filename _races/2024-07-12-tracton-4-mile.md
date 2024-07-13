@@ -8,7 +8,7 @@ longitude: -8.371324492069474
 results:
   - place: 9
     name: Orla Gordon
-    time: 27.52
+    time: 27m 52s
     category: FS
     note: Personal Best
 ---
