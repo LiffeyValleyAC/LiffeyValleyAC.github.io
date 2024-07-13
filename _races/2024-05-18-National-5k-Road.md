@@ -5,149 +5,124 @@ date: 2024-05-18 09:30
 latitude: 53.3522291
 longitude: -6.3214874
 results:
-  - place: 362
-    name: Pat Collins
-    time: 23.31
+  - place: 3
+    name: Úna Reilly
+    time: 26.17
+    category: F70
+    note: 🥉
+  - place: 2
+    name: Paddy Reilly
+    time: 24.46
     category: M75
-    note: 🥇M75
-  - place: 22
-    name: Jen Preston
-    time: 18.50.00
+    note: 🥈
+  - place: 3
+    name: Pat Collins
+    time: 25.12
+    category: M75
+    note: 🥉
+  - place: 3
+    name: Pierce Geoghegan
+    time: 15.45.00
+    category: M40
+    note: 🥉
+  - place: 5
+    name: Brigid Long 
+    time: 19.50
+    category: F35
+    note: 🥉 Team
+  - place: 6
+    name: Annie Gittens
+    time: 19.54
     category: FS
-    note:
-  - place: 27
-    name: Elle O'Driscoll
-    time: 18.56
-    category: FS
-    note:
-  - place: 42
-    name: Mollie O'Donnell
-    time: 19.36
-    category: FS
-    note:
-  - place: 65
+    note: 🥉Team
+  - place: 7
     name: Orla Gordon
-    time: 20.28
+    time: 21.01
     category: F35
-    note: 8th in category
-  - place: 69
-    name: Brigid Reilly
-    time: 20.43
-    category: F35
-    note: 10th in catregory
-  - place: 98
-    name: Rebecca McLoughlin
-    time: 22.01
-    category: FS
-    note:
-  - place: 102
-    name: Palina Piankova
-    time: 22.17
-    category: FS
-    note:
-  - place: 128
+    note: 🥉 Team
+  - place: 12
+    name: Lynn Devitt
+    time: 21.33
+    category: F40
+    note: 
+  - place: 12
     name: Aoife Brady
-    time: 23.26
-    category: F35
-    note: 13th in category
+    time: 22.32
+    category: F40
+    note:
+  - place: 33
+    name: Jen Preston
+    time: 19.15
+    category: FS
+    note:
+  - place: 56
+    name: Aifric Gallagher
+    time: 20.11
+    category: FS
+    note: 
+  - place: 95
+    name: Ellen Cronin
+    time: 21.45
+    category: FS
+    note:
   - place: 148
     name: Ruth Murphy
-    time: 24.09
+    time: 24.00
     category: FS
     note:
-  - place: 193
-    name: Heather Browning
-    time: 26.22
-    category: FS
-    note:
-  - place: 194
-    name: Melissa Thompson
-    time: 26.23
-    category: FS
-    note:
-  - place: 23
+  - place: 30
     name: Geoffrey Alexandre
     time: 15.58
     category: MS
     note:
-  - place: 25
-    name: Mark Naylor
-    time: 16.00
-    category: MS
-    note:
-  - place: 31
-    name: Sergei Dolgy
-    time: 16.14
-    category: MS
-    note:
-  - place: 32
+  - place: 38
     name: David Carroll
-    time: 16.15
+    time: 16.05
     category: MS
     note:
-  - place: 53
-    name: Ciaran Reilly
-    time: 16.57
-    category: M45
-    note: 9th in category
-  - place: 63
-    name: Conor Galvin
-    time: 17.11
-    category: MS
-    note:
-  - place: 90
+  - place: 95
     name: Patrick Fox
-    time: 18.04
+    time: 17.24
     category: MS
     note:
-  - place: 93
-    name: Keith Lunders
-    time: 18.15
-    category: M35
-    note: 10th in category
-  - place: 104
-    name: Peter Bowe
-    time: 18.30.00
-    category: M40
-    note: 12th in category
-  - place: 115
-    name: Tom Ward
-    time: 18.45
-    category: M40
-    note: 17th in category
-  - place: 125
-    name: Tom O'Connor
-    time: 18.52
-    category: M60
-    note: 6th in category
-  - place: 154
-    name: Bernard O'Sullivan
-    time: 19.26
-    category: M40
-    note: 19th in category
-  - place: 164
-    name: Paul Balfe
-    time: 19.36
+  - place: 113
+    name: Colin Torpay
+    time: 17.51
+    category: MS
+    note:
+  - place: 17
+    name: Donal Iremonger
+    time: 17.57
     category: M50
-    note: 15th in category
-  - place: 167
+    note: 11th M35 Team 
+  - place: 11
+    name: Anthony McMahon 
+    time: 18.03
+    category: M45
+    note: 11th M35 Team 
+  - place: 14
+    name: Cormac Long 
+    time: 18.10
+    category: M35
+    note: 11th M35 Team 
+  - place: 18
     name: Alejandro Cavallo
-    time: 19.34
+    time: 19.05
     category: M35
-    note: 14th in category
-  - place: 174
-    name: Oisin Murphy
-    time: 19.41
-    category: MS
     note:
-  - place: 213
-    name: John Costigan
-    time: 20.38
-    category: M55
-    note: 18th in category
-  - place: 315
+  - place: 23
+    name: Peter Bowe
+    time: 19.34
+    category: M40
+    note: 
+  - place: 23
+    name: James Foley
+    time: 21.16
+    category: M35
+    note: 
+  - place: 14
     name: Malcolm Prince
-    time: 23.32
-    category: M50
-    note: 22nd in category
+    time: 23.39
+    category: M55
+    note: 
 ---
