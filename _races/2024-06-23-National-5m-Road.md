@@ -25,4 +25,24 @@ results:
     time: 43m 11s
     category: M70
     note: 🥉
+  - place: 4
+    name: Brigid Long 
+    time: 33m 52s
+    category: F35
+    note: 
+  - place: 5
+    name: Orla Gordon
+    time: 34m 34s
+    category: F35
+    note: 
+  - place: 12
+    name: Lynn Devitt
+    time: 34m 47s
+    category: F40
+    note: 
+  - place: 9
+    name: Hilary Mitchell McDonnell
+    time: 45m 05s
+    category: F55
+    note: 
 ---
