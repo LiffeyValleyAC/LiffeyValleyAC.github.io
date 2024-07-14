@@ -10,4 +10,19 @@ results:
     time: 39m 38s
     category: M75
     note: 🥇
+  - place: 2
+    name: Paddy Reilly
+    time: 39m 35s
+    category: M75
+    note: 🥈
+  - place: 2
+    name: Úna Reilly
+    time: 43m 22s
+    category: F70
+    note: 🥈
+  - place: 3
+    name: Joe Cooper
+    time: 43m 11s
+    category: M70
+    note: 🥉
 ---
