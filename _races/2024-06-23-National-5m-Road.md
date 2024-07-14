@@ -45,4 +45,89 @@ results:
     time: 45m 05s
     category: F55
     note: 
+  - place: 6
+    name: Margaret O'Friel
+    time: 41m 40s
+    category: F60
+    note: 
+  - place: 9
+    name: Ciara Broderick Farrell
+    time: 31m 10s
+    category: FS
+    note: 
+  - place: 20
+    name: Rebecca McLoughlin
+    time: 35m 57s
+    category: FS
+    note: 
+  - place: 25
+    name: Melissa Thompson
+    time: 40m 06s
+    category: FS
+    note: 
+  - place: 26
+    name: Ruth Murphy
+    time: 40m 42s
+    category: FS
+    note: 
+  - place: 27
+    name: Heather Browning
+    time: 41m 23s
+    category: FS
+    note: 
+  - place: 31
+    name: Michelle Skeath
+    time: 43m 09s
+    category: FS
+    note:
+  - place: 7
+    name: Geoffrey Alexandre
+    time: 26m 37s
+    category: MS 
+    note:
+  - place: 9
+    name: Mark Naylor
+    time: 27m 26s
+    category: MS
+    note: 
+  - place: 13
+    name: James McKenna
+    time: 28m 45s
+    category: MS
+    note:
+  - place: 24
+    name: Cillian Traynor
+    time: 33m 28s
+    category: MS
+    note:
+  - place: 20
+    name: Alejandro Cavallo
+    time: 31m 31s
+    category: M35
+    note:
+  - place: 25
+    name: James Foley
+    time: 35m 40s
+    category: M35
+    note:
+  - place: 11
+    name: Simon Monds
+    time: 29m 03s
+    category: M40
+    note:
+  - place: 20
+    name: Paul Balfe
+    time: 31m 59s
+    category: M50
+    note:
+  - place: 30
+    name: Tito Lorente
+    time: 35m 10s
+    category: M50
+    note: 
+  - place: 22
+    name: Malcolm Prince
+    time: 38m 27s
+    category: M55
+    note: 
 ---
