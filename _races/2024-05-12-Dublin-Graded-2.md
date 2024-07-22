@@ -34,12 +34,12 @@ results:
     name: David Carroll
     time: 4.13.95
     category: 1500m Men Grade C
-    note: 
+    note: Personal Best
   - place: 5
     name: Oisin Murphy
     time: 4.38.63
     category: 1500m Men Grade D Heat 1
-    note: 
+    note: Personal Best
   - place: 6
     name: Arnaud Benjacar
     time: 4.38.98
@@ -49,12 +49,12 @@ results:
     name: Patrick Fox
     time: 4.40.88
     category: 1500m Men Grade D Heat 1
-    note: 
+    note: Personal Best
   - place: 9
     name: Sean O'Meallaigh
     time: 4.42.60 
     category: 1500m Men Grade D Heat 1
-    note: 
+    note: Personal Best
   - place: 4
     name: Anthony McMahon
     time: 4.46.37
@@ -70,4 +70,9 @@ results:
     time: 5.09.42
     category: 1500m Men Grade D Heat 2
     note:
+  - place: 1
+    name: Conor Galvin
+    time: 16.47.00
+    category: 5000m Men Grade C
+    note: Personal Best
 ---
