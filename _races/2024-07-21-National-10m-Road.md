@@ -1,6 +1,6 @@
 ---
 title: National 10 Miles Road Championships
-location: Phoenix Park
+location: Chesterfield Avenue, Phoenix Park
 date: 2024-07-21 09:00
 latitude: 53.365516 
 longitude: -6.337371
