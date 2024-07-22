@@ -1,6 +1,6 @@
 ---
 title: Corkagh Park 5 Mile Road Race
-location: Corkagh Park, Clondalkin
+location: Clondalkin, Dublin
 date: 2024-06-09 09:30
 latitude: 53.311116
 longitude: -6.416115
