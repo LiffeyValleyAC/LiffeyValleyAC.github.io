@@ -6,53 +6,63 @@ latitude: 53.3463369
 longitude: -6.4504554
 results:
   - place: 3
-    name: Brianna McGhee
-    time: 2.34.16
-    category: 800m Women Grade C 
+    name: Siobhán Nugent
+    time: 11.45.61
+    category: 3000m Women Grade C 
+    note: Personal Best
+  - place: 1
+    name: Ellen Cronin
+    time: 2.33.33
+    category: 800m Women Grade D 
+    note: 
+  - place: 3
+    name: Jeanne Nicollier
+    time: 2.42.70
+    category: 800m Women Grade D 
+    note: 
+  - place: 5
+    name: Brigid Long 
+    time: 2.48.60
+    category: 800m Women Grade D 
     note: 
   - place: 6
-    name: Brigid Reilly
-    time: 2.42.64
+    name: Orla Gordon
+    time: 2.50.49
     category: 800m Women Grade D 
-    note: Personal Best
-  - place: 2
-    name: David Carroll
-    time: 2.05.54
-    category: 800m Men Grade C Heat 1
-    note:
-  - place: 4
-    name: Mark Naylor
-    time: 2.06.49
-    category: 800m Men Grade C Heat 1
-    note:
-  - place: 5
-    name: Geoffrey Alexandre
-    time: 2.11.15 
-    category: 800m Men Grade C Heat 1
-    note:
-  - place: 4
-    name: Sergei Dolgy
-    time: 2.09.33 
-    category: 800m Men Grade C Heat 2
-    note:
-  - place: 5
-    name: Conor Galvin
-    time: 2.11.69
-    category: 800m Men Grade C Heat 2
-    note:
-  - place: 2
-    name: Tom Ward
-    time: 2.21.24 
-    category: 800m Men Grade D Heat 1
-    note:
-  - place: 4
-    name: Alejandro Cavallo
-    time: 2.27.25
-    category: 800m Men Grade D Heat 1
-    note:
+    note: 
+  - place: 9
+    name: Heather Browning
+    time: 2.57.53
+    category: 800m Women Grade D 
+    note: 
   - place: 8
-    name: Peter Bowe
-    time: 2.24.32
+    name: David Carroll
+    time: 2.00.89
+    category: 800m Men Grade A Heat 1
+    note: Personal Best
+  - place: 4
+    name: Conor Galvin
+    time: 2.10.77
+    category: 800m Men Grade C Heat 1
+    note: Personal Best
+  - place: 9
+    name: Alexandre Dumarquez
+    time: 2.20.97 
+    category: 800m Men Grade C Heat 1
+    note: Personal Best
+  - place: 1
+    name: Colin Torpay
+    time: 2.10.42 
     category: 800m Men Grade D Heat 2
+    note:
+  - place: 3
+    name: Donal Iremonger
+    time: 2.14.31
+    category: 800m Men Grade D Heat 2
+    note:
+  - place: 4
+    name: Paul Balfe
+    time: 10.53.14 
+    category: 3000m Men Grade D
     note:
 ---
