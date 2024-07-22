@@ -79,17 +79,17 @@ results:
     name: David Carroll
     time: 16.05
     category: MS
-    note:
+    note: Personal Best
   - place: 95
     name: Patrick Fox
     time: 17.24
     category: MS
-    note:
+    note: Personal Best
   - place: 113
     name: Colin Torpay
     time: 17.51
     category: MS
-    note:
+    note: Personal Best
   - place: 17
     name: Donal Iremonger
     time: 17.57
@@ -103,13 +103,13 @@ results:
   - place: 14
     name: Cormac Long 
     time: 18.10
-    category: M35
-    note: 11th M35 Team 
+    category: M35 
+    note: 11th M35 Team / Personal Best
   - place: 18
     name: Alejandro Cavallo
     time: 19.05
     category: M35
-    note:
+    note: Personal Best
   - place: 23
     name: Peter Bowe
     time: 19.34
