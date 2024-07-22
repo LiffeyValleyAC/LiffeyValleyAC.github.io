@@ -1,6 +1,6 @@
 ---
 title: National Track and Field Championships
-location: Morton Stadium
+location: Morton Stadium, Dublin.
 date: 2024-06-29 14:30
 latitude: 53.291533 
 longitude: -6.356521
