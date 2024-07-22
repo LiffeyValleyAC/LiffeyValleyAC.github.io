@@ -39,7 +39,7 @@ results:
     name: Geoffrey Alexandre
     time: 9.11.46 
     category: 800m Men Grade D Heat 1
-    note:
+    note: Personal Best
   - place: 1
     name: James McKenna
     time: 9.59.74
@@ -49,10 +49,10 @@ results:
     name: Patrick Fox
     time: 10.06.96
     category: 3000m Men Grade C
-    note:
+    note: Personal Best
   - place: 5
     name: Cormac long
     time: 10.41.41
     category: 3000m Men Grade D
-    note:
+    note: Personal Best
 ---
