@@ -24,25 +24,25 @@ results:
     name: David Carroll
     time: 2.03.66
     category: 800m Men Grade C Heat 2
-    note: 
+    note: Personal Best
   - place: 1
     name: Oisin Murphy
     time: 2.12.53
     category: 800m Men Grade D Heat 2
-    note: 
+    note: Personal Best
   - place: 2
     name: James McKenna
     time: 4.23.39
     category: 800m Men Grade D Heat 2
-    note: 
+    note: Personal Best
   - place: 4
     name: Alexandre Dumarquez
     time: 2.22.48
     category: 800m Men Grade D Heat 2
-    note: 
+    note: Personal Best
   - place: 5
     name: Alejandro Cavallo
     time: 2.27.90 
     category: 800m Men Grade D Heat 3
-    note: 
+    note: Personal Best
 ---
