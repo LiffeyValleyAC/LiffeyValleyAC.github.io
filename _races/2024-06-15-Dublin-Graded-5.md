@@ -1,6 +1,6 @@
 ---
 title: Dublin Athletics Graded Meeting 5
-location: DSD Campus.
+location: DSD Campus
 date: 2024-06-15 14:00
 latitude: 53.287290 
 longitude: -6.278990
