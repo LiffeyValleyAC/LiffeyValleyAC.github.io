@@ -23,7 +23,7 @@ results:
     name: Patrick Fox
     time: 2.17.70
     category: 800m Men Grade D Heat 1
-    note:
+    note: Personal Best
   - place: 6
     name: Sean O'Meallaigh
     time: 2.27.52 
@@ -38,7 +38,7 @@ results:
     name: Oisin Murphy
     time: 2.18.40
     category: 800m Men Grade D Heat 3
-    note:
+    note: Personal Best
   - place: 5
     name: Anthony McMahon
     time: 2.21.27 
