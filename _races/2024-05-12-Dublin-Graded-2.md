@@ -1,6 +1,6 @@
 ---
 title: Dublin Athletics Graded Meeting 2 
-location: Morton Stadium
+location: Morton Stadium, Dublin
 date: 2024-05-12 12:00
 latitude: 53.291533 
 longitude: -6.356521
