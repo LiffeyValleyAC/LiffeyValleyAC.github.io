@@ -1,6 +1,6 @@
 ---
 title: National 5k Road Race
-location: Phoenix Park
+location: Chesterfield Avenue, Phoenix Park
 date: 2024-05-18 09:30
 latitude: 53.3522291
 longitude: -6.3214874
