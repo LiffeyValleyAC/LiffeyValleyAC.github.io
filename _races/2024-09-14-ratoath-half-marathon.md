@@ -1,7 +1,7 @@
 ---
 title: Ratoath Half Marathon 2024
 location: Ratoath, Co. Meath
-date: 2023-09-14 09:00
+date: 2024-09-14 09:00
 latitude: 53.506294 
 longitude: -6.465681
 results:
