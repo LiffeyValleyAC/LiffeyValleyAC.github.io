@@ -1,5 +1,5 @@
 ---
-title: Griffith Avenue One Mile Road Race
+title: Griffith Avenue Mile Road Race
 location: Griffith Avenue, Dublin
 date: 2024-09-22 14:00
 latitude: 53.379308
