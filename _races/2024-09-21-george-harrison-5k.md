@@ -2,7 +2,7 @@
 title: LVAC 5k Road Championship (George Harrison Trophy)
 latitude: 53.356585
 longitude: -6.324889
-date: 2024-09-22 11:00
+date: 2024-09-21 11:00
 results:
   - place: 1
     name: Annie Gittens
