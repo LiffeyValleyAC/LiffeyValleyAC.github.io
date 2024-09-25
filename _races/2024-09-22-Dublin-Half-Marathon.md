@@ -5,29 +5,24 @@ date: 2024-09-22 09:00
 latitude: 53.365516
 longitude: -6.337371
 results:
-  - place: 5
-    name: Brigid Long
-    time: 1.31.14
-    category: F35 
-    note: 🥉 3rd Dublin Championship 🥉
-  - place: 52
-    name: Oisín Murphy
-    time: 1.25.42
-    category: MS
-    note:
-  - place: 0
-    name: David Van Buren
-    time: 1.25.58
-    category: MS
-    note:
-  - place: 129
+  - place: 108
+    name: Neil Duffy
+    time: 1.36.40
+    category: M455 
+    note: 
+  - place: 175
     name: David Mitchell
-    time: 1.33.24
+    time: 1.39.03
     category: M40
     note:
-  - place: 0
-    name: Siobhán Nugent
-    time: 1.41.44
+  - place: 122
+    name: Ellen Cronin
+    time: 1.41.12
     category: FS
+    note:
+  - place: 363
+    name: Utpal Medhi
+    time: 1.55.49
+    category: M35
     note:
 ---
