@@ -1,7 +1,7 @@
 ---
 title: National Road Relays
 location: Raheny, Dublin
-date: 2022-04-24 14:00
+date: 2023-04-23 14:00
 latitude: 53.3522291
 longitude: -6.3214874
 results:
