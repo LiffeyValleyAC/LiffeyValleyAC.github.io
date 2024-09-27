@@ -8,27 +8,27 @@ results:
   - place: 15
     name: Brianna McGhee
     time: 5.48.0
-    category: FS Liffey Valley "A"
+    category: FS - Liffey Valley "A"
   - place: 15
     name: Ciara Broderick Farrell
     time: 12.00.0
-    category: FS Liffey Valley "A"
+    category: FS - Liffey Valley "A"
   - place: 15
     name: Jen Preston
-    time: 05.39.0
-    category: FS Liffey Valley "A"
+    time: 5.39.0
+    category: FS - Liffey Valley "A"
   - place: 22
     name: Aifric Gallagher
     time: 6.17.0
-    category: FS Liffey Valley "B"
+    category: FS - Liffey Valley "B"
   - place: 22
     name: Shauna Dunne
     time: 12.44.0
-    category: FS Liffey Valley "B"
+    category: FS - Liffey Valley "B"
   - place: 22
     name: Jeanne Nicollier
-    time: 06.10.0
-    category: FS Liffey Valley "B"
+    time: 6.10.0
+    category: FS - Liffey Valley "B"
   - place: 10
     name: Orla Gordon
     time: 6.26.0
@@ -39,7 +39,7 @@ results:
     category: F35+ 
   - place: 10
     name: Annie Gittens
-    time: 05.59.0
+    time: 5.59.0
     category: F35+ 
   - place: 23
     name: Conor Galvin
@@ -59,7 +59,7 @@ results:
     category: MS
   - place: 5
     name: Donal Iremonger
-    time: 05.14.0
+    time: 5.14.0
     category: M50+
   - place: 5
     name: Arnaud Benjacar
@@ -67,6 +67,6 @@ results:
     category: M50+
   - place: 5
     name: Tom O'Connor
-    time: 05.45.0
+    time: 5.45.0
     category: M50+
 ---
