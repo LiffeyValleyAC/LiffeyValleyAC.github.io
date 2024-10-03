@@ -2,8 +2,8 @@
 title: Rathfarnam 5k Road Race 
 location: Rathfarnam, Dublin
 date: 2022-09-25 10:00
-latitude: 53.3522291
-longitude: -6.3214874
+latitude: 53.298043
+longitude: -6.283654
 results:
   - place: 4
     name: Úna Reilly
