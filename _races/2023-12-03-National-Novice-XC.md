@@ -27,7 +27,7 @@ results:
     note: 11th Team
   - place: 119
     name: Oisin Murphy
-    time: 24.24
+    time: 24.15
     category: Novice Men
     note: 11th Team
   - place: 123
