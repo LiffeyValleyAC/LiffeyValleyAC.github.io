@@ -2,8 +2,8 @@
 title: Leinster Senior Cross Country Championships
 location: Dunboyne, Co. Meath
 date: 2023-11-04 14:00
-latitude: 53.3522291
-longitude: -6.3214874
+latitude: 53.417416
+longitude: -6.464825
 results:
   - place: 32
     name: Siobhán Nugent
