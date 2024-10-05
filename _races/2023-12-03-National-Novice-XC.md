@@ -41,7 +41,7 @@ results:
     category: Novice Men
     note:  
   - place: 136
-    name: Cormac long
+    name: Cormac Long
     time: 25.25
     category: Novice Men
     note: 
