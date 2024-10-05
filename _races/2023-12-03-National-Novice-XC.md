@@ -30,11 +30,6 @@ results:
     time: 24.24
     category: Novice Men
     note: 11th Team
-  - place: 122
-    name: Oisin Murphy
-    time: 24.15
-    category: Novice Men
-    note: 
   - place: 123
     name: Patrick Fox
     time: 24.22
