@@ -1,8 +1,53 @@
 ---
 title: National Novice Cross County Championships
-location: TBC
-date: 2023-12-03 12:00
-latitude: 52.614185
-longitude: -7.069892
+location: Navan Race Course, Co. Meath
+date: 2023-12-03 11:00
+latitude: 53.683289
+longitude: -6.673760
 results: 
+  - place: 63
+    name: Siobhan Nugent
+    time: 17.26
+    category: Novice Women
+    note: 
+  - place: 61
+    name: David Carroll
+    time: 21.57
+    category: Novice Men
+    note: 11th Team
+  - place: 66
+    name: Mark Naylor
+    time: 22.05
+    category: Novice Men
+    note: 11th Team
+  - place: 75
+    name: Conor Galvin
+    time: 22.25
+    category: Novice Men
+    note: 11th Team
+  - place: 119
+    name: Oisin Murphy
+    time: 24.24
+    category: Novice Men
+    note: 11th Team
+  - place: 122
+    name: Oisin Murphy
+    time: 24.15
+    category: Novice Men
+    note: 
+  - place: 123
+    name: Patrick Fox
+    time: 24.22
+    category: Novice Men
+    note: 
+  - place: 124
+    name: Simon Monds
+    time: 24.24
+    category: Novice Men
+    note:  
+  - place: 136
+    name: Cormac long
+    time: 25.25
+    category: Novice Men
+    note: 
 ---
