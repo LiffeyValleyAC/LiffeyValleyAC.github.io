@@ -1,7 +1,7 @@
 ---
 title: Leinster Senior Cross Country Championships
 location: Dunboyne, Co. Meath
-date: 2023-11-04 14:00
+date: 2024-11-02 14:00
 latitude: 53.3522291
 longitude: -6.3214874
 results:
