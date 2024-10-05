@@ -7,9 +7,6 @@
     {% endif %}
     {% if include.results[0].county %}
     <th>County</th>
-    {% if include.results[0].individual %}
-    <th>Individual</th>
-    {% endif %}
     {% if include.results[0].official_time %}
     <th>Official Time</th>
     {% endif %}
@@ -48,9 +45,6 @@
     {% endif %}
     {% if result.county %}
     <td>{{ result.county }}</td>
-    {% endif %}
-    {% if result.individual %}
-    <td>{{ result.individual }}</td>
     {% endif %}
     {% if result.category %}
     <td>{{ result.category }}</td>
