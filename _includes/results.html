@@ -23,6 +23,9 @@
     {% if include.results[0].estimated %}
     <th>Estimated 4 mile time</th>
     {% endif %}
+    {% if include.results[0].predicted %}
+    <th>Estimated 1 mile time</th>
+    {% endif %}
     {% if include.results[0].handicap %}
     <th>Handicap</th>
     {% endif %}
@@ -52,6 +55,9 @@
     {% endif %}
     {% if result.estimated %}
     <td>{{ result.estimated }}</td>
+    {% endif %}
+    {% if result.predicted %}
+    <td>{{ result.predicted }}</td>
     {% endif %}
     {% if result.handicap %}
     <td>{{ result.handicap }}</td>
