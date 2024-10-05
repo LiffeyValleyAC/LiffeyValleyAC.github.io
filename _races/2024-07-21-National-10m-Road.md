@@ -10,37 +10,17 @@ results:
     time: 1.10.39
     category: FS
     note: 
-  - place: 6
-    name: Brigid Long
-    time: 1.12.24
-    category: F35
-    note: 
-  - place: 8
-    name: Orla Gordon
-    time: 1.14.15
-    category: F35
-    note: 
-  - place: 11
-    name: Lynn Devitt
-    time: 1.11.42
-    category: F40
-    note: 
-  - place: 6
-    name: Margaret O'Friel
-    time: 1.29.04
-    category: F60
-    note: 
-  - place: 10
+  - place: 31
     name: Geoffrey Alexandre
-    time: 1.55.41
+    time: 0.55.41
     category: MS
-    note: Personal Best / 4th Team
-  - place: 15
+    note: 
+  - place: 68
     name: James McKenna
     time: 0.59.09
     category: MS
     note: 4th Team
-  - place: 19
+  - place: 103
     name: Patrick Fox
     time: 1.01.47
     category: MS
