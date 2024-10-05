@@ -9,22 +9,22 @@ results:
     name: Brigid Long
     time: 21.19
     category: FS
-    note: 
+    note: 5th Team
   - place: 17
     name: Siobhán Nugent
     time: 21.42
     category: FS
-    note: 
+    note: 5th Team
   - place: 19
     name: Rebecca McLoughlin
     time: 21.46
     category: FS
-    note: 
+    note: 5th Team
   - place: 23
     name: Ciara Broderick Farrell
     time: 22.00
     category: FS
-    note: 
+    note: 5th Team
   - place: 28
     name: Orla Gordon
     time: 22.22
