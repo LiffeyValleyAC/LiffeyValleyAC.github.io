@@ -1,7 +1,7 @@
 ---
 title: 2023 Irish Life Dublin  Marathon
 location: Dublin
-date: 2023-09-23 09:00
+date: 2023-10-29 09:00
 latitude: 53.365516
 longitude: -6.337371
 results:
@@ -48,6 +48,6 @@ results:
   - place: 60
     name: Hilary McDonnell
     time: 4.45.26
-    category: F35
+    category: F55
     note: 
 ---
