@@ -1,5 +1,5 @@
 ---
-title: Jingle Bells 5k Road Race
+title: Donore Harriers AC Jingle Bells 5k Road Race
 location: Phoenix Park, Dublin
 date: 2023-12-02 09:30
 latitude: 53.348615
