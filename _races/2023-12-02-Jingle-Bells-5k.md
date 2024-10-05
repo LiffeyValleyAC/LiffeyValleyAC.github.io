@@ -17,12 +17,12 @@ results:
     note: 
   - place: 143
     name: Keith Lunders
-    time: 19.40
+    time: 19.10
     category: MS
     note: 
   - place: 33
     name: Brigid Long
-    time: 19.40
+    time: 19.30
     category: FS
     note: 
   - place: 37
@@ -32,7 +32,7 @@ results:
     note: 
   - place: 45
     name: Orla Gordon
-    time: 22.35
+    time: 20.04
     category: FS
     note: 
   - place: 57
