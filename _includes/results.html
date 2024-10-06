@@ -38,6 +38,8 @@
   <tr>
     <td>{{ result.place }}</td>
     <td>{{ result.name }}</td>
+    {% if result.time %}
+    <td>{{ result.time }}</td>
     {% if result.club %}
     <td>{{ result.club }}</td>
     {% endif %}
@@ -59,8 +61,6 @@
     {% if result.actual_time %}
     <td>{{ result.actual_time }}</td>
     {% endif %}
-    {% if result.time %}
-    <td>{{ result.time }}</td>
     <td>{{ result.note }}</td>
     {% endif %}
   </tr>
