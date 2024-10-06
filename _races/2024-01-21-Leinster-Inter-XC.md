@@ -1,6 +1,6 @@
 ---
 title: Leinster Intermediate Cross Country Championships
-location: Avondale, Rathdrum
+location: Avondale House, Rathdrum, Co. Wicklow
 date: 2024-01-21 13:00
 latitude: 52.913309
 longitude: -6.222561
@@ -29,12 +29,12 @@ results:
     name: Orla Gordon
     time: 24.31
     category: Inter Women
-    club: 
+    club:   
   - place: 24
     name: Heather Browning
     time: 27.58
     category: Inter Women
-    club: 
+    club:   
   - place: 25
     name: Melissa Thompson
     time: 28.12
