@@ -14,32 +14,32 @@ results:
     name: Brigid Long
     time: 23.06
     club: 🥉3rd Team
-    county: 
+    county: na
   - place: 12
     name: Siobhán Nugent
     time: 23.15
     club: 🥉3rd Team
-    county: 
+    county: na
   - place: 16
     name: Rebecca McLoughlin
     time: 23.46
     club: 🥉3rd Team
-    county: 
+    county: na
   - place: 20
     name: Orla Gordon
     time: 24.31
-    club: 
-    county: 
+    club: na
+    county: na
   - place: 24
     name: Heather Browning
     time: 27.58
-    club: 
-    county: 
+    club: na
+    county: na 
   - place: 25
     name: Melissa Thompson
     time: 28.12
-    club: 
-    county: Inter Women
+    club: na
+    county: na
   - place: 5
     name: David Carroll
     time: 30.43
@@ -59,10 +59,10 @@ results:
     name: James McKenna
     time: 31.38
     club: 🥈 2nd Team
-    county: 
+    county: na
   - place: 28
     name: Conor O'Loughlin
     time: 32.54
-    club: 
-    county: 
+    club: na
+    county: na
     ---
