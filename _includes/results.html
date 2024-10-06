@@ -2,6 +2,8 @@
   <tr>
     <th>Place</th>
     <th>Name</th>
+    {% if include.results[0].time %}
+    <th>Time</th>
     {% if include.results[0].club %}
     <th>Club</th>
     {% endif %}
@@ -29,8 +31,6 @@
     {% if include.results[0].actual_time %}
     <th>Actual Time</th>
     {% endif %}
-    {% if include.results[0].time %}
-    <th>Time</th>
     <th>Note</th>
     {% endif %}
   </tr>
