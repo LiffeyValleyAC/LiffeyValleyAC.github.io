@@ -10,4 +10,9 @@ results:
     time: 5.50.44
     category: F35 1500m 
     note: 🥈
+  - place: 1
+    name: Donal Iremonger
+    time: 2.17.41
+    category: M50 800m 
+    note: 🥇 
 ---
