@@ -40,12 +40,12 @@ results:
     time: 28.12
     category: Inter Women
     note:  
-  - place: 9
-    name: Conor Galvin
-    time: 18.59
+  - place: 5
+    name: David Carroll
+    time: 30.43
     category: Inter Men
-    note: 6th Team
-  - place: 27
+    note: 🥈 2nd Club Team
+  - place: 6
     name: Conor O'Loughlin
     time: 20.11
     category: Inter Men
@@ -54,35 +54,15 @@ results:
     name: Colin Torpay
     time: 20.36
     category: Inter Men
-    note: 6th Team
-  - place: 51
-    name: Oisin Murphy
-    time: 21.22
-    category: Inter Men
-    note: 6th Team
-  - place: 69
-    name: Cormac Long 
-    time: 22.03
-    category: Inter Men
     note: 
-  - place: 85
-    name: Richard Finegan
-    time: 22.45
+  - place: 20
+    name: James McKenna 
+    time: 31.38
     category: Inter Men
-    note: 
-  - place: 90
-    name: Anthony McMahon
-    time: 22.55
-    category: Inter Men
-    note: 
-  - place: 93
-    name: Alejandro Cavallo
-    time: 23.02
-    category: Inter Men
-    note: 
-  - place: 104
-    name: Robert Collins
-    time: 23.51
+    note: 🥈 2nd Club Team
+  - place: 28
+    name: Conor O'Loughlin
+    time: 32.54
     category: Inter Men
     note: 
 ---
