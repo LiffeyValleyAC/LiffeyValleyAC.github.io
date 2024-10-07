@@ -6,12 +6,12 @@ latitude: 52.913309
 longitude: -6.222561
 results:
   - place: 49
-    name: Donal Iremoner
+    name: Donal Iremonger
     time: 28.15
     category: Masters Men M50
     note: 8th in category
   - place: 67
-    name: Sean O'Meallaigh
+    name: Seán Ó'Meallaigh
     time: 29.00
     category: Masters Men M40
     note: 22nd in category
