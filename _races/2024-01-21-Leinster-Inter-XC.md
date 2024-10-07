@@ -1,6 +1,6 @@
 ---
 title: Leinster Intermediate Cross Country Championships
-location: Avondale House, Rathdrum, Co. Wicklow
+location: Avondale, Co. Wicklow
 date: 2024-01-21 13:00
 latitude: 52.913309
 longitude: -6.222561
