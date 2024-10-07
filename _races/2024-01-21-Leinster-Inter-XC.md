@@ -44,17 +44,17 @@ results:
     name: David Carroll
     time: 30.43
     category: Inter Men
-    note: 🥈2nd Club Team
+    note: 🥈2nd Club Team and🥇1st County Team
   - place: 6
     name: Geoffrey Alexandre
     time: 30.50
     category: Inter Men
-    note: 🥈2nd Club Team
+    note: 🥈2nd Club Team and🥇1st County Team
   - place: 7
     name: Mark Naylor
     time: 30.55
     category: Inter Men
-    note: 🥈2nd Club Team
+    note: 🥈2nd Club Team and🥇1st County Team
   - place: 20
     name: James McKenna 
     time: 31.38
