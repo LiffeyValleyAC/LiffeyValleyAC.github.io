@@ -9,7 +9,7 @@ results:
     name: Pierce Geoghegan
     time: 25.35
     category: M40
-    note: 🥈 2nd in category
+    note: 2nd in category🥈
   - place: 311
     name: Oisín Murphy
     time: 10.113
@@ -24,12 +24,12 @@ results:
     name: Brigid Long 
     time: 32.56
     category: FS
-    note: 32nd in category
+    note: 7th Team of 75 Teams
   - place: 578
     name: Rebecca McLoughlin
     time: 33.07
     category: FS
-    note: 37th in category
+    note: 7th Team of 75 Teams
   - place: 622
     name: Alejandro Cavallo
     time: 33.26
@@ -39,5 +39,5 @@ results:
     name: Siobhan Nugent
     time: 34.13
     category: FS
-    note: 🥈 2nd in category
+    note: 7th Team of 75 Teams
 ---
