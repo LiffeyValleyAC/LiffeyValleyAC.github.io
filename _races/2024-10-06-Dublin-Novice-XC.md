@@ -14,76 +14,95 @@ results:
     name: Cliodhna Tutty Bardon
     time: 15.07
     category: FS
+    note: 🥉3rd Team
   - place: 21
     name: Siobhán Nugent
     time: 15.44
     category: FS
+    note: 🥉3rd Team
   - place: 22
     name: Annie Gittens
     time: 15.45
     category: FS
+    note: 🥉3rd Team
   - place: 24
     name: Shauna Dunne
     time: 15.48
     category: FS
+    note: 🥉3rd Team
   - place: 30
     name: Rebecca McLoughlin
     time: 16.00
     category: FS
+    note: 🥉3rd Team
   - place: 33
     name: Brigid Long 
     time: 16.11
     category: FS
+    note: 🥉3rd Team
   - place: 40
     name: Lynn Devitt
     time: 16.20
     category: FS
+    note: 🥉3rd Team
   - place: 53
     name: Maeve Gilmartin
     time: 17.28
     category: FS
+    note: 🥉3rd Team
   - place: 60
     name: Heather Browning
     time: 18.10
     category: FS
+    note: 🥉3rd Team
   - place: 63
     name: Melissa Thompson
     time: 18.13
     category: FS
+    note: 🥉3rd Team
   - place: 16
     name: Geoffrey Alexandre
     time: 20.47
     category: MS
+    note: 🥉3rd Team
   - place: 26
     name: David Carroll
     time: 21.22
     category: MS
+    note: 🥉3rd Team
   - place: 27
     name: Arnaud Benjacar
     time: 21.26
     category: MS
+    note: 🥉3rd Team
   - place: 38
     name: James McKenna
     time: 21.48
     category: MS
+    note: 🥉3rd Team
   - place: 69
     name: Donal Iremonger
     time: 23.04
     category: MS
+    note: 🥉3rd Team
   - place: 72
     name: Patrick Fox
     time: 23.13
     category: MS
+    note: 🥉3rd Team
   - place: 77
     name: Alejandro Cavallo
     time: 23.39
     category: MS
+    note: 🥉3rd Team
   - place: 94
     name: Bernard O'Sullivan
     time: 25.03
     category: MS
+    note: 🥉3rd Team
   - place: 103
     name: Anthony McMahon
     time: 25.40
     category: MS
+    note: 🥉3rd Team
 ---
