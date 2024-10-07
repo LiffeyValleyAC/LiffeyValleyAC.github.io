@@ -1,53 +1,53 @@
 ---
 title: Dublin Novice XC
-location: Tymon Park, Dublin
+location: Phoenix Park, Dublin
 date: 2024-10-06 13:00
 latitude: 53.3522291
 longitude: -6.3214874
 results:
-  - place: 8
+  - place: 7
     name: Ciara Broderick Farrell
-    time: 15.58
+    time: 14.51
+    category: FS
+  - place: 10
+    name: Cliodhna Tutty Bardon
+    time: 15.07
     category: FS
   - place: 21
-    name: Rebecca McLoughlin
-    time: 16.37
+    name: Siobhán Nugent
+    time: 15.44
     category: FS
-  - place: 23
-    name: Brigid Reilly
-    time: 16.37
+  - place: 22
+    name: Annie Gittens
+    time: 15.45
+    category: FS
+  - place: 24
+    name: Shauna Dunne
+    time: 15.48
+    category: FS
+  - place: 30
+    name: Rebecca McLoughlin
+    time: 16.00
+    category: FS
+  - place: 33
+    name: Brigid Long 
+    time: 16.11
     category: FS
   - place: 40
-    name: Orla Gordon
-    time: 17.47
+    name: Lynn Devitt
+    time: 16.20
     category: FS
-  - place: 41
-    name: Siobhán Nugent
-    time: 17.51
+  - place: 53
+    name: Maeve Gilmartin
+    time: 17.28
     category: FS
-  - place: 42
-    name: Annie Gittens
-    time: 17.55
+  - place: 60
+    name: Heather Browning
+    time: 18.10
     category: FS
   - place: 63
-    name: Aoife Page
-    time: 19.16
-    category: FS
-  - place: 70
-    name: Heather Browning
-    time: 20.04
-    category: FS
-  - place: 72
     name: Melissa Thompson
-    time: 20.19
-    category: FS
-  - place: 73
-    name: Michelle Skeath
-    time: 20.25
-    category: FS
-  - place: 78
-    name: Brianna McGhee
-    time: 24.46
+    time: 18.13
     category: FS
   - place: 16
     name: Geoffrey Alexandre
