@@ -60,49 +60,49 @@ results:
     time: 18.13
     category: FS
     note: 
-  - place: 16
-    name: Geoffrey Alexandre
-    time: 20.47
+  - place: 9
+    name: Conor Galvin
+    time: 18.59
     category: MS
-    note: 🥉3rd Team
-  - place: 26
-    name: David Carroll
+    note: 6th Team
+  - place: 27
+    name: Conor O'Loughlin
+    time: 20.11
+    category: MS
+    note: 6th Team
+  - place: 35
+    name: Colin Torpay
+    time: 20.36
+    category: MS
+    note: 6th Team
+  - place: 51
+    name: Oisin Murphy
     time: 21.22
     category: MS
-    note: 🥉3rd Team
-  - place: 27
-    name: Arnaud Benjacar
-    time: 21.26
-    category: MS
-    note: 🥉3rd Team
-  - place: 38
-    name: James McKenna
-    time: 21.48
-    category: MS
-    note: 🥉3rd Team
+    note: 6th Team
   - place: 69
-    name: Donal Iremonger
-    time: 23.04
+    name: Cormac Long 
+    time: 22.03
     category: MS
-    note: 🥉3rd Team
-  - place: 72
-    name: Patrick Fox
-    time: 23.13
+    note: 
+  - place: 85
+    name: Richard Finegan
+    time: 22.45
     category: MS
-    note: 🥉3rd Team
-  - place: 77
-    name: Alejandro Cavallo
-    time: 23.39
-    category: MS
-    note: 🥉3rd Team
-  - place: 94
-    name: Bernard O'Sullivan
-    time: 25.03
-    category: MS
-    note: 🥉3rd Team
-  - place: 103
+    note: 
+  - place: 90
     name: Anthony McMahon
-    time: 25.40
+    time: 22.55
     category: MS
-    note: 🥉3rd Team
+    note: 
+  - place: 93
+    name: Alejandro Cavallo
+    time: 23.02
+    category: MS
+    note: 
+  - place: 104
+    name: Robert Collins
+    time: 23.51
+    category: MS
+    note: 
 ---
