@@ -30,29 +30,24 @@ results:
     time: 31.37
     category: Inter Women
     note: 
-  - place: 5
+  - place: 31
     name: David Carroll
-    time: 30.43
+    time: 34.28
     category: Inter Men
-    note: 🥈2nd Club Team and🥇1st County Team
-  - place: 6
-    name: Geoffrey Alexandre
-    time: 30.50
+    note: 6th Club Team
+  - place: 40
+    name: Conor Galvin
+    time: 35.41
     category: Inter Men
-    note: 🥈2nd Club Team and🥇1st County Team
-  - place: 7
-    name: Mark Naylor
-    time: 30.55
+    note: 6th Club Team
+  - place: 42
+    name: James McKenna
+    time: 36.00
     category: Inter Men
-    note: 🥈2nd Club Team and🥇1st County Team
-  - place: 20
-    name: James McKenna 
-    time: 31.38
+    note: 6th Club Team
+  - place: 49
+    name: Patrick Fox
+    time: 37.14
     category: Inter Men
-    note: 🥈2nd Club Team
-  - place: 28
-    name: Conor O'Loughlin
-    time: 32.54
-    category: Inter Men
-    note: 
+    note: 6th Club Team
 ---
