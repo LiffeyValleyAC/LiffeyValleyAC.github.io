@@ -5,28 +5,39 @@ date: 2024-01-28 15:00
 latitude: 53.376808
 longitude: -6.180181
 results:
-  - place: 8
-    name: Mark Naylor
-    time: 10.07
-    category: M
-  - place: 11
-    name: Sergei Dolgy
-    time: 10.15
-    category: M
   - place: 19
-    name: Conor Galvin
-    time: 10.44
-    category: M
-  - place: 30
-    name: Brendan Beere
-    time: 11.24
-    category: M
-  - place: 41
-    name: Patrick Fox
-    time: 12.05
-    category: M
-  - place: 47
-    name: Alejandro
-    time: 12.26
-    category: M
+    name: Pierce Geoghegan
+    time: 25.35
+    category: M40
+    note: 🥈 2nd in category
+  - place: 311
+    name: Oisín Murphy
+    time: 10.113
+    category: MS
+    note: 148th in category
+  - place: 409
+    name: Anthony McMahon
+    time: 31.03
+    category: M45
+    note: 61st in category
+  - place: 541
+    name: Brigid Long 
+    time: 32.56
+    category: FS
+    note: 32nd in category
+  - place: 578
+    name: Rebecca McLoughlin
+    time: 33.07
+    category: FS
+    note: 37th in category
+  - place: 622
+    name: Alejandro Cavallo
+    time: 33.26
+    category: MS
+    note: 260th in category
+  - place: 721
+    name: Siobhan Nugent
+    time: 34.13
+    category: FS
+    note: 🥈 2nd in category
 ---
