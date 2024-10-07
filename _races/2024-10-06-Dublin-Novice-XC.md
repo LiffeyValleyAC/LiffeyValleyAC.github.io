@@ -9,6 +9,7 @@ results:
     name: Ciara Broderick Farrell
     time: 14.51
     category: FS
+    note: 🥉3rd Team
   - place: 10
     name: Cliodhna Tutty Bardon
     time: 15.07
