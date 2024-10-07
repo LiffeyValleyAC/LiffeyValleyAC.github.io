@@ -1,9 +1,9 @@
 ---
-title: Dublin Novice XC
-location: Phoenix Park, Dublin
-date: 2024-10-06 13:00
-latitude: 53.3522291
-longitude: -6.3214874
+title: Leinster Intermediate Cross Country Championships
+location: Avondale, Co. Wicklow
+date: 2024-01-21 14:00
+latitude: 52.913309
+longitude: -6.222561
 results:
   - place: 7
     name: Ciara Broderick Farrell
