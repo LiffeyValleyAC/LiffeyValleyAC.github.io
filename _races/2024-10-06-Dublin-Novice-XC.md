@@ -29,37 +29,37 @@ results:
     name: Shauna Dunne
     time: 15.48
     category: FS
-    note: 🥉3rd Team
+    note: 
   - place: 30
     name: Rebecca McLoughlin
     time: 16.00
     category: FS
-    note: 🥉3rd Team
+    note: 
   - place: 33
     name: Brigid Long 
     time: 16.11
     category: FS
-    note: 🥉3rd Team
+    note: 
   - place: 40
     name: Lynn Devitt
     time: 16.20
     category: FS
-    note: 🥉3rd Team
+    note: 
   - place: 53
     name: Maeve Gilmartin
     time: 17.28
     category: FS
-    note: 🥉3rd Team
+    note: 
   - place: 60
     name: Heather Browning
     time: 18.10
     category: FS
-    note: 🥉3rd Team
+    note: 
   - place: 63
     name: Melissa Thompson
     time: 18.13
     category: FS
-    note: 🥉3rd Team
+    note: 
   - place: 16
     name: Geoffrey Alexandre
     time: 20.47
