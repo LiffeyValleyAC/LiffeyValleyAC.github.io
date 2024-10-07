@@ -5,41 +5,31 @@ date: 2024-02-11 14:00
 latitude: 53.984295
 longitude: -6.393292
 results:
-  - place: 7
-    name: Ciara Broderick Farrell
-    time: 22.18
-    category: Inter Women
-    note: 🥉3rd Club Team
-  - place: 11
+  - place: 18
     name: Brigid Long
-    time: 23.06
+    time: 25.32
     category: Inter Women
-    note: 🥉3rd Club Team
-  - place: 12
-    name: Siobhán Nugent
-    time: 23.15
+    note: 5th Club Team
+  - place: 21
+    name: Annie Gittens
+    time: 25.52
     category: Inter Women
-    note: 🥉3rd Club Team
+    note: 5th Club Team
   - place: 16
-    name: Rebecca McLoughlin
-    time: 23.46
-    category: Inter Women
-    note: 🥉3rd Club Team
-  - place: 20
     name: Orla Gordon
-    time: 24.31
+    time: 27.37
     category: Inter Women
-    note: 
-  - place: 24
+    note: 5th Club Team
+  - place: 20
+    name: Aoife Brady
+    time: 31.06
+    category: Inter Women
+    note: 5th Club Team
+  - place: 40
     name: Heather Browning
-    time: 27.58
+    time: 31.37
     category: Inter Women
     note: 
-  - place: 25
-    name: Melissa Thompson 
-    time: 28.12
-    category: Inter Women
-    note:  
   - place: 5
     name: David Carroll
     time: 30.43
