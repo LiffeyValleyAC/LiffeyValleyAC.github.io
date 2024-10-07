@@ -44,22 +44,22 @@ results:
     name: David Carroll
     time: 30.43
     category: Inter Men
-    note: 🥈 2nd Club Team
+    note: 🥈2nd Club Team
   - place: 6
-    name: Conor O'Loughlin
-    time: 20.11
+    name: Geoffrey Alexandre
+    time: 30.50
     category: Inter Men
-    note: 6th Team
-  - place: 35
-    name: Colin Torpay
-    time: 20.36
+    note: 🥈2nd Club Team
+  - place: 7
+    name: Mark Naylor
+    time: 30.55
     category: Inter Men
-    note: 
+    note: 🥈2nd Club Team
   - place: 20
     name: James McKenna 
     time: 31.38
     category: Inter Men
-    note: 🥈 2nd Club Team
+    note: 🥈2nd Club Team
   - place: 28
     name: Conor O'Loughlin
     time: 32.54
