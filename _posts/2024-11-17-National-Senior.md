@@ -1,9 +1,9 @@
 ---
 title: 6th place for LVAC men at National Senior XC
-location: Enniskillen, Fermanagh
+location: Enniskillen, Co. Fermanagh
 ---
 
-Well done to all who ran in Enniskillen at the National Cross Country Championships.
+Well done to our men's team who finished <b>19th team</b> and 6th in Grade B in a very high quality National Senior XC in Enniskillen.
 
 A fantastic effort by Pierce Geoghegan, Mark Naylor, Conor O'Loughlin, and Geoffrey Alexandre in a fiercely competitive field! 
 
