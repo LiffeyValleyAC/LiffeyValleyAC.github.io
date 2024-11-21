@@ -1,5 +1,5 @@
 ---
-title: LVAC Senior Men are National 10k Road Champions
+title: LVAC Senior Men at National 10k Road Championship
 location: Dunboyne, Co. Meath.
 ---
 
