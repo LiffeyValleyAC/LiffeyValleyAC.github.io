@@ -5,24 +5,24 @@ date: 2024-12-01 12:45
 latitude: 52.17248162776296 
 longitude: -7.149009763252262
 results: 
-- place: 65
+  - place: 65
     name: Mark Naylor
-    time: 21:08
+    time: 21.08
     category: Novice Men
     note: BIB 2011
   - place: 77
     name: Geoffrey Alexandre
-    time: 21:27
+    time: 21.27
     category: Novice Men
     note: BIB 2004
   - place: 81
     name: David Carroll
-    time: 21:33
+    time: 21.33
     category: Novice Men
     note: BIB 2006
   - place: 144
     name: Arnaud Benjacar
-    time: 22:52
+    time: 22.52
     category: Novice Men
     note: BIB 2005
   - place: 150
@@ -45,9 +45,7 @@ results:
     time: 24:46
     category: Novice Men
     note: BIB 2007
-
-
-    - place: 50
+  - place: 50
     name: Siobhan Nugent
     time: 16:56
     category: Novice Woman
@@ -72,10 +70,9 @@ results:
     time: 18:24
     category: Novice Woman
     note: BIB 1763
-        - place: 97
+  - place: 97
     name: Orla Gordon
     time: 18:54
     category: Novice Woman
     note: BIB 1764
-
 ---
