@@ -1,5 +1,5 @@
 ---
-title: National Novice Cross County Championships
+title: National Novice Cross Country Championships
 location: Navan Race Course, Co. Meath
 date: 2023-12-03 11:00
 latitude: 53.683289
