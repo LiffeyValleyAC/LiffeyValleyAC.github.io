@@ -1,9 +1,9 @@
 ---
-title: National Novice Cross County Championships
-location: TBC
-date: 2024-12-01 12:00
-latitude: 52.614185
-longitude: -7.069892
+title: National Novice Cross Country Championships
+location: Tramore Race Course, Co. Waterford
+date: 2024-12-01 12:45
+latitude: 52.17248162776296 
+longitude: -7.149009763252262
 results: 
 - place: 65
     name: Mark Naylor
