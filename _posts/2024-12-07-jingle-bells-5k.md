@@ -10,8 +10,7 @@ Special mention for Pierce who finished 2nd in his category, and the men's team 
 
 Congratulations Everyone!
 
-<h3>Official Times</h3><br>
-
+<h4>Official Times</h4><br>
 <!-- 
 Pierce GEOGHEGAN 15.36<br>
 Mark NAYLOR 15.49 PB<br>
@@ -61,14 +60,17 @@ Melissa THOMPSON 25.59<br>
 
 <table class="table">
   <tr>
+    <th>Athlete</th> 
+    <th>Time</th> 
+  </tr>
+  <tr>
     <td class="yellow-text"><strong>Pierce GEOGHEGAN</strong></td>
     <td class="yellow-text"><strong>15.36</strong></td>
   </tr>
   <tr>
     <td class="skyblue-text"><strong>Mark NAYLOR</strong></td>
-    <td class="skyblue-text"><strong>15.49 (PB)</strong></td>
+    <td class="skyblue-text"><strong>15.49 (PB)</strong></td> 
   </tr>
-  <tr>
     <td class="yellow-text"><strong>Geoffrey ALEXANDRE</strong></td>
     <td class="yellow-text"><strong>15.57</strong></td>
   </tr>
