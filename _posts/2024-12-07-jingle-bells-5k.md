@@ -63,46 +63,46 @@ Melissa THOMPSON 25.59<br>
     <th>Athlete</th> 
     <th>Time</th> 
   <tr>
-    <td class="yellow-text"><strong>Pierce GEOGHEGAN</strong></td>
+    <td class="yellow-text"><strong>Pierce Geoghegan</strong></td>
     <td class="yellow-text"><strong>15.36</strong></td>
   </tr>
   <tr>
-    <td class="skyblue-text"><strong>Mark NAYLOR</strong></td>
+    <td class="skyblue-text"><strong>Mark Naylor</strong></td>
     <td class="skyblue-text"><strong>15.49 (PB)</strong></td> 
   </tr>
-    <td class="yellow-text"><strong>Geoffrey ALEXANDRE</strong></td>
+    <td class="yellow-text"><strong>Geoffrey Alexandre</strong></td>
     <td class="yellow-text"><strong>15.57</strong></td>
   </tr>
   <tr>
-    <td class="skyblue-text"><strong>Oisin MURPHY</strong></td>
+    <td class="skyblue-text"><strong>Oisin Murphy</strong></td>
     <td class="skyblue-text"><strong>17.25 (PB)</strong></td> 
   </tr>
   <tr>
-    <td class="yellow-text"><strong>Cormac LONG</strong></td>
+    <td class="yellow-text"><strong>Cormac Long</strong></td>
     <td class="yellow-text"><strong>17.52 (PB)</strong></td>
   </tr>
   <tr>
-    <td class="skyblue-text"><strong>Luke RYDER</strong></td>
+    <td class="skyblue-text"><strong>Luke Ryder</strong></td>
     <td class="skyblue-text"><strong>20.04</strong></td> 
   </tr>
   <tr>
-    <td class="yellow-text"><strong>Siobhan NUGENT</strong></td>
+    <td class="yellow-text"><strong>Siobhán Nugent</strong></td>
     <td class="yellow-text"><strong>19.58</strong></td> 
   </tr>
   <tr>
-    <td class="skyblue-text"><strong>Orla GORDON</strong></td>
+    <td class="skyblue-text"><strong>Orla Gordon</strong></td>
     <td class="skyblue-text"><strong>20.51</strong></td> 
   </tr>
   <tr>
-    <td class="yellow-text"><strong>Cillian TRAYNOR</strong></td>
+    <td class="yellow-text"><strong>Cillian Traynor</strong></td>
     <td class="yellow-text"><strong>21.23</strong></td> 
   </tr>
   <tr>
-    <td class="skyblue-text"><strong>Heather BROWNING</strong></td>
+    <td class="skyblue-text"><strong>Heather Browning</strong></td>
     <td class="skyblue-text"><strong>23.55</strong></td> 
   </tr>
   <tr>
-    <td class="yellow-text"><strong>Melissa THOMPSON</strong></td>
+    <td class="yellow-text"><strong>Melissa Thompson</strong></td>
     <td class="yellow-text"><strong>25.59</strong></td> 
   </tr>
 </table>
