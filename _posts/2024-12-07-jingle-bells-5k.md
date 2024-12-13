@@ -30,7 +30,7 @@ Melissa THOMPSON 25.59<br>
   </tr>
   <tr>
     <td class="skyblue-text"><strong>Mark NAYLOR</strong></td>
-    <td class="skyblue-text"><strong>15.49</strong></td>
+    <td class="skyblue-text"><strong>15.49 (PB)</strong></td>
   </tr>
   <tr>
     <td class="yellow-text"><strong>Geoffrey ALEXANDRE</strong></td>
@@ -38,11 +38,11 @@ Melissa THOMPSON 25.59<br>
   </tr>
   <tr>
     <td class="skyblue-text"><strong>Oisin MURPHY</strong></td>
-    <td class="skyblue-text"><strong>17.25</strong></td> 
+    <td class="skyblue-text"><strong>17.25 (PB)</strong></td> 
   </tr>
   <tr>
     <td class="yellow-text"><strong>Cormac LONG</strong></td>
-    <td class="yellow-text"><strong>17.52</strong></td>
+    <td class="yellow-text"><strong>17.52 (PB)</strong></td>
   </tr>
   <tr>
     <td class="skyblue-text"><strong>Luke RYDER</strong></td>
