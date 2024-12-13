@@ -62,7 +62,6 @@ Melissa THOMPSON 25.59<br>
   <tr>
     <th>Athlete</th> 
     <th>Time</th> 
-  </tr>
   <tr>
     <td class="yellow-text"><strong>Pierce GEOGHEGAN</strong></td>
     <td class="yellow-text"><strong>15.36</strong></td>
@@ -110,10 +109,10 @@ Melissa THOMPSON 25.59<br>
 
 <img src="/assets/images/races/2024/2024-12-07_jingle_bells.jpg" class="img-fluid" alt="LVAC Team">
 
-<a href="https://www.instagram.com/p/DDSaqb2OezB/?img_index=1" target="_blank" rel="noopener noreferrer">Instagram</a>
+<a href="https://www.instagram.com/p/DDSaqb2OezB/?img_index=1" target="_blank" rel="noopener noreferrer">Instagram</a><br>
 
-<a href="/races/2024-12-07-Jingle-Bells-5k/" target="_blank" rel="noopener noreferrer">Race Results</a>
+<a href="/races/2024-12-07-Jingle-Bells-5k/" target="_blank" rel="noopener noreferrer">Race Results</a><br>
 
-<a href="https://www.popupraces.ie/race/jingle-bells-5k-and-family-fun-run-2024/" target="_blank" rel="noopener noreferrer">PopUp Races Results</a>
+<a href="https://www.popupraces.ie/race/jingle-bells-5k-and-family-fun-run-2024/" target="_blank" rel="noopener noreferrer">PopUp Races Results</a><br>
 
 
