@@ -10,8 +10,8 @@ Special mention for Pierce who finished 2nd in his category, and the men's team 
 
 Congratulations Everyone!
 
-<h4>Official Times</h4><br>
-<!-- 
+<!-- <h3>Official Times</h3><br>
+
 Pierce GEOGHEGAN 15.36<br>
 Mark NAYLOR 15.49 PB<br>
 Geoffrey ALEXANDRE 15.57<br>
