@@ -11,17 +11,6 @@ Special mention for Pierce who finished 2nd in his category, and the men's team 
 Congratulations Everyone!
 
 <u>Official times:</u><br>
-Pierce GEOGHEGAN 15.36<br>
-Mark NAYLOR 15.49 PB<br>
-Geoffrey ALEXANDRE 15.57<br>
-Oisin MURPHY 17.25 PB<br>
-Cormac LONG 17.52 PB<br>
-Luke RYDER 20.04<br>
-Siobhan NUGENT 19.58<br>
-Orla GORDON 20.51<br>
-Cillian TRAYNOR 21.23<br>
-Heather BROWNING 23.55<br>
-Melissa THOMPSON 25.59<br>
 
 <table class="table">
   <tr>
