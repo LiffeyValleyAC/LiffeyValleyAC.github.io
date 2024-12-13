@@ -10,7 +10,7 @@ Special mention for Pierce who finished 2nd in his category, and the men's team 
 
 Congratulations Everyone!
 
-<u>Official times:</u><br>
+<h3>Official Times</h3><br>
 
 <!-- 
 Pierce GEOGHEGAN 15.36<br>
@@ -38,6 +38,14 @@ Melissa THOMPSON 25.59<br>
       border: 1px solid #ddd; 
       padding: 8px; 
       text-align: left; 
+    }
+
+    .table td:first-child { /* Target the first column (name) */
+      width: 70%; 
+    }
+
+    .table td:last-child {  /* Target the last column (time) */
+      width: 30%; 
     }
 
     .yellow-text {
