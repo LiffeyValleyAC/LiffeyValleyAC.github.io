@@ -25,7 +25,7 @@ Cillian TRAYNOR 21.23<br>
 Heather BROWNING 23.55<br>
 Melissa THOMPSON 25.59<br>
 -->
-<!DOCTYPE html>
+
 <html>
 <head>
   <style>
