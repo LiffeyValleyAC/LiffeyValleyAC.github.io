@@ -29,7 +29,7 @@ Melissa THOMPSON 25.59<br>
 <head>
   <style>
     .table {
-      width: 100%;
+      width: 70%;
       border-collapse: collapse; 
     }
 
@@ -40,11 +40,11 @@ Melissa THOMPSON 25.59<br>
     }
 
     .table td:first-child { /* Target the first column (name) */
-      width: 70%; 
+      width: 50%; 
     }
 
     .table td:last-child {  /* Target the last column (time) */
-      width: 30%; 
+      width: 20%; 
     }
 
     .yellow-text {
