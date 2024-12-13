@@ -24,47 +24,51 @@ Heather BROWNING 23.55<br>
 Melissa THOMPSON 25.59<br>
 
 <table class="table">
-		<tr>
-			<td style="color: #FFE600;"><strong>Pierce GEOGHEGAN</strong></td>
-			<td style="color: #FFE600;"><strong>15.36</td>
-		</tr>
-		<tr>
-			<td style="color: skyblue;"><strong>Mark NAYLOR</strong></td>
-			<td style="color: skyblue;"><strong>15.49</td>
-		</tr>
-			<tr>
-			<td style="color: #FFE600;"><strong>Geoffrey ALEXANDRE</strong></td>
-			<td style="color: #FFE600;"><strong>15.57</td>
-		</tr>
-			<td style="color: skyblue;"><strong>Oisin MURPHY</strong></td>
-			<td style="color: skyblue;"><strong>17.25</a></td>
-		<tr>
-			<td style="color: #FFE600;"><strong>Cormac LONG</strong></td>
-			<td style="color: #FFE600;"><strong>17.52</td>
-		</tr>
-			<td style="color: skyblue;"><strong>Luke RYDER</strong></td>
-			<td style="color: skyblue;"><strong>20.04</td>
-		<tr>
-			<td style="color: #FFE600;"><strong>Siobhan NUGENT</strong></td>
-			<td style="color: #FFE600;"><strong>19.58</a></td>
-		</tr>
-		<tr>
-			<td style="color: skyblue;"><strong>Orla GORDON</strong></td>
-			<td style="color: skyblue;"><strong>20.51</a></td>
-		</tr>
-		<tr>
-			<td style="color: #FFE600;"><strong>Cillian TRAYNOR</strong></td>
-			<td style="color: #FFE600;"><strong>21.23</a></td>
-		</tr>
-		<tr>
-			<td style="color: skyblue;"><strong>Heather BROWNING</strong></td>
-			<td style="color: skyblue;"><strong>23.55</a></td>
-		</tr>
-		<tr>
-			<td style="color: #FFE600;"><strong>Melissa THOMPSON</strong></td>
-			<td style="color: #FFE600;"><strong>25.59</a></td>
-		</tr>
-	</table>
+  <tr>
+    <td class="yellow-text"><strong>Pierce GEOGHEGAN</strong></td>
+    <td class="yellow-text"><strong>15.36</strong></td>
+  </tr>
+  <tr>
+    <td class="skyblue-text"><strong>Mark NAYLOR</strong></td>
+    <td class="skyblue-text"><strong>15.49</strong></td>
+  </tr>
+  <tr>
+    <td class="yellow-text"><strong>Geoffrey ALEXANDRE</strong></td>
+    <td class="yellow-text"><strong>15.57</strong></td>
+  </tr>
+  <tr>
+    <td class="skyblue-text"><strong>Oisin MURPHY</strong></td>
+    <td class="skyblue-text"><strong>17.25</strong></td> 
+  </tr>
+  <tr>
+    <td class="yellow-text"><strong>Cormac LONG</strong></td>
+    <td class="yellow-text"><strong>17.52</strong></td>
+  </tr>
+  <tr>
+    <td class="skyblue-text"><strong>Luke RYDER</strong></td>
+    <td class="skyblue-text"><strong>20.04</strong></td> 
+  </tr>
+  <tr>
+    <td class="yellow-text"><strong>Siobhan NUGENT</strong></td>
+    <td class="yellow-text"><strong>19.58</strong></td> 
+  </tr>
+  <tr>
+    <td class="skyblue-text"><strong>Orla GORDON</strong></td>
+    <td class="skyblue-text"><strong>20.51</strong></td> 
+  </tr>
+  <tr>
+    <td class="yellow-text"><strong>Cillian TRAYNOR</strong></td>
+    <td class="yellow-text"><strong>21.23</strong></td> 
+  </tr>
+  <tr>
+    <td class="skyblue-text"><strong>Heather BROWNING</strong></td>
+    <td class="skyblue-text"><strong>23.55</strong></td> 
+  </tr>
+  <tr>
+    <td class="yellow-text"><strong>Melissa THOMPSON</strong></td>
+    <td class="yellow-text"><strong>25.59</strong></td> 
+  </tr>
+</table>
 
 <img src="/assets/images/races/2024/2024-12-07_jingle_bells.jpg" class="img-fluid" alt="LVAC Team">
 
