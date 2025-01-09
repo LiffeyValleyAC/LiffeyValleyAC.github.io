@@ -1,6 +1,6 @@
 ---
 title: Valencia Marathon
-location: Valencia, Spain.
+location: Valencia, Spain
 ---
 
 Well done to our our members John Tuohy, Bernard O'Sullivan, Michael Ferreira, and Peter Bowe for completing the Valencia Marathon in Spain.
