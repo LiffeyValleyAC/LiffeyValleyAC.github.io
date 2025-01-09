@@ -7,15 +7,15 @@ We had a fantastic showing from Liffey Valley AC athletes at today's Dublin Mast
 Well done to everyone who ran in difficult conditions, particularly Pierce who got the 3rd place overall and 2nd place on the category M 40.
 everybody gave 100 per cent which was great to see
 
-A special congratulations to our medalists:
-🥇Pat Collins M75
-🥈Pierce Geoghegan M40
-
-Our Teams finished as:
-M Intermediate - 7th
-F Intermediate - 4th
-M35 - 4th
-M50 - 6th
+A special congratulations to our medalists:<br>
+🥇Pat Collins M75<br>
+🥈Pierce Geoghegan M40<br>
+<br>
+Our Teams finished as:<br>
+M Intermediate - 7th<br>
+F Intermediate - 4th<br>
+M35 - 4th<br>
+M50 - 6th<br><br>
 
 Thank you to Raheny Shamrocks A.C. for being wonderful hosts. 
 
