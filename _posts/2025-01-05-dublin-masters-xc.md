@@ -25,5 +25,5 @@ Thank you to Raheny Shamrocks A.C. for being wonderful hosts.
 
 <a href="/races/2025-01-05-dublin-masters-xc/" target="_blank" rel="noopener noreferrer">Race Results</a>
 
-<img src="/assets/images/races/2025/2025-01-05_intermediates.jpeg" class="img-fluid" alt="Medalists">
-<img src="/assets/images/races/2025/2025-01-05_masters35.jpeg" class="img-fluid" alt="Medalists">
+<img src="/assets/images/races/2025/2025-01-05_intermediates.jpeg" class="img-fluid" alt="Men Intermediate Team">
+<img src="/assets/images/races/2025/2025-01-05_masters35.jpeg" class="img-fluid" alt="Men Masters +35 Team">
