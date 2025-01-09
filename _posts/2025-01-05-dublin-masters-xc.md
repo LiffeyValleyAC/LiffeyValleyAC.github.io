@@ -27,3 +27,4 @@ Thank you to Raheny Shamrocks A.C. for being wonderful hosts.
 
 <img src="/assets/images/races/2025/2025-01-05_intermediates.jpeg" class="img-fluid" alt="Men Intermediate Team">
 <img src="/assets/images/races/2025/2025-01-05_masters35.jpeg" class="img-fluid" alt="Men Masters +35 Team">
+<img src="/assets/images/races/2025/2025-01-05_women.jpg" class="img-fluid" alt="Women Team">
