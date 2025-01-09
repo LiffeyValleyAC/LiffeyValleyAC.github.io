@@ -4,8 +4,10 @@ location: Raheny, Dublin
 ---
 
 We had a fantastic showing from Liffey Valley AC athletes at today's Dublin Masters Cross Country Championships in St. Anne's Park!
-Well done to everyone who ran in difficult conditions, particularly Pierce who got the 3rd place overall and 2nd place on the category M 40.
-everybody gave 100 per cent which was great to see
+
+Well done to everyone who ran in difficult conditions, particularly Pierce who got the <b>3rd place</b> overall and 2nd place on the category M 40.
+
+Everybody gave 100 % which was great to see.
 
 A special congratulations to our medalists:<br>
 🥇Pat Collins M75<br>
