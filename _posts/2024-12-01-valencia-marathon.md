@@ -7,7 +7,7 @@ Well done to our our members John Tuohy, Bernard O'Sullivan, Michael Ferreira, a
 
 <a href="https://www.instagram.com/p/DDDTDdQuviB/?img_index=1" target="_blank" rel="noopener noreferrer">Instagram</a>
 
-<a href="/_races/2024-12-01-Valencia-Marathon/" target="_blank" rel="noopener noreferrer">LVAC Results</a>
+<a href="/races/2024-12-01-Valencia-Marathon/" target="_blank" rel="noopener noreferrer">LVAC Results</a>
 
 <img src="/assets/images/races/2024/2024-12-01_valencia_stats_01.png" class="img-fluid" alt="Stats">
 
