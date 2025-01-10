@@ -11,6 +11,8 @@ Everybody gave 100 % which was great to see.
 
 A special congratulations to our medalists:<br>
 🥇Pat Collins M75<br>
+🥈Paddy Reilly M75<br>
+🥈Una Reilly F65<br>
 🥈Pierce Geoghegan M40<br>
 <br>
 Our Teams finished as:<br>
