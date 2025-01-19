@@ -5,14 +5,14 @@ location: Kilcormac, Co. Offaly
 
 Amazing performance from the entire squad today! 🏅 The hard work and teamwork really paid off, with fantastic results across the board:
 
-▶️ Pierce set the pace by taking 1st place in the Masters' category and in his individual category!
-▶️ Mark secured 2nd in the Intermediate, while also leading the team to Silver medals.
-▶️ A big shoutout to Mark and Geoffrey, who shone as part of the Dublin team that brought home Gold!
-▶️ The Masters team fought hard, finishing 4th and just two points shy of Bronze—a testament to their incredible effort.
+▶️ Pierce set the pace by taking 1st place in the Masters' category and in his individual category!<br>
+▶️ Mark secured 2nd in the Intermediate, while also leading the team to Silver medals.<br>
+▶️ A big shoutout to Mark and Geoffrey, who shone as part of the Dublin team that brought home Gold!<br>
+▶️ The Masters team fought hard, finishing 4th and just two points shy of Bronze—a testament to their incredible effort.<br>
 
 This is a clear example of what we can achieve when we come together and give our best. Let’s keep building on this momentum—great things are ahead. Well done, everyone! 👏🏃🏽‍♂️
 
-<a href="/races/2025-01-18-Leinster-Inter-Master-XC.md/" target="_blank" rel="noopener noreferrer">Race Results</a>
+<a href="/races/2025-01-18-Leinster-Inter-Master-XC/" target="_blank" rel="noopener noreferrer">Race Results</a>
 
 <a href="https://myrunresults.com/events/leinster_intermediate__masters_xc_championships_2025/5623/results" target="_blank" rel="noopener noreferrer">My Run Results</a>
 
