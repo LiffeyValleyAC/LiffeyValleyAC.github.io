@@ -1,5 +1,5 @@
 ---
-title: Gold medal for Pierce at Leinster Intermediate Cross Country Championships
+title: Gold medal for Pierce at Leinster Intermediate and Master Cross Country Championships
 location: Kilcormac, Co. Offaly
 ---
 
