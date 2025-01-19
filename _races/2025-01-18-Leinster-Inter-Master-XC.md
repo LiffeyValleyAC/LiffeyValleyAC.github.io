@@ -1,10 +1,10 @@
 ---
-title: Leinster Intermediate Cross Country Championships
+title: Leinster Intermediate and Master Cross Country Championships
 location: Kilcormac, Co. Offaly
 date: 2025-01-18 13:30
 latitude: 53.183386616000014 
 longitude: -7.713003998439156
-results: 🥈🥇🥉
+results: 
   - place: 11
     name: Mollie O'Donnell
     time: 19.36
