@@ -88,51 +88,51 @@ results:
   - place: 1
     name: Pierce Geoghegan
     time: 00.22.50
-    category: Inter Men
+    category: Master Men
     note: M40
   - place: 21
     name: Simon Monds
     time: 00.25.24
-    category: Inter Men
+    category: Master Men
     note: M45
   - place: 25
     name: Arnaud Benjacar
     time: 00.25.39
-    category: Inter Men
+    category: Master Men
     note: M50
   - place: 66
     name: Cormac Long
     time: 00.28.06
-    category: Inter Men
+    category: Master Men
     note: M35
   - place: 89
     name: Alejandro Cavallo
     time: 00.28.57
-    category: Inter Men
+    category: Master Men
     note: M35
   - place: 91
     name: Peter Bowe
     time: 00.29.01
-    category: Inter Men
+    category: Master Men
     note: M40
   - place: 94
     name: Eddie Mcgrath
     time: 00.29.06
-    category: Inter Men
+    category: Master Men
     note: M55
   - place: 95
     name: Neil Duffy
     time: 00.29.07
-    category: Inter Men
+    category: Master Men
     note: M45
   - place: 102
     name: Bernard O'sullivan
     time: 00.29.56
-    category: Inter Men
+    category: Master Men
     note: M45
   - place: 103
     name: Michael Ferreira
     time: 00.29.58
-    category: Inter Men
+    category: Master Men
     note: M45
 ---
