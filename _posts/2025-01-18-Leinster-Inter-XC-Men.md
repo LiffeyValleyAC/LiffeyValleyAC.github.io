@@ -12,6 +12,7 @@ Amazing performance from the entire squad today! 🏅 The hard work and teamwork
 
 This is a clear example of what we can achieve when we come together and give our best. Let’s keep building on this momentum—great things are ahead. Well done, everyone! 👏🏃🏽‍♂️
 
+
 <a href="/races/2025-01-18-Leinster-Inter-Master-XC/" target="_blank" rel="noopener noreferrer">Race Results</a>
 
 <a href="https://myrunresults.com/events/leinster_intermediate__masters_xc_championships_2025/5623/results" target="_blank" rel="noopener noreferrer">My Run Results</a>
