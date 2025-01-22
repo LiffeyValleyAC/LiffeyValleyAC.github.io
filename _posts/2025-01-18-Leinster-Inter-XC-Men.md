@@ -17,12 +17,11 @@ This is a clear example of what we can achieve when we come together and give ou
 
 <a href="https://myrunresults.com/events/leinster_intermediate__masters_xc_championships_2025/5623/results" target="_blank" rel="noopener noreferrer">My Run Results</a>
 
+<a href="https://www.instagram.com/p/DFAhTjMgGMb/?img_index=1" target="_blank" rel="noopener noreferrer">Instagram</a>
+
 <a href="https://www.facebook.com/share/p/12D7PLMmC7m/?mibextid=wwXIfr" target="_blank" rel="noopener noreferrer">Facebook post from Athletics Leinster</a>
 
-<!--
-<a href="https://www.instagram.com/p/C2YQ0eas7J8/" target="_blank" rel="noopener noreferrer">Instagram</a>
 
--->
 
 <img src="/assets/images/races/2025/2025-01-18_LeinsterXC_01.jpg" class="img-fluid" alt="LVAC Group Photo">
 <img src="/assets/images/races/2025/2025-01-18_LeinsterXC_02.jpg" class="img-fluid" alt="LVAC Group Photo">
