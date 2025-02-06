@@ -66,7 +66,7 @@ results:
     category: Inter Men
     note: 🥈2nd Club Team
   - place: 42
-    name: Patrick Fox
+    name: Calvin Malone
     time: 00.31.50
     category: Inter Men
     note: 
