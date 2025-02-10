@@ -18,12 +18,12 @@ results:
   - place: 21
     name: Geoffrey Alexandre
     time: 30.15
-    category: Intermediate
+    category: M Intermediate
     note: Bib "473"
   - place: 29
     name: Oisin Murphy
     time: 31.36
-    category: Senior
+    category: M Senior
     note: Bib "478"
   - place: 32
     name: Cormac Long
@@ -33,12 +33,12 @@ results:
   - place: 36
     name: James Mckenna
     time: 33.19
-    category: Senior
+    category: M Senior
     note: Bib "476"
   - place: 39
     name: David Carroll
     time: 34.38
-    category: Intermediate
+    category: M Intermediate
     note: Bib "474"
   - place: 8
     name: Siobhan Nugent
