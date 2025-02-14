@@ -1,5 +1,5 @@
 ---
-title: LVAC 2 Mile Road Race
+title: LVAC 5/5 2 Mile Road Race
 location: Phoenix Park
 date: 2025-04-01 19:15
 latitude: 53.3522291
