@@ -1,7 +1,7 @@
 ---
 title: Leinster Masters Indoor Track Championships 
 location: Athlone IT, Co. Westmeath
-date: 2024-03-09 14:00
+date: 2025-03-01 14:00
 latitude: 53.417891
 longitude: -7.904888
 results:
