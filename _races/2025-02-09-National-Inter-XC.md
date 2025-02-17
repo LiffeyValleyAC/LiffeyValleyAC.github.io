@@ -36,7 +36,7 @@ results:
     category: M Senior
     note: Bib "476"
   - place: 39
-    name: David Carroll
+    name: Calvin Malone
     time: 34.38
     category: M Intermediate
     note: Bib "474"

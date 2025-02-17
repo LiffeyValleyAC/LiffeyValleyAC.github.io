@@ -1,5 +1,5 @@
 ---
-title: LVAC Cross Country Championships
+title: LVAC 3/5 Cross Country Championships
 location: Dog Pond, Phoenix Park
 date: 2025-02-23 11:30
 latitude: 53.3522291
