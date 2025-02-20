@@ -7,137 +7,137 @@ longitude: -6.335077
 results:
   - place: 1
     name: Eddie McGrath
-    finish_time: "28.20"
-    handicap: "4.00"
-    actual_time: "24.20"
+    finish_time: "28m 20s"
+    handicap: "4m 00s"
+    actual_time: "24m 20s"
   - place: 2
     name: Aileen Gittens
-    finish_time: "29.22"
-    handicap: "4.30"
-    actual_time: "24.52"
+    finish_time: "29m 22s"
+    handicap: "4m 30s"
+    actual_time: "24m 52s [1st]"
   - place: 3
     name: Annie Gittens
-    finish_time: "29.34"
-    handicap: "3.30"
-    actual_time: "26.04"
+    finish_time: "29m 34s"
+    handicap: "3m 30s"
+    actual_time: "26m 04s [2nd]"
   - place: 4
     name: Jen Preston
-    finish_time: "29.57"
-    handicap: "3.15"
-    actual_time: "26.42"
+    finish_time: "29m 57s"
+    handicap: "3m 15s"
+    actual_time: "26m 42s [3rd]"
   - place: 5
     name: Bogdan Filan
-    finish_time: "30.10"
-    handicap: "9.15"
-    actual_time: "20.55"
+    finish_time: "30m 10s"
+    handicap: "9m 15s"
+    actual_time: "20m 55s"
   - place: 6
     name: Matthew Blyth
-    finish_time: "30.47"
-    handicap: "7.30"
-    actual_time: "23.17"
+    finish_time: "30m 47s"
+    handicap: "7m 30s"
+    actual_time: "23m 17s"
   - place: 7
     name: Paul Balfe
-    finish_time: "30.53"
-    handicap: "7.45"
-    actual_time: "23.08"
+    finish_time: "30m 53s"
+    handicap: "7m 45s"
+    actual_time: "23m 08s"
   - place: 8
     name: Martin Dorgan
-    finish_time: "30.55"
-    handicap: "6.00"
-    actual_time: "24.55"
+    finish_time: "30m 55s"
+    handicap: "6m 00s"
+    actual_time: "24m 55s"
   - place: 9
     name: Daniel English
-    finish_time: "30.59"
-    handicap: "6.00"
-    actual_time: "24.59"
+    finish_time: "30m 59s"
+    handicap: "6m 00s"
+    actual_time: "24m 59s"
   - place: 10
     name: Peter Arthur
-    finish_time: "31.00"
-    handicap: "11.00"
-    actual_time: "20.00"
+    finish_time: "31m 00s"
+    handicap: "11m 00s"
+    actual_time: "20m 00s [1st]"
   - place: 11
     name: Anthony McMahon
-    finish_time: "31.04"
-    handicap: "6.30"
-    actual_time: "24.34"
+    finish_time: "31m 04s"
+    handicap: "6m 30s"
+    actual_time: "24m 34s"
   - place: 12
     name: Joe Cooper
-    finish_time: "31.09"
-    handicap: "2.00"
-    actual_time: "29.09"
+    finish_time: "31m 09s"
+    handicap: "2m 00s"
+    actual_time: "29m 09s"
   - place: 13
     name: Aoife Brady
-    finish_time: "31.12"
-    handicap: "2.30"
-    actual_time: "28.42"
+    finish_time: "31m 12s"
+    handicap: "2m 30s"
+    actual_time: "28m 42s"
   - place: 14
     name: Andy Nason
-    finish_time: "31.13"
-    handicap: "9.00"
-    actual_time: "22.13"
+    finish_time: "31m 13s"
+    handicap: "9m 00s"
+    actual_time: "22m 13s"
   - place: 15
     name: Arnaud Benjacar
-    finish_time: "31.14"
-    handicap: "8.30"
-    actual_time: "22.44"
+    finish_time: "31m 14s"
+    handicap: "8m 30s"
+    actual_time: "22m 44s"
   - place: 16
     name: Orla Gordon
-    finish_time: "31.20"
-    handicap: "2.45"
-    actual_time: "28.35"
+    finish_time: "31m 20s"
+    handicap: "2m 45s"
+    actual_time: "28m 35s"
   - place: 17
     name: Chris Morgan
-    finish_time: "31.22"
-    handicap: "9.15"
-    actual_time: "22.07"
+    finish_time: "31m 22s"
+    handicap: "9m 15s"
+    actual_time: "22m 07s [3rd]"
   - place: 18
     name: Brigid Reilly
-    finish_time: "31.30"
-    handicap: "2.00"
-    actual_time: "29.30"
+    finish_time: "31m 30s"
+    handicap: "2m 00s"
+    actual_time: "29m 30s"
   - place: 19
     name: Bernard O'Sullivan
-    finish_time: "31.37"
-    handicap: "6.30"
-    actual_time: "25.07"
+    finish_time: "31m 37s"
+    handicap: "6m 30s"
+    actual_time: "25m 07s"
   - place: 20
     name: Paul Quinn
-    finish_time: "31.38"
-    handicap: "7.15"
-    actual_time: "24.23"
+    finish_time: "31m 38s"
+    handicap: "7m 15s"
+    actual_time: "24m 23s"
   - place: 21
     name: Tommy Breheny
-    finish_time: "31.42"
-    handicap: "4.30"
-    actual_time: "27.12"
+    finish_time: "31m 42s"
+    handicap: "4m 30s"
+    actual_time: "27m 12s"
   - place: 22
     name: Luke Ryder
-    finish_time: "32.27"
-    handicap: "4.00"
-    actual_time: "28.27"
+    finish_time: "32m 27s"
+    handicap: "4m 00s"
+    actual_time: "28m 27s"
   - place: 23
     name: Ger Feely
-    finish_time: "33.03"
-    handicap: "3.00"
-    actual_time: "30.03"
+    finish_time: "33m 03s"
+    handicap: "3m 00s"
+    actual_time: "30m 03s"
   - place: 24
     name: Conor Reilly
-    finish_time: "33.09"
-    handicap: "6.30"
-    actual_time: "26.39"
+    finish_time: "33m 09s"
+    handicap: "6m 30s"
+    actual_time: "26m 39s"
   - place: 25
     name: Maeve Walsh
-    finish_time: "33.39"
-    handicap: "3.15"
-    actual_time: "30.24"
+    finish_time: "33m 39s"
+    handicap: "3m 15s"
+    actual_time: "30m 24s"
   - place: 26
     name: Hilary McDonnell
-    finish_time: "33.50"
-    handicap: "0.00"
-    actual_time: "33.50"
+    finish_time: "33m 50s"
+    handicap: "0m 00s"
+    actual_time: "33m 50s"
   - place: 27
     name: Stephen Coughlan
-    finish_time: "34.53"
-    handicap: "1.30"
-    actual_time: "33.23"
+    finish_time: "34m 53s"
+    handicap: "1m 30s"
+    actual_time: "33m 23s"
 ---
