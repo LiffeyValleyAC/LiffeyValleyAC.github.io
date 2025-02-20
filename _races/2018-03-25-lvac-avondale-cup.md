@@ -29,7 +29,7 @@ results:
     name: Bogdan Filan
     finish_time: "30m 10s"
     handicap: "9m 15s"
-    actual_time: "20m 55s"
+    actual_time: "20m 55s [2nd]"
   - place: 6
     name: Matthew Blyth
     finish_time: "30m 47s"
