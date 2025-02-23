@@ -1,5 +1,5 @@
 ---
-title: LVAC XC Championships
+title: LVAC XC Championships - Winter League nro3 of 5
 location: Phoenix Park, Dublin
 ---
 
