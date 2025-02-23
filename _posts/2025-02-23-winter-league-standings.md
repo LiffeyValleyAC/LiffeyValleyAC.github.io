@@ -41,6 +41,6 @@ Brigid Long</b><br>
 Don't miss the upcoming <b>Avondale Cup 5km Road Race on 09/03 at The Acres</b>.
 See you at the starting line! 💪🏃‍♂️🏃‍♀️🔥
 
-<img src="/assets/results/winter-league-2024-2025/LVAC Winter League 2024-2025 - WL 3 of 5_pages-to-jpg-0001.jpg" class="img-fluid" width="100%" height="auto" alt="LVAC Winter League 3 of 5">
+<img src="/assets/results/winter-league-2024-2025/LVAC Winter League 2024-2025 - WL 3 of 5_pages-to-jpg-0001.jpg"  width="100%" height="auto" alt="LVAC Winter League 3 of 5">
 
 <a href="/assets/results/winter-league-2024-2025/LVAC Winter League 2024-2025 - WL 3 of 5.pdf" target="_blank" rel="noopener noreferrer">Download PDF</a>
