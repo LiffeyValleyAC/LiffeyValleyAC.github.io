@@ -14,8 +14,8 @@ Antonio Lorente (78 points)<br><br>
 🥇Eddie McGrath (130 points) ⬆ (+50 pts)<br>
 🥈Margaret O'Friel (126 points) ⬆ (+50 pts)<br>
 🥉James McKenna (121 points) ⬆ (+50 pts)<br>
-🔹 Conor O'Loughlin dropped from 1st to 14th place after failing to score in Race 3.<br>
-🔹 Antonio Lorente, who was 3rd, fell to 16th place.<br>
+🔹 Conor O'Loughlin dropped from 1st to 15th place after failing to score in Race 3.<br>
+🔹 Antonio Lorente, who was 3rd, fell to 17th place.<br>
 🔹 Margaret O'Friel climbed from 4th to 2nd with her Race 3 points.<br>
 🔹 James McKenna moved up from 6th to 3rd thanks to his score in Race 3.<br>
 
@@ -29,10 +29,9 @@ The following runners scored 50 points in the last race and climbed up the ranki
 <b>Una Reilly</b> (advanced from 11th to 8th place)<br>
 <b>Patrick Fox</b> (climbed from 14th to 11th place)<br><br>
 
-Additionally, new runners entered the ranking with 50 points in Race 3:<br>
+Additionally, 5 new runners entered the ranking with 50 points in Race 3:<br>
 
 <b>Paddy Murphy<br>
-Robert Collins<br>
 Peter Bowe<br>
 Richard Finnegan<br>
 Neil Duffy<br>

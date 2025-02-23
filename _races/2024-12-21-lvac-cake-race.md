@@ -60,7 +60,7 @@ results:
     actual_time: 16m 28s
     note:
   - place: 10
-    name: Rob Collins
+    name: Robert Collins
     finish_time: 29m 43s
     handicap: 8m 30s
     actual_time: 21m 13s
