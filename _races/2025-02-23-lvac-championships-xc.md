@@ -92,7 +92,7 @@ results:
   - place: 3
     name: Margaret O'Friel
     time: 27.40
-    category: M60
+    category: F60
   - place: 4
     name: Paddy Reilly
     time: 28.14
@@ -100,7 +100,7 @@ results:
   - place: 5
     name: Una Reilly
     time: 29.30
-    category: M60
+    category: F60
   - place: 6
     name: Joe Cooper
     time: 30.20
