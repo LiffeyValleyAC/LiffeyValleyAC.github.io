@@ -8,7 +8,7 @@ Huge congratulations to our incredible athlete Geoffrey Alexandre for absolutely
 29th Overall Position, same like last year.<br>
 6th in M35 category<br>
 
-Finishing with an impressive time of 01:12:58 (1 second ahead of his previous PB), Geoffrey showcased true determination, perseverance and strength.<br>
+Finishing with an impressive time of 01:12:58 (58 second ahead of his previous PB), Geoffrey showcased true determination, perseverance and strength.<br>
 
 <a href="/races/2024-02-25-brighton-half-marathon/" target="_blank" rel="noopener noreferrer">Race Results</a>
 
