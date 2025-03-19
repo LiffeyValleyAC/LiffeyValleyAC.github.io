@@ -1,5 +1,5 @@
 ---
-title: Great permormances in the Barcelona Marathon
+title: Great performances in the Barcelona Marathon
 location: Barcelona, Spain.
 ---
 
