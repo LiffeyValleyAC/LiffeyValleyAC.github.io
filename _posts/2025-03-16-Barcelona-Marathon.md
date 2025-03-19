@@ -1,5 +1,5 @@
 ---
-title: Personal Best Time for John Gannon in the Rome Marathon
+title: Great permormances in the Barcelona Marathon
 location: Barcelona, Spain.
 ---
 
