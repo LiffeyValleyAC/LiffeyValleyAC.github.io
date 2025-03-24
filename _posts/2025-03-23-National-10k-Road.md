@@ -7,9 +7,11 @@ Congratulations to all our amazing athletes who raced in the National 10k Road R
 
 💪 We saw some incredible performances and witnessed numerous personal bests being shattered. 🚀
 
-<a href="/races/2025-03-23-National-10k-Road/" target="_blank" rel="noopener noreferrer">Race Results</a>
+<a href="/races/2025-03-23-Dublin-10k-Road/" target="_blank" rel="noopener noreferrer">Race Results</a>
 
 <a href="https://www.instagram.com/p/DHj0spgNLw4/?img_index=1" target="_blank" rel="noopener noreferrer">Instagram</a>
+
+<a href="https://myrunresults.com/events/dunboyne_54th_road_race_10k_2025/5514/results" target="_blank" rel="noopener noreferrer">MyRun Results</a>
  
 <img src="/assets/images/races/2025/2025-03-23_dunboyne.jpg"  width="100%" height="auto" alt="Group photo">
 

@@ -15,7 +15,7 @@ F70 - 1st - Una Reilly<br>
 M70 - 2nd - Pat Collins<br>
 M70 - 3rd - Paddy Reilly<br>
 
-<a href="/races/2025-03-17-Dublin-5k-Novice-Road/" target="_blank" rel="noopener noreferrer">Race Results</a>
+<a href="/races/2025-03-17-tallaght-5k/" target="_blank" rel="noopener noreferrer">Race Results</a>
 
 <a href="https://www.popupraces.ie/race/tallaght-ac-5k-2025/" target="_blank" rel="noopener noreferrer">Full PopUp Results</a>
 
