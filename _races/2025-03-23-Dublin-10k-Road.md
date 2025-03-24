@@ -1,6 +1,6 @@
 ---
-title: Dublin 10k Road Championships Dunboyne
-location: Garristown, Dublin
+title: Dublin 10k Road Dunboyne
+location: Dunboyne, Dublin
 date: 2025-03-23 12:00
 latitude: 53.561659 
 longitude: -6.393679
