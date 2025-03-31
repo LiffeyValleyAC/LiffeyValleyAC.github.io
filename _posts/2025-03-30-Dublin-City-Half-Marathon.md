@@ -7,7 +7,7 @@ A great morning of racing at the new Dublin Half Marathon!
 
 Congratulations to our athletes who competed against a field of <b>11837</b> runners.
 
-Special mention to Mollie and Ciara who finished 15th and 16th overall 🎉
+Special mention to Mollie and Ciara who finished 19th and 20th Women Overall 🎉
 
 <b>Mollie O Donnell</b>  - 01:26:43 hr <br>
 <b>Ciara Broderick Farrell</b> - 01:27:02 hr 
