@@ -5,11 +5,11 @@ location: Dublin, Co. Dublin.
 
 A great morning of racing at the new Dublin Half Marathon! 
 
-Congratulations to our athletes who competed against a field of 5044 runners.
+Congratulations to our athletes who competed against a field of <b>11837</b> runners.
 
-Special mention to Mollie and Ciara who 15th and 16th overall 🎉
+Special mention to Mollie and Ciara who finished 15th and 16th overall 🎉
 
-<b>Mollie O Donnell</b>  - 01:26:43 hr
+<b>Mollie O Donnell</b>  - 01:26:43 hr <br>
 <b>Ciara Broderick Farrell</b> - 01:27:02 hr 
 
 Also another athlete competed in the Dundalk Half Marathon
