@@ -76,6 +76,6 @@ Your hard work, dedication, and determination have truly paid off.  📸🙌👏
 📊 Significant upward and downward movements occurred across the rankings, reshuffling mid-table positions considerably.
 
 
-<img src="/assets/results/winter-league-2024-2025/LVAC Winter League 2024-2025 - WL 4 of 5_pages-to-jpg-0001.jpg"  width="100%" height="auto" alt="LVAC Winter League 3 of 5">
+<img src="/assets/results/winter-league-2024-2025/LVAC Winter League 2024-2025 - WL 5 of 5_pages-to-jpg-0001.jpg"  width="100%" height="auto" alt="LVAC Winter League 3 of 5">
 
 <a href="/assets/results/winter-league-2024-2025/LVAC Winter League 2024-2025 - WL 5 of 5.pdf" target="_blank" rel="noopener noreferrer">Download PDF</a>
