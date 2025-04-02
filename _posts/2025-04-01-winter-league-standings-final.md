@@ -13,15 +13,15 @@ Well done to all <b>60 athletes</b> who competed in at least one of our league r
 A special thank you to all the coaches, athletes, and volunteers who made every race possible. From those recording times to those calculating results and capturing unforgettable moments into photos, your efforts are invaluable.
 Your hard work, dedication, and determination have truly paid off.  📸🙌👏
 
-<b>Liffey Valley Winter League 2024/2025 Podium</b> 🏆:
+<u> <b>Liffey Valley Winter League 2024/2025 Podium</b></u>  🏆:
 
-🥇 Ruth Murphy
+🥇 <b>Ruth Murphy</b>
 
-🥈 Margaret O'Friel
+🥈 <b>Margaret O'Friel</b>
 
-🥉 Cormac Long
+🥉 <b>Cormac Long</b>
 
-<b>Changes:</b>
+<u> <b>Changes:</b></u> 
 
 🚀 Ruth Murphy made a significant leap from 11th place (123 points) in Race 4 to 1st place in Race 5 (167 points).
 
@@ -31,21 +31,23 @@ Your hard work, dedication, and determination have truly paid off.  📸🙌👏
 
 😟 James McKenna, previously in 2nd place, fell to 9th.
 
-<b>New Athletes in the final race:</b> 🚀
+<u><b>New Athletes in the final race:</b></u> 🚀
 
 🆕 Joe Whittle
 
-🆕 D'Angelo Massah
+🆕 DeAngelo Massah
 
 🆕 Maeve Gilmartin
 
 🆕 Hilary McDonnell
 
+🆕 Ciara Broderick Farrell
+
 🆕 Paul Roberts
 
 🆕 Colm Kerr
 
-<b>Biggest Gains</b> 📈:
+<u><b>Biggest Gains</b></u> 📈:
 
 🔥 Ruth Murphy: +10 places (from 11th to 1st)
 
@@ -69,13 +71,13 @@ Your hard work, dedication, and determination have truly paid off.  📸🙌👏
 
 🔄 Cormac Long and Margaret O'Friel maintained strong performances but shifted places slightly.
 
-📉 James McKenna saw the biggest drop among the top competitors.
-
-🆕 Several new athletes entered the competition in Race 5.
+🆕 7 new athletes entered the competition in Race 5.
 
 📊 Significant upward and downward movements occurred across the rankings, reshuffling mid-table positions considerably.
 
 
-<img src="/assets/results/winter-league-2024-2025/LVAC Winter League 2024-2025 - WL 5 of 5_pages-to-jpg-0001.jpg"  width="100%" height="auto" alt="LVAC Winter League 3 of 5">
-
 <a href="/assets/results/winter-league-2024-2025/LVAC Winter League 2024-2025 - WL 5 of 5.pdf" target="_blank" rel="noopener noreferrer">Download PDF</a>
+
+<a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRvWGDphRc4DqgZ-lTK04m_gq8apL_YeUX3hPQKLNCXy-5csa6dQKo-Ln5DPUqYcaXtf3zQ8evgwg1I/pubhtml?gid=0&single=true" target="_blank" rel="noopener noreferrer">Online Version</a>
+
+<img src="/assets/results/winter-league-2024-2025/LVAC Winter League 2024-2025 - WL 5 of 5_pages-to-jpg-0001.jpg"  width="100%" height="auto" alt="LVAC Winter League 3 of 5">
