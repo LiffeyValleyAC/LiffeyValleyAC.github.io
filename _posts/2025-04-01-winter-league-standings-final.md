@@ -12,15 +12,15 @@ Well done to all <b>60 athletes</b> who competed in at least one of our league r
 
 A special thank you to all the coaches, athletes, and volunteers who made every race possible. From those recording times to those calculating results and capturing unforgettable moments into photos, your efforts are invaluable.
 Your hard work, dedication, and determination have truly paid off.  📸🙌👏
-
-<u> <b>Liffey Valley Winter League 2024/2025 Podium</b></u>  🏆:
+<br><br>
+<u><b>Liffey Valley Winter League 2024/2025 Podium</b></u>  🏆:
 
 🥇 <b>Ruth Murphy</b>
 
 🥈 <b>Margaret O'Friel</b>
 
 🥉 <b>Cormac Long</b>
-
+<br><br>
 <u> <b>Changes:</b></u> 
 
 🚀 Ruth Murphy made a significant leap from 11th place (123 points) in Race 4 to 1st place in Race 5 (167 points).
@@ -30,7 +30,7 @@ Your hard work, dedication, and determination have truly paid off.  📸🙌👏
 🔽 Cormac Long dropped from 1st to 3rd despite increasing his points from 153 to 163.
 
 😟 James McKenna, previously in 2nd place, fell to 9th.
-
+<br><br>
 <u><b>New Athletes in the final race:</b></u> 🚀
 
 🆕 Joe Whittle
@@ -46,7 +46,7 @@ Your hard work, dedication, and determination have truly paid off.  📸🙌👏
 🆕 Paul Roberts
 
 🆕 Colm Kerr
-
+<br><br>
 <u><b>Biggest Gains</b></u> 📈:
 
 🔥 Ruth Murphy: +10 places (from 11th to 1st)
@@ -64,7 +64,7 @@ Your hard work, dedication, and determination have truly paid off.  📸🙌👏
 ⬆️ Arnaud Benjacar: +3 places (from 27th to 24th)
 
 ⬆️ Orla Gordon: +3 places (from 28th to 25th)
-
+<br><br>
 <b><u>Summary</u></b> 🏁
 
 🚀 The most remarkable shift was Ruth Murphy’s surge to 1st place.
