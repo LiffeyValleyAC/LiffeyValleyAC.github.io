@@ -11,9 +11,9 @@ Well done everyone who raced, and thanks to everyone who helped make the race ha
 
 <a href="https://www.instagram.com/liffeyvalleyac/" target="_blank" rel="noopener noreferrer">Photos on Instagram</a>
 
-<img src="/assets/images/races/2025/2025-04-01_podium.jpg"  width="100%" height="auto" alt="Podium">
+<img src="/assets/images/races/2025/2025-04-01_podium.jpg"  width="70%" height="auto" alt="Podium">
 
 <img src="/assets/images/races/2025/2025-04-01_group.jpg"  width="100%" height="auto" alt="Group photo">
 
-<img src="/assets/images/races/2025/2025-04-01_2mile_results.jpg"  width="100%" height="auto" alt="Results">
+<img src="/assets/images/races/2025/2025-04-01_2mile_results.jpg"  width="40%" height="auto" alt="Results">
 

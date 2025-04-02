@@ -3,7 +3,7 @@ title: Dublin City Half Marathon
 location: Dublin, Co. Dublin.
 ---
 
-A great morning of racing at the new Dublin Half Marathon! 
+A great morning of racing at the new <b>Dublin Half Marathon</b>! 
 
 Congratulations to our athletes who competed against a field of <b>11837</b> runners.
 
@@ -19,7 +19,11 @@ Also another athlete competed in the Dundalk Half Marathon
 
 <a href="https://www.tdleventservices.co.uk/en/results-embed.php?event=4100" target="_blank" rel="noopener noreferrer">Dublin City Results</a>
 
+<a href="https://www.instagram.com/p/DH3_h70Ocwy/?img_index=1" target="_blank" rel="noopener noreferrer">Instagram</a>
+
 <a href="https://myrunresults.com/events/lifestyle_dundalk_half_marathon__10k_2025/5553/results" target="_blank" rel="noopener noreferrer">Dundalk Results</a>
+
+<a href="https://www.instagram.com/p/DH3x4MJtpe7/?img_index=1" target="_blank" rel="noopener noreferrer">Instagram</a>
 
 <br><b>Screenshot with the results</b>
 <img src="/assets/images/races/2025/2025-03-30_dublin_results.jpeg"  width="100%" height="auto" alt="Group photo">
