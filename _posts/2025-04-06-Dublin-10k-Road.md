@@ -30,6 +30,10 @@ Well done to all who raced for LVAC.
 
 <a href="https://www.instagram.com/liffeyvalleyac/" target="_blank" rel="noopener noreferrer">Instagram</a>
 
+<img src="/assets/images/races/2025/2025-04-06_winning_teams.jpg"  width="100%" height="auto" alt="Results">
+
+<img src="/assets/images/races/2025/2025-04-06_teams.jpg"  width="100%" height="auto" alt="Results">
+
 <img src="/assets/images/races/2025/2025-04-06_results.jpg"  width="100%" height="auto" alt="Results">
 
 
