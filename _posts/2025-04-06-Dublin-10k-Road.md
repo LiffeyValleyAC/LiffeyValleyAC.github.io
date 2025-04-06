@@ -10,13 +10,13 @@ Well done to all of our athletes who ran at the Dublin 10k Championships in Garr
 
 🥇 LVAC <b>Senior Women</b> took Team Gold 🥇 lead home by <b>Brigid Long</b>.
 
-</u><b>1st WOMEN SENIOR TEAM:</b></u>
-<b>Brigid LONG</b>	42:32
-<b>Shauna DUNNE</b>	43:08
-<b>Lynn DEVITT</b>	43:46
-<b>Orla GORDON</b>	45:21
+<u><b>1st WOMEN SENIOR TEAM:</b></u><br>
+<b>Brigid LONG</b>	42:32<br>
+<b>Shauna DUNNE</b>	43:08<br>
+<b>Lynn DEVITT</b>	43:46<br>
+<b>Orla GORDON</b>	45:21<br>
 
-</u><b>1st MEN SENIOR TEAM:</b></u>
+<u><b>1st MEN SENIOR TEAM:</b></u><br>
 <b>Pierce GEOGHEGAN</b>	33:03<br>
 <b>David CARROLL</b>	33:46<br>
 <b>Paddy MURPHY</b>	36:42<br>
