@@ -9,7 +9,7 @@ Well done everyone who raced, and thanks to everyone who helped make the race ha
 
 <a href="/races/2025-04-01-lvac-2-mile-road/" target="_blank" rel="noopener noreferrer">LVAC 2 Mile Road Race Results</a>
 
-<a href="https://www.instagram.com/liffeyvalleyac/" target="_blank" rel="noopener noreferrer">Photos on Instagram</a>
+<a href="https://www.instagram.com/p/DH_2XJwObCM/?img_index=6" target="_blank" rel="noopener noreferrer">Photos on Instagram</a>
 
 <img src="/assets/images/races/2025/2025-04-01_podium.jpg"  width="70%" height="auto" alt="Podium">
 
