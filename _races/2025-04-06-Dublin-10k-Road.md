@@ -1,5 +1,5 @@
 ---
-title: Dublin 10k Road Championships Lusk
+title: Dublin 10k Road Championships Garristown
 location: Garristown, Dublin
 date: 2025-04-06 10:00
 latitude: 53.561659 
