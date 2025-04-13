@@ -20,8 +20,9 @@ Congratuations to <b>Mollie O'Donell</b> who finished 1st woman and claimed an I
 
 <a href="https://www.instagram.com/p/DIYu1uoN4K1/?img_index=1" target="_blank" rel="noopener noreferrer">Instagram</a>
 
-<img src="/assets/images/races/2025/2025-04-13_mollie.jpg"  width="100%" height="auto" alt="Flyer">
+<img src="/assets/images/races/2025/2025-04-13_mollie.jpg"  width="60%" height="auto" alt="Flyer">
+
+<img src="/assets/images/races/2025/2025-04-13_results.png"  width="100%" height="auto" alt="Flyer">
 
 <img src="/assets/images/races/2025/2025-04-13_banner.jpg"  width="100%" height="auto" alt="Flyer">
 
-<img src="/assets/images/races/2025/2025-04-13_results.png"  width="100%" height="auto" alt="Flyer">
