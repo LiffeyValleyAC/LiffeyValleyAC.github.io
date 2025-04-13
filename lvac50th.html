@@ -109,7 +109,7 @@ title: LVAC 50th Anniversary
     color: #999;
   }
   
-  /* Modal styles - AQUÍ ESTÁN LOS CAMBIOS */
+  /* IMAGEN AMPLIADA */
   .modal {
     display: none;
     position: fixed;
@@ -119,7 +119,7 @@ title: LVAC 50th Anniversary
     width: 100%;
     height: 100%;
     overflow: auto;
-    background-color: rgba(0, 0, 0, 0);
+    background-color: rgba(0, 0, 0, 0.8);
     align-items: center;
     justify-content: center;
   }
@@ -130,9 +130,10 @@ title: LVAC 50th Anniversary
     max-width: 90%;
     max-height: 90%;
     object-fit: contain;
-    background-color: rgba(0, 0, 0, 0);
+    background-color: rgba(0, 0, 0, 0.8);
   }
   
+  /* BOTÓN DE CIERRE */
   .close {
     position: absolute;
     top: 15px;
@@ -266,17 +267,26 @@ title: LVAC 50th Anniversary
   </div>
   
   <div class="gallery-section">
-    <h2 class="description-title" style="text-align: center; margin: 40px 0 30px;">Galería de Recuerdos</h2>
+    <h2 class="description-title" style="text-align: center; margin: 40px 0 30px;">Photos Gallery</h2>
     
     <div class="gallery">
       <div class="gallery-item">
-        <img src="/assets/images/lvac50th/001.jpeg" alt="Evento LVAC" onclick="openModal(this.src)">
+        <img src="/assets/images/lvac50th/women.jpg" alt="Women" onclick="openModal(this.src)">
+      </div>    
+      <div class="gallery-item">
+        <img src="/assets/images/lvac50th/men.jpeg" alt="Men Group" onclick="openModal(this.src)">
       </div>
       <div class="gallery-item">
-        <img src="/assets/images/lvac50th/002.jpeg" alt="Evento LVAC" onclick="openModal(this.src)">
+        <img src="/assets/images/lvac50th/men2.jpg" alt="Men Group" onclick="openModal(this.src)">
       </div>
       <div class="gallery-item">
-        <img src="/assets/images/lvac50th/003.jpeg" alt="Evento LVAC" onclick="openModal(this.src)">
+        <img src="/assets/images/lvac50th/001.jpeg" alt="Event LVAC" onclick="openModal(this.src)">
+      </div>
+      <div class="gallery-item">
+        <img src="/assets/images/lvac50th/002.jpeg" alt="Event LVAC" onclick="openModal(this.src)">
+      </div>
+      <div class="gallery-item">
+        <img src="/assets/images/lvac50th/003.jpeg" alt="Event LVAC" onclick="openModal(this.src)">
       </div>
       <div class="gallery-item">
         <img src="/assets/images/lvac50th/annie.jpeg" alt="Annie" onclick="openModal(this.src)">
@@ -297,16 +307,13 @@ title: LVAC 50th Anniversary
         <img src="/assets/images/lvac50th/jim.jpeg" alt="Jim" onclick="openModal(this.src)">
       </div>
       <div class="gallery-item">
-        <img src="/assets/images/lvac50th/jim_ciaran.jpeg" alt="Jim y Ciaran" onclick="openModal(this.src)">
+        <img src="/assets/images/lvac50th/jim_ciaran.jpeg" alt="Jim and Ciaran" onclick="openModal(this.src)">
       </div>
       <div class="gallery-item">
-        <img src="/assets/images/lvac50th/Group-2.jpg" alt="Jim con micrófono" onclick="openModal(this.src)">
+        <img src="/assets/images/lvac50th/Group-2.jpg" alt="Group Picture" onclick="openModal(this.src)">
       </div>
       <div class="gallery-item">
         <img src="/assets/images/lvac50th/mark.jpeg" alt="Mark" onclick="openModal(this.src)">
-      </div>
-      <div class="gallery-item">
-        <img src="/assets/images/lvac50th/men.jpeg" alt="Grupo de hombres" onclick="openModal(this.src)">
       </div>
       <div class="gallery-item">
         <img src="/assets/images/lvac50th/mollie.jpeg" alt="Mollie" onclick="openModal(this.src)">
@@ -317,12 +324,18 @@ title: LVAC 50th Anniversary
       <div class="gallery-item">
         <img src="/assets/images/lvac50th/pierce.jpeg" alt="Pierce" onclick="openModal(this.src)">
       </div>
+
+      <div class="gallery-item">
+        <img src="/assets/images/lvac50th/004.jpg" alt="" onclick="openModal(this.src)">
+      </div>
+      <div class="gallery-item">
+        <img src="/assets/images/lvac50th/005.jpg" alt="" onclick="openModal(this.src)">
+      </div>
+
       <div class="gallery-item">
         <img src="/assets/images/lvac50th/quiz.jpeg" alt="Quiz" onclick="openModal(this.src)">
       </div>
-      <div class="gallery-item">
-        <img src="/assets/images/lvac50th/women.jpg" alt="Guinness Storehouse" onclick="openModal(this.src)">
-      </div>
+
       <div class="gallery-item">
         <img src="/assets/images/lvac50th/table.jpeg" alt="Mesa" onclick="openModal(this.src)">
       </div>
@@ -330,7 +343,7 @@ title: LVAC 50th Anniversary
         <img src="/assets/images/lvac50th/tv.jpeg" alt="TV" onclick="openModal(this.src)">
       </div>
       <div class="gallery-item">
-        <img src="/assets/images/lvac50th/storehouse-1.jpg" alt="Grupo de mujeres" onclick="openModal(this.src)">
+        <img src="/assets/images/lvac50th/storehouse-1.jpg" alt="Guinness Storehouse" onclick="openModal(this.src)">
       </div>
     </div>
   </div>
