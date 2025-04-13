@@ -9,9 +9,12 @@ Congratuations to <b>Mollie O'Donell</b> who finished 1st woman and claimed an I
 
 24 <b>Richard FINEGAN</b> 37:53 min
 
-36 <b>Mollie O'DONNELL</b> 38:31
+36 <b>Mollie O'DONNELL</b> 38:31 min
 
-238 <b>David MITCHELL</b> 44:51
+238 <b>David MITCHELL</b> 44:51 min
+
+
+<a href="/races/2025-04-13-Great-Ireland-Run-10k/" target="_blank" rel="noopener noreferrer">Race Results</a>
 
 <a href="https://www.myrunresults.com/events/great_ireland_run_2025/5354/club-team-results?runnerClass=10k&type=Team&category=M&categoryType=Category" target="_blank" rel="noopener noreferrer">MyRun Results</a>
 
