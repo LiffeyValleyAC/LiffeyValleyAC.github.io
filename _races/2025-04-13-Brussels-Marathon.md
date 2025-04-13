@@ -1,4 +1,4 @@
-  ---
+---
 title: European Marathon Championships from Brussels to Leuven
 location: Brussels to Leuven, Belgium
 date: 2025-04-13 8:00
