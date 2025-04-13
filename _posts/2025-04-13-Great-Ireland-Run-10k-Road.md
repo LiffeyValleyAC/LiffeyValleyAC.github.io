@@ -5,7 +5,7 @@ location: Phoenix Park, Co. Dublin.
 
 Well done to all of our athletes who ran at the Great Ireland Run in the Phoenix Park with a beautiful weather.
 
-Congratuations to <b>Mollie O'Donell</b> who finished 1st woman and claimed an Individual Gold🥇. She dedicated her win to her late coach Nick Davis, and it’s safe to say it was a truly fitting tribute to a man who gave so much to the sport and our club.
+Congratuations to <b>Mollie O'Donnell</b> who finished 1st woman and claimed an Individual Gold🥇. She dedicated her win to her late coach Nick Davis, and it’s safe to say it was a truly fitting tribute to a man who gave so much to the sport and our club.
 
 24 <b>Richard FINEGAN</b> 37:53 min
 

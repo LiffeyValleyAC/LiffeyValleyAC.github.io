@@ -21,7 +21,7 @@ BIB 55681 <b>Michelle Skeath 4:30:05 hr</b>
 <img src="/assets/images/races/2025/2025-04-13_paris_profile.jpeg"  width="100%" height="auto" alt="Profile">
 
 <div style="text-align: center; margin: 20px 0;">
-  <iframe width="100%" height="1000" src="https://www.youtube.com/embed/u0-o6fxFKTU" 
+  <iframe width="100%" height="600" src="https://www.youtube.com/embed/u0-o6fxFKTU" 
           title="Paris Marathon Video" frameborder="0" 
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
           allowfullscreen>
