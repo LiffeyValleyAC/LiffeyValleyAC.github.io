@@ -16,6 +16,8 @@ BIB 55681 <b>Michelle Skeath 4:30:05 hr</b>
 
 <a href="https://www.instagram.com/p/DIbQ1FUM3G1/?img_index=1" target="_blank" rel="noopener noreferrer">Instagram</a>
 
+<img src="/assets/images/races/2025/2025-04-13_paris_group.jpg"  width="100%" height="auto" alt="Route">
+
 <img src="/assets/images/races/2025/2025-04-13_paris_results.jpg"  width="100%" height="auto" alt="Route">
 
 <img src="/assets/images/races/2025/2025-04-13_paris_route.jpeg"  width="100%" height="auto" alt="Route">
