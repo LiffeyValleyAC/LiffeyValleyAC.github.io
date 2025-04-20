@@ -10,9 +10,11 @@ BIB 54307 <b>Heather Browning 4:01:57 hr</b>
 
 BIB 55681 <b>Michelle Skeath 4:30:05 hr</b>
 
-<a href="/races/2025-04-13-Paris-Marathon/" target="_blank" rel="noopener noreferrer">Race Results</a>
+<a href="/races/2025-04-13-Paris-Marathon/" target="_blank" rel="noopener noreferrer">Club Results</a>
 
-<a href="https://results.timeto.com/schneider_electric_marathon_de_paris_2025/" target="_blank" rel="noopener noreferrer">Results</a>
+<a href="https://results.timeto.com/schneider_electric_marathon_de_paris_2025/" target="_blank" rel="noopener noreferrer">Oficial Marathon Results</a>
+
+<a href="https://www.instagram.com/p/DIbQ1FUM3G1/?img_index=1" target="_blank" rel="noopener noreferrer">Instagram</a>
 
 <img src="/assets/images/races/2025/2025-04-13_paris_results.jpg"  width="100%" height="auto" alt="Route">
 
