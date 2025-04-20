@@ -120,6 +120,7 @@ title: LVAC 50th Anniversary
   }
   
   /* IMAGEN AMPLIADA */
+  /* Modal styles with transparent background for images */
   .modal {
     display: none;
     position: fixed;
@@ -129,7 +130,7 @@ title: LVAC 50th Anniversary
     width: 100%;
     height: 100%;
     overflow: auto;
-    background-color: rgba(0,0,0,0.5);
+    background-color: rgba(0,0,0,0.9);
     align-items: center;
     justify-content: center;
   }
@@ -140,6 +141,13 @@ title: LVAC 50th Anniversary
     max-width: 90%;
     max-height: 90%;
     object-fit: contain;
+    background-color: transparent !important; /* Force transparent background */
+    box-shadow: none; /* Remove any shadow */
+  }
+  
+  /* Ensure image doesn't have a white background */
+  #fullSizeImage {
+    background-color: transparent !important;
   }
   
   /* BOTÓN DE CIERRE */
@@ -189,16 +197,6 @@ title: LVAC 50th Anniversary
   
   .next {
     right: 20px;
-  }
-  
-  .modal-caption {
-    margin-top: 20px;
-    color: #f1f1f1;
-    text-align: center;
-    font-style: italic;
-    font-size: 1.2em;
-    width: 80%;
-    max-width: 700px;
   }
 
   /* Estilos para la galería */
@@ -520,7 +518,9 @@ title: LVAC 50th Anniversary
   <div class="nav-btn next" onclick="changeImage(1)">&#10095;</div>
   
   <img class="modal-content" id="fullSizeImage">
-  <div id="imageCaption" class="modal-caption"></div>
+  <!-- Caption div removed 
+   <div id="imageCaption" class="modal-caption"></div>
+   -->
 </div>
 
 
@@ -528,7 +528,6 @@ title: LVAC 50th Anniversary
   // Get the modal elements
   var modal = document.getElementById("imageModal");
   var modalImg = document.getElementById("fullSizeImage");
-  var captionText = document.getElementById("imageCaption");
   var galleryImages = []; // Will store all gallery image sources
   var currentImageIndex = 0;
   
@@ -537,11 +536,10 @@ title: LVAC 50th Anniversary
     // Select all images that can be opened in modal (main image + gallery images)
     var allGalleryImages = document.querySelectorAll(".main-image, .gallery-item img, .image-column img");
     
-    // Store all image sources and alt texts in an array
+    // Store all image sources in an array
     allGalleryImages.forEach(function(img) {
       galleryImages.push({
-        src: img.src,
-        alt: img.alt || "Gallery image"
+        src: img.src
       });
     });
   });
@@ -555,7 +553,6 @@ title: LVAC 50th Anniversary
     for (var i = 0; i < galleryImages.length; i++) {
       if (galleryImages[i].src === imgSrc) {
         currentImageIndex = i;
-        captionText.innerHTML = galleryImages[i].alt;
         break;
       }
     }
@@ -577,7 +574,6 @@ title: LVAC 50th Anniversary
     
     // Display the new image
     modalImg.src = galleryImages[currentImageIndex].src;
-    captionText.innerHTML = galleryImages[currentImageIndex].alt;
   }
   
   // Function to close the modal
