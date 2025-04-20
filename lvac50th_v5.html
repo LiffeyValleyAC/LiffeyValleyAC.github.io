@@ -129,7 +129,7 @@ title: LVAC 50th Anniversary
     width: 100%;
     height: 100%;
     overflow: auto;
-    background-color: rgba(0,0,0,0.5);
+    background-color: rgba(0, 0, 0, 0.5);
     align-items: center;
     justify-content: center;
   }
@@ -140,6 +140,7 @@ title: LVAC 50th Anniversary
     max-width: 90%;
     max-height: 90%;
     object-fit: contain;
+    background-color: rgba(0, 0, 0, 0.5);
   }
   
   /* BOTÓN DE CIERRE */
@@ -147,58 +148,17 @@ title: LVAC 50th Anniversary
     position: absolute;
     top: 15px;
     right: 35px;
-    color: #f1f1f1;
+    color: #ffffff;
     font-size: 40px;
     font-weight: bold;
     transition: 0.3s;
     cursor: pointer;
-    z-index: 1005;
   }
   
   .close:hover,
   .close:focus {
     color: #FDB813;
     text-decoration: none;
-  }
-  
-  /* New navigation button styles */
-  .nav-btn {
-    position: absolute;
-    top: 50%;
-    transform: translateY(-50%);
-    color: #f1f1f1;
-    font-size: 36px;
-    font-weight: bold;
-    cursor: pointer;
-    padding: 10px 20px;
-    background-color: rgba(0, 0, 0, 0.5);
-    border-radius: 5px;
-    transition: 0.3s ease;
-    z-index: 1005;
-    user-select: none;
-  }
-  
-  .nav-btn:hover {
-    background-color: rgba(253, 184, 19, 0.5);
-    color: white;
-  }
-  
-  .prev {
-    left: 20px;
-  }
-  
-  .next {
-    right: 20px;
-  }
-  
-  .modal-caption {
-    margin-top: 20px;
-    color: #f1f1f1;
-    text-align: center;
-    font-style: italic;
-    font-size: 1.2em;
-    width: 80%;
-    max-width: 700px;
   }
 
   /* Estilos para la galería */
@@ -248,14 +208,6 @@ title: LVAC 50th Anniversary
   @media (max-width: 600px) {
     .gallery {
       grid-template-columns: 1fr;
-    }
-  }
-
-  /* Hide navigation buttons on small screens */
-  @media only screen and (max-width: 700px) {
-    .nav-btn {
-      font-size: 24px;
-      padding: 8px 16px;
     }
   }
 
@@ -514,70 +466,18 @@ title: LVAC 50th Anniversary
 <!-- The Modal for displaying full-size images -->
 <div id="imageModal" class="modal">
   <span class="close" onclick="closeModal()">&times;</span>
-  
-  <!-- Add navigation arrows -->
-  <div class="nav-btn prev" onclick="changeImage(-1)">&#10094;</div>
-  <div class="nav-btn next" onclick="changeImage(1)">&#10095;</div>
-  
   <img class="modal-content" id="fullSizeImage">
-  <div id="imageCaption" class="modal-caption"></div>
 </div>
 
-
 <script>
-  // Get the modal elements
+  // Get the modal
   var modal = document.getElementById("imageModal");
   var modalImg = document.getElementById("fullSizeImage");
-  var captionText = document.getElementById("imageCaption");
-  var galleryImages = []; // Will store all gallery image sources
-  var currentImageIndex = 0;
-  
-  // Get all gallery images on page load
-  document.addEventListener("DOMContentLoaded", function() {
-    // Select all images that can be opened in modal (main image + gallery images)
-    var allGalleryImages = document.querySelectorAll(".main-image, .gallery-item img, .image-column img");
-    
-    // Store all image sources and alt texts in an array
-    allGalleryImages.forEach(function(img) {
-      galleryImages.push({
-        src: img.src,
-        alt: img.alt || "Gallery image"
-      });
-    });
-  });
   
   // Function to open the modal with the clicked image
   function openModal(imgSrc) {
-    modal.style.display = "flex";
+    modal.style.display = "flex";  // Cambiado de "block" a "flex"
     modalImg.src = imgSrc;
-    
-    // Find the index of the current image
-    for (var i = 0; i < galleryImages.length; i++) {
-      if (galleryImages[i].src === imgSrc) {
-        currentImageIndex = i;
-        captionText.innerHTML = galleryImages[i].alt;
-        break;
-      }
-    }
-  }
-  
-  // Function to change image (navigate through gallery)
-  function changeImage(step) {
-    currentImageIndex += step;
-    
-    // Loop back to the beginning if we reach the end
-    if (currentImageIndex >= galleryImages.length) {
-      currentImageIndex = 0;
-    }
-    
-    // Loop to the end if we go before the beginning
-    if (currentImageIndex < 0) {
-      currentImageIndex = galleryImages.length - 1;
-    }
-    
-    // Display the new image
-    modalImg.src = galleryImages[currentImageIndex].src;
-    captionText.innerHTML = galleryImages[currentImageIndex].alt;
   }
   
   // Function to close the modal
@@ -591,17 +491,4 @@ title: LVAC 50th Anniversary
       closeModal();
     }
   }
-  
-  // Keyboard navigation
-  document.addEventListener("keydown", function(event) {
-    if (modal.style.display === "flex") {
-      if (event.key === "ArrowLeft") {
-        changeImage(-1); // Previous image
-      } else if (event.key === "ArrowRight") {
-        changeImage(1); // Next image
-      } else if (event.key === "Escape") {
-        closeModal(); // Close modal
-      }
-    }
-  });
 </script>
