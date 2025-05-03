@@ -26,5 +26,6 @@ Thanks to Raheny Shamrock AC for hosting a fantastic day of racing as always.
 
 <a href="https://www.athleticsireland.ie/downloads/results/Senior_Mens_Results.pdf" target="_blank" rel="noopener noreferrer">MS AAI Race Results</a>
 
+<img src="/assets/images/races/2025/2025-04-13_paris_group.jpg"  width="100%" height="auto" alt="Route">
 
  
