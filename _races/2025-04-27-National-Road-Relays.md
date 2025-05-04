@@ -2,8 +2,8 @@
 title: National Road Relays
 location: Raheny, Dublin
 date: 2025-04-27 13:00
-latitude: 53.3522291
-longitude: -6.3214874
+latitude: 53.37707922835
+longitude: -6.179404552167
 results:
   - place: 1
     name: Paddy Murphy
