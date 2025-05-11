@@ -2,8 +2,8 @@
 title: Dublin Athletics Graded Meeting 2 
 location: Morton Stadium, Dublin
 date: 2025-05-11 12:00
-latitude: 53.291533 
-longitude: -6.356521
+latitude: 53.40109735594,  
+longitude: -6.244957341929
 results:
   - place: 3
     name: Rebecca Mc'Loughlin
