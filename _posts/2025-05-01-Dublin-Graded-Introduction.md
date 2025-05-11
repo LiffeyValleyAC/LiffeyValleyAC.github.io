@@ -9,25 +9,29 @@ location: Dublin, Dublin.
 
 This is your chance to race on fast surfaces, gain invaluable experience, and push yourself to shatter your personal bests.
 
-<b><u>Detailed Programme - 2025:</u></b>
-
-(The time is for the beginning of the day. The actual time for your event must be consulted)
-
-Meeting 1 - <b>03/05/25</b> - Morton - 11:40 - <b>800m / 3000m</b>
-
-Meeting 2 - <b>11/05/25</b> - Morton - 12:00 - <b>1500m / 5000m</b>
-
-Meeting 3 - <b>21/05/25</b> - Tallaght - 18:45 - <b>1 mile / 10000m</b>
-
-Meeting 4 - <b>04/06/25</b> - Morton - 19:00 - <b>800m</b>
-
-Meeting 5 - <b>14/06/25</b> - DSD - 13:40 - <b>800m / 3000m</b>
-
-Meeting 6 - <b>25/06/25</b> - Morton - 18:40 - <b>1500m</b>
-
-Meeting 7 - <b>16/07/25</b> - Lucan - 19:00 - <b>800m / 3000m</b>
-
-Meeting 8 - <b>30/07/25</b> - Morton - 19:00 - <b>1500m</b>
+<table style="border-collapse: collapse; font-family: Consolas, monospace;">
+  <caption style="text-align: center; font-weight: bold; padding: 10px;">Detailed Programme - 2025</caption>
+  <thead>
+    <tr style="background-color: #000; color: #fff;">
+      <th style="border: 4px solid #ccc; padding: 5px; text-align: center;">MEETING</th>
+      <th style="border: 4px solid #ccc; padding: 5px; text-align: center;">DATE</th>
+      <th style="border: 4px solid #ccc; padding: 5px; text-align: center;">PLACE</th>
+      <th style="border: 4px solid #ccc; padding: 5px; text-align: center;">FIRST EVENT</th>
+      <th style="border: 4px solid #ccc; padding: 5px; text-align: center;">EVENTS</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="border-bottom: 1px solid #ccc;"><td>Meeting 1</td><td style="text-align: center;">Sat 03/05/25</td><td>Morton</td><td style="text-align: center;">11:40</td><td>800m / 3000m</td></tr>
+    <tr style="border-bottom: 1px solid #ccc;"><td>Meeting 2</td><td style="text-align: center;">Sun 11/05/25</td><td>Morton</td><td style="text-align: center;">12:00</td><td>1500m / 5000m</td></tr>
+    <tr style="border-bottom: 1px solid #ccc;"><td>Meeting 3</td><td style="text-align: center;">Wed 21/05/25</td><td>Tallaght</td><td style="text-align: center;">18:45</td><td>1 mile / 10000m</td></tr>
+    <tr style="border-bottom: 1px solid #ccc;"><td>Meeting 4</td><td style="text-align: center;">Wed 04/06/25</td><td>Morton</td><td style="text-align: center;">19:00</td><td>800m</td></tr>
+    <tr style="border-bottom: 1px solid #ccc;"><td>Meeting 5</td><td style="text-align: center;">Sat 14/06/25</td><td>DSD</td><td style="text-align: center;">13:40</td><td>800m / 3000m</td></tr>
+    <tr style="border-bottom: 1px solid #ccc;"><td>Meeting 6</td><td style="text-align: center;">Wed 25/06/25</td><td>Morton</td><td style="text-align: center;">18:40</td><td>1500m</td></tr>
+    <tr style="border-bottom: 1px solid #ccc;"><td>Meeting 7</td><td style="text-align: center;">Wed 16/07/25</td><td>Lucan</td><td style="text-align: center;">19:00</td><td>800m / 3000m</td></tr>
+    <tr style="border-bottom: 1px solid #ccc;"><td>Meeting 8</td><td style="text-align: center;">Wed 30/07/25</td><td>Morton</td><td style="text-align: center;">19:00</td><td>1500m</td></tr>
+    <tr><td colspan="5" style="text-align: center; padding: 10px; font-style: italic;">(The time is for the beginning of the day. The actual time for your event must be consulted)</td></tr>
+  </tbody>
+</table>
 
 📅 Registration closes 3-5 days before each meeting, so don't wait until the last minute!
 
