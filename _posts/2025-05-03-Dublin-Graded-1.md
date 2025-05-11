@@ -8,12 +8,12 @@ A huge thank you to all <b>Liffey Valley Athletic Club</b> athletes who particip
 <table cellpadding="8" cellspacing="0" style="border-collapse: collapse; border: 4px solid black; font-family: 'Consolas', Courier, monospace; font-size: 14px;">
   <thead>
     <tr style="background-color: #f0f0f0; border-bottom: 4px solid black;">
-      <th colspan="3" style="padding: 5px; font-weight: bold;">DUBLIN GRADED MEETING 1 of 8 - RESULTS</th>
+      <th colspan="3" style="padding: 5px; font-weight: bold;">DUBLIN GRADED 2025 MEET 1 of 8 - RESULTS</th>
     </tr>
     <tr style="background-color: #f0f0f0; border-bottom: 4px solid black;">
-      <th style="border-right: 4px solid black; padding: 5px">Nombre</th>
-      <th style="border-right: 4px solid black; padding: 5px">Tiempo</th>
-      <th style="padding: 5px">Categoría</th>
+      <th style="border-right: 4px solid black; padding: 5px;">Nombre</th>
+      <th style="border-right: 4px solid black; padding: 5px;">Tiempo</th>
+      <th style="padding: 5px;">Categoría</th>
     </tr>
   </thead>
 <tbody>
@@ -24,6 +24,7 @@ A huge thank you to all <b>Liffey Valley Athletic Club</b> athletes who particip
 <tr style="border-bottom: 1px solid #ccc;"><td><b>Paul Balfe</b></td><td><b>10:47.41 min</b></td><td>(3000m Men D)</td></tr>
 <tr><td><b>Matthew Blyth</b></td><td><b>12:00.89 min</b></td><td>(3000m Men D)</td></tr>
 </tbody></table>
+
 
 
 Stay focused and keep up the great work as we gear up for <b>Meeting 2 on May 11th at Morton Stadium, starting at 12:00</b>.
