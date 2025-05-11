@@ -14,7 +14,9 @@ A huge thank you to all <b>Liffey Valley Athletic Club</b> athletes who particip
 <b>Paul Balfe</b> - <b>10:47.41 min</b> - (3000m Men D)  <br>
 <b>Matthew Blyth</b> - <b>12:00.89 min</b> - (3000m Men D)  <br>
 
-<table border="1" cellpadding="8" cellspacing="0"><thead><tr><th>Nombre</th><th>Tiempo</th><th>Categoría</th></tr></thead><tbody>
+<table border="1" cellpadding="8" cellspacing="0" style="border-collapse: collapse;">
+<thead><tr><th>Nombre</th><th>Tiempo</th><th>Categoría</th></tr></thead>
+<tbody>
 <tr><td><b>Ellen Cronin</b></td><td><b>2:35.03 min</b></td><td>(800m Women D)</td></tr>
 <tr><td><b>Mollie O'Donnell</b></td><td><b>10:48.65 min</b></td><td>(3000m Women A)</td></tr>
 <tr><td><b>Orla Gordon</b></td><td><b>12:20.34 min</b></td><td>(3000m Women C)</td></tr>
@@ -33,7 +35,7 @@ See you all on the track! 💪💥
 
 <a href="https://www.instagram.com/p/DJPOnbjIhdA/?img_index=1" target="_blank" rel="noopener noreferrer">Instagram</a>
 
-<a href="/races/2025-05-03-Dublin-Graded-1/" target="_blank" rel="noopener noreferrer">Race Results</a>
+<a href="/races/2025-05-03-Dublin-Graded-1/" target="_blank" rel="noopener noreferrer">Club Results</a>
 
 <a href="http://live.dublinathletics.com/graded-25-1/menu.html" target="_blank" rel="noopener noreferrer">Full Results</a>
 

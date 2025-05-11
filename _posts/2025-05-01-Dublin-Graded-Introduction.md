@@ -36,6 +36,17 @@ Let’s make this season one to remember. Train hard, race smart, and leave it a
 
 <a href="/assets/results/2025_track_season/DUBLIN_GRADED_LEAGUES_2025_BOOKLET.pdf" target="_blank" rel="noopener noreferrer">Dublin Graded Leagues Booklet 2025</a>
 
+<a href="https://live.dublinathletics.com/menu.html" target="_blank" rel="noopener noreferrer">Live Results</a>
+
+<a href="https://www.dublinathletics.com/live-stream" target="_blank" rel="noopener noreferrer">Live Streaming Videos</a>
+
+<a href="https://youtube.com/live/Nqt9sO4O9kU?feature=share" target="_blank" rel="noopener noreferrer">Graded 1 - Full Video</a>
+<a href="https://youtube.com/live/x3nxIo-fLQE?feature=share" target="_blank" rel="noopener noreferrer">Graded 2 - Full Video</a>
+
+
+
+
+
 
 
  
