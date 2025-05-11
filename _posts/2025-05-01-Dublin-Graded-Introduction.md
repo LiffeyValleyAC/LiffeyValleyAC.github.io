@@ -10,8 +10,9 @@ location: Dublin, Dublin.
 This is your chance to race on fast surfaces, gain invaluable experience, and push yourself to shatter your personal bests.
 
 <table style="border-collapse: collapse; font-family: Consolas, monospace;">
-  <caption style="text-align: center; font-weight: bold; padding: 10px;">Detailed Programme - 2025</caption>
   <thead>
+<tr><td colspan="5" style="text-align: center; padding: 10px;"><b>DETAILED PROGRAMME 2025</b></td></tr>
+
     <tr style="background-color: #000; color: #fff;">
       <th style="border: 4px solid #ccc; padding: 5px; text-align: center;">MEETING</th>
       <th style="border: 4px solid #ccc; padding: 5px; text-align: center;">DATE</th>
@@ -32,6 +33,7 @@ This is your chance to race on fast surfaces, gain invaluable experience, and pu
     <tr><td colspan="5" style="text-align: center; padding: 10px; font-style: italic;">(The time is for the beginning of the day. The actual time for your event must be consulted)</td></tr>
   </tbody>
 </table>
+
 
 📅 Registration closes 3-5 days before each meeting, so don't wait until the last minute!
 
