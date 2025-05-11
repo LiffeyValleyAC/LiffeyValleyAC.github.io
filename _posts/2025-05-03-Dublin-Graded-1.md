@@ -5,14 +5,14 @@ location: Morton Stadium, Dublin.
 
 A huge thank you to all <b>Liffey Valley Athletic Club</b> athletes who participated in the first Graded Meeting of the 2025 Track Season at <b>Morton Stadium</b> on May 3rd 2025. Your dedication and hard work truly shone through as you hit the track and gave it your all in distances of 800m and 3000m.
 
-<table cellpadding="8" cellspacing="0" style="border-collapse: collapse; border: 4px solid black; font-family: 'Consolas', Courier, monospace; font-size: 14px;">
+<table cellpadding="8" cellspacing="0" style="border-collapse: collapse; border: 4px solid #ccc; font-family: 'Consolas', monospace; font-size: 14px;">
   <thead>
-    <tr style="background-color: #f0f0f0; border-bottom: 4px solid black;">
-      <th colspan="3" style="padding: 5px; font-weight: bold;">DUBLIN GRADED 2025 MEET 1 of 8 - RESULTS</th>
+    <tr style="background-color: #000; color: #fff; border-bottom: 4px solid #ccc;">
+      <th colspan="3" style="padding: 5px; font-weight: bold;">DUBLIN GRADED 2025 MEETING 1 of 8 - RESULTS</th>
     </tr>
-    <tr style="background-color: #f0f0f0; border-bottom: 4px solid black;">
-      <th style="border-right: 4px solid black; padding: 5px;">Nombre</th>
-      <th style="border-right: 4px solid black; padding: 5px;">Tiempo</th>
+    <tr style="background-color: #000; color: #fff; border-bottom: 4px solid #ccc;">
+      <th style="border-right: 4px solid #ccc; padding: 5px;">Nombre</th>
+      <th style="border-right: 4px solid #ccc; padding: 5px;">Tiempo</th>
       <th style="padding: 5px;">Categoría</th>
     </tr>
   </thead>
