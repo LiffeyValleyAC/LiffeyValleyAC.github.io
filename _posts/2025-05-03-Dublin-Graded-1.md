@@ -7,9 +7,16 @@ A huge thank you to all <b>Liffey Valley Athletic Club</b> athletes who particip
 
 <b><u>DUBLIN GRADED MEETING 1 of 8 - RESULTS:</u></b>
 
+<b>Ellen Cronin</b> - <b>2:35.03 min</b> - (800m Women D) <br>
+<b>Mollie O'Donnell</b> - <b>10:48.65 min</b> - (3000m Women A) <br> 
+<b>Orla Gordon</b> - <b>12:20.34 min</b> - (3000m Women C) <br> 
+<b>Calvin Malone</b> - <b>10:36.35 min</b> - (3000m Men D)  <br>
+<b>Paul Balfe</b> - <b>10:47.41 min</b> - (3000m Men D)  <br>
+<b>Matthew Blyth</b> - <b>12:00.89 min</b> - (3000m Men D)  <br>
 
+Stay focused and keep up the great work as we gear up for <b>Meeting 2 on May 11th at Morton Stadium, starting at 12:00</b>.
 
-Stay focused and keep up the great work as we gear up for Meeting 2 on May 11th at Morton Stadium, starting at 12:00. Registration closes 3-5 days before each event, so make sure to secure your spot early. Let’s keep the momentum going and make the next meeting even more memorable!
+Registration closes 3-5 days before each event, so make sure to secure your spot early. Let’s keep the momentum going and make the next meeting even more memorable!
 
 See you all on the track! 💪💥
 

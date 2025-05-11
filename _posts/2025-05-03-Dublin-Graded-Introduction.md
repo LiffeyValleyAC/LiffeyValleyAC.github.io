@@ -11,6 +11,8 @@ This is your chance to race on fast surfaces, gain invaluable experience, and pu
 
 <b><u>Detailed Programme - 2025:</u></b>
 
+(The time is for the beginning of the day. The actual time for your event must be consulted)
+
 Meeting 1 - <b>03/05/25</b> - Morton - 11:40 - <b>800m / 3000m</b>
 
 Meeting 2 - <b>11/05/25</b> - Morton - 12:00 - <b>1500m / 5000m</b>
