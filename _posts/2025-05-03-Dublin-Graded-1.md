@@ -5,23 +5,23 @@ location: Morton Stadium, Dublin.
 
 A huge thank you to all <b>Liffey Valley Athletic Club</b> athletes who participated in the first Graded Meeting of the 2025 Track Season at <b>Morton Stadium</b> on May 3rd 2025. Your dedication and hard work truly shone through as you hit the track and gave it your all in distances of 800m and 3000m.
 
-<b><u>DUBLIN GRADED MEETING 1 of 8 - RESULTS:</u></b>
-
-<b>Ellen Cronin</b> - <b>2:35.03 min</b> - (800m Women D) <br>
-<b>Mollie O'Donnell</b> - <b>10:48.65 min</b> - (3000m Women A) <br> 
-<b>Orla Gordon</b> - <b>12:20.34 min</b> - (3000m Women C) <br> 
-<b>Calvin Malone</b> - <b>10:36.35 min</b> - (3000m Men D)  <br>
-<b>Paul Balfe</b> - <b>10:47.41 min</b> - (3000m Men D)  <br>
-<b>Matthew Blyth</b> - <b>12:00.89 min</b> - (3000m Men D)  <br>
-
-<table border="1" cellpadding="8" cellspacing="0" style="border-collapse: collapse;">
-<thead><tr><th>Nombre</th><th>Tiempo</th><th>Categoría</th></tr></thead>
+<table cellpadding="8" cellspacing="0" style="border-collapse: collapse; border: 4px solid black; font-family: 'Consolas', Courier, monospace; font-size: 14px;">
+  <thead>
+    <tr style="background-color: #f0f0f0; border-bottom: 4px solid black;">
+      <th colspan="3" style="padding: 5px; font-weight: bold;">DUBLIN GRADED MEETING 1 of 8 - RESULTS</th>
+    </tr>
+    <tr style="background-color: #f0f0f0; border-bottom: 4px solid black;">
+      <th style="border-right: 4px solid black; padding: 5px">Nombre</th>
+      <th style="border-right: 4px solid black; padding: 5px">Tiempo</th>
+      <th style="padding: 5px">Categoría</th>
+    </tr>
+  </thead>
 <tbody>
-<tr><td><b>Ellen Cronin</b></td><td><b>2:35.03 min</b></td><td>(800m Women D)</td></tr>
-<tr><td><b>Mollie O'Donnell</b></td><td><b>10:48.65 min</b></td><td>(3000m Women A)</td></tr>
-<tr><td><b>Orla Gordon</b></td><td><b>12:20.34 min</b></td><td>(3000m Women C)</td></tr>
-<tr><td><b>Calvin Malone</b></td><td><b>10:36.35 min</b></td><td>(3000m Men D)</td></tr>
-<tr><td><b>Paul Balfe</b></td><td><b>10:47.41 min</b></td><td>(3000m Men D)</td></tr>
+<tr style="border-bottom: 1px solid #ccc;"><td><b>Ellen Cronin</b></td><td><b>2:35.03 min</b></td><td>(800m Women D)</td></tr>
+<tr style="border-bottom: 1px solid #ccc;"><td><b>Mollie O'Donnell</b></td><td><b>10:48.65 min</b></td><td>(3000m Women A)</td></tr>
+<tr style="border-bottom: 1px solid #ccc;"><td><b>Orla Gordon</b></td><td><b>12:20.34 min</b></td><td>(3000m Women C)</td></tr>
+<tr style="border-bottom: 1px solid #ccc;"><td><b>Calvin Malone</b></td><td><b>10:36.35 min</b></td><td>(3000m Men D)</td></tr>
+<tr style="border-bottom: 1px solid #ccc;"><td><b>Paul Balfe</b></td><td><b>10:47.41 min</b></td><td>(3000m Men D)</td></tr>
 <tr><td><b>Matthew Blyth</b></td><td><b>12:00.89 min</b></td><td>(3000m Men D)</td></tr>
 </tbody></table>
 
