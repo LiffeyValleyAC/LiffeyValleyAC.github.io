@@ -2,7 +2,7 @@
 title: Dublin Athletics Graded Meeting 1 
 location: Morton Stadium, Dublin
 date: 2025-05-03 12:00
-latitude: 53.40109735594,  
+latitude: 53.40109735594  
 longitude: -6.244957341929
 results:
   - place: 2
