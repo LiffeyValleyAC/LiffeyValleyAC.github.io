@@ -23,9 +23,7 @@ A huge thank you to all <b>Liffey Valley Athletic Club</b> athletes who particip
     <tr><td style="padding: 5px 20px;">Matthew Blyth</td><td style="text-align: right; padding: 5px 20px;">12:00.89 min</td><td style="padding: 5px 20px;">3000m Men D</td></tr>
   </tbody>
 </table>
-<br><br>
-
-
+<br>
 
 Stay focused and keep up the great work as we gear up for <b>Meeting 2 on May 11th at Morton Stadium, starting at 12:00</b>.
 
@@ -38,7 +36,7 @@ See you all on the track! 💪💥
 
 <a href="/races/2025-05-03-Dublin-Graded-1/" target="_blank" rel="noopener noreferrer">Club Results</a>
 
-<a href="http://live.dublinathletics.com/graded-25-1/menu.html" target="_blank" rel="noopener noreferrer">Full Results</a>
+<a href="http://pastresults.dublinathletics.com/graded25-1/menu.html" target="_blank" rel="noopener noreferrer">Full Results</a>
 
 
  
