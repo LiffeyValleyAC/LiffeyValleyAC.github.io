@@ -76,9 +76,9 @@ results:
     category: M45
     note: BIB 548
   - place: 271
-    name: Cormac Long
+    name: Michael Ferreira
     time: 19.29
-    category: M35
+    category: M40
     note: BIB 551
   - place: 275
     name: Alejandro Cavallo

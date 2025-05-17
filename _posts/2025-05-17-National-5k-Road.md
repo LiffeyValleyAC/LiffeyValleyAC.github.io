@@ -25,7 +25,7 @@ location: Phoenix Park, Dublin
   <li>🚀 <strong>242nd</strong> – James Foley (M35): <strong>19:13</strong> <span style="color:green;">(PB)</span></li>
   <li>🏃 <strong>247th</strong> – Peter Bowe (M40): <strong>19:18</strong></li>
   <li>🚀 <strong>265th</strong> – Neil Duffy (M45): <strong>19:23</strong> <span style="color:green;">(PB)</span></li>
-  <li>🏃 <strong>271st</strong> – Cormac Long (M35): <strong>19:29</strong></li>
+  <li>🏃 <strong>271st</strong> – Michael Ferreira (M40): <strong>19:29</strong></li>
   <li>🏃 <strong>275th</strong> – Alejandro Cavallo (M35): <strong>19:28</strong></li>
   <li>🏃‍♀️ <strong>318th</strong> – Eddie McGrath (M55): <strong>19:57</strong></li>
   <li>🏃‍♀️ <strong>344th</strong> – Rebecca McLoughlin (F): <strong>20:14</strong></li>
