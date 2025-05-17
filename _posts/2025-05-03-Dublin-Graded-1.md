@@ -9,9 +9,9 @@ A huge thank you to all <b>Liffey Valley Athletic Club</b> athletes who particip
   <thead>
     <tr><td colspan="3" style="text-align: center; padding: 10px;"><b>DUBLIN GRADED 2025 MEETING 1 of 8 - RESULTS</b></td></tr>
     <tr style="background-color: #000; color: #fff;">
-      <th style="border: 4px solid #ccc; padding: 5px 20px; text-align: center;">NOMBRE</th>
-      <th style="border: 4px solid #ccc; padding: 5px 20px; text-align: center;">TIEMPO</th>
-      <th style="border: 4px solid #ccc; padding: 5px 20px; text-align: center;">CATEGORÍA</th>
+      <th style="border: 4px solid #ccc; padding: 5px 20px; text-align: center;">NAME</th>
+      <th style="border: 4px solid #ccc; padding: 5px 20px; text-align: center;">TIME</th>
+      <th style="border: 4px solid #ccc; padding: 5px 20px; text-align: center;">CATEGORY</th>
     </tr>
   </thead>
   <tbody>
