@@ -9,7 +9,7 @@ location: Dublin, Dublin.
 
 This is your chance to race on fast surfaces, gain invaluable experience, and push yourself to shatter your personal bests.
 
-<table style="border-collapse: collapse; font-family: Consolas, monospace;">
+<table style="border-collapse: collapse; font-family: Consolas, monospace; width: 905px">
   <thead>
 <tr><td colspan="7" style="text-align: center; padding: 10px;"><b>DETAILED PROGRAMME 2025</b></td></tr>
 

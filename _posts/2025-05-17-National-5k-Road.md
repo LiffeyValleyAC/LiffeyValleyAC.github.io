@@ -3,7 +3,7 @@ title: Irish Runner 5k Road Championships
 location: Phoenix Park, Dublin
 ---
 
-<h2>🏃‍♂️ Irish Runner 5K / National 5K Championships – Phoenix Park 🇮🇪</h2>
+<h1>🏃‍♂️ Irish Runner 5K / National 5K Championships – Phoenix Park</h1>
 
 <p>🎉 <strong>Congratulations</strong> to all participants of the <strong>Irish Runner 5K</strong> held at the beautiful <strong>Phoenix Park</strong>, which also incorporated the <strong>National 5K Championships</strong>. It was a sensational morning with dry and sunny conditions — perfect for racing! ☀️</p>
 
@@ -65,7 +65,7 @@ location: Phoenix Park, Dublin
 
 <img src="/assets/images/races/2025/2025-05-17_group.jpg" width="120%" height="auto" alt="5km Circuit">
 
-<img src="/assets/images/races/2025/2025-05-17_5k-route.jpeg" width="80%" height="auto" alt="LVAC Team 5k 2023">
+<img src="/assets/images/races/2025/2025-05-17_5k-route.jpeg" width="100%" height="auto" alt="LVAC Team 5k 2023">
 
 
  
