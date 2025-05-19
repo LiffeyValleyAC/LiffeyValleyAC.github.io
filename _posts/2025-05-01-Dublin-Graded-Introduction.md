@@ -9,6 +9,30 @@ location: Dublin, Dublin.
 
 This is your chance to race on fast surfaces, gain invaluable experience, and push yourself to shatter your personal bests.
 
+<a href="https://entry.athleticsireland.ie/#/" target="_blank" style="text-decoration: none; display: block; width: fit-content; margin: 0 auto;">
+  <button
+    style="
+      background-color: #FCD515;
+      color: #181818;
+      font-weight: bold;
+      border: none;
+      padding: 15px 30px;
+      font-size: 18px;
+      border-radius: 12px;
+      margin: 20px;
+      cursor: pointer;
+      box-shadow: 0 6px #c2aa10;
+      transition: all 0.2s ease;
+    "
+    onmouseover="this.style.boxShadow='0 4px #c2aa10'; this.style.transform='translateY(2px)'"
+    onmouseout="this.style.boxShadow='0 6px #c2aa10'; this.style.transform='translateY(0)'"
+    onmousedown="this.style.boxShadow='0 2px #c2aa10'; this.style.transform='translateY(4px)'"
+    onmouseup="this.style.boxShadow='0 4px #c2aa10'; this.style.transform='translateY(2px)'"
+  >
+    REGISTER HERE
+  </button>
+</a>
+
 <table style="border-collapse: collapse; font-family: Consolas, monospace; width: 905px">
   <thead>
 <tr><td colspan="7" style="text-align: center; padding: 10px;"><b>DETAILED PROGRAMME 2025</b></td></tr>
@@ -41,15 +65,40 @@ This is your chance to race on fast surfaces, gain invaluable experience, and pu
 
 Let’s make this season one to remember. Train hard, race smart, and leave it all on the track. 💪💥
 
+<a href="https://entry.athleticsireland.ie/#/" target="_blank" style="text-decoration: none; display: block; width: fit-content; margin: 0 auto;">
+  <button
+    style="
+      background-color: #FCD515;
+      color: #181818;
+      font-weight: bold;
+      border: none;
+      padding: 15px 30px;
+      font-size: 18px;
+      border-radius: 12px;
+      margin: 20px;
+      cursor: pointer;
+      box-shadow: 0 6px #c2aa10;
+      transition: all 0.2s ease;
+    "
+    onmouseover="this.style.boxShadow='0 4px #c2aa10'; this.style.transform='translateY(2px)'"
+    onmouseout="this.style.boxShadow='0 6px #c2aa10'; this.style.transform='translateY(0)'"
+    onmousedown="this.style.boxShadow='0 2px #c2aa10'; this.style.transform='translateY(4px)'"
+    onmouseup="this.style.boxShadow='0 4px #c2aa10'; this.style.transform='translateY(2px)'"
+  >
+    REGISTER NOW!!!
+  </button>
+</a>
 
-<a href="/assets/results/2025_track_season/DUBLIN_GRADED_LEAGUES_2025_BOOKLET.pdf" target="_blank" rel="noopener noreferrer">Dublin Graded Leagues Booklet 2025</a>
+<a href="https://entry.athleticsireland.ie/#/" target="_blank" rel="noopener noreferrer">Registration</a>
 
 <a href="https://live.dublinathletics.com/menu.html" target="_blank" rel="noopener noreferrer">Live Results</a>
 
 <a href="https://www.dublinathletics.com/live-stream" target="_blank" rel="noopener noreferrer">Live Streaming Videos</a>
 
+<a href="/assets/results/2025_track_season/DUBLIN_GRADED_LEAGUES_2025_BOOKLET.pdf" target="_blank" rel="noopener noreferrer">Dublin Graded Leagues Booklet 2025</a>
+
 <h1>2025 Track Season: Results at a Glance</h1>
 
-<img src="/assets/results/2025_track_season/2025_track_season_at_a_glance.jpg"  width="100%" height="auto" alt="2025 Track Season Results">
+<a href="/assets/results/2025_track_season/2025_track_season_at_a_glance.jpg" target="_blank" rel="noopener noreferrer"><img src="/assets/results/2025_track_season/2025_track_season_at_a_glance.jpg"  width="100%" height="auto" alt="2025 Track Season Results"></a>
 
 
