@@ -11,7 +11,7 @@ This is your chance to race on fast surfaces, gain invaluable experience, and pu
 
 <a href="https://entry.athleticsireland.ie/#/" target="_blank" style="text-decoration: none; display: block; width: fit-content; margin: 0 auto;"><button style="background-color: #FCD515; color: #181818; font-weight: bold; border: none; padding: 15px 30px; font-size: 18px; border-radius: 12px; margin: 20px; cursor: pointer; box-shadow: 0 6px #c2aa10; transition: all 0.2s ease;"     onmouseover="this.style.boxShadow='0 4px #c2aa10'; this.style.transform='translateY(2px)'"    onmouseout="this.style.boxShadow='0 6px #c2aa10'; this.style.transform='translateY(0)'"    onmousedown="this.style.boxShadow='0 2px #c2aa10'; this.style.transform='translateY(4px)'"    onmouseup="this.style.boxShadow='0 4px #c2aa10'; this.style.transform='translateY(2px)'">REGISTER HERE</button></a>
 
-<table style="border-collapse: collapse; font-family: Consolas, monospace; width: 905px">
+<table style="border-collapse: collapse; font-family: Consolas, monospace;">
   <thead>
 <tr><td colspan="7" style="text-align: center; padding: 10px;"><b>DETAILED PROGRAMME 2025</b></td></tr>
 
