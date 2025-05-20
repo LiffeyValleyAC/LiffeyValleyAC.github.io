@@ -55,6 +55,6 @@ Let’s make this season one to remember. Train hard, race smart, and leave it a
 
 <h1>2025 Track Season: Results at a Glance</h1>
 
-<a href="/assets/results/2025_track_season/2025_track_season_at_a_glance.jpg" target="_blank" rel="noopener noreferrer"><img src="/assets/results/2025_track_season/2025_track_season_at_a_glance.jpg"  width="100%" height="auto" alt="2025 Track Season Results"></a>
+<a href="/assets/results/2025_track_season/2025_track_season_at_a_glance.jpg" target="_blank" rel="noopener noreferrer"><img src="/assets/results/2025_track_season/2025_track_season_at_a_glance.jpg"  width="120%" height="auto" alt="2025 Track Season Results"></a>
 
 
