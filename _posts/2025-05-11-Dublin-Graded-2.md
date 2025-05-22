@@ -17,3 +17,5 @@ See you all at the next meet! 🏃‍♂️🔥
 <a href="/races/2025-05-11-Dublin-Graded-2/" target="_blank" rel="noopener noreferrer">Club Results</a>
 
 <a href="http://pastresults.dublinathletics.com/graded25-2/menu.html" target="_blank" rel="noopener noreferrer">Full Results</a>
+
+<a href="https://www.youtube.com/live/x3nxIo-fLQE" target="_blank">Video Graded 2</a>

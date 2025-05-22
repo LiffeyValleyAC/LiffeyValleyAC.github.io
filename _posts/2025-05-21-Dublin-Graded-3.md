@@ -1,13 +1,15 @@
 ---
-title: Dublin Graded Meeting 1 of 8
-location: Morton Stadium, Dublin.
+title: Dublin Graded Meeting 3 of 8
+location: Tallaght Track, Dublin.
 ---
 
-A huge thank you to all <b>Liffey Valley Athletic Club</b> athletes who participated in the first Graded Meeting of the 2025 Track Season at <b>Morton Stadium</b> on May 3rd 2025. Your dedication and hard work truly shone through as you hit the track and gave it your all in distances of 800m and 3000m.
+A huge thank you to all <b>Liffey Valley Athletic Club</b> athletes who participated in the third Graded Meeting of the 2025 Track Season at <b>Tallaght Track</b> on May 21st, 2025. Your determination and team spirit were once again on full display as you competed fiercely in the 1 mile and 10,000m events.
+
+
 
 <table style="border-collapse: collapse; font-family: Consolas, monospace;">
   <thead>
-    <tr><td colspan="3" style="text-align: center; padding: 10px;"><b>DUBLIN GRADED 2025 MEETING 1 of 8 - RESULTS</b></td></tr>
+    <tr><td colspan="3" style="text-align: center; padding: 10px;"><b>DUBLIN GRADED 2025 MEETING 3 of 8 - RESULTS</b></td></tr>
     <tr style="background-color: #000; color: #fff;">
       <th style="border: 4px solid #ccc; padding: 5px 20px; text-align: center;">NAME</th>
       <th style="border: 4px solid #ccc; padding: 5px 20px; text-align: center;">TIME</th>
@@ -25,18 +27,15 @@ A huge thank you to all <b>Liffey Valley Athletic Club</b> athletes who particip
 </table>
 <br>
 
-Stay focused and keep up the great work as we gear up for <b>Meeting 2 on May 11th at Morton Stadium, starting at 12:00</b>.
 
-Registration closes 3-5 days before each event, so make sure to secure your spot early. Let’s keep the momentum going and make the next meeting even more memorable!
+Keep up the momentum as we gear up for <b>Meeting 4 on Wednesday, June 4th at Morton Stadium, starting at 7:00 PM</b>, featuring the 800m. The season is heating up, and every race is a chance to sharpen our edge. Stay disciplined, train with purpose, and let's bring intensity to the track.
 
-See you all on the track! 💪💥
+See you all at the next meet! 🏃‍♂️🔥
 
+<a href="" target="_blank" rel="noopener noreferrer">Instagram</a>
 
-<a href="https://www.instagram.com/p/DJPOnbjIhdA/?img_index=1" target="_blank" rel="noopener noreferrer">Instagram</a>
+<a href="/races/2025-05-21-Dublin-Graded-3/" target="_blank" rel="noopener noreferrer">Club Results</a>
 
-<a href="/races/2025-05-03-Dublin-Graded-1/" target="_blank" rel="noopener noreferrer">Club Results</a>
+<a href="http://pastresults.dublinathletics.com/graded25-3/menu.html" target="_blank" rel="noopener noreferrer">Full Results</a>
 
-<a href="http://pastresults.dublinathletics.com/graded25-1/menu.html" target="_blank" rel="noopener noreferrer">Full Results</a>
-
-<a href="https://youtube.com/live/Nqt9sO4O9kU" target="_blank">Video Graded 1</a>
- 
+<a href="https://www.youtube.com/live/M47_4X_fsGM" target="_blank">Video Graded 3</a>
