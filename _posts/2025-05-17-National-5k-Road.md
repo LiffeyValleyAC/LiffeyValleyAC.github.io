@@ -65,6 +65,8 @@ location: Phoenix Park, Dublin
 
 <img src="/assets/images/races/2025/2025-05-17_group.jpg" width="120%" height="auto" alt="5km Circuit">
 
+<img src="/assets/images/races/2025/2025-05-17_mark.jpg" width="100%" height="auto" alt="Mark">
+
 <img src="/assets/images/races/2025/2025-05-17_5k-route.jpeg" width="100%" height="auto" alt="LVAC Team 5k 2023">
 
 
