@@ -10,27 +10,27 @@ results:
     time: 2.35.03
     category: 800m Women D
     note: 
-  - place: 7
+  - place: 5
     name: Mollie O'Donnell
     time: 10.48.65
     category: 3000m Women A
     note: 
-  - place: 22
+  - place: 9
     name: Orla Gordon
     time: 12.20.34
     category: 3000m Women C
     note: 
-  - place: 12
+  - place: 2
     name: Calvin Malone
     time: 10.36.35
     category: 3000m Men D
     note: 
-  - place: 13
+  - place: 3
     name: Paul Balfe
     time: 10.47.41
     category: 3000m Men D
     note: 
-  - place: 17
+  - place: 7
     name: Matthew Blyth
     time: 12.00.89
     category: 3000m Men D
