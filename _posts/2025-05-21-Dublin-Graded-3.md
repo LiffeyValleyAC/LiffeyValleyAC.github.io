@@ -18,17 +18,17 @@ A special congratulations to <b>Pierce Geoghegan</b> for his victory in the 10,0
     </tr>
   </thead>
   <tbody>
-    <tr style="border-bottom: 1px solid #ccc;"><td style="padding: 0px 20px;">2</td><td style="padding: 0px 10px;">Mollie O'Donnell</td><td style="text-align: right;">5:23.98 min</td><td style="padding: 0px 20px;">1 Mile Women B</td></tr>
-    <tr style="border-bottom: 1px solid #ccc;"><td style="padding: 0px 20px;">1</td><td style="padding: 0px 10px;">Cliodhna Tutty-Bardon</td><td style="text-align: right;">5:36.63 min</td><td style="padding: 0px 20px;">1 Mile Women C</td></tr>
-    <tr style="border-bottom: 1px solid #ccc;"><td style="padding: 0px 20px;">2</td><td style="padding: 0px 10px;">Dearbhaile Rooney</td><td style="text-align: right;">6:12.23 min</td><td style="padding: 0px 20px;">1 Mile Women D</td></tr>
-    <tr style="border-bottom: 1px solid #ccc;"><td style="padding: 0px 20px;">3</td><td style="padding: 0px 10px;">Orla Gordon</td><td style="text-align: right;">6:13.42 min</td><td style="padding: 0px 20px;">1 Mile Women D</td></tr>
-    <tr style="border-bottom: 1px solid #ccc;"><td style="padding: 0px 20px;">1</td><td style="padding: 0px 10px;">Pierce Geoghegan</td><td style="text-align: right;">32:51.62 min</td><td style="padding: 0px 20px;">10000m Men</td></tr>
-    <tr style="border-bottom: 1px solid #ccc;"><td style="padding: 0px 20px;">3</td><td style="padding: 0px 10px;">David Carroll</td><td style="text-align: right;">4:30.69 min</td><td style="padding: 0px 20px;">1 Mile Men B</td></tr>
-    <tr style="border-bottom: 1px solid #ccc;"><td style="padding: 0px 20px;">3</td><td style="padding: 0px 10px;">Arnaud Benjacar</td><td style="text-align: right;">4:58.73 min</td><td style="padding: 0px 20px;">1 Mile Men C</td></tr>
-    <tr style="border-bottom: 1px solid #ccc;"><td style="padding: 0px 20px;">6</td><td style="padding: 0px 10px;">Patrick Fox</td><td style="text-align: right;">5:05.83 min</td><td style="padding: 0px 20px;">1 Mile Men C</td></tr>
-    <tr style="border-bottom: 1px solid #ccc;"><td style="padding: 0px 20px;">2</td><td style="padding: 0px 10px;">Richard Finegan</td><td style="text-align: right;">5:12.62 min (PB)</td><td style="padding: 0px 20px;">1 Mile Men D</td></tr>
-    <tr style="border-bottom: 1px solid #ccc;"><td style="padding: 0px 20px;">5</td><td style="padding: 0px 10px;">James Foley</td><td style="text-align: right;">5:28.41 min (PB)</td><td style="padding: 0px 20px;">1 Mile Men D</td></tr>
-    <tr><td style="padding: 0px 10px;">7</td><td style="padding: 0px 20px;">Alejandro Cavallo</td><td style="text-align: right;">5:32.12 min (PB)</td><td style="padding: 0px 20px;">1 Mile Men D</td></tr>
+    <tr style="border-bottom: 1px solid #ccc;"><td style="padding: 0px 0px;">🥈2</td><td style="padding: 0px 10px;">Mollie O'Donnell</td><td style="text-align: right;">5:23.98 min</td><td style="padding: 0px 20px;">1 Mile Women B</td></tr>
+    <tr style="border-bottom: 1px solid #ccc;"><td style="padding: 0px 0px;">🥇1</td><td style="padding: 0px 10px;">Cliodhna Tutty-Bardon</td><td style="text-align: right;">5:36.63 min</td><td style="padding: 0px 20px;">1 Mile Women C</td></tr>
+    <tr style="border-bottom: 1px solid #ccc;"><td style="padding: 0px 0px;">🥈2</td><td style="padding: 0px 10px;">Dearbhaile Rooney</td><td style="text-align: right;">6:12.23 min</td><td style="padding: 0px 20px;">1 Mile Women D</td></tr>
+    <tr style="border-bottom: 1px solid #ccc;"><td style="padding: 0px 0px;">🥉3</td><td style="padding: 0px 10px;">Orla Gordon</td><td style="text-align: right;">6:13.42 min</td><td style="padding: 0px 20px;">1 Mile Women D</td></tr>
+    <tr style="border-bottom: 1px solid #ccc;"><td style="padding: 0px 0px;">🥇1</td><td style="padding: 0px 10px;">Pierce Geoghegan</td><td style="text-align: right;">32:51.62 min</td><td style="padding: 0px 20px;">10000m Men</td></tr>
+    <tr style="border-bottom: 1px solid #ccc;"><td style="padding: 0px 0px;">🥉3</td><td style="padding: 0px 10px;">David Carroll</td><td style="text-align: right;">4:30.69 min</td><td style="padding: 0px 20px;">1 Mile Men B</td></tr>
+    <tr style="border-bottom: 1px solid #ccc;"><td style="padding: 0px 0px;">🥉3</td><td style="padding: 0px 10px;">Arnaud Benjacar</td><td style="text-align: right;">4:58.73 min</td><td style="padding: 0px 20px;">1 Mile Men C</td></tr>
+    <tr style="border-bottom: 1px solid #ccc;"><td style="padding: 0px 0px;">6</td><td style="padding: 0px 10px;">Patrick Fox</td><td style="text-align: right;">5:05.83 min</td><td style="padding: 0px 20px;">1 Mile Men C</td></tr>
+    <tr style="border-bottom: 1px solid #ccc;"><td style="padding: 0px 0px;">🥈2</td><td style="padding: 0px 10px;">Richard Finegan</td><td style="text-align: right;">5:12.62 min (PB)</td><td style="padding: 0px 20px;">1 Mile Men D</td></tr>
+    <tr style="border-bottom: 1px solid #ccc;"><td style="padding: 0px 0px;">5</td><td style="padding: 0px 10px;">James Foley</td><td style="text-align: right;">5:28.41 min (PB)</td><td style="padding: 0px 20px;">1 Mile Men D</td></tr>
+    <tr><td style="padding: 0px 0px;">7</td><td style="padding: 0px 10px;">Alejandro Cavallo</td><td style="text-align: right;">5:32.12 min (PB)</td><td style="padding: 0px 20px;">1 Mile Men D</td></tr>
   </tbody>
 </table>
 <br>
