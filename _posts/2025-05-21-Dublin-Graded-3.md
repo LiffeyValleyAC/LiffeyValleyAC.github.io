@@ -26,9 +26,9 @@ A special congratulations to <b>Pierce Geoghegan</b> for his victory in the 10,0
     <tr style="border-bottom: 1px solid #ccc;"><td style="padding: 0px 10px 0px 0px; text-align: right;">🥉3</td><td style="padding: 0px 10px;">David Carroll</td><td style="text-align: right;">4:30.69 min</td><td style="padding: 0px 20px;">1 Mile Men B</td></tr>
     <tr style="border-bottom: 1px solid #ccc;"><td style="padding: 0px 10px 0px 0px; text-align: right;">🥉3</td><td style="padding: 0px 10px;">Arnaud Benjacar</td><td style="text-align: right;">4:58.73 min</td><td style="padding: 0px 20px;">1 Mile Men C</td></tr>
     <tr style="border-bottom: 1px solid #ccc;"><td style="padding: 0px 10px 0px 0px; text-align: right;">6</td><td style="padding: 0px 10px;">Patrick Fox</td><td style="text-align: right;">5:05.83 min</td><td style="padding: 0px 20px;">1 Mile Men C</td></tr>
-    <tr style="border-bottom: 1px solid #ccc;"><td style="padding: 0px 10px 0px 0px; text-align: right;">🥈2</td><td style="padding: 0px 10px;">Richard Finegan</td><td style="text-align: right;">5:12.62 min (PB)</td><td style="padding: 0px 20px;">1 Mile Men D</td></tr>
-    <tr style="border-bottom: 1px solid #ccc;"><td style="padding: 0px 10px 0px 0px; text-align: right;">5</td><td style="padding: 0px 10px;">James Foley</td><td style="text-align: right;">5:28.41 min (PB)</td><td style="padding: 0px 20px;">1 Mile Men D</td></tr>
-    <tr><td style="padding: 0px 10px 0px 0px; text-align: right;">7</td><td style="padding: 0px 10px;">Alejandro Cavallo</td><td style="text-align: right;">5:32.12 min (PB)</td><td style="padding: 0px 20px;">1 Mile Men D</td></tr>
+    <tr style="border-bottom: 1px solid #ccc;"><td style="padding: 0px 10px 0px 0px; text-align: right;">🥈2</td><td style="padding: 0px 10px;">Richard Finegan</td><td style="text-align: right;">5:12.62 min⌚</td><td style="padding: 0px 20px;">1 Mile Men D</td></tr>
+    <tr style="border-bottom: 1px solid #ccc;"><td style="padding: 0px 10px 0px 0px; text-align: right;">5</td><td style="padding: 0px 10px;">James Foley</td><td style="text-align: right;">5:28.41 min⌚</td><td style="padding: 0px 20px;">1 Mile Men D</td></tr>
+    <tr><td style="padding: 0px 10px 0px 0px; text-align: right;">7</td><td style="padding: 0px 10px;">Alejandro Cavallo</td><td style="text-align: right;">5:32.12 min⌚</td><td style="padding: 0px 20px;">1 Mile Men D</td></tr>
   </tbody>
 </table>
 <br>
