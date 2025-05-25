@@ -16,12 +16,12 @@ A huge thank you to all <b>Liffey Valley Athletic Club</b> athletes who particip
     </tr>
   </thead>
   <tbody>
-    <tr style="border-bottom: 1px solid #ccc;"><td style="padding: 0px 0px; text-align: center;">🥈2</td><td style="padding: 0px 10px;">Ellen Cronin</td><td style="text-align: right;">2:35.03 min</td><td style="padding: 0px 20px;">800m Women D</td></tr>
-    <tr style="border-bottom: 1px solid #ccc;"><td style="padding: 0px 0px; text-align: center;">5</td><td style="padding: 0px 10px;">Mollie O'Donnell</td><td style="text-align: right;">10:48.65 min</td><td style="padding: 0px 20px;">3000m Women A</td></tr>
-    <tr style="border-bottom: 1px solid #ccc;"><td style="padding: 0px 0px; text-align: center;">9</td><td style="padding: 0px 10px;">Orla Gordon</td><td style="text-align: right;">12:20.34 min</td><td style="padding: 0px 20px;">3000m Women C</td></tr>
-    <tr style="border-bottom: 1px solid #ccc;"><td style="padding: 0px 0px; text-align: center;">🥈2</td><td style="padding: 0px 10px;">Calvin Malone</td><td style="text-align: right;">10:36.35 min</td><td style="padding: 0px 20px;">3000m Men D</td></tr>
-    <tr style="border-bottom: 1px solid #ccc;"><td style="padding: 0px 0px; text-align: center;">🥉3</td><td style="padding: 0px 10px;">Paul Balfe</td><td style="text-align: right;">10:47.41 min</td><td style="padding: 0px 20px;">3000m Men D</td></tr>
-    <tr><td style="padding: 0px 0px; text-align: center;">7</td><td style="padding: 0px 10px;">Matthew Blyth</td><td style="text-align: right;">12:00.89 min</td><td style="padding: 0px 20px;">3000m Men D</td></tr>
+    <tr style="border-bottom: 1px solid #ccc;"><td style="padding: 0px 10px 0px 0px; text-align: right;">🥈2</td><td style="padding: 0px 10px;">Ellen Cronin</td><td style="text-align: right;">2:35.03 min</td><td style="padding: 0px 20px;">800m Women D</td></tr>
+    <tr style="border-bottom: 1px solid #ccc;"><td style="padding: 0px 10px 0px 0px; text-align: right;">5</td><td style="padding: 0px 10px;">Mollie O'Donnell</td><td style="text-align: right;">10:48.65 min</td><td style="padding: 0px 20px;">3000m Women A</td></tr>
+    <tr style="border-bottom: 1px solid #ccc;"><td style="padding: 0px 10px 0px 0px; text-align: right;">9</td><td style="padding: 0px 10px;">Orla Gordon</td><td style="text-align: right;">12:20.34 min</td><td style="padding: 0px 20px;">3000m Women C</td></tr>
+    <tr style="border-bottom: 1px solid #ccc;"><td style="padding: 0px 10px 0px 0px; text-align: right;">🥈2</td><td style="padding: 0px 10px;">Calvin Malone</td><td style="text-align: right;">10:36.35 min</td><td style="padding: 0px 20px;">3000m Men D</td></tr>
+    <tr style="border-bottom: 1px solid #ccc;"><td style="padding: 0px 10px 0px 0px; text-align: right;">🥉3</td><td style="padding: 0px 10px;">Paul Balfe</td><td style="text-align: right;">10:47.41 min</td><td style="padding: 0px 20px;">3000m Men D</td></tr>
+    <tr><td style="padding: 0px 10px 0px 0px; text-align: right;">7</td><td style="padding: 0px 10px;">Matthew Blyth</td><td style="text-align: right;">12:00.89 min</td><td style="padding: 0px 20px;">3000m Men D</td></tr>
   </tbody>
 </table>
 <br>
