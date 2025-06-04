@@ -18,13 +18,18 @@ results:
   - place: 9
     name: Orla Gordon
     time: 12.20.34
-    category: 3000m Women C
+    category: 3000m Women D
     note: 
+  - place: 1
+    name: David Carroll
+    time: 2.00.14
+    category: 800m Men B
+    note: PB
   - place: 2
     name: Calvin Malone
     time: 10.36.35
     category: 3000m Men D
-    note: 
+    note: PB
   - place: 3
     name: Paul Balfe
     time: 10.47.41
