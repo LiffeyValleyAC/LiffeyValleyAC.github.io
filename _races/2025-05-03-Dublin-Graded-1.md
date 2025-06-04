@@ -25,6 +25,16 @@ results:
     time: 2.00.14
     category: 800m Men B
     note: PB
+  - place: 7
+    name: Oisin Murphy
+    time: 2.16.78
+    category: 800m Men C H1
+    note:
+  - place: 8
+    name: Patrick Fox
+    time: 2.18.16
+    category: 800m Men C H1
+    note: 
   - place: 2
     name: Calvin Malone
     time: 10.36.35
