@@ -5,7 +5,12 @@ location: Tallaght Track, Dublin.
 
 A huge thank you to all <b>Liffey Valley Athletic Club</b> athletes who participated in the third Graded Meeting of the 2025 Track Season at <b>Tallaght Track</b> on May 21st, 2025. Your determination and team spirit were once again on full display as you competed fiercely in the 1 mile and 10,000m events.
 
-A special congratulations to <b>Pierce Geoghegan</b> for his victory in the 10,000m, and to <b>Cliodhna Tutty-Bardon</b> and <b>Mollie O'Donnell</b> for claiming first and second place in their respective 1 mile races. Outstanding performances all around!
+<p>
+  A special congratulations to <b>Pierce Geoghegan</b> on his remarkable victory in the 10000m, his <b>first-ever Dublin Championship title</b>! 🥇<br>
+  Kudos as well to <b>Cliodhna Tutty-Bardon</b> and <b>Mollie O'Donnell</b> for securing <b>first</b> and <b>second place</b> in their respective 1-mile races. 🏃‍♀️✨<br>
+  <b>Outstanding performances all around!</b> 🎉
+</p>
+
 
 <table style="border-collapse: collapse; font-family: Consolas, monospace;">
   <thead>
