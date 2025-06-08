@@ -50,10 +50,10 @@ See you all at the next meet! 🏃‍♂️🔥
 
 <a href="http://pastresults.dublinathletics.com/graded25-3/menu.html" target="_blank" rel="noopener noreferrer">Full Results</a>
 
-<h1>Videos Graded 3:</h1>
+<h5>Videos Graded 3:</h5>
 <a href="https://www.youtube.com/live/M47_4X_fsGM?t=33m50s" target="_blank">10000m_Men</a><br><a href="https://www.youtube.com/live/M47_4X_fsGM?t=2h4m21s" target="_blank">1Mile_Woman_A+B</a><br><a href="https://www.youtube.com/live/M47_4X_fsGM?t=2h14m43s" target="_blank">1Mile_Woman_C+D</a><br><a href="https://www.youtube.com/live/M47_4X_fsGM?t=2h26m9s" target="_blank">1Mile_Men_B</a><br><a href="https://www.youtube.com/live/M47_4X_fsGM?t=2h34m50s" target="_blank">1Mile_Men_C</a><br><a href="https://www.youtube.com/live/M47_4X_fsGM?t=2h42m8s" target="_blank">1Mile_Men_D</a>
 
-<h1>Images</h1>
+<h5>Images</h5>
 
 <img src="/assets/results/2025_track_season/2025-05-21_pierce1.jpg"  width="100%" height="auto" alt="Pierce">
 
