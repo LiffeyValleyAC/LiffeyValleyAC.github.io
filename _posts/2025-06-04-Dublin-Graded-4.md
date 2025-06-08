@@ -41,8 +41,10 @@ Let's keep building momentum! The <b>fifth Graded Meeting</b> will take place on
 
 <a href="http://pastresults.dublinathletics.com/graded25-4/menu.html" target="_blank" rel="noopener noreferrer">Full Results</a>
 
-<a href="https://www.youtube.com/live/kbKBIQxUcOc" target="_blank">Video Graded 4</a>
+<h1>Videos Graded 4:</h1>
+<a href="https://www.youtube.com/live/kbKBIQxUcOc?t=1h30m48s" target="_blank">800m_Women_B</a><br><a href="https://www.youtube.com/live/kbKBIQxUcOc?t=1h35m40s" target="_blank">800m_Women_D</a><br><a href="https://www.youtube.com/live/kbKBIQxUcOc?t=1h42m49s" target="_blank">800m_Men_A</a><br><a href="https://www.youtube.com/live/kbKBIQxUcOc?t=1h54m07s" target="_blank">800m_Men_C1</a><br><a href="https://www.youtube.com/live/kbKBIQxUcOc?t=2h5m56s" target="_blank">800m_Men_D1</a><br><a href="https://www.youtube.com/live/kbKBIQxUcOc?t=2h11m50s" target="_blank">800m_Men_D2</a>
 
+<h1>Images</h1>
 <img src="/assets/results/2025_track_season/2025-06-04_mollie.jpg"  width="100%" height="auto" alt="Mollie">
 
 <img src="/assets/results/2025_track_season/2025-06-04_orla.jpg"  width="100%" height="auto" alt="Orla">
