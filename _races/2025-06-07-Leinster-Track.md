@@ -2,8 +2,8 @@
 title: Leinster Track Championships
 location: SETU, Co. Carlow.
 date: 2025-06-07 10:30
-latitude: 53.3522291
-longitude: -6.3214874
+latitude: 52.81576781386963
+longitude: -6.945034632232314
 results:
   - place: 2
     name: Orla Gordon
