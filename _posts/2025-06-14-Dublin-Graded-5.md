@@ -25,14 +25,14 @@ Sign up early and we’ll see you on the track! 💥🔥
     </tr>
   </thead>
   <tbody>
-    <tr style="border-bottom: 1px solid #ccc;"><td style="text-align: right;">🥈2</td><td>Cliodhna Tutty-Bardon</td><td style="text-align: right;">10:59.39 min</td><td style="padding: 0px 20px;">3000m Women C</td></tr>
-    <tr style="border-bottom: 1px solid #ccc;"><td style="text-align: right;">5</td><td>Siobhán Nugent</td><td style="text-align: right;">11:24.42 min</td><td style="padding: 0px 20px;">3000m Women C</td></tr>
-    <tr style="border-bottom: 1px solid #ccc;"><td style="text-align: right;">8</td><td>David Carroll</td><td style="text-align: right;">8:53.63 min⌚</td><td style="padding: 0px 20px;">3000m Men A2</td></tr>
-    <tr style="border-bottom: 1px solid #ccc;"><td style="text-align: right;">8</td><td>Matthew Blyth</td><td style="text-align: right;">11:36.50 min⌚</td><td style="padding: 0px 20px;">3000m Men D</td></tr>
-    <tr style="border-bottom: 1px solid #ccc;"><td style="text-align: right;">🥈2</td><td>Robbie Mulhall</td><td style="text-align: right;">2:04.95 min⌚</td><td style="padding: 0px 20px;">800m Men C</td></tr>
-    <tr style="border-bottom: 1px solid #ccc;"><td style="text-align: right;">🥉3</td><td>Robert Collins</td><td style="text-align: right;">2:23.50 min⌚</td><td style="padding: 0px 20px;">800m Men D1</td></tr>
-    <tr style="border-bottom: 1px solid #ccc;"><td style="text-align: right;">4</td><td>Alejandro Cavallo</td><td style="text-align: right;">2:28.45 min</td><td style="padding: 0px 20px;">800m Men D1</td></tr>
-    <tr><td style="text-align: right;">🥈2</td><td>Richard Finegan</td><td style="text-align: right;">2:14.63 min⌚</td><td style="padding: 0px 20px;">800m Men D2</td></tr>
+    <tr style="border-bottom: 1px solid #ccc;"><td style="text-align: right;">🥈2</td><td style="padding: 0px 10px;">Cliodhna Tutty-Bardon</td><td style="text-align: right;">10:59.39 min</td><td style="padding: 0px 20px;">3000m Women C</td></tr>
+    <tr style="border-bottom: 1px solid #ccc;"><td style="text-align: right;">5</td><td style="padding: 0px 10px;">Siobhán Nugent</td><td style="text-align: right;">11:24.42 min</td><td style="padding: 0px 20px;">3000m Women C</td></tr>
+    <tr style="border-bottom: 1px solid #ccc;"><td style="text-align: right;">8</td><td style="padding: 0px 10px;">David Carroll</td><td style="text-align: right;">8:53.63 min⌚</td><td style="padding: 0px 20px;">3000m Men A2</td></tr>
+    <tr style="border-bottom: 1px solid #ccc;"><td style="text-align: right;">8</td><td style="padding: 0px 10px;">Matthew Blyth</td><td style="text-align: right;">11:36.50 min⌚</td><td style="padding: 0px 20px;">3000m Men D</td></tr>
+    <tr style="border-bottom: 1px solid #ccc;"><td style="text-align: right;">🥈2</td><td style="padding: 0px 10px;">Robbie Mulhall</td><td style="text-align: right;">2:04.95 min⌚</td><td style="padding: 0px 20px;">800m Men C</td></tr>
+    <tr style="border-bottom: 1px solid #ccc;"><td style="text-align: right;">🥉3</td><td style="padding: 0px 10px;">Robert Collins</td><td style="text-align: right;">2:23.50 min⌚</td><td style="padding: 0px 20px;">800m Men D1</td></tr>
+    <tr style="border-bottom: 1px solid #ccc;"><td style="text-align: right;">4</td><td style="padding: 0px 10px;">Alejandro Cavallo</td><td style="text-align: right;">2:28.45 min</td><td style="padding: 0px 20px;">800m Men D1</td></tr>
+    <tr><td style="text-align: right;">🥈2</td><td style="padding: 0px 10px;">Richard Finegan</td><td style="text-align: right;">2:14.63 min⌚</td><td style="padding: 0px 20px;">800m Men D2</td></tr>
   </tbody>
 </table>
 
