@@ -22,12 +22,12 @@ results:
     note: PB
   - place: 8
     name: Matthew Blyth
-    time: 11:36.50
+    time: 11.36.50
     category: 3000m Men D
     note: PB
   - place: 2
     name: Robbie Mulhall
-    time: 2:04.95
+    time: 2.04.95
     category: 800m Men C
     note: PB
   - place: 3
@@ -42,7 +42,7 @@ results:
     note: 
   - place: 2
     name: Richard Finegan
-    time: 2:14.63
+    time: 2.14.63
     category: 800m Men D2
     note: 
 ---
