@@ -44,5 +44,5 @@ results:
     name: Richard Finegan
     time: 2.14.63
     category: 800m Men D2
-    note: 
+    note: PB
 ---

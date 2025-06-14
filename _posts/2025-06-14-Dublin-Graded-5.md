@@ -27,12 +27,12 @@ Sign up early and we’ll see you on the track! 💥🔥
   <tbody>
     <tr style="border-bottom: 1px solid #ccc;"><td style="text-align: right;">🥈2</td><td>Cliodhna Tutty-Bardon</td><td style="text-align: right;">10:59.39 min</td><td>3000m Women C</td></tr>
     <tr style="border-bottom: 1px solid #ccc;"><td style="text-align: right;">5</td><td>Siobhán Nugent</td><td style="text-align: right;">11:24.42 min</td><td>3000m Women C</td></tr>
-    <tr style="border-bottom: 1px solid #ccc;"><td style="text-align: right;">8</td><td>David Carroll</td><td style="text-align: right;">8:53.63 min <span style="color: green;">PB</span></td><td>3000m Men A2</td></tr>
-    <tr style="border-bottom: 1px solid #ccc;"><td style="text-align: right;">8</td><td>Matthew Blyth</td><td style="text-align: right;">11:36.50 min <span style="color: green;">PB</span></td><td>3000m Men D</td></tr>
-    <tr style="border-bottom: 1px solid #ccc;"><td style="text-align: right;">🥈2</td><td>Robbie Mulhall</td><td style="text-align: right;">2:04.95 min <span style="color: green;">PB</span></td><td>800m Men C</td></tr>
-    <tr style="border-bottom: 1px solid #ccc;"><td style="text-align: right;">🥉3</td><td>Robert Collins</td><td style="text-align: right;">2:23.50 min <span style="color: green;">PB</span></td><td>800m Men D1</td></tr>
+    <tr style="border-bottom: 1px solid #ccc;"><td style="text-align: right;">8</td><td>David Carroll</td><td style="text-align: right;">8:53.63 min⌚</td><td>3000m Men A2</td></tr>
+    <tr style="border-bottom: 1px solid #ccc;"><td style="text-align: right;">8</td><td>Matthew Blyth</td><td style="text-align: right;">11:36.50 min⌚</td><td>3000m Men D</td></tr>
+    <tr style="border-bottom: 1px solid #ccc;"><td style="text-align: right;">🥈2</td><td>Robbie Mulhall</td><td style="text-align: right;">2:04.95 min⌚</td><td>800m Men C</td></tr>
+    <tr style="border-bottom: 1px solid #ccc;"><td style="text-align: right;">🥉3</td><td>Robert Collins</td><td style="text-align: right;">2:23.50 min⌚</td><td>800m Men D1</td></tr>
     <tr style="border-bottom: 1px solid #ccc;"><td style="text-align: right;">4</td><td>Alejandro Cavallo</td><td style="text-align: right;">2:28.45 min</td><td>800m Men D1</td></tr>
-    <tr><td style="text-align: right;">🥈2</td><td>Richard Finegan</td><td style="text-align: right;">2:14.63 min</td><td>800m Men D2</td></tr>
+    <tr><td style="text-align: right;">🥈2</td><td>Richard Finegan</td><td style="text-align: right;">2:14.63 min⌚</td><td>800m Men D2</td></tr>
   </tbody>
 </table>
 
@@ -46,20 +46,10 @@ Sign up early and we’ll see you on the track! 💥🔥
 <a href="http://pastresults.dublinathletics.com/graded25-5/menu.html" target="_blank" rel="noopener noreferrer">Full Results</a>
 
 <h5>Videos Graded 5:</h5>
-
+<a href="https://www.youtube.com/live/LKCPTZoZ1l0?t=21m15s" target="_blank">3000m_Women_C</a><br><a href="https://www.youtube.com/live/LKCPTZoZ1l0?t=48m15s" target="_blank">3000m_Men_A2</a><br><a href="https://www.youtube.com/live/LKCPTZoZ1l0?t=1h3m36s" target="_blank">3000m_Men_D</a><br><a href="https://www.youtube.com/live/LKCPTZoZ1l0?t=1h55m50s" target="_blank">800m_Men_C</a><br><a href="https://www.youtube.com/live/LKCPTZoZ1l0?t=2h33m01s" target="_blank">800m_Men_D1</a><br><a href="https://www.youtube.com/live/LKCPTZoZ1l0?t=2h5m46s" target="_blank">800m_Men_D2</a><br>
 
 <h5>Images</h5>
-<img src="/assets/results/2025_track_season/2025-06-04_mollie.jpg"  width="100%" height="auto" alt="Mollie">
+<img src="/assets/images/races/2025/2025-06-14_cliodhna_and_siobhan.jpeg"  width="100%" height="auto" alt="Woman">
 
-<img src="/assets/results/2025_track_season/2025-06-04_orla.jpg"  width="100%" height="auto" alt="Orla">
-
-<img src="/assets/results/2025_track_season/2025-06-04_lynn.jpg"  width="100%" height="auto" alt="Lynn">
-
-<img src="/assets/results/2025_track_season/2025-06-04_david.jpg"  width="100%" height="auto" alt="David">
-
-<img src="/assets/results/2025_track_season/2025-06-04_conor.jpg"  width="100%" height="auto" alt="Conor">
-
-<img src="/assets/results/2025_track_season/2025-06-04_calvin_james.jpg"  width="100%" height="auto" alt="Calvin and James">
-
-<img src="/assets/results/2025_track_season/2025-06-04_ale3.jpg"  width="100%" height="auto" alt="Alejandro">
+<img src="/assets/images/races/2025/2025-06-14_men.jpeg"  width="100%" height="auto" alt="Men">
 
