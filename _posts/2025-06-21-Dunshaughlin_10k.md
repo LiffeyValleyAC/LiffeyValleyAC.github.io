@@ -8,3 +8,5 @@ Congratulations to all the <b>Liffey Valley A.C.</b> athletes for their great pe
 <a href="/races/2025-06-21-Dunshaughlin-10k/" target="_blank" rel="noopener noreferrer">Race Results</a>
 
 <a href="https://www.popupraces.ie/race/michael-manning-memorial-dunshaughlin-10k-2025/" target="_blank" rel="noopener noreferrer">PopUp Races Results</a>
+
+<img src="/assets/images/races/2025/2025-06-21_group.jpg"  width="100%" height="auto" alt="Liffey Valley group">
