@@ -8,11 +8,9 @@ results:
   - place: 1
     name: Mollie O'Donnell
     time: 18m 24s
-    category: M75
     note: 🥇
   - place: 3
     name: Lynn Devitt
     time: 19m 44s
-    category: 
     note: 🥉
 ---
