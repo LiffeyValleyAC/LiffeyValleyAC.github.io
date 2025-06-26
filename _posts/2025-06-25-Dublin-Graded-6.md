@@ -28,46 +28,40 @@ location: Morton Stadium, Dublin.
     </tr>
   </thead>
   <tbody>
-    <tr style="border-bottom: 1px solid #ccc;"><td style="text-align: right;">🥈2</td><td style="padding: 0px 10px;">Cliodhna Tutty-Bardon</td><td style="text-align: right;">10:59.39 min</td><td style="padding: 0px 20px;">3000m Women C</td></tr>
-    <tr style="border-bottom: 1px solid #ccc;"><td style="text-align: right;">5</td><td style="padding: 0px 10px;">Siobhán Nugent</td><td style="text-align: right;">11:24.42 min</td><td style="padding: 0px 20px;">3000m Women C</td></tr>
-    <tr style="border-bottom: 1px solid #ccc;"><td style="text-align: right;">8</td><td style="padding: 0px 10px;">David Carroll</td><td style="text-align: right;">8:53.63 min⌚</td><td style="padding: 0px 20px;">3000m Men A2</td></tr>
-    <tr style="border-bottom: 1px solid #ccc;"><td style="text-align: right;">8</td><td style="padding: 0px 10px;">Matthew Blyth</td><td style="text-align: right;">11:36.50 min⌚</td><td style="padding: 0px 20px;">3000m Men D</td></tr>
-    <tr style="border-bottom: 1px solid #ccc;"><td style="text-align: right;">🥈2</td><td style="padding: 0px 10px;">Robbie Mulhall</td><td style="text-align: right;">2:04.95 min⌚</td><td style="padding: 0px 20px;">800m Men C</td></tr>
-    <tr style="border-bottom: 1px solid #ccc;"><td style="text-align: right;">🥉3</td><td style="padding: 0px 10px;">Robert Collins</td><td style="text-align: right;">2:23.50 min⌚</td><td style="padding: 0px 20px;">800m Men D1</td></tr>
-    <tr style="border-bottom: 1px solid #ccc;"><td style="text-align: right;">4</td><td style="padding: 0px 10px;">Alejandro Cavallo</td><td style="text-align: right;">2:28.45 min</td><td style="padding: 0px 20px;">800m Men D1</td></tr>
-    <tr><td style="text-align: right;">🥈2</td><td style="padding: 0px 10px;">Richard Finegan</td><td style="text-align: right;">2:14.63 min⌚</td><td style="padding: 0px 20px;">800m Men D2</td></tr>
+    <tr style="border-bottom: 1px solid #ccc;"><td style="text-align: right;">🥈2</td><td style="padding: 0px 10px;">Sarah Curran</td><td style="text-align: right;">5:25.30 min⌚</td><td style="padding: 0px 20px;">1500m Women D</td></tr>
+    <tr style="border-bottom: 1px solid #ccc;"><td style="text-align: right;">10</td><td style="padding: 0px 10px;">Orla Gordon</td><td style="text-align: right;">5:50.15 min</td><td style="padding: 0px 20px;">1500m Women D</td></tr>
+    <tr style="border-bottom: 1px solid #ccc;"><td style="text-align: right;">11</td><td style="padding: 0px 10px;">Patrick Fox</td><td style="text-align: right;">4:49.43 min</td><td style="padding: 0px 20px;">1500m Men C</td></tr>
+    <tr style="border-bottom: 1px solid #ccc;"><td style="text-align: right;">🥇1</td><td style="padding: 0px 10px;">Antoine Daubigny</td><td style="text-align: right;">4:35.77 min⌚</td><td style="padding: 0px 20px;">1500m Men D1</td></tr>
+    <tr style="border-bottom: 1px solid #ccc;"><td style="text-align: right;">🥈2</td><td style="padding: 0px 10px;">Richard Finegan</td><td style="text-align: right;">4:38.98 min⌚</td><td style="padding: 0px 20px;">1500m Men D1</td></tr>
+    <tr style="border-bottom: 1px solid #ccc;"><td style="text-align: right;">9</td><td style="padding: 0px 10px;">James Foley</td><td style="text-align: right;">4:54.94 min⌚</td><td style="padding: 0px 20px;">1500m Men D1</td></tr>
+    <tr style="border-bottom: 1px solid #ccc;"><td style="text-align: right;">12</td><td style="padding: 0px 10px;">Neil Duffy</td><td style="text-align: right;">5:12.23 min⌚</td><td style="padding: 0px 20px;">1500m Men D1</td></tr>
+    <tr><td style="text-align: right;">10</td><td style="padding: 0px 10px;">Alejandro Cavallo</td><td style="text-align: right;">5:06.10 min</td><td style="padding: 0px 20px;">1500m Men D2</td></tr>
   </tbody>
 </table>
 
+
 <br>
-
-
-<a href="https://www.instagram.com/p/DK69qAVtGsO/?img_index=1" target="_blank" rel="noopener noreferrer">Instagram</a>
 
 <a href="/races/2025-06-25-Dublin-Graded-6/" target="_blank" rel="noopener noreferrer">Club Results</a>
 
 <a href="http://pastresults.dublinathletics.com/graded25-6/menu.html" target="_blank" rel="noopener noreferrer">Full Results</a>
 
-<a href="https://www.facebook.com/media/set/?vanity=100078720533534&set=a.729085446392133" target="_blank" rel="noopener noreferrer">Facebook Photo Album</a>
+<a href="https://www.facebook.com/media/set/?set=a.737618495538828&type=3" target="_blank" rel="noopener noreferrer">Facebook Photo Album</a>
 
-<h5>Videos Graded 5:</h5>
-<a href="https://www.youtube.com/live/LKCPTZoZ1l0?t=21m15s" target="_blank">3000m_Women_C</a><br><a href="https://www.youtube.com/live/LKCPTZoZ1l0?t=48m15s" target="_blank">3000m_Men_A2</a><br><a href="https://www.youtube.com/live/LKCPTZoZ1l0?t=1h3m36s" target="_blank">3000m_Men_D</a><br><a href="https://www.youtube.com/live/LKCPTZoZ1l0?t=1h55m50s" target="_blank">800m_Men_C</a><br><a href="https://www.youtube.com/live/LKCPTZoZ1l0?t=2h1m01s" target="_blank">800m_Men_D1</a><br><a href="https://www.youtube.com/live/LKCPTZoZ1l0?t=2h5m46s" target="_blank">800m_Men_D2</a><br>
+<h5>Videos Graded 6:</h5>
+<a href="https://www.youtube.com/live/__ZtQ7nH8R0?si=oWO_lr-1Eq9FpXv1?t=1h51m11s" target="_blank">1500m_Women</a><br><a href="https://www.youtube.com/live/__ZtQ7nH8R0?si=oWO_lr-1Eq9FpXv1?t=2h6m10s" target="_blank">1500m_Men_C</a><br><a href="https://www.youtube.com/live/__ZtQ7nH8R0?si=oWO_lr-1Eq9FpXv1?t=2h12m27s" target="_blank">1500m_Men_D1</a><br><a href="https://www.youtube.com/live/__ZtQ7nH8R0?si=oWO_lr-1Eq9FpXv1?t=2h20m57s" target="_blank">1500m_Men_D2</a><br>
 
 <h5>Images</h5>
-<img src="/assets/images/races/2025/2025-06-14_cliodhna_and_siobhan.jpeg"  width="70%" height="auto" alt="Woman">
+<img src="/assets/images/races/2025/2025-06-25_orla.jpg"  width="100%" height="auto" alt="Orla">
 
-<img src="/assets/images/races/2025/2025-06-14_men.jpeg"  width="100%" height="auto" alt="Men">
+<img src="/assets/images/races/2025/2025-06-25_sarah.jpg"  width="100%" height="auto" alt="Sarah">
 
-<img src="/assets/images/races/2025/2025-06-14_women.jpg"  width="100%" height="auto" alt="Women">
+<img src="/assets/images/races/2025/2025-06-25_patrick.jpg"  width="100%" height="auto" alt="Patrick">
 
-<img src="/assets/images/races/2025/2025-06-14_david.jpg"  width="100%" height="auto" alt="David">
+<img src="/assets/images/races/2025/2025-06-25_men1.jpg"  width="100%" height="auto" alt="Antoine, Richard, James">
 
-<img src="/assets/images/races/2025/2025-06-14_mathew.jpg"  width="100%" height="auto" alt="Matthew">
+<img src="/assets/images/races/2025/2025-06-25_neil.jpg"  width="100%" height="auto" alt="Neil">
 
-<img src="/assets/images/races/2025/2025-06-14_robbie.jpg"  width="100%" height="auto" alt="Robbie">
+<img src="/assets/images/races/2025/2025-06-25_james.jpg"  width="100%" height="auto" alt="James">
 
-<img src="/assets/images/races/2025/2025-06-14_richie.jpg"  width="100%" height="auto" alt="Richie">
-
-<img src="/assets/images/races/2025/2025-06-14_robert.jpg"  width="100%" height="auto" alt="Robert">
-
-<img src="/assets/images/races/2025/2025-06-14_ale.jpg"  width="100%" height="auto" alt="Alejandro">
+<img src="/assets/images/races/2025/2025-06-25_ale.jpg"  width="100%" height="auto" alt="Ale">

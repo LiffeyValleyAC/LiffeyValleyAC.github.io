@@ -32,7 +32,7 @@ results:
     note: PB
   - place: 9
     name: James Foley
-    time: 4:54.94
+    time: 4.54.94
     category: 1500m Men D1
     note: PB
   - place: 12
