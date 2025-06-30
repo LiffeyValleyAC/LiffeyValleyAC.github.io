@@ -9,7 +9,9 @@ location: Phoenix Park, Dublin
 
 <p><strong>Congratulations to Lynn Devitt and Pat Collins</strong> on earning silver medals in their respective age categories.</p>
 
-<p>Our men’s and women’s teams each placed <strong>5th overall</strong>, with solid results also in the <strong>Senior Team (5th)</strong>, <strong>Over 35 (9th)</strong>, and <strong>Over 50 (8th)</strong> team categories.</p>
+<p>Our men’s team placed with solid results in the <strong>Senior Team (5th)</strong>, <strong>Over 35 (9th)</strong>, and <strong>Over 50 (8th)</strong> team categories.</p>
+
+<p>Our women's team placed <strong>4th overall</strong> and <strong>4th Over 35 </strong>
 
 <p>There were also a number of new personal bests, which reflect the steady progress being made within the group. Well done to all involved.</p>
 
@@ -23,4 +25,8 @@ location: Phoenix Park, Dublin
 
 <a href="https://www.myrunresults.com/events/biofreeze_irish_runner_5_mile_2025/5299/results" target="_blank" rel="noopener noreferrer">My Run Results</a>
 
-<img src="/assets/results/2025_track_season/2025-06-18_winners.jpg"  width="100%" height="auto" alt="Medal Winners">
+<img src="/assets/images/races/2025/2025-06-29_group2.jpg"  width="100%" height="auto" alt="Group">
+
+<img src="/assets/images/races/2025/2025-06-29_group1.jpg"  width="100%" height="auto" alt="Group">
+
+<img src="/assets/images/races/2025/2025-06-29_collage.jpg"  width="100%" height="auto" alt="Athletes">

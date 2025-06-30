@@ -2,8 +2,8 @@
 title: Irish Runner 5 Mile Road Race
 location: Phoenix Park
 date: 2025-06-29 09:00
-latitude: 53.3522291
-longitude: -6.3214874
+latitude: 53.36281723514649
+longitude: -6.3321497983518995
 results:
   - place: 51
     name: Paddy Murphy
@@ -125,5 +125,4 @@ results:
     time: 42.44
     category: M75
     note: BIB 177
-
 ---
