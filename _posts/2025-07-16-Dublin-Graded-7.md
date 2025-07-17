@@ -34,7 +34,7 @@
 📌 <b>Tallaght Track</b> – <b>20:30</b><br>
 🏃‍♂️ <b>1 Mile</b></p>
 
-<p>📍 <b>Graded Meeting 8 – The Grand Finale</b> 👉 <a href="https://entry.athleticsireland.ie/#/entry?comporgid=77&compid=1339" target="_blank">Sign up here</a></p><br>
+<p>📍 <b>Graded Meeting 8 – The Grand Finale</b> 👉 <a href="https://entry.athleticsireland.ie/#/entry?comporgid=77&compid=1339" target="_blank">Sign up here</a>
 📅 <b>Wednesday, July 30th</b><br>
 📌 <b>Morton Stadium</b> – <b>19:00</b><br>
 🏃‍♀️ <b>1500m</b></p>
