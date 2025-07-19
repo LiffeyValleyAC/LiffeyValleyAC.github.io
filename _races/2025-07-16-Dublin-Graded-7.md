@@ -16,7 +16,7 @@ results:
     category: 3000m Women D
     note: 
   - place: 6
-    name: Pierce GEOGHEGAN
+    name: Pierce Geoghegan
     time: 8.56.29
     category: 3000m Men A2
     note: PB
