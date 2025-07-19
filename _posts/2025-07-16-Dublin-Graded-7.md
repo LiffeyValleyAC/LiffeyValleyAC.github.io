@@ -47,12 +47,14 @@ Keep showing up, keep pushing, and let’s make these final races count!<br>
 
 <a href="http://pastresults.dublinathletics.com/graded25-7/menu.html" target="_blank" rel="noopener noreferrer">Full Results</a>
 
+<a href="https://www.instagram.com/p/DMM5xbqNpMc/?img_index=1" target="_blank" rel="noopener noreferrer">Instagram</a>
+
 <a href="https://www.facebook.com/media/set/?set=a.737618662205478&type=3" target="_blank" rel="noopener noreferrer">Facebook Photo Album</a>
 
 <h5>Videos Graded 7:</h5>
-
+<a href="https://www.youtube.com/live/meHcwzdHIJg?t=29m25s" target="_blank">3000m_Women</a><br><a href="https://www.youtube.com/live/meHcwzdHIJg?t=47m34s" target="_blank">3000m_Men_A2</a><br><a href="https://www.youtube.com/live/meHcwzdHIJg?t=50m47s" target="_blank">3000m_Men_C+D</a><br><a href="https://www.youtube.com/live/meHcwzdHIJg?t=1h11m9s" target="_blank">800m_Men_B1</a><br><a href="https://www.youtube.com/live/meHcwzdHIJg?t=1h26m22s" target="_blank">800m_Men_D1</a><br>
 
 <h5>Images</h5>
-<img src="/assets/images/races/2025/2025-07-16_group1.jpg"  width="100%" height="auto" alt="Group">
-<img src="/assets/images/races/2025/2025-07-16_group2.jpg"  width="100%" height="auto" alt="Group">
-<img src="/assets/images/races/2025/2025-07-16_group3.jpg"  width="100%" height="auto" alt="Group">
+<img src="/assets/results/2025_track_season/2025-07-16_group1.jpg"  width="100%" height="auto" alt="Group">
+<img src="/assets/results/2025_track_season/2025-07-16_group2.jpg"  width="100%" height="auto" alt="Group">
+<img src="/assets/results/2025_track_season/2025-07-16_group3.jpg"  width="100%" height="auto" alt="Group">
