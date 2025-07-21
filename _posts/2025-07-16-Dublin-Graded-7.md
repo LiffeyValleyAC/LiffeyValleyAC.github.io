@@ -29,12 +29,12 @@
 
 <p>We're now heading into the final stretch of the season:</p>
 
-<p>📍 <b>Club Track Race 3 of 3</b><br>
+<p>📍 <u><b>Club Track Race 3 of 3</b></u><br>
 📅 <b>Wednesday, July 23rd</b><br>
 📌 <b>Tallaght Track</b> – <b>20:30</b><br>
 🏃‍♂️ <b>1 Mile</b></p>
 
-<p>📍 <b>Graded Meeting 8 – The Grand Finale</b> 👉 <a href="https://entry.athleticsireland.ie/#/entry?comporgid=77&compid=1339" target="_blank">Sign up here</a>
+<p>📍 <u><b>Graded Meeting 8, The Final Meeting</b></u> 👉 <a href="https://entry.athleticsireland.ie/#/entry?comporgid=77&compid=1339" target="_blank">Sign up here</a><br>
 📅 <b>Wednesday, July 30th</b><br>
 📌 <b>Morton Stadium</b> – <b>19:00</b><br>
 🏃‍♀️ <b>1500m</b></p>
@@ -45,7 +45,7 @@ Keep showing up, keep pushing, and let’s make these final races count!<br>
 
 <a href="/races/2025-07-16-Dublin-Graded-7/" target="_blank" rel="noopener noreferrer">Club Results</a>
 
-<a href="http://pastresults.dublinathletics.com/graded25-7/menu.html" target="_blank" rel="noopener noreferrer">Full Results</a>
+<a href="https://live.dublinathletics.com/graded-25-7/menu.html" target="_blank" rel="noopener noreferrer">Full Results</a>
 
 <a href="https://www.instagram.com/p/DMM5xbqNpMc/?img_index=1" target="_blank" rel="noopener noreferrer">Instagram</a>
 
