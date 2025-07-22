@@ -2,8 +2,8 @@
 title: Liffey Valley Winter League 2024/2025 Standings after race 4 of 5
 location: Phoenix Park, Co. Dublin
 ---
-This is the standings table for the <b>LVAC Winter League 2024/2025</b> after the fourth race out of five. The final positions will change as the <b>fifth and last</b> race is completed.<br>
-<br>
+<p>This is the standings table for the <b>LVAC Winter League 2024/2025</b> after the fourth race out of five. The final positions will change as the <b>fifth and last</b> race is completed.</p>
+
 🏆<u><b> Podium Analysis<br></b></u>
 New leader: 🔼 <b>Cormac Long</b> jumps from 4th place (116 pts) to 1st (153 pts).<br>
 <b>James McKenna</b> 🔼 moves up from 3rd (121 pts) to 2nd (146 pts).<br>
