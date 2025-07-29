@@ -33,7 +33,7 @@ Your hard work, dedication, and determination have truly paid off.  📸🙌👏
 <br><br><br>
 <u><b>New Entries to the Winter League:</b></u> 🚀
 
-🆕 Joe Whittle
+🆕 Joseph Whittle
 
 🆕 DeAngelo Massah
 
