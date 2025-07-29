@@ -8,8 +8,8 @@ results:
   - place: 2
     name: David Carroll
     time: 2.01.29
-    category: 800m 
-    note: <a href="https://www.athleticsireland.ie/tullamore-triumphs-masters-athletes-shine-at-123-ie-nationals/">Notes</a>
+    category: 800m M35
+    note: <a href="https://www.athleticsireland.ie/tullamore-triumphs-masters-athletes-shine-at-123-ie-nationals/">Notes</a><br><a href="https://www.instagram.com/p/DMnO-45NB_b/?img_index=1">Instagram</a>
   - place: 1
     name: David Carroll
     time: 4.14.96
@@ -17,7 +17,7 @@ results:
     note: <a href="http://results.athleticsireland.ie/results_2025/senior_07_26/menu.html">Results</a>
   - place: 2
     name: Donal Iremonger
-    time: 0.48.96
-    category: 400m 
-    note: <img src="/assets/results/2025_track_season/2025-07-26_david_and_donal.jpeg"  width="100%" height="auto" alt="Women Podium">
+    time: 0.59.23
+    category: 400m M50
+    note: <img src="/assets/results/2025_track_season/2025-07-26_david_and_donal.jpeg"  width="100%" height="auto" alt="Women Podium"><br><img src="/assets/results/2025_track_season/2025-07-26_david.jpeg"  width="100%" height="auto" alt="Women Podium">
 ---
