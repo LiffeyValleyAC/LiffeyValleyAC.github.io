@@ -43,7 +43,15 @@ location: Morton Stadium, Dublin.
 
 
 <h5>Videos Graded 8:</h5>
-
+<a href="https://www.youtube.com/live/lITS_06DQHY?t=2h37m47s" target="_blank">1500m_Men_C1</a><br><a href="https://www.youtube.com/live/lITS_06DQHY?t=2h44m21s" target="_blank">1500m_Men_C2</a><br><a href="https://www.youtube.com/live/lITS_06DQHY?t=2h52m4s" target="_blank">1500m_Men_D1</a><br><a href="https://www.youtube.com/live/lITS_06DQHY?t=3h1m49s" target="_blank">1500m_Men_D2</a><br>
 
 <h5>Images</h5>
-<img src="/assets/images/races/2025/2025-06-25_orla.jpg"  width="100%" height="auto" alt="Orla">
+<img src="/assets/results/2025_track_season/2025-07-30_1group.jpg"  width="100%" height="auto" alt="Group">
+<img src="/assets/results/2025_track_season/2025-07-30_2Mark.jpg"  width="100%" height="auto" alt="Mark">
+<img src="/assets/results/2025_track_season/2025-07-30_3Mark.jpg"  width="100%" height="auto" alt="Mark">
+<img src="/assets/results/2025_track_season/2025-07-30_4Cormac.jpg"  width="100%" height="auto" alt="Cormac">
+<img src="/assets/results/2025_track_season/2025-07-30_4Richard.jpg"  width="100%" height="auto" alt="Richard">
+<img src="/assets/results/2025_track_season/2025-07-30_5Patrick.jpg"  width="100%" height="auto" alt="Patrick">
+<img src="/assets/results/2025_track_season/2025-07-30_6Joseph.jpg"  width="100%" height="auto" alt="Joseph">
+<img src="/assets/results/2025_track_season/2025-07-30_7Alejandro.jpg"  width="100%" height="auto" alt="Alejandro">
+<img src="/assets/results/2025_track_season/2025-07-30_8Neil.jpg"  width="100%" height="auto" alt="Neil">
