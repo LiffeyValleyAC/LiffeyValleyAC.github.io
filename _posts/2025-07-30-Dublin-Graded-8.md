@@ -10,7 +10,7 @@ location: Morton Stadium, Dublin.
 
 <table style="border-collapse: collapse; font-family: Consolas, monospace;">
   <thead>
-    <tr><td colspan="4" style="text-align: center; padding: 10px;"><b>DUBLIN GRADED 2025 MEETING 6 of 8 - RESULTS</b></td></tr>
+    <tr><td colspan="4" style="text-align: center; padding: 10px;"><b>DUBLIN GRADED 2025 MEETING 8 of 8 - RESULTS</b></td></tr>
     <tr style="background-color: #000; color: #fff;">
       <th style="border: 4px solid #ccc; padding: 0px 20px; text-align: center;">#</th>
       <th style="border: 4px solid #ccc; padding: 0px 20px; text-align: center;">NAME</th>
@@ -19,17 +19,17 @@ location: Morton Stadium, Dublin.
     </tr>
   </thead>
   <tbody>
-    <tr style="border-bottom: 1px solid #ccc;"><td style="text-align: right;">🥈2</td><td style="padding: 0px 10px;">Sarah Curran</td><td style="text-align: right;">5:25.30 min⌚</td><td style="padding: 0px 20px;">1500m Women D</td></tr>
-    <tr style="border-bottom: 1px solid #ccc;"><td style="text-align: right;">10</td><td style="padding: 0px 10px;">Orla Gordon</td><td style="text-align: right;">5:50.15 min</td><td style="padding: 0px 20px;">1500m Women D</td></tr>
-    <tr style="border-bottom: 1px solid #ccc;"><td style="text-align: right;">11</td><td style="padding: 0px 10px;">Patrick Fox</td><td style="text-align: right;">4:49.43 min</td><td style="padding: 0px 20px;">1500m Men C</td></tr>
-    <tr style="border-bottom: 1px solid #ccc;"><td style="text-align: right;">🥇1</td><td style="padding: 0px 10px;">Antoine Daubigny</td><td style="text-align: right;">4:35.77 min⌚</td><td style="padding: 0px 20px;">1500m Men D1</td></tr>
-    <tr style="border-bottom: 1px solid #ccc;"><td style="text-align: right;">🥈2</td><td style="padding: 0px 10px;">Richard Finegan</td><td style="text-align: right;">4:38.98 min⌚</td><td style="padding: 0px 20px;">1500m Men D1</td></tr>
-    <tr style="border-bottom: 1px solid #ccc;"><td style="text-align: right;">9</td><td style="padding: 0px 10px;">James Foley</td><td style="text-align: right;">4:54.94 min⌚</td><td style="padding: 0px 20px;">1500m Men D1</td></tr>
-    <tr style="border-bottom: 1px solid #ccc;"><td style="text-align: right;">12</td><td style="padding: 0px 10px;">Neil Duffy</td><td style="text-align: right;">5:12.23 min⌚</td><td style="padding: 0px 20px;">1500m Men D1</td></tr>
-    <tr><td style="text-align: right;">10</td><td style="padding: 0px 10px;">Alejandro Cavallo</td><td style="text-align: right;">5:06.10 min</td><td style="padding: 0px 20px;">1500m Men D2</td></tr>
-  </tbody>
+  <tr style="border-bottom: 1px solid #ccc;"><td style="text-align: right;">7</td><td style="padding: 0px 10px;">Paddy Murphy</td><td style="text-align: right;">4:27.50 min⌚</td><td style="padding: 0px 20px;">1500m Men C1</td></tr>
+  <tr style="border-bottom: 1px solid #ccc;"><td style="text-align: right;">13</td><td style="padding: 0px 10px;">Patrick Fox</td><td style="text-align: right;">4:47.37 min</td><td style="padding: 0px 20px;">1500m Men C1</td></tr>
+  <tr style="border-bottom: 1px solid #ccc;"><td style="text-align: right;">🥇1</td><td style="padding: 0px 10px;">Mark Naylor</td><td style="text-align: right;">4:23.99 min</td><td style="padding: 0px 20px;">1500m Men C2</td></tr>
+  <tr style="border-bottom: 1px solid #ccc;"><td style="text-align: right;">11</td><td style="padding: 0px 10px;">Joseph Whittle</td><td style="text-align: right;">4:48.66 min⌚</td><td style="padding: 0px 20px;">1500m Men D1</td></tr>
+  <tr style="border-bottom: 1px solid #ccc;"><td style="text-align: right;">13</td><td style="padding: 0px 10px;">James Foley</td><td style="text-align: right;">4:48.98 min⌚</td><td style="padding: 0px 20px;">1500m Men D1</td></tr>
+  <tr style="border-bottom: 1px solid #ccc;"><td style="text-align: right;">19</td><td style="padding: 0px 10px;">Neil Duffy</td><td style="text-align: right;">5:06.91 min⌚</td><td style="padding: 0px 20px;">1500m Men D1</td></tr>
+  <tr style="border-bottom: 1px solid #ccc;"><td style="text-align: right;">🥉3</td><td style="padding: 0px 10px;">Richard Finegan</td><td style="text-align: right;">4:34.07 min⌚</td><td style="padding: 0px 20px;">1500m Men D2</td></tr>
+  <tr style="border-bottom: 1px solid #ccc;"><td style="text-align: right;">4</td><td style="padding: 0px 10px;">Cormac Jones</td><td style="text-align: right;">4:36.41 min⌚</td><td style="padding: 0px 20px;">1500m Men D2</td></tr>
+  <tr><td style="text-align: right;">11</td><td style="padding: 0px 10px;">Alejandro Cavallo</td><td style="text-align: right;">5:01.61 min</td><td style="padding: 0px 20px;">1500m Men D2</td></tr>
+</tbody>
 </table>
-
 
 <br>
 
