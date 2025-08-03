@@ -1,3 +1,8 @@
+---
+title: Dublin Graded Meeting 7 of 8
+location: Morton Stadium, Dublin.
+---
+
 <p>A huge congratulations to all <b>Liffey Valley Athletic Club</b> athletes who competed at the <b>seventh Graded Meeting</b> of the 2025 Track Season on <b>Wednesday, July 16th in Lucan</b>, taking on the <b>800m</b> and <b>3000m</b> events with determination and great team spirit.</p>
 
 <table style="border-collapse: collapse; font-family: Consolas, monospace;">
@@ -45,7 +50,7 @@ Keep showing up, keep pushing, and let’s make these final races count!<br>
 
 <a href="/races/2025-07-16-Dublin-Graded-7/" target="_blank" rel="noopener noreferrer">Club Results</a>
 
-<a href="https://live.dublinathletics.com/graded-25-7/menu.html" target="_blank" rel="noopener noreferrer">Full Results</a>
+<a href="http://pastresults.dublinathletics.com/graded25-7/menu.html" target="_blank" rel="noopener noreferrer">Full Results</a>
 
 <a href="https://www.instagram.com/p/DMM5xbqNpMc/?img_index=1" target="_blank" rel="noopener noreferrer">Instagram</a>
 

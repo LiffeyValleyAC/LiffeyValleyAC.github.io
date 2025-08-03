@@ -1,20 +1,11 @@
 ---
-title: Dublin Graded Meeting 6 of 8
+title: Dublin Graded Meeting 8 of 8
 location: Morton Stadium, Dublin.
 ---
 
-<p>A huge thank you to all Liffey Valley Athletic Club athletes who took part in the <b>sixth Graded Meeting</b> of the 2025 Track Season at <b>Morton Stadium</b> on <b>Wednesday, June 25th</b>, competing in the <b>1500m events</b> for both women and men.</p>
+<p>Also worth highlighting is the club’s presence at <strong>Graded Meet 8</strong>, held on <strong>Wednesday, July 30th at Morton Stadium at 19:00</strong>, where several athletes wrapped up their 2025 track season with strong performances in the <strong>1500m event</strong>. </p>
 
-<p>Well done to everyone who raced</p>
-
-<p>Next up, we have the <b>Club Track Race 2 of 3</b> on <b>Wednesday, July 9th</b> at <b>Tallaght Track</b>, featuring <b>1500m and 3000m</b> races.</p>
-
-<p>Following that, the <b>seventh Graded Meeting</b> will take place on <b>Wednesday, July 16th in Lucan</b>, with <b>800m and 3000m</b> events.</p>
-
-<p>📝 <b>Registration for Graded 7 is now open:</b><br>
-👉 <a href="https://entry.athleticsireland.ie/#/entry?comporgid=77&compid=1338" target="_blank">Sign up here</a></p>
-
-<p>Let’s keep the momentum going. See you on the track! 💥🔥</p>
+<p>From middle-distance to longer events across the series, our runners have consistently shown commitment and progression. It's been a season marked by steady improvement, new PBs, and growing depth across both men's and women's squads. Congratulations to all who competed and contributed to a successful and rewarding track campaign.</p>
 
 
 <table style="border-collapse: collapse; font-family: Consolas, monospace;">
@@ -42,30 +33,17 @@ location: Morton Stadium, Dublin.
 
 <br>
 
-<a href="/races/2025-06-25-Dublin-Graded-6/" target="_blank" rel="noopener noreferrer">Club Results</a>
+<a href="/races/2025-07-30-Dublin-Graded-8/" target="_blank" rel="noopener noreferrer">Club Results</a>
 
-<a href="http://pastresults.dublinathletics.com/graded25-6/menu.html" target="_blank" rel="noopener noreferrer">Full Results</a>
+<a href="http://pastresults.dublinathletics.com/graded25-8/menu.html" target="_blank" rel="noopener noreferrer">Full Results</a>
 
-<a href="https://www.facebook.com/media/set/?set=a.737618495538828&type=3" target="_blank" rel="noopener noreferrer">Facebook Photo Album</a>
+<a href="https://www.facebook.com/media/set/?set=a.764918399475504&type=3" target="_blank" rel="noopener noreferrer">Facebook Photo Album</a>
 
-<a href="https://www.instagram.com/p/DLYZyWTNxXx/?img_index=1" target="_blank" rel="noopener noreferrer">Instagram</a>
+<a href="https://www.instagram.com/p/DMx8Ij5Nh2d/?img_index=1" target="_blank" rel="noopener noreferrer">Instagram</a>
 
 
-<h5>Videos Graded 6:</h5>
-<a href="https://www.youtube.com/live/__ZtQ7nH8R0?t=1h51m11s" target="_blank">1500m_Women</a><br>
-<a href="https://www.youtube.com/live/__ZtQ7nH8R0?t=2h6m10s" target="_blank">1500m_Men_C</a><br><a href="https://www.youtube.com/live/__ZtQ7nH8R0?t=2h12m27s" target="_blank">1500m_Men_D1</a><br><a href="https://www.youtube.com/live/__ZtQ7nH8R0?t=2h20m57s" target="_blank">1500m_Men_D2</a><br>
+<h5>Videos Graded 8:</h5>
+
 
 <h5>Images</h5>
 <img src="/assets/images/races/2025/2025-06-25_orla.jpg"  width="100%" height="auto" alt="Orla">
-
-<img src="/assets/images/races/2025/2025-06-25_sarah.jpg"  width="100%" height="auto" alt="Sarah">
-
-<img src="/assets/images/races/2025/2025-06-25_patrick.jpg"  width="100%" height="auto" alt="Patrick">
-
-<img src="/assets/images/races/2025/2025-06-25_men1.jpg"  width="100%" height="auto" alt="Antoine, Richard, James">
-
-<img src="/assets/images/races/2025/2025-06-25_neil.jpg"  width="100%" height="auto" alt="Neil">
-
-<img src="/assets/images/races/2025/2025-06-25_james.jpg"  width="100%" height="auto" alt="James">
-
-<img src="/assets/images/races/2025/2025-06-25_ale.jpg"  width="100%" height="auto" alt="Ale">
