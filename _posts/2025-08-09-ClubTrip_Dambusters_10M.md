@@ -1,23 +1,19 @@
 ---
-title: Club Trip 2025: A Memorable Weekend at the Dambusters Race
+title: Club Trip 2025, A Memorable Weekend at the Dambusters Race
 location: Silent Valley Mountain Park, Newcastle, Northern Ireland
 ---
-
-<p>
-    A huge thank you to everyone who joined our <strong>Club Trip 2025</strong> and made it such a special weekend. Between the beautiful setting of the Mournes and the challenge of the <strong>Dambusters Race</strong>, it was an experience to remember. A very special thanks goes to <strong>Brigid</strong> and <strong>Annie</strong>, whose incredible effort and dedication with all the logistics, from accommodation to event details, made the whole trip run so smoothly. Your work turned a great weekend into an unforgettable one!
-  </p>
-   <p>There were strong runs across the board, with several podium finishes:<br>
+A huge thank you to everyone who joined our <strong>Club Trip 2025</strong> and made it such a special weekend. Between the beautiful setting of the Mournes and the challenge of the <strong>Dambusters Race</strong>, it was an experience to remember. A very special thanks goes to <strong>Brigid</strong> and <strong>Annie</strong>, whose incredible effort and dedication with all the logistics, from accommodation to event details, made the whole trip run so smoothly. Your work turned a great weekend into an unforgettable one!
+<p>There were strong runs across the board, with several podium finishes:<br>
 <strong><u>5k:</u></strong><br>
 <strong>Rebecca McLoughlin (Gold)</strong>
 <strong>Orla Gordon (Silver)</strong>
-<strong>Luke Ryder (Silver)</strong>
+<strong>Luke Ryder (Silver)</strong><br>
 <strong><u>10k:</u></strong><br>
 <strong>Mark Naylor (Gold)</strong>
 <strong>Sarah Curran (Silver)</strong>
  </p>
 
-<p>
-  These trips give us the chance to get to know each other better, discover new places together, and strengthen the spirit of camaraderie that makes our club so special. Sharing the journey, both on and off the course, helps build lasting connections and unforgettable memories.</p>
+<p>These trips give us the chance to get to know each other better, discover new places together, and strengthen the spirit of camaraderie that makes our club so special. Sharing the journey, both on and off the course, helps build lasting connections and unforgettable memories.</p>
 
 
 
@@ -25,7 +21,7 @@ location: Silent Valley Mountain Park, Newcastle, Northern Ireland
 
 <a href="https://www.instagram.com/p/DNOSydco4Nh/?img_index=1" target="_blank" rel="noopener noreferrer">Instagram</a>
 
-<a href="https://myrunresults.com/events/biofreeze_irish_runner_10_mile_2025/5566/results" target="_blank" rel="noopener noreferrer">My Run Results</a>
+<a href="https://www.born2runevents.com/dambusters-results/" target="_blank" rel="noopener noreferrer">Born2Run Results</a>
 
 <a href="/assets/images/races/2025/2025-08-09_01.jpg" target="_blank" rel="noopener noreferrer"><img src="/assets/images/races/2025/2025-08-09_01.jpg"  width="100%" height="auto" alt="Image"></a>
 
@@ -37,7 +33,7 @@ location: Silent Valley Mountain Park, Newcastle, Northern Ireland
 
 <a href="/assets/images/races/2025/2025-08-09_03.jpg" target="_blank" rel="noopener noreferrer"><img src="/assets/images/races/2025/2025-08-09_03.jpg"  width="100%" height="auto" alt="Image"></a>
 
-<a href="/assets/images/races/2025/2025-08-09_03b.jpg" target="_blank" rel="noopener noreferrer"><img src="/assets/images/races/2025/2025-08-09_0b3.jpg"  width="100%" height="auto" alt="Image"></a>
+<a href="/assets/images/races/2025/2025-08-09_03b.jpg" target="_blank" rel="noopener noreferrer"><img src="/assets/images/races/2025/2025-08-09_03b.jpg"  width="100%" height="auto" alt="Image"></a>
 
 <a href="/assets/images/races/2025/2025-08-09_03c.jpg" target="_blank" rel="noopener noreferrer"><img src="/assets/images/races/2025/2025-08-09_03c.jpg"  width="100%" height="auto" alt="Image"></a>
 

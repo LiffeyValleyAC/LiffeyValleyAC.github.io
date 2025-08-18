@@ -1,5 +1,5 @@
 ---
-title: Dambusters 10Mile, 10K, 5K & 10K walk
+title: Dambusters 10Mile, 10K, 5K
 location: Silent Valley Mountain Park, Newcastle, Northern Ireland
 date: 2025-08-09 10:45
 latitude: 54.12223652470644  
@@ -88,26 +88,26 @@ results:
   - place: 21
     name: Cormac Long
     time: 01.12.49
-    category: 5M M M35
+    category: 10M M M35
     note: BIB 148
   - place: 25
     name: Alejandro Cavallo
     time: 01.13.31
-    category: 5M M M35
+    category: 10M M M35
     note: BIB 39
   - place: 29
     name: Michael Ferreira
     time: 01.14.43
-    category: 5M M M45
+    category: 10M M M45
     note: BIB 79
   - place: 47
     name: David Mitchell
     time: 01.19.54
-    category: 5M M M40
+    category: 10M M M40
     note: BIB 215
   - place: 257
     name: Michelle Skeath
     time: 01.48.49
-    category: 5M F
+    category: 10M F
     note: BIB 270
 ---
