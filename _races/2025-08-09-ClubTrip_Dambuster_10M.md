@@ -1,5 +1,5 @@
 ---
-title: Dambusters 10Mile, 10K, 5K
+title: Dambusters 10 Mile, 10K, 5K Club Trip 2025
 location: Silent Valley Mountain Park, Newcastle, Northern Ireland
 date: 2025-08-09 10:45
 latitude: 54.12223652470644  
