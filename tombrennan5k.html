@@ -4,12 +4,200 @@ title: Tom Brennan Memorial Race
 ---
 
 <style>
-  .yellow-bold {
-    color: #FDB813;
-    font-weight: bold; 
-  }
+        :root {
+            --question-color: rgb(254, 213, 23);
+            --primary-blue: #87CEEB;
+            --site-bg: rgb(24, 24, 24);
+            --light-bg: #f8f9fa;
+            --text-dark: #333;
+            --text-light: #666;
+            --text-white: #ffffff;
+            --border-color: #e0e0e0;
+            --shadow: 0 2px 10px rgba(0,0,0,0.1);
+            --border-radius: 8px;
+        }
 
-</style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: var(--text-white);
+            background: var(--site-bg);
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background: rgba(40, 40, 40, 0.95);
+            border-radius: var(--border-radius);
+            box-shadow: 0 4px 20px rgba(0,0,0,0.3);
+            overflow: hidden;
+            border: 1px solid rgba(254, 213, 23, 0.2);
+        }
+
+        .header {
+            background: linear-gradient(135deg, var(--question-color) 0%, rgb(230, 193, 20) 100%);
+            padding: 2rem;
+            text-align: center;
+            color: var(--site-bg);
+        }
+
+        .header h1 {
+            font-size: 2.5rem;
+            font-weight: 700;
+            margin-bottom: 0.5rem;
+            text-shadow: 1px 1px 2px rgba(0,0,0,0.1);
+        }
+
+        .faq-container {
+            padding: 2rem;
+        }
+
+        .faq-item {
+            margin-bottom: 1.5rem;
+            border: 1px solid rgba(254, 213, 23, 0.3);
+            border-radius: var(--border-radius);
+            overflow: hidden;
+            transition: all 0.3s ease;
+            background: rgba(50, 50, 50, 0.8);
+        }
+
+        .faq-item:hover {
+            box-shadow: 0 4px 15px rgba(254, 213, 23, 0.2);
+            transform: translateY(-2px);
+            border-color: var(--question-color);
+        }
+
+        .question {
+            background: linear-gradient(135deg, var(--question-color) 0%, rgb(240, 203, 15) 100%);
+            padding: 1.5rem;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+            font-weight: 600;
+            font-size: 1.1rem;
+            transition: background 0.3s ease;
+            color: var(--site-bg);
+        }
+
+        .question:hover {
+            background: linear-gradient(135deg, rgb(240, 203, 15) 0%, var(--question-color) 100%);
+        }
+
+        .question-icon {
+            background: var(--site-bg);
+            color: var(--question-color);
+            width: 30px;
+            height: 30px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: bold;
+            flex-shrink: 0;
+        }
+
+        .answer {
+            background: rgba(60, 60, 60, 0.9);
+            padding: 1.5rem;
+            border-top: 1px solid rgba(254, 213, 23, 0.2);
+            color: var(--text-white);
+        }
+
+        .answer-icon {
+            background: var(--question-color);
+            color: var(--site-bg);
+            width: 30px;
+            height: 30px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: bold;
+            float: left;
+            margin-right: 1rem;
+            margin-top: 0.2rem;
+        }
+
+        .answer-content {
+            overflow: hidden;
+        }
+
+        .answer a {
+            color: var(--question-color);
+            text-decoration: none;
+            font-weight: 600;
+            padding: 2px 4px;
+            border-radius: 3px;
+            transition: all 0.3s ease;
+        }
+
+        .answer a:hover {
+            background: rgba(254, 213, 23, 0.2);
+            text-decoration: underline;
+        }
+
+        .note {
+            background: rgba(254, 213, 23, 0.15);
+            border: 1px solid rgba(254, 213, 23, 0.4);
+            border-radius: 4px;
+            padding: 0.75rem;
+            margin-top: 0.5rem;
+            font-weight: 600;
+            color: var(--question-color);
+        }
+
+        .highlight {
+            background: rgba(254, 213, 23, 0.3);
+            padding: 2px 4px;
+            border-radius: 3px;
+            font-weight: 600;
+            color: var(--question-color);
+        }
+
+        @media (max-width: 768px) {
+            body {
+                padding: 10px;
+            }
+
+            .header {
+                padding: 1.5rem;
+            }
+
+            .header h1 {
+                font-size: 2rem;
+            }
+
+            .faq-container {
+                padding: 1rem;
+            }
+
+            .question, .answer {
+                padding: 1rem;
+            }
+
+            .question {
+                font-size: 1rem;
+            }
+        }
+
+        .fade-in {
+            animation: fadeIn 0.5s ease-in;
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(20px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+    </style>
 
 <div class="row img-section">
   <img src="/assets/images/tbm2026/tmb_banner_2026_a.jpg" alt="Tom Brennan Memorial Race" class="img-responsive center-block">
@@ -22,121 +210,201 @@ title: Tom Brennan Memorial Race
 </div class="row content">
 Kick off your <b>2026</b> in fine style in the Phoenix Park as you run or jog the <b>Tom Brennan Memorial 5k race</b>. With our usual professionalism and trademark warmth and welcome, Liffey Valley AC is delighted to welcome you back to this flat, fast, pb-friendly course. One of the Phoenix Park's longest running events, we guarantee you an enjoyable morning, (<b>9.30 am start</b>) and the ideal beginning to your new year.
 
-<h3>FAQ TOM BRENNAN 2026</h3>
+<div class="container fade-in">
+        <div class="header">
+            <h1>FAQ TOM BRENNAN 2026</h1>
+        </div>
+        
+        <div class="faq-container">
+            <div class="faq-item">
+                <div class="question">
+                    <div class="question-icon">Q</div>
+                    <div>Are race entries open?</div>
+                </div>
+                <div class="answer">
+                    <div class="answer-icon">A</div>
+                    <div class="answer-content">
+                        Yes. You can register in <a href="https://eventmaster.ie/event/A05wijlIlv" target="_blank" rel="noopener noreferrer">eventmaster.ie</a>. Online ticket sales will be available between <span class="highlight">September 01, 2025 at 09:00 and December 30, 2025 at 20:00</span>.
+                    </div>
+                </div>
+            </div>
 
-  <td style="color: #FFE600;"><h3>FAQ TOM BRENNAN 2026</h3>
-	
-	<table class="table">
-		<tr>
-			<td style="color: #FFE600;"><strong>Q</strong></td>
-			<td style="color: #FFE600;"><strong>Are race entries open?</td>
-		</tr>
-		<tr>
-			<td style="color: skyblue;"><strong>A</strong></td>
-			<td style="color: skyblue;">Yes. You can register in <a href="https://eventmaster.ie/event/A05wijlIlv" target="_blank" rel="noopener noreferrer">eventbrite.ie</a>. Online ticket sales will be available between September 01, 2025 at 09:00 and December 30, 2025 at 20:00</td>
-		</tr>
-		<tr>
-			<td style="color: #FFE600;"><strong>Q</strong></td>
-			<td style="color: #FFE600;"><strong>Can I transfer my entry?</td>
-		</tr>
-		<tr>
-			<td style="color: skyblue;"><strong>A</strong></td>
-			<td style="color: skyblue;">Yes. You can transfer your entry and number to another person at the <a href="https://myrunresults.com/events/tom_brennan_memorial_5k_2026/5935/participants" target="_blank" rel="noopener noreferrer">MyRunResults Participants List page</a> by following the instructions <a href="https://filedn.com/lWTDVY33YajR2yXNwuoX6g8/myrunresults/mrr-change-details.pdf" target="_blank" rel="noopener noreferrer">here</a> NOTE: If you had your number posted and wish to transfer, you must exchange that number to the new participant. NO NEW NUMBER WILL BE ISSUED ON THE DAY.</td>
-		</tr>
-		<tr>
-			<td style="color: #FFE600;"><strong>Q</strong></td>
-			<td style="color: #FFE600;"><strong>Are race entries accepted on the morning of the race?</td>
-		</tr>
-		<tr>
-			<td style="color: skyblue;"><strong>A</strong></td>
-			<td style="color: skyblue;">Unfortunately, this is not possible. Race entries must be registered via the <a href="eventmaster.ie/event/A05wijlIlv" target="_blank" rel="noopener noreferrer">Event Master</a> platform. Entries close on December 30th or earlier, if the race sells out before this date.</td>
-		</tr>
-			<tr>
-			<td style="color: #FFE600;"><strong>Q</strong></td>
-			<td style="color: #FFE600;"><strong>Where is the race taking place?</td>
-		</tr>
-			<td style="color: skyblue;"><strong>A</strong></td>
-			<td style="color: skyblue;">The race will start on the <a href="https://maps.app.goo.gl/1dPixdaHiYLKTe4b8" target="_blank" rel="noopener noreferrer">Furze Road</a>, which is just off Chesterfield Avenue in the Phoenix Park.</td>
-		<tr>
-			<td style="color: #FFE600;"><strong>Q</strong></td>
-			<td style="color: #FFE600;"><strong>What time does the race start?</td>
-		</tr>
-			<td style="color: skyblue;"><strong>A</strong></td>
-			<td style="color: skyblue;">The race starts at 9:30 AM</td>
-		<tr>
-			<td style="color: #FFE600;"><strong>Q</strong></td>
-			<td style="color: #FFE600;"><strong>If I missed a postage entry, where do I collect my number?</td>
-		</tr>
-		<tr>
-			<td style="color: skyblue;"><strong>A</strong></td>
-			<td style="color: skyblue;">The Number Collection area is on the Furze Road / Chesterfield Avenue Junction. Please quote your number at the collection desk to speed the process up and allow help to avoid queues. You will receive a text message to the mobile number provided with your bib number</td>
-		</tr>
-		<tr>
-			<td style="color: #FFE600;"><strong>Q</strong></td>
-			<td style="color: #FFE600;"><strong>What time can I collect my number?</td>
-		</tr>
-		<tr>
-			<td style="color: skyblue;"><strong>A</strong></td>
-			<td style="color: skyblue;">Number Collection will be open from 8:00 AM</td>
-		</tr>
-		<tr>
-			<td style="color: #FFE600;"><strong>Q</strong></td>
-			<td style="color: #FFE600;"><strong>Where is the start line?</td>
-		</tr>
-		<tr>
-			<td style="color: skyblue;"><strong>A</strong></td>
-			<td style="color: skyblue;"><strong>The start line is 500 meters from the Number Collection area on the Furze Road / Chesterfield Avenue Junction.</td>
-		</tr>
-		<tr>
-			<td style="color: #FFE600;"><strong>Q</strong></td>
-			<td style="color: #FFE600;"><strong>Where can I park my car?</td>
-		</tr>
-		<tr>
-			<td style="color: skyblue;"><strong>A</strong></td>
-			<td style="color: skyblue;">Please visit <a href="https://www.phoenixpark.ie/opening-hours/"target="_blank" rel="noopener noreferrer">Phoenix Park Opening Hours</a> for details on car parking. <b>NOTE:</b> Knockmaroon car park, inside Knockmaroon Gate will be CLOSED.</td>
-		</tr>
-		<tr>
-			<td style="color: #FFE600;"><strong>Q</strong></td>
-			<td style="color: #FFE600;"><strong>Where do I collect my race gift?</td>
-		</tr>
-		<tr>
-			<td style="color: skyblue;"><strong>A</strong></td>
-			<td style="color: skyblue;">Please collect your bobble hat AFTER you have crossed the finish line and completed the race.</td>
-		</tr>
-		<tr>
-			<td style="color: #FFE600;"><strong>Q</strong></td>
-			<td style="color: #FFE600;"><strong>Will there be water?</strong></td>
-		</tr>
-		<tr>
-			<td style="color: skyblue;"><strong>A</strong></td>
-			<td style="color: skyblue;">Yes, water will be available approximately 20 meters after the finish line.</a></td>
-		</tr>
-		<tr>
-			<td style="color: #FFE600;"><strong>Q</strong></td>
-			<td style="color: #FFE600;"><strong>Will there be toilets?</a></td>
-		</tr>
-		<tr>
-			<td style="color: skyblue;"><strong>A</strong></td>
-			<td style="color: skyblue;">Yes, there will be portaloos available on Furze Road. There are also toilets at the Papal Cross Car Park.</td>
-		</tr>
-		<tr>
-			<td style="color: #FFE600;"><strong>Q</strong></td>
-			<td style="color: #FFE600;"><strong>Will there be refreshments?</a></td>
-		</tr>
-		<tr>
-			<td style="color: skyblue;"><strong>A</strong></td>
-			<td style="color: skyblue;">Last Lap Cafe will have hot drinks & refreshments to purchase.</td>
-		</tr>
-		<tr>
-			<td style="color: #FFE600;"><strong>Q</strong></td>
-			<td style="color: #FFE600;"><strong>When will prizes be presented?</a></td>
-		</tr>
-		<tr>
-			<td style="color: skyblue;"><strong>A</strong></td>
-			<td style="color: skyblue;">All prizes will be presented on the day.</td>
-		</tr>
-	</table>
-</div>
+            <div class="faq-item">
+                <div class="question">
+                    <div class="question-icon">Q</div>
+                    <div>Can I transfer my entry?</div>
+                </div>
+                <div class="answer">
+                    <div class="answer-icon">A</div>
+                    <div class="answer-content">
+                        Yes. You can transfer your entry and number to another person at the <a href="https://myrunresults.com/events/tom_brennan_memorial_5k_2026/5935/participants" target="_blank" rel="noopener noreferrer">MyRunResults Participants List page</a> by following the instructions <a href="https://filedn.com/lWTDVY33YajR2yXNwuoX6g8/myrunresults/mrr-change-details.pdf" target="_blank" rel="noopener noreferrer">here</a>.
+                        <div class="note">
+                            NOTE: If you had your number posted and wish to transfer, you must exchange that number to the new participant. NO NEW NUMBER WILL BE ISSUED ON THE DAY.
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="faq-item">
+                <div class="question">
+                    <div class="question-icon">Q</div>
+                    <div>Are race entries accepted on the morning of the race?</div>
+                </div>
+                <div class="answer">
+                    <div class="answer-icon">A</div>
+                    <div class="answer-content">
+                        Unfortunately, this is not possible. Race entries must be registered via the <a href="https://eventmaster.ie/event/A05wijlIlv" target="_blank" rel="noopener noreferrer">Event Master</a> platform. Entries close on December 30th or earlier, if the race sells out before this date.
+                    </div>
+                </div>
+            </div>
+
+            <div class="faq-item">
+                <div class="question">
+                    <div class="question-icon">Q</div>
+                    <div>Where is the race taking place?</div>
+                </div>
+                <div class="answer">
+                    <div class="answer-icon">A</div>
+                    <div class="answer-content">
+                        The race will start on the <a href="https://maps.app.goo.gl/1dPixdaHiYLKTe4b8" target="_blank" rel="noopener noreferrer">Furze Road</a>, which is just off Chesterfield Avenue in the Phoenix Park.
+                    </div>
+                </div>
+            </div>
+
+            <div class="faq-item">
+                <div class="question">
+                    <div class="question-icon">Q</div>
+                    <div>What time does the race start?</div>
+                </div>
+                <div class="answer">
+                    <div class="answer-icon">A</div>
+                    <div class="answer-content">
+                        The race starts at <span class="highlight">9:30 AM</span>.
+                    </div>
+                </div>
+            </div>
+
+            <div class="faq-item">
+                <div class="question">
+                    <div class="question-icon">Q</div>
+                    <div>If I missed a postage entry, where do I collect my number?</div>
+                </div>
+                <div class="answer">
+                    <div class="answer-icon">A</div>
+                    <div class="answer-content">
+                        The Number Collection area is on the Furze Road / Chesterfield Avenue Junction. Please quote your number at the collection desk to speed the process up and allow help to avoid queues. You will receive a text message to the mobile number provided with your bib number.
+                    </div>
+                </div>
+            </div>
+
+            <div class="faq-item">
+                <div class="question">
+                    <div class="question-icon">Q</div>
+                    <div>What time can I collect my number?</div>
+                </div>
+                <div class="answer">
+                    <div class="answer-icon">A</div>
+                    <div class="answer-content">
+                        Number Collection will be open from <span class="highlight">8:00 AM</span>.
+                    </div>
+                </div>
+            </div>
+
+            <div class="faq-item">
+                <div class="question">
+                    <div class="question-icon">Q</div>
+                    <div>Where is the start line?</div>
+                </div>
+                <div class="answer">
+                    <div class="answer-icon">A</div>
+                    <div class="answer-content">
+                        The start line is <span class="highlight">500 meters</span> from the Number Collection area on the Furze Road / Chesterfield Avenue Junction.
+                    </div>
+                </div>
+            </div>
+
+            <div class="faq-item">
+                <div class="question">
+                    <div class="question-icon">Q</div>
+                    <div>Where can I park my car?</div>
+                </div>
+                <div class="answer">
+                    <div class="answer-icon">A</div>
+                    <div class="answer-content">
+                        Please visit <a href="https://www.phoenixpark.ie/opening-hours/" target="_blank" rel="noopener noreferrer">Phoenix Park Opening Hours</a> for details on car parking.
+                        <div class="note">
+                            NOTE: Knockmaroon car park, inside Knockmaroon Gate will be CLOSED.
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="faq-item">
+                <div class="question">
+                    <div class="question-icon">Q</div>
+                    <div>Where do I collect my race gift?</div>
+                </div>
+                <div class="answer">
+                    <div class="answer-icon">A</div>
+                    <div class="answer-content">
+                        Please collect your bobble hat AFTER you have crossed the finish line and completed the race.
+                    </div>
+                </div>
+            </div>
+
+            <div class="faq-item">
+                <div class="question">
+                    <div class="question-icon">Q</div>
+                    <div>Will there be water?</div>
+                </div>
+                <div class="answer">
+                    <div class="answer-icon">A</div>
+                    <div class="answer-content">
+                        Yes, water will be available approximately 20 meters after the finish line.
+                    </div>
+                </div>
+            </div>
+
+            <div class="faq-item">
+                <div class="question">
+                    <div class="question-icon">Q</div>
+                    <div>Will there be toilets?</div>
+                </div>
+                <div class="answer">
+                    <div class="answer-icon">A</div>
+                    <div class="answer-content">
+                        Yes, there will be portaloos available on Furze Road. There are also toilets at the Papal Cross Car Park.
+                    </div>
+                </div>
+            </div>
+
+            <div class="faq-item">
+                <div class="question">
+                    <div class="question-icon">Q</div>
+                    <div>Will there be refreshments?</div>
+                </div>
+                <div class="answer">
+                    <div class="answer-icon">A</div>
+                    <div class="answer-content">
+                        Last Lap Cafe will have hot drinks & refreshments to purchase.
+                    </div>
+                </div>
+            </div>
+
+            <div class="faq-item">
+                <div class="question">
+                    <div class="question-icon">Q</div>
+                    <div>When will prizes be presented?</div>
+                </div>
+                <div class="answer">
+                    <div class="answer-icon">A</div>
+                    <div class="answer-content">
+                        All prizes will be presented on the day.
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 
 <div class="row content">
   <td style="color: #FFE600;"><h3>The Course</h3>
