@@ -4,7 +4,6 @@ location: Coast Road, Co. Antrim
 date: 2024-08-30 10:00
 latitude: 53.26713533928219
 longitude: -7.5053314505124415
-
 results:
   - place: 141
     name: Mollie O'Donnell
