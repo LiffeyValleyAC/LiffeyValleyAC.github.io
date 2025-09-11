@@ -2,7 +2,7 @@
 title: LVAC 10k Road Championship (Myles Cullen Trophy)
 latitude: 53.348499
 longitude: -6.318000
-date: 2025-09-11 11:00
+date: 2025-09-13 11:00
 results:
   - place: 1
     name: ND
