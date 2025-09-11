@@ -1,7 +1,7 @@
 ---
 title: Tullamore Half Marathon
-location: Coast Road, Co. Antrim
-date: 2024-08-30 10:00
+location: Tullamore Harriers Athletic Club, Tullamore, Co. Offaly
+date: 2025-08-30 10:00
 latitude: 53.26713533928219
 longitude: -7.5053314505124415
 results:

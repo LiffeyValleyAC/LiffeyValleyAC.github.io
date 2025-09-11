@@ -41,3 +41,10 @@ We also acknowledge the excellent performances of <strong>Ellen Cronin, Keela Fa
 
 <a href="/assets/images/races/2025/2025-08-30_02.jpg" target="_blank" rel="noopener noreferrer"><img src="/assets/images/races/2025/2025-08-30_02.jpg"  width="100%" height="auto" alt="Circuit"></a>
 
+<a href="/assets/images/races/2025/2025-08-30_03.jpg" target="_blank" rel="noopener noreferrer"><img src="/assets/images/races/2025/2025-08-30_03.jpg"  width="100%" height="auto" alt="Group"></a>
+
+<a href="/assets/images/races/2025/2025-08-30_04.jpg" target="_blank" rel="noopener noreferrer"><img src="/assets/images/races/2025/2025-08-30_04.jpg"  width="100%" height="auto" alt="Mollie"></a>
+
+<a href="/assets/images/races/2025/2025-08-30_05.jpg" target="_blank" rel="noopener noreferrer"><img src="/assets/images/races/2025/2025-08-30_05.jpg"  width="100%" height="auto" alt="Ciara "></a>
+
+<a href="/assets/images/races/2025/2025-08-30_06.jpg" target="_blank" rel="noopener noreferrer"><img src="/assets/images/races/2025/2025-08-30_06.jpg"  width="100%" height="auto" alt="Jennifer"></a>
