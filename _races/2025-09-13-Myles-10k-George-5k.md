@@ -83,7 +83,7 @@ results:
     actual_time: 34.35
     note: LVAC 10km
   - place: 14
-    name: Joe Cooper
+    name: Joseph Whittle
     finish_time: 45.00
     handicap: 7.45
     actual_time: 37.15

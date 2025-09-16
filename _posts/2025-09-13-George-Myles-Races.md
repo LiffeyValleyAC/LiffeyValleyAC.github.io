@@ -18,7 +18,7 @@ title: Club 5k & 10k Road Championships and George Harrison and Myles Cullen Tro
 🥈 Mark Naylor<br>
 🥉 Paddy Murphy<br>
 <br>
-<b><u>Women’s 5km</b></u><br>
+<b><u>Women’s 5km</u></b><br>
 🥇 Jennifer Preston<br>
 🥈 Aifric Gallagher<br>
 🥉 Rebecca McLoughlin<br>
@@ -42,7 +42,7 @@ title: Club 5k & 10k Road Championships and George Harrison and Myles Cullen Tro
   <a href="/assets/images/races/2025/2025-09-13_03.jpg" target="_blank" rel="noopener noreferrer">
     <img src="/assets/images/races/2025/2025-09-13_03.jpg" 
          alt="Group photo" 
-         style="width: 100%; height: auto;">
+         style="width: 70%; height: auto;">
   </a>
   <figcaption style="font-size: 1.2em; color: #ceb329; margin-top: 6px;">
     Mark Tylor.
@@ -53,7 +53,7 @@ title: Club 5k & 10k Road Championships and George Harrison and Myles Cullen Tro
   <a href="/assets/images/races/2025/2025-09-13_05.jpg" target="_blank" rel="noopener noreferrer">
     <img src="/assets/images/races/2025/2025-09-13_05.jpg" 
          alt="Group photo" 
-         style="width: 100%; height: auto;">
+         style="width: 70%; height: auto;">
   </a>
   <figcaption style="font-size: 1.2em; color: #ceb329; margin-top: 6px;">
     Pierce Geoghegan.
@@ -97,7 +97,7 @@ title: Club 5k & 10k Road Championships and George Harrison and Myles Cullen Tro
   <a href="/assets/images/races/2025/2025-09-13_18.jpg" target="_blank" rel="noopener noreferrer">
     <img src="/assets/images/races/2025/2025-09-13_18.jpg" 
          alt="Group photo" 
-         style="width: 100%; height: auto;">
+         style="width: 70%; height: auto;">
   </a>
   <figcaption style="font-size: 1.2em; color: #ceb329; margin-top: 6px;">
     Myles Cullen Trophy winner <b>James Folley</b> and George Harrison Trophy winner <b>Aifric Gallagher</b>
@@ -108,7 +108,7 @@ title: Club 5k & 10k Road Championships and George Harrison and Myles Cullen Tro
   <a href="/assets/images/races/2025/2025-09-13_17.jpg" target="_blank" rel="noopener noreferrer">
     <img src="/assets/images/races/2025/2025-09-13_17.jpg" 
          alt="Group photo" 
-         style="width: 100%; height: auto;">
+         style="width: 70%; height: auto;">
   </a>
   <figcaption style="font-size: 1.2em; color: #ceb329; margin-top: 6px;">
     A token of appreciation presented to <b>Paul Balfe</b> for his outstanding contributions as Race Director of the <b>Tom Brennan New Year’s Race</b>.
