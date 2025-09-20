@@ -1,5 +1,5 @@
 ---
-title: National Senior Cross County Championships
+title: National Senior XC Cross Country Championships
 location: Gowran Demesne
 date: 2024-11-17 12:00
 latitude: 54.46310118569689
