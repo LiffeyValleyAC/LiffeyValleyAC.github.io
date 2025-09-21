@@ -1,5 +1,5 @@
 ---
-title: Dublin 5k Road Championships within Rathfarnam 5k Road Race
+title: Dublin Championships Rathfarnam 5k Road Race
 location: Rathfarnam, Dublin
 date: 2025-09-28 10:00
 latitude: 53.300494

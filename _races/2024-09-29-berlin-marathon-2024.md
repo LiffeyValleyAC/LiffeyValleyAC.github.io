@@ -1,5 +1,5 @@
 ---
-title: BMW Berlin Marathon 2022
+title: BMW Berlin Marathon 2024
 location: Berlin, Germany
 date: 2024-09-29 09:30
 latitude: 52.516286

@@ -1,5 +1,5 @@
 ---
-title: Dublin Intermediate and Masters Cross Country Championships
+title: Dublin Intermediate and Masters XC Cross Country Championships
 location: St. Annes Park, Raheny
 date: 2025-01-05 10:00
 latitude: 53.368740481773116

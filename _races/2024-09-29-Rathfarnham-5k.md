@@ -1,6 +1,6 @@
 ---
-title: Dublin 5k Road Championships within Rathfarnam 5k Road Race
-location: Rathfarnam, Dublin
+title: Dublin 5k Road Championships within Rathfarnham 5k Road Race
+location: Rathfarnham, Dublin
 date: 2024-09-29 10:00
 latitude: 53.300494
 longitude: -6.283858

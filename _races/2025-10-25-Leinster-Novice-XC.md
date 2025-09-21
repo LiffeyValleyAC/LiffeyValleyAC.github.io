@@ -1,5 +1,5 @@
 ---
-title: Leinster Novice Cross Country Championships
+title: Leinster Novice XC Cross Country Championships
 location: Mountain View, Co. Kilkenny
 date: 2025-10-25 14:00
 latitude: 52.457262
