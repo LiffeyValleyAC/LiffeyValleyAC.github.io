@@ -8,5 +8,6 @@ results:
   - place: 12007
     name: David Mitchell
     time: 3.45.11
-    category: F60
+    category: 1676° M40
+    note: 
 ---
