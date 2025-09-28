@@ -1,5 +1,5 @@
 ---
-title: National Half Marathon – Tullamore
+title: National Half Marathon in Tullamore
 location: Tullamore Harriers Athletic Club, Tullamore, Co. Offaly
 ---
 On a wet and windy Saturday in Tullamore, the <strong>National Half Marathon</strong>, hosted by 
