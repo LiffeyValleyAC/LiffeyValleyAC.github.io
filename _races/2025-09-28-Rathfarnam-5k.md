@@ -50,6 +50,11 @@ results:
     time: 19.19
     category: 28° FS
     note: BIB 1349
+  - place: 430
+    name: Matthew Blyth
+    time: 19.50
+    category: 
+    note: BIB 79
   - place: 433
     name: Eddie Mcgrath
     time: 19.53

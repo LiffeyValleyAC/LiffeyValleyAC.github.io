@@ -16,6 +16,7 @@ It was a great morning with an amazing atmosphere, lots of energy from runners a
 <strong>Peter Bowe</strong> 296th overall (46th M40) 18.36<br>
 <strong>Neil Duffy</strong> 374th overall (40th M45) 19.20 <b>PB</b><br>
 <strong>Siobhán Nugent</strong> 395th overall (28th FS) 19.19 👏🏼<br>
+<strong>Matthew Blyth</strong> 430rd overall 19.50<br>
 <strong>Eddie McGrath</strong> 433rd overall (13th M55) 19.53<br>
 <strong>Bernard O'Sullivan</strong> 435th overall (47th M45) 19.54<br>
 <strong>Rebecca McLoughlin</strong> 459th overall (33rd FS) 20.08<br>
