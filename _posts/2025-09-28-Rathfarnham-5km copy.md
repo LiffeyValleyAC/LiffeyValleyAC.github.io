@@ -43,7 +43,7 @@ Huge thanks to all our runners for their commitment and spirit. See you at the n
 
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border:4px solid #ceb329;border-radius:12px;box-shadow:0 4px 12px rgba(255, 255, 255, 1);">
   <iframe 
-    src="https://www.youtube.com/watch?v=aHPWv9GdMpY" 
+    src="https://www.youtube.com/embed/aHPWv9GdMpY" 
     title="Rathfarnham 5km 2025 - Liffey Valley AC" 
     frameborder="0" 
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 

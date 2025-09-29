@@ -53,7 +53,7 @@ results:
   - place: 430
     name: Matthew Blyth
     time: 19.50
-    category: 
+    category: M
     note: BIB 79
   - place: 433
     name: Eddie Mcgrath
