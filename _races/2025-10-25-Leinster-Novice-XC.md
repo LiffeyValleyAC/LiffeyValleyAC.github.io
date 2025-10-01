@@ -6,8 +6,8 @@ latitude: 52.457262
 longitude: -7.186697
 results:
   - place: 1
-    name: Siobhán Nugent
+    name: Name
     time: 18.30
     category: FS
-    note: 9th Club Team
+    note: 
 ---

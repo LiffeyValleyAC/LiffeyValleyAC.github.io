@@ -9,5 +9,5 @@ results:
     name: Name
     time: 14.51
     category: Novice Women
-    note: 🥉3rd Team
+    note: 
 ---
