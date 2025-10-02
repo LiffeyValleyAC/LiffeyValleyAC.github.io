@@ -1,5 +1,5 @@
 ---
-title: National Novice Cross Country Championships
+title: National Novice Cross Country Championships 6km
 location: Tramore Race Course, Co. Waterford
 date: 2024-12-01 12:45
 latitude: 52.17248162

@@ -4,6 +4,7 @@ location: St. Annes Park, Raheny
 date: 2025-01-05 10:00
 latitude: 53.368740481773116
 longitude: -6.173076909171677
+distance: Intermediate and Master Women 3km, Intermediate and Master Men 6km
 results:
   - place: 29
     name: James McKenna

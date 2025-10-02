@@ -1,6 +1,6 @@
 ---
-title: National Senior XC Cross Country Championships
-location: Gowran Demesne
+title: National Senior XC 7.5K Cross Country Championships
+location: Enniskillen, Co. Fermanagh
 date: 2024-11-17 12:00
 latitude: 54.46310118569689
 longitude: -7.637055347853513

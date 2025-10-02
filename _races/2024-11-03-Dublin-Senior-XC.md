@@ -1,5 +1,5 @@
 ---
-title: Dublin Senior Cross County Championships
+title: Dublin Senior Cross Country Championships
 location: Citywest, Co. Dublin
 date: 2024-11-03 12:00
 latitude: 53.2886931478627
