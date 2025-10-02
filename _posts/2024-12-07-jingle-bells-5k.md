@@ -2,12 +2,13 @@
 title: Personal Bests for LVAC Athletes in Jingle Bells 5k
 location: Phoenix Park, Dublin
 ---
-Well done to all of our members who took part in the Jingle Bells 5k this morning.
+
+<p>Well done to all of our members who took part in the Jingle Bells 5k this morning.</p>
 
 Our runners braved the wild weather of Storm Darragh to take on this fast 5K race.
 Special mention for Pierce who finished 2nd in his category, and the men's team who finished 8th overall.
 
-Congratulations Everyone!
+Congratulations Everyone!<br>
 
 <ul style="list-style:none; padding:0; max-width:500px; font-family:Arial, sans-serif; line-height:1.6; margin:0;">
   <li style="display:flex; justify-content:space-between; padding:6px 10px; border-bottom:1px solid #ddd;">
@@ -56,7 +57,7 @@ Congratulations Everyone!
   </li>
 </ul>
 
-<img src="/assets/images/races/2024/2024-12-07_jingle_bells.jpg" class="img-fluid" alt="LVAC Team">
+<img src="/assets/images/races/2024/2024-12-07_jingle_bells.jpg" width="100%" height="auto" alt="LVAC Team">
 
 <a href="https://www.instagram.com/p/DDSaqb2OezB/?img_index=1" target="_blank" rel="noopener noreferrer">Instagram</a><br>
 
