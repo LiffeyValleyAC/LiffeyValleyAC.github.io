@@ -6,7 +6,7 @@ This review highlights the achievements and participations in various races from
 
 ### October 2024
 
-October kicked off the **Cross Country (XC)** season. On **October 6th**, at the **Dublin Novice XC** in Phoenix Park, the women's team secured a strong third place, with Ciara Broderick Farrell (7th), Cliodhna Tutty Bardon (10th), Siobhán Nugent (21st), and Annie Gittens (22nd) leading the charge. The men's team placed sixth in their category. Later, on **October 20th**, at the **Leinster Novice Cross Country Championships** in Dunboyne, Co. Meath, several club athletes competed, with Siobhan Nugent, Ellen Cronin, Brigid Long, Orla Gordon, Heather Browning, Melissa Thompson forming a team. Conor O'Loughlin shone in the men's category, achieving fifth place for the team.
+October kicked off the **Cross Country (XC)** season. On **October 6th**, at the **Dublin Novice XC** in Phoenix Park, the women's team secured a strong third place, with Ciara Broderick Farrell (7th), Cliodhna Tutty Bardon (10th), Siobhán Nugent (21st), and Annie Gittens (22nd) leading the charge. The men's team placed sixth in their category. Later, on **October 20th**, at the **Leinster Novice Cross Country Championships** in Dunboyne, Co. Meath, several club athletes competed, with Siobhan Nugent, Ellen Cronin, Brigid Long, Orla Gordon, Heather Browning, Melissa Thompson forming a team. Conor O'Loughlin shone in the men's category, achieving fifth place for the team. The same day there was the fast **Clonliffe Harriers 2 Mile Road Race** with Geoffrey Alexander, Mark Naylor and John Gannon competing.
 
 ### November 2024
 
