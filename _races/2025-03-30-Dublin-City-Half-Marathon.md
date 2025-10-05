@@ -11,7 +11,7 @@ results:
     category: 9/2682(WS)
     note: BIB 3008
   - place: 20/5066(W)
-    name: Mollie O Donnell
+    name: Mollie O'Donnell
     time: 1.26.43
     category: 10/2682(WS)
     note: BIB 960
@@ -41,7 +41,7 @@ results:
     category: 273/1048(M40)
     note: BIB 3152
   - place: 323/5066(W)
-    name: Elle O Driscoll
+    name: Elle O'Driscoll
     time: 1.40.59
     category: 167/2682(WS)
     note: BIB 805

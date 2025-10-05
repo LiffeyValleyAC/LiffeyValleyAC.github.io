@@ -17,8 +17,8 @@ results:
     name: David Mitchell
     time: 44.51
     note: M40 
-  - place: ND
+  - place: 566
     name: Utpal Medhi
-    time: ND
-    note: M 
+    time: 50:24
+    note: M40
 ---

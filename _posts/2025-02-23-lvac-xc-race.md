@@ -4,7 +4,7 @@ location: Phoenix Park, Dublin
 ---
 
 Our <b>Club XC Championships</b> took place in the Phoenix Park. This was the <b>3rd out of 5</b> Winter League Races <br>
-Women and M60+ ran 2 laps or 5km around the Dog Pond course while it was 7.5k or 3 laps for the Men.
+M60+ ran 2 laps or 5km around the Dog Pond course while it was 7.5k or 3 laps for the Men and Women.
 
 The weather conditions were brutal, with relentless wind and heavy rain lashing the course. The challenging terrain was further tested by deep mud, making every step a battle for traction. It was a true test of endurance and grit.
 

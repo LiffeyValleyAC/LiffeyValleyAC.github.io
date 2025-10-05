@@ -8,6 +8,6 @@ results:
   - place: ND
     name: Conor O'Laughlin
     time: 2.49.04
-    category: M
-    note: 
+    category: M40
+    note: BIB 13331
 ---

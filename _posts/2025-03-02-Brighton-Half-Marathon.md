@@ -10,7 +10,7 @@ Huge congratulations to our incredible athlete Geoffrey Alexandre for absolutely
 
 Finishing with an impressive time of 01:12:58 (58 second ahead of his previous PB), Geoffrey showcased true determination, perseverance and strength.<br>
 
-<a href="/races/2024-02-25-brighton-half-marathon/" target="_blank" rel="noopener noreferrer">Race Results</a>
+<a href="/races/2025-03-02-Brighton-Half-Marathon/" target="_blank" rel="noopener noreferrer">Race Results</a>
 
 <a href="https://results.sporthive.com/events/7286059254837454592/races/492255" target="_blank" rel="noopener noreferrer">Official Race Result</a>
 

@@ -13,7 +13,7 @@ Congratuations to <b>Mollie O'Donnell</b> who finished 1st woman and claimed an 
 
 238 <b>David Mitchel</b> 44:51 min
 
-ND <b>Utpal Medhi</b> ND
+566 <b>Utpal Medhi</b> 50:24 min
 
 
 <a href="/races/2025-04-13-Great-Ireland-Run-10k/" target="_blank" rel="noopener noreferrer">Race Results</a>

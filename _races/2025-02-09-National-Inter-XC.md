@@ -1,5 +1,5 @@
 ---
-title: National Intermediate Cross Country Championships
+title: National Intermediate and Master Cross Country Championships
 location: Westport, Co. Mayo
 date: 2025-02-09 14:00
 latitude: 53.800658439245 
