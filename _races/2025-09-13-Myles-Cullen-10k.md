@@ -1,5 +1,6 @@
 ---
-title: LVAC Road Championship, 10km Myles Cullen and 5km George Harrison Trophy
+title: LVAC Road Championship 10km Myles Cullen Trophy
+location: Phoenix Park, Dublin
 latitude: 53.348499
 longitude: -6.318000
 date: 2025-09-13 11:30
@@ -39,7 +40,7 @@ results:
     finish_time: 41.08
     handicap: 8.30
     actual_time: 32.38
-    note: 🥇 George Harrison Trophy
+    note: 🥇 Myles Cullen Trophy
   - place: 7
     name: Michael Ferreira
     finish_time: 41.31

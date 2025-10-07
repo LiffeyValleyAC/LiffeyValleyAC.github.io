@@ -122,10 +122,6 @@ results:
     name: Aoife Brady
     time: 15.01
     category: W I
-  - place: 63
-    name: Brigid Long
-    time: 14.28
-    category: F35
   - place: 59
     name: Margaret O'Friel
     time: 16.27

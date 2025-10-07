@@ -6,7 +6,7 @@ latitude: 50.84264734480324
 longitude: 4.3626603405730355
 results:
   - place: ND
-    name: Conor O'Laughlin
+    name: Conor O'Loughlin
     time: 2.49.04
     category: M40
     note: BIB 13331
