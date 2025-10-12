@@ -49,8 +49,13 @@ OK -> Races by Month mostrar la cantidad de races en la label del month. Mostrab
 20:28 06/10/2025 v5 Movido al GitHub de liffeyvalleyac.com
 OK -> Mejorar las labels dentro de month, colocándolas arriba  cada barra. Uso grace: '5%' para dejarle margen arriba.
 
+
 FUTURE IMPROVEMENTS:
+Al visualizar en celular, las estadísticas se ven mal. Disminuir el gap y reducir el tamaño de la fuente. La tabla hacerla más corta para que siempre se vea parte de la pantalla para hacer scroll porque sino quedamos "atrapados" dentro de la tabla haciendo scroll.
+
 Filtrar por distancia Min y Max.
+
+Si la tabla está vacía, que el botón Print Table esté deshabilitado.
 
 Encabezados de tabla clickeables para ordenar de manera Ascendente o Descendente.
 
@@ -59,5 +64,7 @@ Al imprimir, enviar una nota opcional que se agregue como descripción debajo de
 Agregar otro filtro a la derecha de Gender que filtre si la palabra Handicap se encuentra dentro e NOTES.
 
 Botón para filtrar las carreras que incluyen una copa del Club, cuyo Race Name contiene la palabra "Cup".
+
+Team Results. Pensar una forma de resumir los resultados por equipo, y si se consiguieron medallas.
 
 
