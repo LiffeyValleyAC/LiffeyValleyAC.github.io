@@ -4,27 +4,28 @@ location: Phoenix Park, Dublin
 date: 2025-10-12 13:00
 latitude: 53.3522291
 longitude: -6.3214874
+distance: 5.8km Men, 3.9km Women
 results:
   - place: 1
     name: Mollie O'Donnell
     time: 14.33
     category: Novice Women
-    note: BIB 5401
+    note: BIB 5401 🥇 Women Team!
   - place: 2
     name: Cliodhna Tutty Bardon
     time: 14.51
     category: Novice Women
-    note: BIB 5404
+    note: BIB 5404 🥇 Women Team!
   - place: 3
     name: Jen Preston
     time: 14.56
     category: Novice Women
-    note: BIB 5403
+    note: BIB 5403 🥇 Women Team!
   - place: 4
     name: Ellen Cronin
     time: 15.10
     category: Novice Women
-    note: BIB 5395
+    note: BIB 5395 🥇 Women Team!
   - place: 5
     name: Siobhan Nugent
     time: 15.15
@@ -49,22 +50,22 @@ results:
     name: Cormac Jones
     time: 20.09
     category: Novice Men
-    note: BIB 744
+    note: BIB 744 6° Men Team!
   - place: 2
     name: Paddy Murphy
     time: 20.24
     category: Novice Men
-    note: BIB 755
+    note: BIB 755 6° Men Team!
   - place: 3
     name: Antoine Daubigny
     time: 20.54
     category: Novice Men
-    note: BIB 746
+    note: BIB 746 6° Men Team!
   - place: 4
     name: Richard Finegan
     time: 21.07
     category: Novice Men
-    note: BIB 749
+    note: BIB 749 6° Men Team!
   - place: 5
     name: Patrick Fox
     time: 21.28

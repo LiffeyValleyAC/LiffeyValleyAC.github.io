@@ -24,7 +24,7 @@ results:
     actual_time: 35.35
     note: LVAC 10km 🥉
   - place: 4
-    name: Mike
+    name: Michael Minogue
     finish_time: 40.30
     handicap: 4.00
     actual_time: 36.30
