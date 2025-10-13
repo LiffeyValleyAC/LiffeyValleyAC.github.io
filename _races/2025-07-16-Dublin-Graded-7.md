@@ -27,7 +27,7 @@ results:
     note: PB
   - place: 6
     name: Neil Duffy
-    time: 10.02.15
+    time: 11.02.15
     category: 3000m Men D
     note: PB
   - place: 2
