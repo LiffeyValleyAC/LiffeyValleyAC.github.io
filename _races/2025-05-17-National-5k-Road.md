@@ -101,7 +101,7 @@ results:
     category: F40
     note: BIB 247
   - place: 440
-    name: Antonio Lorente Mendez
+    name: Antonio Lorente
     time: 21.02
     category: M50
     note: BIB 256

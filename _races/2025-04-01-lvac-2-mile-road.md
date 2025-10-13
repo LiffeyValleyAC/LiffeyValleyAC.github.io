@@ -198,7 +198,7 @@ results:
     actual_time: 15.21
     note:
   - place: 33
-    name: Richard Finnegan
+    name: Richard Finegan
     finish_time: 17.24
     handicap: 6.00
     actual_time: 11.24

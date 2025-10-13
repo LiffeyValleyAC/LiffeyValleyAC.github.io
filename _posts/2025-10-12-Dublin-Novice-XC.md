@@ -67,12 +67,23 @@ Special mention to Mollie O'Connor who finished <b>2st</b> in the women's race.
 </figure>
 
 <figure style="text-align: center;">
+  <a href="/assets/images/races/2025/2025-10-12_05_course.jpg" target="_blank" rel="noopener noreferrer">
+    <img src="/assets/images/races/2025/2025-10-12_05_course.jpg" 
+         alt="Image"  
+         style="width: 100%; height: auto;">
+  </a>
+  <figcaption style="font-size: 1.2em; color: #ceb329; margin-top: 6px;">
+    Munich Lap Circuit
+  </figcaption>
+</figure>
+
+<figure style="text-align: center;">
   <a href="/assets/images/races/2025/2025-10-12_04.jpg" target="_blank" rel="noopener noreferrer">
     <img src="/assets/images/races/2025/2025-10-12_04.jpg" 
          alt="Image"  
          style="width: 100%; height: auto;">
   </a>
   <figcaption style="font-size: 1.2em; color: #ceb329; margin-top: 6px;">
-    Team Results - My Run Ressults
+    Women Team Results - My Run Ressults
   </figcaption>
 </figure>

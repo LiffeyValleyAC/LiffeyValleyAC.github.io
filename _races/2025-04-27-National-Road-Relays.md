@@ -16,7 +16,7 @@ results:
     category: Senior Men
     note: "1Mile Total  15.56"
   - place: 3
-    name: Robbie Mullhall
+    name: Robbie Mulhall
     time: 16.37
     category: Senior Men
     note: "3Mile Total  32.32"
@@ -41,7 +41,7 @@ results:
     category: Master Men 35
     note: "1Mile Total  19.49"
   - place: 1
-    name: Siobhan Nugent
+    name: Siobhán Nugent
     time: 5.48
     category: Senior Women
     note: "1Mile Total  5.48"

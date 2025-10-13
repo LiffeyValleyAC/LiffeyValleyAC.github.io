@@ -11,7 +11,7 @@ results:
     category: 22° M35 
     note: 
   - place: 1349
-    name: Dearhaile Rooney
+    name: Dearbhaile Rooney
     time: 1.42.19
     category: 90° MS 
     note: 

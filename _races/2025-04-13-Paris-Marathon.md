@@ -6,7 +6,7 @@ latitude: 48.86925169401318
 longitude: 2.3097635677767325
 results:
   - place: 273 F
-    name: Cliodhna Bardon
+    name: Cliodhna Tutty Bardon
     time: 3.17.45
     category: F
     note: 4:41 min/km

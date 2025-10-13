@@ -6,7 +6,7 @@ latitude: 53.26475684474336
 longitude: -6.284502254310772
 results:
   - place: 2
-    name: Cliodhna Tutty-Bardon
+    name: Cliodhna Tutty Bardon
     time: 10.59.39
     category: 3000m Women C
     note: 

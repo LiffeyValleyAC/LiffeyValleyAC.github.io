@@ -6,7 +6,7 @@ latitude: 53.40109735594
 longitude: -6.244957341929
 results:
   - place: 3
-    name: Rebecca Mc'Loughlin
+    name: Rebecca McLoughlin
     time: 5.35.60
     category: 1500m Women D
     note: 

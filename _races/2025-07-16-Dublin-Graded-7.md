@@ -6,7 +6,7 @@ latitude: 53.346477809376495
 longitude: -6.450144291374874
 results:
   - place: 1
-    name: Siobhan Nugent
+    name: Siobhán Nugent
     time: 11.34.08
     category: 3000m Women C
     note: 

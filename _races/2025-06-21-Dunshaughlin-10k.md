@@ -6,7 +6,7 @@ latitude: 53.50556597091617
 longitude: -6.526822801314116
 results:
   - place: 277
-    name: Siobhan Nugent
+    name: Siobhán Nugent
     time: 41.39
     category: F
     note: BIB 1605

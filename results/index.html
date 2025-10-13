@@ -336,6 +336,10 @@
         }
     </style>
 </head>
+
+
+
+
 <body>
     <!-- Banner -->
     <div class="banner">
@@ -367,9 +371,10 @@
             <!-- Filters -->
             <div class="section">
                 <h3 class="section-title">Filters
-                    <button class="btn btn-primary" onclick="setSeasonDates()" style="margin-left: 0.5rem;">Season 2024-2025</button>
+                    <button class="btn btn-primary" onclick="setSeasonDates(2024, 2025)" style="margin-left: 0.5rem;">Season 2024-2025</button>
                     <button class="btn btn-primary" onclick="setYearDate(2024)" style="margin-left: 0.5rem;">2024</button>
                     <button class="btn btn-primary" onclick="setYearDate(2025)" style="margin-left: 0.5rem;">2025</button>
+                    <button class="btn btn-primary" onclick="setLast30Days()" style="margin-left: 0.5rem;">Last 30 Days</button>
                 </h3>
                 <div class="filters-grid">
                     <div class="filter-group">
@@ -448,6 +453,9 @@
         </div>
     </div>
 
+
+
+    
     <script>
         let allData = [];
         let filteredData = [];
@@ -601,10 +609,10 @@
             applyFilters();
         }
 
-        function setSeasonDates() {
+        function setSeasonDates(yearFrom, yearTo) {
                 clearFilters();
-                document.getElementById('dateFrom').value = '2024-10-01';
-                document.getElementById('dateTo').value = '2025-09-30';
+                document.getElementById('dateFrom').value = `${yearFrom}-10-01`;
+                document.getElementById('dateTo').value = `${yearTo}-09-30`;
                 applyFilters();
         }
 
@@ -612,6 +620,16 @@
                 clearFilters();
                 document.getElementById('dateFrom').value = `${year}-01-01`;
                 document.getElementById('dateTo').value = `${year}-12-31`;
+                applyFilters();
+        }
+
+        function setLast30Days() {
+                clearFilters();
+                const today = new Date();
+                const pastDate = new Date();
+                pastDate.setDate(today.getDate() - 30);
+                document.getElementById('dateFrom').value = pastDate.toISOString().split('T')[0];
+                document.getElementById('dateTo').value = today.toISOString().split('T')[0];
                 applyFilters();
         }
 

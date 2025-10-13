@@ -11,7 +11,7 @@ results:
     category: 1 Mile Women B
     note: 
   - place: 1
-    name: Cliodhna Tutty-Bardon
+    name: Cliodhna Tutty Bardon
     time: 5:36.63
     category: 1 Mile Women C
     note: 

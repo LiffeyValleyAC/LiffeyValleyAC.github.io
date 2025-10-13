@@ -18,7 +18,7 @@ results:
     national: Nat FS
     note: BIB 859
   - place: 200
-    name: Cliodhna Tutty-Bardon
+    name: Cliodhna Tutty Bardon
     time: 01.28.15
     category: MS
     national: Nat FS
@@ -30,7 +30,7 @@ results:
     national: Nat FS
     note: BIB 295
   - place: 311
-    name: Ellen Cronin Cunniffe
+    name: Ellen Cronin
     time: 01.34.15
     category: FS
     national: Nat FS

@@ -46,7 +46,7 @@ results:
     category: FS
     note: BIB 557
   - place: 313
-    name: Siobhan Nugent
+    name: Siobhán Nugent
     time: 01.13.04
     category: FS
     note: BIB 304

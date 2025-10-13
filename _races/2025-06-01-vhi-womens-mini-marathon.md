@@ -22,7 +22,7 @@ results:
     category: F Senior
     note:
   - place: 6273
-    name: Niamh O'dwyer
+    name: Niamh Dwyer
     time: 1h 4m 46s
     category: F 45+
     note: 

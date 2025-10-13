@@ -150,7 +150,7 @@ results:
     actual_time: 23m 19s
     note:
   - place: 25
-    name: Matt Blunt
+    name: Matthew Blyth
     finish_time: 31m 05s
     handicap: 8m 00s
     actual_time: 23m 05s

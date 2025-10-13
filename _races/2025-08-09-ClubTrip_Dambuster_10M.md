@@ -61,7 +61,7 @@ results:
     category: 10k M50
     note: BIB 426
   - place: 19
-    name: Edward Mc Grath
+    name: Eddie McGrath
     time: 42.21
     category: 10k M55
     note: BIB 463
