@@ -1,0 +1,70 @@
+16:22 01/10/2025 v1
+Versión base creada con Claude IA.
+Modificaciones posteriores directamente en Visual Studio Code con la ayuda del Chat (GPT-4o).
+
+OK -> Quisiera que de forma predeterminada suceda lo siguiente:
+OK -> Column Visibility: Desactivar los campos ID, LOCATION, SURFACE, ORGANISATION, CATEGORY, GRADE.
+OK -> Gráfico Participants by Gender: Color AZUL para Men, color ROJO para Women.
+OK -> Filters: Borrar Distance. Hacer que Race Name se pueda filtrar por palabra clave al igual que Athlete Name pero que a la vez se puedan ver los nombres de las carreras y hacer selecciones múltiples, darle más importancia que Surface y Gender.
+OK -> Corregir el cálculo de Total Distance (km) Avg Pace (min/km) porque muestran 0 (cero) todo el tiempo.
+
+OK ->Dame el código necesario para agregar un botón justo debajo de "Filtros" que configure Date From en 01/10/2024 y "Date To" en 30/09/2025
+
+13:22 04/10/2025
+OK -> Agregados botones para filtrar por año 2024 y 2025
+OK -> Achicar los otros tres gráficos Races by Surface, Participants by Gender y Surface Breakdown.
+
+21:38 04/10/2025
+OK -> Races by Surface and Surface Breakdown (OK) tiene que ser de se las filteredRaces.
+OK -> El cálculo e distancia todavía no funciona.
+OK -> Gráfico Races by Month que ocupe todo el ancho de la pantalla.
+OK -> Ancho de la columna DATE que sea lo suficientemente ancha para que entre YYYY-MM-DD en un sólo renglón.
+
+02:37 05/10/2025
+OK -> Salto de página para la impresión. O mejor que se pueda exportar la tabla? Imprimirla directamente?
+OK -> Multiples páginas cuando haya más de 100 registros, o botón "Show All" para que despliegue toda la tabla.
+
+03:07 05/10/2025
+OK -> Al imprimir, enviar las estadísticas como dateFrom, dateTo, filteredRaces, filteredAthletes
+OK -> Al imprimir, enviar el logo de LVAC a la izquierda del título.
+
+15:25 05/10/2025
+OK -> Ver dónde ingresar los totales de registro. Capaz una pequeña línea en algún lado con el totalRecords, totalRaces, totalAthletes.
+OK -> Mostrar fecha de registro más antiguo y última fecha registrada.
+
+22:34 05/10/2025 v3
+OK -> El botón Show Full Table debería desactivarse si la tabla no está limitada.
+
+18:17 06/10/2025
+OK -> La tabla que se imprime debe ser la tabla sin slice().
+OK -> Agregar un stat totalRecords al imprimir.
+OK -> En la tabla se puede hacer el Athlete Name clickeable para filtrar por su nombre.
+OK -> Color del link en el nombre azul como el club.
+OK -> Columna SURFACE que esté visible al cargar.
+
+19:47 06/10/2025 v4
+OK -> El gráfico Races by Month las barras tienen distintos colores pero no sé en base a qué. Son colores aleatorios. Creo MONTH_COLOURS para que se usen esos colores cíclicamente.
+OK -> Races by Month mostrar la cantidad de races en la label del month. Mostraba participaciones. Corregido a carreras por cada mes.
+
+20:28 06/10/2025 v5 Movido al GitHub de liffeyvalleyac.com
+OK -> Mejorar las labels dentro de month, colocándolas arriba  cada barra. Uso grace: '5%' para dejarle margen arriba.
+
+
+FUTURE IMPROVEMENTS:
+Al visualizar en celular, las estadísticas se ven mal. Disminuir el gap y reducir el tamaño de la fuente. La tabla hacerla más corta para que siempre se vea parte de la pantalla para hacer scroll porque sino quedamos "atrapados" dentro de la tabla haciendo scroll.
+
+Filtrar por distancia Min y Max.
+
+Si la tabla está vacía, que el botón Print Table esté deshabilitado.
+
+Encabezados de tabla clickeables para ordenar de manera Ascendente o Descendente.
+
+Al imprimir, enviar una nota opcional que se agregue como descripción debajo del título, antes de la tabla.
+
+Agregar otro filtro a la derecha de Gender que filtre si la palabra Handicap se encuentra dentro e NOTES.
+
+Botón para filtrar las carreras que incluyen una copa del Club, cuyo Race Name contiene la palabra "Cup".
+
+Team Results. Pensar una forma de resumir los resultados por equipo, y si se consiguieron medallas.
+
+

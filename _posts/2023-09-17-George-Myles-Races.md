@@ -18,7 +18,7 @@ title: Club 5k & 10k Road Championships and George Harrison and Myles Cullen Tro
 
 <img src="/assets/images/races/2023/george-myles/myles_2023_winner_family.jpeg" class="img-fluid" alt="Myles' Family and Winner">
 
-<img src="/assets/images/races/2023/george-myles/george_2023_cake.jpeg" class="img-fluid" alt="Cake Provided by Garce Harrison">
+<img src="/assets/images/races/2023/george-myles/george_2023_cake.jpeg" class="img-fluid" alt="Cake Provided by Garce Harrison" style="width: 80%; height: auto;">
 
 <p><a href="/races/2023-09-17-george-harrison-5k/" target="_blank" rel="noopener noreferrer">LVAC 5k Road Championship with the George Harrison Trophy</a></p> 
 

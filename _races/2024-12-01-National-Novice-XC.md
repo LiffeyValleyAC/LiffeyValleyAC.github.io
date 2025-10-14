@@ -1,5 +1,5 @@
 ---
-title: National Novice Cross Country Championships
+title: National Novice Cross Country Championships 6km
 location: Tramore Race Course, Co. Waterford
 date: 2024-12-01 12:45
 latitude: 52.17248162
@@ -46,7 +46,7 @@ results:
     category: Novice Men
     note: BIB 2007
   - place: 50
-    name: Siobhan Nugent
+    name: Siobhán Nugent
     time: 16.56
     category: Novice Woman
     note: BIB 1767
@@ -61,7 +61,7 @@ results:
     category: Novice Woman
     note: BIB 1761
   - place: 87
-    name: Rebecca Mcloughlin
+    name: Rebecca McLoughlin
     time: 18.19
     category: Novice Woman
     note: BIB 1765

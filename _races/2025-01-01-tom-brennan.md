@@ -26,7 +26,7 @@ results:
     category: MS
     note: 
   - place: 6
-    name: Ciara Brodecick Farrell
+    name: Ciara Broderick Farrell
     time: 19.44
     category: FS
     note: 

@@ -1,0 +1,494 @@
+---
+layout: base
+title: LVAC 50th Anniversary
+---
+<style>
+  /* Estilos existentes sin cambios */
+  .container2 {
+    background-color: #222;
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 30px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.8);
+  }
+  
+  .header2 {
+    text-align: center;
+    margin-bottom: 30px;
+    border-bottom: 3px double #FDB813;
+    padding-bottom: 20px;
+  }
+  
+  .yellow-bold {
+    color: #FDB813;
+    font-weight: bold;
+  }
+  
+  .main-image1 {
+    width: 40%;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+    cursor: pointer;
+  }
+
+  .main-image2 {
+    width: 80%;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+    cursor: pointer;
+  }
+  
+  .title2 {
+    font-size: 2.0em;
+    margin: 20px 0;
+    font-weight: bold;
+    text-shadow: 1px 1px 3px rgb(0, 0, 0);
+    color: #fcd50d;
+  }
+  
+  .intro {
+    font-size: 1.2em;
+    font-style: normal;
+    margin-bottom: 40px;
+    padding: 0 20px;
+    text-align: justify;
+  }
+  
+  .row {
+    display: flex;
+    margin: 40px 0;
+    align-items: center;
+  }
+  
+  .row:nth-child(even) {
+    flex-direction: row-reverse;
+  }
+  
+  .image-column {
+    flex: 1;
+    padding: 0 15px;
+  }
+  
+  .text-column {
+    flex: 1;
+    padding: 0 25px;
+  }
+  
+  .image-column img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    transition: transform 0.3s ease;
+    cursor: pointer;
+  }
+  
+  .image-column img:hover {
+    transform: scale(1.05);
+  }
+  
+  .caption {
+    font-style: italic;
+    font-size: 0.9em;
+    margin-top: 10px;
+    color: #b3b3b3;
+  }
+  
+  .description {
+    font-size: 1.1em;
+  }
+  
+  .description-title {
+    color: #FDB813;
+    font-size: 1.4em;
+    margin-bottom: 15px;
+    border-bottom: 1px solid #FDB813;
+    padding-bottom: 5px;
+  }
+  
+  .footer {
+    margin-top: 40px;
+    text-align: center;
+    padding-top: 20px;
+    border-top: 3px double #FDB813;
+    font-size: 0.9em;
+    color: #999;
+  }
+  
+  /* IMAGEN AMPLIADA */
+  .modal {
+    display: none;
+    position: fixed;
+    z-index: 1000;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0, 0, 0, 0.5);
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .modal-content {
+    display: block;
+    margin: auto;
+    max-width: 90%;
+    max-height: 90%;
+    object-fit: contain;
+    background-color: rgba(0, 0, 0, 0.5);
+  }
+  
+  /* BOTÓN DE CIERRE */
+  .close {
+    position: absolute;
+    top: 15px;
+    right: 35px;
+    color: #ffffff;
+    font-size: 40px;
+    font-weight: bold;
+    transition: 0.3s;
+    cursor: pointer;
+  }
+  
+  .close:hover,
+  .close:focus {
+    color: #FDB813;
+    text-decoration: none;
+  }
+
+  /* Estilos para la galería */
+  .gallery-section {
+    margin: 50px 0;
+    padding: 0 15px;
+  }
+  
+  .gallery {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 20px;
+  }
+  
+  .gallery-item {
+    position: relative;
+    overflow: hidden;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    transition: transform 0.3s ease;
+  }
+  
+  .gallery-item:hover {
+    transform: scale(1.03);
+  }
+  
+  .gallery-item img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    display: block;
+    cursor: pointer;
+    transition: transform 0.5s ease;
+  }
+  
+  .gallery-item img:hover {
+    transform: scale(1.1);
+  }
+  
+  /* Responsive design para la galería */
+  @media (max-width: 900px) {
+    .gallery {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+  
+  @media (max-width: 600px) {
+    .gallery {
+      grid-template-columns: 1fr;
+    }
+  }
+
+/* Video section styles */
+.video-section {
+    margin: 50px 0;
+    padding: 30px;
+    background-color: #1a1a1a;
+    border-radius: 8px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
+    border: 1px solid #333;
+  }
+  
+  .video-container {
+    position: relative;
+    padding-bottom: 56.25%; /* 16:9 aspect ratio */
+    height: 0;
+    overflow: hidden;
+    max-width: 100%;
+    border-radius: 8px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);
+    margin: 30px 0;
+    border: 2px solid #444;
+  }
+  
+  .video-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border-radius: 6px;
+  }
+  
+  .video-caption {
+    text-align: center;
+    font-style: italic;
+    color: #b3b3b3;
+    margin-top: 15px;
+    font-size: 0.95em;
+    border-top: 1px solid #444;
+    padding-top: 15px;
+  }
+  
+  /* Add a subtle glow effect to the video border on hover */
+  .video-container:hover {
+    border-color: #FDB813;
+    box-shadow: 0 0 20px rgba(253, 184, 19, 0.3);
+    transition: all 0.5s ease;
+  }
+
+</style>
+
+<div class="container2">
+  <div class="header2">
+    <h3 class="yellow-bold">LVAC 50th Anniversary - September 21st 2024</h3>
+    <img class="main-image1" src="/assets/images/lvac50th/logo_lvac_1974_2024.jpeg" width="40%" alt="LVAC50" onclick="openModal(this.src)">
+
+    <h1 class="title2">Celebrating 50 Years of Community and Achievement</h1>
+<p class="intro">
+  On September 24th, 1974, our journey began. And today, we proudly celebrate five decades of friendship, dedication, and success. 
+  From lifelong bonds to remarkable personal and team milestones, the impact of our club on the lives of so many has been truly profound.
+  <br><br>
+  We kicked off the anniversary weekend in style with an inspiring morning of competition at the <b>Myles Cullen and George Harrison</b> races in Phoenix Park, a true showcase of our athletes' talent and team spirit.
+</p>    
+
+<img class="main-image2" src="/assets/images/lvac50th/cullen_race.jpg" alt="Myles Cullen" onclick="openModal(this.src)">
+
+<h1 class="title2">An Unforgettable Evening of Celebration</h1>
+<p class="intro">
+  Saturday night was nothing short of magical as we came together at the Guinness Storehouse to celebrate our 50th anniversary. It was a night to reflect on our incredible journey and toast to the future with joy and laughter.
+  <br><br>
+  A heartfelt thank you to Hilary and the entire organising committee for making the evening so memorable. Special thanks to Brigid, Annie, and everyone who contributed to this wonderful celebration.
+  <br><br>
+  Here's to many more years of running, friendship, and shared success!
+</p>
+
+  </div>
+  
+  <div class="row">
+    <div class="image-column">
+      <img src="/assets/images/lvac50th/Group-1.jpg" alt="Group-1" onclick="openModal(this.src)">
+      <div class="caption">Members of LVAC enjoying the celebration together.</div>
+    </div>
+    <div class="text-column">
+      <h3 class="description-title">A Gathering for the History Books</h3>
+      <p class="description">
+        Club members gathered to celebrate five decades of passion for athletics. Camaraderie and sporting spirit were evident as both long-standing and new members shared anecdotes and memories that have shaped the club's identity throughout the years.
+      </p>
+    </div>
+  </div>
+  
+  <div class="row">
+    <div class="image-column">
+      <img src="/assets/images/lvac50th/jim_mic.jpeg" alt="Jim Davis" onclick="openModal(this.src)">
+      <div class="caption">Jim Davis talking to the attendees.</div>
+    </div>
+    <div class="text-column">
+      <h3 class="description-title">Half a Century of Achievements</h3>
+      <p class="description">
+        During the evening, tribute was paid to the club's founders and those who have significantly contributed to its development. From its humble beginnings to becoming one of the most respected clubs in the region, LVAC has proven that with dedication and passion, all obstacles can be overcome.
+      </p>
+    </div>
+  </div>
+  
+  <div class="row">
+    <div class="image-column">
+      <img src="/assets/images/lvac50th/cake.jpeg" alt="Cake" onclick="openModal(this.src)">
+      <div class="caption">The Anniversary Cake: A beautifully decorated cake to mark the occasion.</div>
+    </div>
+    <div class="text-column">
+      <h3 class="description-title">Sweet Celebration</h3>
+      <p class="description">
+        The highlight of the night was the cutting of the spectacular anniversary cake, decorated with the club's colors and emblem. This symbolic moment represented the passage of time and the sweet victories achieved during these 50 years of sporting history, as all those present applauded enthusiastically.
+      </p>
+    </div>
+  </div>
+  
+  <div class="row">
+    <div class="image-column">
+      <img src="/assets/images/lvac50th/luke.jpg" alt="Luke" onclick="openModal(this.src)">
+      <div class="caption">Luke giving a speech: Sharing heartfelt words during the event.</div>
+    </div>
+    <div class="text-column">
+      <h3 class="description-title">Words That Inspire</h3>
+      <p class="description">
+        Luke captivated the audience with an emotional speech that journeyed through the club's history, highlighting the most significant moments and the people who have left their mark. His message of unity and perseverance resonated among attendees, inspiring both veterans and the new generations of athletes who are part of the LVAC family.
+      </p>
+    </div>
+  </div>
+
+    <!-- Add this div before the gallery or wherever you prefer to place it -->
+    <div class="video-section">
+      <h2 class="description-title" style="text-align: center; margin: 40px 0 20px;">Club History Video</h2>
+      
+      <p class="intro">
+        During our 50th anniversary celebration, this video was screened showcasing the rich history 
+        of our club from its beginnings to the present day. Relive the most memorable moments and 
+        meet the people who have made LVAC what it is today.
+      </p>
+      
+      <div class="video-container">
+        <!-- Replace "VIDEO_ID" with the actual YouTube video ID -->
+        <iframe 
+          src="https://www.youtube.com/embed/gYvRjNIw9FI" 
+          title="LVAC History - 50 Years of Athletics" 
+          frameborder="0" 
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+          allowfullscreen>
+        </iframe>
+      </div>
+      
+      <div class="video-caption">
+        Commemorative video screened during the 50th anniversary celebration at the Guinness Storehouse, 
+        September 21st, 2024.
+      </div>
+    </div>
+  
+  
+  <div class="gallery-section">
+    <h2 class="description-title" style="text-align: center; margin: 40px 0 30px;">Photos Gallery</h2>
+    
+    <div class="gallery">
+      <div class="gallery-item">
+        <img src="/assets/images/lvac50th/women.jpeg" alt="Women" onclick="openModal(this.src)">
+      </div>    
+      <div class="gallery-item">
+        <img src="/assets/images/lvac50th/men.jpeg" alt="Men Group" onclick="openModal(this.src)">
+      </div>
+      <div class="gallery-item">
+        <img src="/assets/images/lvac50th/men2.jpg" alt="Men Group" onclick="openModal(this.src)">
+      </div>
+      <div class="gallery-item">
+        <img src="/assets/images/lvac50th/001.jpeg" alt="Event LVAC" onclick="openModal(this.src)">
+      </div>
+      <div class="gallery-item">
+        <img src="/assets/images/lvac50th/002.jpeg" alt="Event LVAC" onclick="openModal(this.src)">
+      </div>
+      <div class="gallery-item">
+        <img src="/assets/images/lvac50th/003.jpeg" alt="Event LVAC" onclick="openModal(this.src)">
+      </div>
+      <div class="gallery-item">
+        <img src="/assets/images/lvac50th/annie.jpeg" alt="Annie" onclick="openModal(this.src)">
+      </div>
+      <div class="gallery-item">
+        <img src="/assets/images/lvac50th/annie2.jpeg" alt="Annie" onclick="openModal(this.src)">
+      </div>
+      <div class="gallery-item">
+        <img src="/assets/images/lvac50th/brigid.jpeg" alt="Brigid" onclick="openModal(this.src)">
+      </div>
+      <div class="gallery-item">
+        <img src="/assets/images/lvac50th/donal.jpeg" alt="Donal" onclick="openModal(this.src)">
+      </div>
+      <div class="gallery-item">
+        <img src="/assets/images/lvac50th/geoffrey.jpeg" alt="Geoffrey" onclick="openModal(this.src)">
+      </div>
+      <div class="gallery-item">
+        <img src="/assets/images/lvac50th/jim.jpeg" alt="Jim" onclick="openModal(this.src)">
+      </div>
+      <div class="gallery-item">
+        <img src="/assets/images/lvac50th/jim_ciaran.jpeg" alt="Jim and Ciaran" onclick="openModal(this.src)">
+      </div>
+      <div class="gallery-item">
+        <img src="/assets/images/lvac50th/Group-2.jpg" alt="Group Picture" onclick="openModal(this.src)">
+      </div>
+      <div class="gallery-item">
+        <img src="/assets/images/lvac50th/Hilary.jpg" alt="Hilary" onclick="openModal(this.src)">
+      </div>
+      <div class="gallery-item">
+        <img src="/assets/images/lvac50th/mark.jpeg" alt="Mark" onclick="openModal(this.src)">
+      </div>
+      <div class="gallery-item">
+        <img src="/assets/images/lvac50th/mollie.jpeg" alt="Mollie" onclick="openModal(this.src)">
+      </div>
+      <div class="gallery-item">
+        <img src="/assets/images/lvac50th/orla.jpeg" alt="Orla" onclick="openModal(this.src)">
+      </div>
+      <div class="gallery-item">
+        <img src="/assets/images/lvac50th/pierce.jpeg" alt="Pierce" onclick="openModal(this.src)">
+      </div>
+
+      <div class="gallery-item">
+        <img src="/assets/images/lvac50th/004.jpg" alt="" onclick="openModal(this.src)">
+      </div>
+      <div class="gallery-item">
+        <img src="/assets/images/lvac50th/005.jpg" alt="" onclick="openModal(this.src)">
+      </div>
+
+      <div class="gallery-item">
+        <img src="/assets/images/lvac50th/quiz.jpeg" alt="Quiz" onclick="openModal(this.src)">
+      </div>
+
+      <div class="gallery-item">
+        <img src="/assets/images/lvac50th/table.jpeg" alt="Mesa" onclick="openModal(this.src)">
+      </div>
+      <div class="gallery-item">
+        <img src="/assets/images/lvac50th/tv.jpeg" alt="TV" onclick="openModal(this.src)">
+      </div>
+      <div class="gallery-item">
+        <img src="/assets/images/lvac50th/storehouse-1.jpg" alt="Guinness Storehouse" onclick="openModal(this.src)">
+      </div>
+      <div class="gallery-item">
+        <img src="/assets/images/lvac50th/trophy.jpg" alt="Myles Cullen Trophy" onclick="openModal(this.src)">
+      </div>
+    </div>
+
+    
+  </div>
+
+
+  <div class="footer">
+    <p>LVAC 50th Anniversary Celebration - September 21st, 2024 - Guinness Storehouse, Dublin</p>
+  </div>
+</div>
+
+<!-- The Modal for displaying full-size images -->
+<div id="imageModal" class="modal">
+  <span class="close" onclick="closeModal()">&times;</span>
+  <img class="modal-content" id="fullSizeImage">
+</div>
+
+<script>
+  // Get the modal
+  var modal = document.getElementById("imageModal");
+  var modalImg = document.getElementById("fullSizeImage");
+  
+  // Function to open the modal with the clicked image
+  function openModal(imgSrc) {
+    modal.style.display = "flex";  // Cambiado de "block" a "flex"
+    modalImg.src = imgSrc;
+  }
+  
+  // Function to close the modal
+  function closeModal() {
+    modal.style.display = "none";
+  }
+  
+  // Close the modal when clicking outside the image
+  window.onclick = function(event) {
+    if (event.target == modal) {
+      closeModal();
+    }
+  }
+</script>

@@ -8,3 +8,4 @@ location: Santry, Dublin.
 
 <img src="/assets/images/nick/nick-ai-rip.webp"  width="100%" height="auto" alt="Nick Davis pictured with his Lifetime Services to Athletics Award during the 2019 National Athletics Awards.">
 
+<img src="/assets/images/races/2025/2025-04-10_nick_session.jpg"  width="100%" height="auto" alt="Liffey Valley Session">

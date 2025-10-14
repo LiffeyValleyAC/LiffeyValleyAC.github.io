@@ -1,9 +1,10 @@
 ---
-title: Dublin Intermediate and Masters Cross Country Championships
+title: Dublin Intermediate and Masters XC Cross Country Championships
 location: St. Annes Park, Raheny
 date: 2025-01-05 10:00
 latitude: 53.368740481773116
 longitude: -6.173076909171677
+distance: Intermediate and Master Women 3km, Intermediate and Master Men 6km
 results:
   - place: 29
     name: James McKenna
@@ -121,10 +122,6 @@ results:
     name: Aoife Brady
     time: 15.01
     category: W I
-  - place: 63
-    name: Brigid Long
-    time: 14.28
-    category: F35
   - place: 59
     name: Margaret O'Friel
     time: 16.27

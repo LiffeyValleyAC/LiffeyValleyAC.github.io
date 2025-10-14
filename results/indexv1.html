@@ -1,0 +1,717 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LVAC Race Results Dashboard</title>
+     <script src="js/papaparse.min.js"></script>
+    <script src="js/chart.umd.min.js"></script>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif;
+            background-color: #f9fafb;
+            color: #111827;
+        }
+        
+        .banner {
+            background-color: #facc15;
+            border-bottom: 4px solid #1e3a8a;
+            padding: 2rem;
+        }
+        
+        .banner-content {
+            max-width: 1280px;
+            margin: 0 auto;
+        }
+        
+        .banner h1 {
+            font-size: 2.5rem;
+            font-weight: bold;
+            color: #1e3a8a;
+            margin-bottom: 0.5rem;
+        }
+        
+        .banner p {
+            color: #1e40af;
+            font-size: 1.125rem;
+        }
+        
+        .container {
+            max-width: 1280px;
+            margin: 0 auto;
+            padding: 2rem;
+        }
+        
+        .section {
+            background: white;
+            border-radius: 0.5rem;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+            padding: 1.5rem;
+            margin-bottom: 1.5rem;
+        }
+        
+        .section-title {
+            font-size: 1.5rem;
+            font-weight: bold;
+            margin-bottom: 1rem;
+            color: #111827;
+        }
+        
+        .checkbox-grid {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 1rem;
+        }
+        
+        .checkbox-label {
+            display: flex;
+            align-items: center;
+            cursor: pointer;
+        }
+        
+        .checkbox-label input {
+            margin-right: 0.5rem;
+            cursor: pointer;
+        }
+        
+        .filters-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 1rem;
+            margin-bottom: 1rem;
+        }
+        
+        .filter-group {
+            display: flex;
+            flex-direction: column;
+        }
+        
+        .filter-label {
+            font-weight: 600;
+            margin-bottom: 0.5rem;
+            color: #374151;
+        }
+        
+        input[type="date"],
+        input[type="text"] {
+            padding: 0.5rem;
+            border: 1px solid #d1d5db;
+            border-radius: 0.375rem;
+            font-size: 0.875rem;
+        }
+        
+        .filter-checkboxes {
+            max-height: 200px;
+            overflow-y: auto;
+            border: 1px solid #e5e7eb;
+            border-radius: 0.375rem;
+            padding: 0.5rem;
+        }
+        
+        .btn {
+            padding: 0.5rem 1rem;
+            border: none;
+            border-radius: 0.375rem;
+            cursor: pointer;
+            font-weight: 600;
+            transition: all 0.2s;
+        }
+        
+        .btn-primary {
+            background-color: #1e3a8a;
+            color: white;
+        }
+        
+        .btn-primary:hover {
+            background-color: #1e40af;
+        }
+        
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 1rem;
+            margin-bottom: 1.5rem;
+        }
+        
+        .stat-card {
+            border-radius: 0.5rem;
+            padding: 1.5rem;
+            color: white;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        }
+        
+        .stat-card.blue { background: linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%); }
+        .stat-card.yellow { background: linear-gradient(135deg, #eab308 0%, #facc15 100%); }
+        .stat-card.green { background: linear-gradient(135deg, #059669 0%, #10b981 100%); }
+        .stat-card.purple { background: linear-gradient(135deg, #7c3aed 0%, #a855f7 100%); }
+        
+        .stat-value {
+            font-size: 2rem;
+            font-weight: bold;
+            margin-bottom: 0.5rem;
+        }
+        
+        .stat-label {
+            opacity: 0.9;
+            font-size: 0.875rem;
+        }
+        
+        .charts-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+            gap: 1.5rem;
+            margin-bottom: 1.5rem;
+        }
+        
+        .chart-container {
+            background: white;
+            border-radius: 0.5rem;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+            padding: 1.5rem;
+        }
+        
+        .chart-title {
+            font-size: 1.25rem;
+            font-weight: bold;
+            margin-bottom: 1rem;
+        }
+        
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        
+        thead {
+            background-color: #f3f4f6;
+        }
+        
+        th, td {
+            padding: 0.75rem;
+            text-align: left;
+            border-bottom: 1px solid #e5e7eb;
+            font-size: 0.875rem;
+        }
+        
+        th {
+            font-weight: 600;
+            color: #374151;
+        }
+        
+        tbody tr:hover {
+            background-color: #f9fafb;
+        }
+        
+        .table-container {
+            overflow-x: auto;
+            max-height: 600px;
+            overflow-y: auto;
+        }
+        
+        .loading {
+            text-align: center;
+            padding: 3rem;
+            font-size: 1.5rem;
+            font-weight: bold;
+            color: #1e3a8a;
+        }
+        
+        .surface-list {
+            display: flex;
+            flex-direction: column;
+            gap: 1rem;
+        }
+        
+        .surface-item {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+        
+        .surface-color {
+            width: 1rem;
+            height: 1rem;
+            border-radius: 0.25rem;
+            margin-right: 0.75rem;
+        }
+        
+        .surface-name {
+            display: flex;
+            align-items: center;
+            font-weight: 500;
+        }
+        
+        .surface-count {
+            font-size: 1.5rem;
+            font-weight: bold;
+            color: #374151;
+        }
+    </style>
+</head>
+<body>
+    <!-- Banner -->
+    <div class="banner">
+        <div class="banner-content">
+            <h1>Liffey Valley Athletic Club</h1>
+            <p>LVAC 1974 - 2024 | 50 Years of Excellence</p>
+        </div>
+    </div>
+
+    <div class="container">
+        <!-- Loading -->
+        <div id="loading" class="loading">Loading Race Results...</div>
+
+        <!-- Main Content (hidden until loaded) -->
+        <div id="main-content" style="display: none;">
+            <!-- Title -->
+            <div style="margin-bottom: 2rem;">
+                <h2 style="font-size: 2rem; font-weight: bold; margin-bottom: 0.5rem;">Race Results Dashboard</h2>
+                <p style="color: #6b7280;">Explore and analyze race results from LVAC members. Filter by athlete, date, surface, and more.</p>
+            </div>
+
+            <!-- Column Visibility -->
+            <div class="section">
+                <h3 class="section-title">Column Visibility</h3>
+                <div id="column-checkboxes" class="checkbox-grid"></div>
+            </div>
+
+            <!-- Filters -->
+            <div class="section">
+                <h3 class="section-title">Filters</h3>
+                <div class="filters-grid">
+                    <div class="filter-group">
+                        <label class="filter-label">Date From</label>
+                        <input type="date" id="dateFrom">
+                    </div>
+                    <div class="filter-group">
+                        <label class="filter-label">Date To</label>
+                        <input type="date" id="dateTo">
+                    </div>
+                    <div class="filter-group">
+                        <label class="filter-label">Athlete Name</label>
+                        <input type="text" id="athleteSearch" placeholder="Search athlete...">
+                    </div>
+                </div>
+                <div class="filters-grid">
+                    <div class="filter-group">
+                        <label class="filter-label">Surface</label>
+                        <div id="surfaceFilters" class="filter-checkboxes"></div>
+                    </div>
+                    <div class="filter-group">
+                        <label class="filter-label">Gender</label>
+                        <div id="genderFilters" class="filter-checkboxes"></div>
+                    </div>
+                    <div class="filter-group">
+                        <label class="filter-label">Distance</label>
+                        <div id="distanceFilters" class="filter-checkboxes"></div>
+                    </div>
+                    <div class="filter-group">
+                        <label class="filter-label">Race Name</label>
+                        <div id="raceFilters" class="filter-checkboxes"></div>
+                    </div>
+                </div>
+                <button class="btn btn-primary" onclick="clearFilters()">Clear All Filters</button>
+            </div>
+
+            <!-- Statistics Cards -->
+            <div class="stats-grid" id="statsCards"></div>
+
+            <!-- Charts -->
+            <div class="charts-grid">
+                <div class="chart-container">
+                    <h3 class="chart-title">Races by Month</h3>
+                    <canvas id="monthChart"></canvas>
+                </div>
+                <div class="chart-container">
+                    <h3 class="chart-title">Races by Surface</h3>
+                    <canvas id="surfaceChart"></canvas>
+                </div>
+                <div class="chart-container">
+                    <h3 class="chart-title">Participants by Gender</h3>
+                    <canvas id="genderChart"></canvas>
+                </div>
+                <div class="chart-container">
+                    <h3 class="chart-title">Surface Breakdown</h3>
+                    <div id="surfaceList" class="surface-list"></div>
+                </div>
+            </div>
+
+            <!-- Results Table -->
+            <div class="section">
+                <h3 class="section-title" id="tableTitle">Race Results</h3>
+                <div class="table-container">
+                    <table>
+                        <thead id="tableHeader"></thead>
+                        <tbody id="tableBody"></tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        let allData = [];
+        let filteredData = [];
+        let visibleColumns = {};
+        let filters = {
+            dateFrom: '',
+            dateTo: '',
+            athlete: '',
+            surfaces: [],
+            genders: [],
+            distances: [],
+            raceNames: []
+        };
+        
+        const SURFACE_COLORS = {
+            'Road': '#3B82F6',
+            'Trail': '#10B981',
+            'Track': '#F59E0B',
+            'Cross Country': '#8B5CF6'
+        };
+
+        let charts = {
+            month: null,
+            surface: null,
+            gender: null
+        };
+
+        function init() {
+            Papa.parse('https://docs.google.com/spreadsheets/d/e/2PACX-1vRmcNgtKLugcwRVqJ6a-AK-m4AqoAXQ5shhj-l6qFdYf6GuzJgBSsSknrpYsb7jRmh-yu_tmOadR6x8/pub?gid=686949919&single=true&output=csv', {
+                download: true,
+                header: true,
+                complete: function(results) {
+                    allData = results.data.filter(row => row.DATE); // Filtrar filas vacías
+                    filteredData = [...allData];
+                    
+                    // Inicializar columnas visibles
+                    if (allData.length > 0) {
+                        Object.keys(allData[0]).forEach(col => {
+                            visibleColumns[col] = true;
+                        });
+                    }
+                    
+                    document.getElementById('loading').style.display = 'none';
+                    document.getElementById('main-content').style.display = 'block';
+                    
+                    setupUI();
+                    updateDisplay();
+                }
+            });
+        }
+
+        function setupUI() {
+            if (allData.length === 0) return;
+            
+            const columns = Object.keys(allData[0]);
+            
+            // Column checkboxes
+            const columnCheckboxes = document.getElementById('column-checkboxes');
+            columns.forEach(col => {
+                const label = document.createElement('label');
+                label.className = 'checkbox-label';
+                label.innerHTML = `
+                    <input type="checkbox" checked onchange="toggleColumn('${col}')">
+                    <span>${col}</span>
+                `;
+                columnCheckboxes.appendChild(label);
+            });
+            
+            // Populate filter options
+            const uniqueValues = {
+                surfaces: [...new Set(allData.map(d => d.SURFACE).filter(Boolean))],
+                genders: [...new Set(allData.map(d => d.GENDER).filter(Boolean))],
+                distances: [...new Set(allData.map(d => d.DISTANCE).filter(Boolean))],
+                raceNames: [...new Set(allData.map(d => d['RACE NAME']).filter(Boolean))]
+            };
+            
+            createFilterCheckboxes('surfaceFilters', uniqueValues.surfaces, 'surfaces');
+            createFilterCheckboxes('genderFilters', uniqueValues.genders, 'genders');
+            createFilterCheckboxes('distanceFilters', uniqueValues.distances, 'distances');
+            createFilterCheckboxes('raceFilters', uniqueValues.raceNames, 'raceNames');
+            
+            // Event listeners
+            document.getElementById('dateFrom').addEventListener('change', applyFilters);
+            document.getElementById('dateTo').addEventListener('change', applyFilters);
+            document.getElementById('athleteSearch').addEventListener('input', applyFilters);
+        }
+
+        function createFilterCheckboxes(containerId, values, filterKey) {
+            const container = document.getElementById(containerId);
+            values.forEach(value => {
+                const label = document.createElement('label');
+                label.className = 'checkbox-label';
+                label.innerHTML = `
+                    <input type="checkbox" onchange="toggleFilter('${filterKey}', '${value.replace(/'/g, "\\'")}')">
+                    <span style="font-size: 0.875rem;">${value}</span>
+                `;
+                container.appendChild(label);
+            });
+        }
+
+        function toggleColumn(col) {
+            visibleColumns[col] = !visibleColumns[col];
+            updateTable();
+        }
+
+        function toggleFilter(filterKey, value) {
+            const index = filters[filterKey].indexOf(value);
+            if (index > -1) {
+                filters[filterKey].splice(index, 1);
+            } else {
+                filters[filterKey].push(value);
+            }
+            applyFilters();
+        }
+
+        function clearFilters() {
+            filters = {
+                dateFrom: '',
+                dateTo: '',
+                athlete: '',
+                surfaces: [],
+                genders: [],
+                distances: [],
+                raceNames: []
+            };
+            
+            document.getElementById('dateFrom').value = '';
+            document.getElementById('dateTo').value = '';
+            document.getElementById('athleteSearch').value = '';
+            
+            document.querySelectorAll('.filter-checkboxes input[type="checkbox"]').forEach(cb => {
+                cb.checked = false;
+            });
+            
+            applyFilters();
+        }
+
+        function applyFilters() {
+            filters.dateFrom = document.getElementById('dateFrom').value;
+            filters.dateTo = document.getElementById('dateTo').value;
+            filters.athlete = document.getElementById('athleteSearch').value;
+            
+            filteredData = allData.filter(row => {
+                if (filters.dateFrom && row.DATE < filters.dateFrom) return false;
+                if (filters.dateTo && row.DATE > filters.dateTo) return false;
+                if (filters.athlete && !row.ATHLETE?.toLowerCase().includes(filters.athlete.toLowerCase())) return false;
+                if (filters.surfaces.length > 0 && !filters.surfaces.includes(row.SURFACE)) return false;
+                if (filters.genders.length > 0 && !filters.genders.includes(row.GENDER)) return false;
+                if (filters.distances.length > 0 && !filters.distances.includes(row.DISTANCE)) return false;
+                if (filters.raceNames.length > 0 && !filters.raceNames.includes(row['RACE NAME'])) return false;
+                return true;
+            });
+            
+            updateDisplay();
+        }
+
+        function updateDisplay() {
+            updateStats();
+            updateCharts();
+            updateTable();
+        }
+
+        function updateStats() {
+            const totalRaces = filteredData.length;
+            const uniqueAthletes = new Set(filteredData.map(d => d.ATHLETE)).size;
+            
+            const surfaceCount = {};
+            const genderCount = {};
+            filteredData.forEach(row => {
+                surfaceCount[row.SURFACE] = (surfaceCount[row.SURFACE] || 0) + 1;
+                genderCount[row.GENDER] = (genderCount[row.GENDER] || 0) + 1;
+            });
+            
+            let statsHTML = `
+                <div class="stat-card blue">
+                    <div class="stat-value">${totalRaces}</div>
+                    <div class="stat-label">Total Races</div>
+                </div>
+                <div class="stat-card yellow">
+                    <div class="stat-value">${uniqueAthletes}</div>
+                    <div class="stat-label">Total Participants</div>
+                </div>
+            `;
+            
+            // Athlete-specific stats
+            if (filters.athlete) {
+                const athleteData = filteredData.filter(d => 
+                    d.ATHLETE?.toLowerCase().includes(filters.athlete.toLowerCase())
+                );
+                
+                let totalDistance = 0;
+                let totalTimeSeconds = 0;
+                
+                athleteData.forEach(row => {
+                    const dist = parseFloat(row.DISTANCE) || 0;
+                    totalDistance += dist;
+                    
+                    const timeParts = row.TIME?.split(':') || [];
+                    if (timeParts.length === 3) {
+                        const seconds = parseInt(timeParts[0]) * 3600 + parseInt(timeParts[1]) * 60 + parseInt(timeParts[2]);
+                        totalTimeSeconds += seconds;
+                    }
+                });
+                
+                const avgPaceSecondsPerKm = totalDistance > 0 ? totalTimeSeconds / totalDistance : 0;
+                const paceMinutes = Math.floor(avgPaceSecondsPerKm / 60);
+                const paceSeconds = Math.floor(avgPaceSecondsPerKm % 60);
+                const avgPace = `${paceMinutes}:${paceSeconds.toString().padStart(2, '0')}`;
+                
+                statsHTML += `
+                    <div class="stat-card green">
+                        <div class="stat-value">${totalDistance.toFixed(2)}</div>
+                        <div class="stat-label">Total Distance (km)</div>
+                    </div>
+                    <div class="stat-card purple">
+                        <div class="stat-value">${avgPace}</div>
+                        <div class="stat-label">Avg Pace (min/km)</div>
+                    </div>
+                `;
+            }
+            
+            document.getElementById('statsCards').innerHTML = statsHTML;
+            
+            // Update surface list
+            let surfaceListHTML = '';
+            Object.entries(surfaceCount).forEach(([surface, count]) => {
+                const color = SURFACE_COLORS[surface] || '#999';
+                surfaceListHTML += `
+                    <div class="surface-item">
+                        <div class="surface-name">
+                            <div class="surface-color" style="background-color: ${color}"></div>
+                            <span>${surface}</span>
+                        </div>
+                        <div class="surface-count">${count}</div>
+                    </div>
+                `;
+            });
+            document.getElementById('surfaceList').innerHTML = surfaceListHTML;
+        }
+
+        function updateCharts() {
+            // Races by Month
+            const monthData = {};
+            filteredData.forEach(row => {
+                if (row.DATE) {
+                    const month = row.DATE.substring(0, 7);
+                    if (!monthData[month]) monthData[month] = {};
+                    const raceName = row['RACE NAME'];
+                    if (!monthData[month][raceName]) {
+                        monthData[month][raceName] = 0;
+                    }
+                    monthData[month][raceName]++;
+                }
+            });
+            
+            const months = Object.keys(monthData).sort();
+            const raceNames = [...new Set(filteredData.map(d => d['RACE NAME']).filter(Boolean))];
+            
+            const datasets = raceNames.map((race, idx) => ({
+                label: race,
+                data: months.map(month => monthData[month][race] || 0),
+                backgroundColor: Object.values(SURFACE_COLORS)[idx % 4]
+            }));
+            
+            if (charts.month) charts.month.destroy();
+            charts.month = new Chart(document.getElementById('monthChart'), {
+                type: 'bar',
+                data: {
+                    labels: months,
+                    datasets: datasets
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: true,
+                    scales: {
+                        x: { stacked: true },
+                        y: { stacked: true, beginAtZero: true }
+                    }
+                }
+            });
+            
+            // Surface Pie Chart
+            const surfaceCount = {};
+            filteredData.forEach(row => {
+                surfaceCount[row.SURFACE] = (surfaceCount[row.SURFACE] || 0) + 1;
+            });
+            
+            if (charts.surface) charts.surface.destroy();
+            charts.surface = new Chart(document.getElementById('surfaceChart'), {
+                type: 'pie',
+                data: {
+                    labels: Object.keys(surfaceCount),
+                    datasets: [{
+                        data: Object.values(surfaceCount),
+                        backgroundColor: Object.keys(surfaceCount).map(s => SURFACE_COLORS[s] || '#999')
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: true
+                }
+            });
+            
+            // Gender Pie Chart
+            const genderCount = {};
+            filteredData.forEach(row => {
+                genderCount[row.GENDER] = (genderCount[row.GENDER] || 0) + 1;
+            });
+            
+            if (charts.gender) charts.gender.destroy();
+            charts.gender = new Chart(document.getElementById('genderChart'), {
+                type: 'pie',
+                data: {
+                    labels: Object.keys(genderCount),
+                    datasets: [{
+                        data: Object.values(genderCount),
+                        backgroundColor: ['#3B82F6', '#EC4899']
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: true
+                }
+            });
+        }
+
+        function updateTable() {
+            if (allData.length === 0) return;
+            
+            const columns = Object.keys(allData[0]).filter(col => visibleColumns[col]);
+            
+            // Header
+            let headerHTML = '<tr>';
+            columns.forEach(col => {
+                headerHTML += `<th>${col}</th>`;
+            });
+            headerHTML += '</tr>';
+            document.getElementById('tableHeader').innerHTML = headerHTML;
+            
+            // Body
+            let bodyHTML = '';
+            const displayData = filteredData.slice(0, 100);
+            displayData.forEach(row => {
+                bodyHTML += '<tr>';
+                columns.forEach(col => {
+                    bodyHTML += `<td>${row[col] || ''}</td>`;
+                });
+                bodyHTML += '</tr>';
+            });
+            document.getElementById('tableBody').innerHTML = bodyHTML;
+            
+            // Update title
+            document.getElementById('tableTitle').textContent = 
+                `Race Results (${filteredData.length} records${filteredData.length > 100 ? ', showing first 100' : ''})`;
+        }
+
+        // Initialize on load
+        window.addEventListener('load', init);
+    </script>
+</body>
+</html>

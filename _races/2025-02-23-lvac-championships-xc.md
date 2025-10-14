@@ -46,7 +46,7 @@ results:
     time: 32.21
     category: M
   - place: 11
-    name: Richard Finnegan
+    name: Richard Finegan
     time: 32.32
     category: M
   - place: 12

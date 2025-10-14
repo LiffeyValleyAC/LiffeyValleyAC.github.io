@@ -6,7 +6,7 @@ latitude: 53.3522291
 longitude: -6.3214874
 results:
   - place: 1
-    name: Joe Whittle
+    name: Joseph Whittle
     finish_time: 16.05
     handicap: 4.15
     actual_time: 11.50
@@ -198,7 +198,7 @@ results:
     actual_time: 15.21
     note:
   - place: 33
-    name: Richard Finnegan
+    name: Richard Finegan
     finish_time: 17.24
     handicap: 6.00
     actual_time: 11.24
