@@ -673,7 +673,7 @@
         function updateStats() {
             const filteredRecords = filteredData.length;
             const filteredRaces = new Set(filteredData.map(d => d.ID)).size;
-            const filteredAthletes = new Set(filteredData.map(d => d.ATHLETE?.normalize('NFC').trim().toLowerCase())).size;
+            const filteredAthletes = new Set(filteredData.map(d => d.ATHLETE)).size;
             console.log('Filtered Athletes:', filteredAthletes);
             
 
@@ -1038,7 +1038,11 @@
             // Obtén las estadísticas necesarias
             const filteredRecords = filteredData.length;
             const filteredRaces = new Set(filteredData.map(d => d.ID)).size;
-            const filteredAthletes = new Set(filteredData.map(d => d.ATHLETE?.normalize('NFC').trim().toLowerCase())).size;
+            const filteredAthletes = new Set(filteredData.map(d => d.ATHLETE)).size;
+            console.log('Filtered Data:', filteredData);
+            console.log('Filtered Records:', filteredRecords);
+            console.log('Filtered Races:', filteredRaces);
+            console.log('Filtered Athletes:', filteredAthletes);
             
             // Crea una nueva ventana
             const printWindow = window.open('', '_blank');

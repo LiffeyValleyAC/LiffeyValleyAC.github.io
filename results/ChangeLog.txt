@@ -49,8 +49,16 @@ OK -> Races by Month mostrar la cantidad de races en la label del month. Mostrab
 20:28 06/10/2025 v5 Movido al GitHub de liffeyvalleyac.com
 OK -> Mejorar las labels dentro de month, colocándolas arriba  cada barra. Uso grace: '5%' para dejarle margen arriba.
 
+22:54 13/10/2025 v6
+OK -> Agregado filtro últimos 30 días. Mejorada la función para reutilizar filtro por fecha desde y hasta.
+
+23:14 15/10/2025
+Verificar cantidad e Athletes no es igual a la filtrada en Google Sheets. En la web salen 100, en Google Sheets 94.
+Conteo correcto si normalizamos antes de hacer new Set -> const filteredAthletes = new Set(filteredData.map(d => d.ATHLETE?.normalize('NFC').trim().toLowerCase())).size;
+
 
 FUTURE IMPROVEMENTS:
+
 Al visualizar en celular, las estadísticas se ven mal. Disminuir el gap y reducir el tamaño de la fuente. La tabla hacerla más corta para que siempre se vea parte de la pantalla para hacer scroll porque sino quedamos "atrapados" dentro de la tabla haciendo scroll.
 
 Filtrar por distancia Min y Max.
@@ -66,5 +74,6 @@ Agregar otro filtro a la derecha de Gender que filtre si la palabra Handicap se 
 Botón para filtrar las carreras que incluyen una copa del Club, cuyo Race Name contiene la palabra "Cup".
 
 Team Results. Pensar una forma de resumir los resultados por equipo, y si se consiguieron medallas.
+
 
 
