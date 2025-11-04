@@ -4,10 +4,10 @@ title: Club Records
 ---
 
 <style>
-  /* Ajustes para integrar con el diseño existente */
+  /* Ajustes para integrar con el diseño oscuro */
   .content {
     padding: 20px 0;
-    color: #333; /* Color de texto más oscuro para mejor legibilidad */
+    color: #e0e0e0; /* Texto claro para mejor legibilidad */
   }
   
   /* Estilo para las secciones de hombres y mujeres */
@@ -17,81 +17,96 @@ title: Club Records
   
   /* Estilo para los títulos de sección */
   .content h3 {
-    color: #2c3e50;
-    border-bottom: 2px solid #3498db;
+    color: #ffffff;
+    border-bottom: 2px solid #4a9fe0;
     padding-bottom: 8px;
-    margin: 30px 0 15px;
+    margin: 30px 0 20px;
     text-transform: uppercase;
     font-size: 1.5em;
+    font-weight: 600;
   }
   
   .women-section h3 {
-    border-color: #e74c3c;
+    border-color: #ff6b6b;
   }
   
   /* Subtítulos */
   .content h4 {
-    color: #2c3e50;
+    color: #ffffff;
     margin: 25px 0 15px;
-    padding-left: 10px;
-    border-left: 3px solid #3498db;
+    padding: 5px 0 5px 15px;
+    border-left: 3px solid #4a9fe0;
     font-size: 1.2em;
+    font-weight: 500;
   }
   
   .women-section h4 {
-    border-left-color: #e74c3c;
+    border-left-color: #ff6b6b;
   }
   
   /* Estilos de tablas */
   .table {
     width: 100%;
     margin-bottom: 30px;
-    border-collapse: collapse;
-    background: #fff;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-    border-radius: 4px;
+    border-collapse: separate;
+    border-spacing: 0;
+    background: rgba(40, 44, 52, 0.8);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+    border-radius: 6px;
     overflow: hidden;
+    border: 1px solid rgba(255, 255, 255, 0.1);
   }
   
   .table thead th {
-    background-color: #f8f9fa;
-    color: #2c3e50;
+    background-color: #2c3e50;
+    color: #ffffff;
     font-weight: 600;
-    padding: 10px 15px;
+    padding: 12px 15px;
     text-align: left;
-    border-bottom: 2px solid #dee2e6;
+    border-bottom: 2px solid rgba(255, 255, 255, 0.1);
     text-transform: uppercase;
     font-size: 0.9em;
+    letter-spacing: 0.5px;
   }
   
   .men-section .table thead th {
-    background-color: #3498db;
-    color: white;
+    background-color: #2c6a9e;
+    border-color: #4a9fe0;
   }
   
   .women-section .table thead th {
-    background-color: #e74c3c;
-    color: white;
+    background-color: #a83a3a;
+    border-color: #ff6b6b;
   }
   
   .table tbody td {
-    padding: 10px 15px;
-    border-bottom: 1px solid #dee2e6;
+    padding: 12px 15px;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.05);
     vertical-align: middle;
+    color: #e0e0e0;
   }
   
   .table tbody tr:nth-child(even) {
-    background-color: #f8f9fa;
+    background-color: rgba(255, 255, 255, 0.03);
   }
   
   .table tbody tr:hover {
-    background-color: #f1f7fd;
+    background-color: rgba(74, 159, 224, 0.15);
+    transition: background-color 0.2s ease;
+  }
+  
+  .women-section .table tbody tr:hover {
+    background-color: rgba(255, 107, 107, 0.15);
   }
   
   /* Destacar los récords */
   .table tbody td:last-child {
     font-weight: 600;
-    color: #e74c3c;
+    color: #ffa07a;
+  }
+  
+  .women-section .table tbody td:last-child {
+    color: #ffb6c1;
   }
   
   /* Responsive */
@@ -118,7 +133,7 @@ title: Club Records
   </div>
 </div>
 <div class="row content">
-  <div class="col-md-8">
+  <div>
     <div class="men-section">
       <h3>Men's Records</h3>
     <h4>Men's Olympic Distances</h4>
