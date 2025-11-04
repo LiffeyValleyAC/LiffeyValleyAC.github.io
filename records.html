@@ -4,105 +4,123 @@ title: Club Records
 ---
 
 <style>
-  /* General styling */
-  .records-container {
-    padding: 20px;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  /* Ajustes para integrar con el diseño existente */
+  .content {
+    padding: 20px 0;
+    color: #333; /* Color de texto más oscuro para mejor legibilidad */
   }
   
-  /* Section headers */
-  h3 {
+  /* Estilo para las secciones de hombres y mujeres */
+  .men-section, .women-section {
+    margin-bottom: 40px;
+  }
+  
+  /* Estilo para los títulos de sección */
+  .content h3 {
     color: #2c3e50;
-    border-bottom: 3px solid #3498db;
-    padding-bottom: 10px;
-    margin-top: 30px;
+    border-bottom: 2px solid #3498db;
+    padding-bottom: 8px;
+    margin: 30px 0 15px;
     text-transform: uppercase;
-    letter-spacing: 1px;
-  }
-  
-  h4 {
-    color: #34495e;
-    margin: 20px 0 15px;
-    padding-left: 10px;
-    border-left: 4px solid #3498db;
-  }
-  
-  /* Table styling */
-  .table {
-    width: 100%;
-    margin-bottom: 30px;
-    border-collapse: separate;
-    border-spacing: 0;
-    border-radius: 8px;
-    overflow: hidden;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    background: white;
-  }
-  
-  /* Table headers */
-  .table thead th {
-    background-color: #3498db;
-    color: white;
-    font-weight: 600;
-    padding: 12px;
-    text-align: left;
-    text-transform: uppercase;
-    font-size: 0.9em;
-    letter-spacing: 0.5px;
-  }
-  
-  /* Table cells */
-  .table tbody td {
-    padding: 12px;
-    border-bottom: 1px solid #e0e0e0;
-    vertical-align: middle;
-  }
-  
-  /* Alternating row colors */
-  .table tbody tr:nth-child(even) {
-    background-color: #f8f9fa;
-  }
-  
-  .table tbody tr:hover {
-    background-color: #f1f7fd;
-    transition: background-color 0.2s;
-  }
-  
-  /* Highlight record time/result */
-  .table tbody td:last-child {
-    font-weight: 600;
-    color: #e74c3c;
-  }
-  
-  /* Different colors for men's and women's sections */
-  .men-section h3 {
-    border-color: #3498db;
-  }
-  
-  .men-section .table thead th {
-    background-color: #3498db;
+    font-size: 1.5em;
   }
   
   .women-section h3 {
     border-color: #e74c3c;
   }
   
-  .women-section .table thead th {
-    background-color: #e74c3c;
+  /* Subtítulos */
+  .content h4 {
+    color: #2c3e50;
+    margin: 25px 0 15px;
+    padding-left: 10px;
+    border-left: 3px solid #3498db;
+    font-size: 1.2em;
   }
   
-  /* Responsive adjustments */
+  .women-section h4 {
+    border-left-color: #e74c3c;
+  }
+  
+  /* Estilos de tablas */
+  .table {
+    width: 100%;
+    margin-bottom: 30px;
+    border-collapse: collapse;
+    background: #fff;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    border-radius: 4px;
+    overflow: hidden;
+  }
+  
+  .table thead th {
+    background-color: #f8f9fa;
+    color: #2c3e50;
+    font-weight: 600;
+    padding: 10px 15px;
+    text-align: left;
+    border-bottom: 2px solid #dee2e6;
+    text-transform: uppercase;
+    font-size: 0.9em;
+  }
+  
+  .men-section .table thead th {
+    background-color: #3498db;
+    color: white;
+  }
+  
+  .women-section .table thead th {
+    background-color: #e74c3c;
+    color: white;
+  }
+  
+  .table tbody td {
+    padding: 10px 15px;
+    border-bottom: 1px solid #dee2e6;
+    vertical-align: middle;
+  }
+  
+  .table tbody tr:nth-child(even) {
+    background-color: #f8f9fa;
+  }
+  
+  .table tbody tr:hover {
+    background-color: #f1f7fd;
+  }
+  
+  /* Destacar los récords */
+  .table tbody td:last-child {
+    font-weight: 600;
+    color: #e74c3c;
+  }
+  
+  /* Responsive */
   @media (max-width: 768px) {
     .table {
       display: block;
       overflow-x: auto;
+      -webkit-overflow-scrolling: touch;
+    }
+    
+    .content h3 {
+      font-size: 1.3em;
+    }
+    
+    .content h4 {
+      font-size: 1.1em;
     }
   }
 </style>
 
-<div class="records-container">
-  <div class="men-section">
-    <h3>Men's Records</h3>
+<div class="row">
+  <div class="bar">
+    &nbsp;
+  </div>
+</div>
+<div class="row content">
+  <div class="col-md-8">
+    <div class="men-section">
+      <h3>Men's Records</h3>
     <h4>Men's Olympic Distances</h4>
     <table class="table">
       <thead>
@@ -303,10 +321,10 @@ title: Club Records
         </tr>
       </tbody>
     </table>
-  </div>
-  
-  <div class="women-section">
-    <h3>Women's Records and Fastest Times</h3>
+    </div>
+    
+    <div class="women-section">
+      <h3>Women's Records and Fastest Times</h3>
     <h4>Women's Olympic Distances</h4>
     <table class="table">
       <thead>
@@ -391,5 +409,6 @@ title: Club Records
         </tr>
       </tbody>
     </table>
+    </div>
   </div>
 </div>
