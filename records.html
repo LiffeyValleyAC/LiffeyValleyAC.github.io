@@ -100,21 +100,9 @@ title: Club Records
   }
   
   /* Destacar los récords */
-  /* Estilo para la columna de récord */
-  .table tbody td:nth-last-child(2) {
+  .table tbody td:last-child {
     font-weight: 600;
     color: #ffa07a;
-  }
-  
-  .women-section .table tbody td:nth-last-child(2) {
-    color: #ffb6c1;
-  }
-  
-  /* Estilo para la columna de pace */
-  .table tbody td:last-child {
-    font-family: monospace;
-    color: #a3d4ff;
-    white-space: nowrap;
   }
   
   .women-section .table tbody td:last-child {
@@ -139,107 +127,6 @@ title: Club Records
   }
 </style>
 
-<script>
-// Función para convertir tiempo a segundos
-function timeToSeconds(timeStr) {
-  if (!timeStr) return 0;
-  
-  // Manejar diferentes formatos de tiempo
-  if (timeStr.includes('h')) {
-    // Formato de maratón: 2h30'45"
-    const parts = timeStr.split('h');
-    const hours = parseInt(parts[0]);
-    const minutes = parseInt(parts[1]) || 0;
-    const seconds = parseFloat(parts[1]?.split('\'')[1]?.replace('"', '')) || 0;
-    return hours * 3600 + minutes * 60 + seconds;
-  } else if (timeStr.includes('\'')) {
-    // Formato de minutos y segundos: 4'30"
-    const parts = timeStr.split('\'');
-    const minutes = parseInt(parts[0]);
-    const seconds = parseFloat(parts[1]?.replace('"', '')) || 0;
-    return minutes * 60 + seconds;
-  } else if (timeStr.includes('.')) {
-    // Formato de segundos con decimales: 11.20
-    return parseFloat(timeStr);
-  } else if (timeStr.includes('m')) {
-    // Formato de metros: 6m47
-    return parseFloat(timeStr.replace('m', '.'));
-  }
-  
-  return parseFloat(timeStr) || 0;
-}
-
-// Función para formatear el ritmo
-function formatPace(secondsPerKm) {
-  if (!secondsPerKm || isNaN(secondsPerKm) || secondsPerKm <= 0) return 'N/A';
-  
-  const minutes = Math.floor(secondsPerKm / 60);
-  const seconds = Math.round(secondsPerKm % 60);
-  return `${minutes}'${seconds.toString().padStart(2, '0')"`/km`;
-}
-
-// Función para calcular el ritmo en min/km
-function calculatePace(distanceStr, timeStr) {
-  // Extraer la distancia numérica
-  const distanceMatch = distanceStr.match(/([0-9]+(?:\.[0-9]+)?)/);
-  if (!distanceMatch) return 'N/A';
-  
-  let distance = parseFloat(distanceMatch[1]);
-  
-  // Convertir a kilómetros si es necesario
-  if (distanceStr.includes('m') && !distanceStr.includes('m ')) {
-    // Si es en metros (ej: 100m, 800m)
-    distance = distance / 1000;
-  } else if (distanceStr.includes('k') || distanceStr.toLowerCase().includes('km')) {
-    // Ya está en kilómetros
-    distance = distance;
-  } else if (distanceStr.includes('m')) {
-    // Si es en millas (ej: 1 milla)
-    distance = distance * 1.60934;
-  } else {
-    // Asumir que está en kilómetros si no se especifica
-    distance = distance;
-  }
-  
-  // Si la distancia es 0, evitar división por cero
-  if (distance <= 0) return 'N/A';
-  
-  const timeInSeconds = timeToSeconds(timeStr);
-  if (timeInSeconds <= 0) return 'N/A';
-  
-  const secondsPerKm = timeInSeconds / distance;
-  return formatPace(secondsPerKm);
-}
-
-// Aplicar a todas las tablas al cargar la página
-document.addEventListener('DOMContentLoaded', function() {
-  const tables = document.querySelectorAll('.table');
-  
-  tables.forEach(table => {
-    const rows = table.querySelectorAll('tbody tr');
-    
-    rows.forEach(row => {
-      const cells = row.querySelectorAll('td');
-      if (cells.length >= 5) {
-        const eventCell = cells[0];
-        const recordCell = cells[4];
-        
-        // Si la fila tiene rowspan, no agregamos la celda de pace
-        if (row.querySelector('td[rowspan]')) return;
-        
-        // Crear celda de pace
-        const paceCell = document.createElement('td');
-        paceCell.className = 'pace-cell';
-        paceCell.textContent = calculatePace(eventCell.textContent, recordCell.textContent);
-        
-        // Insertar después de la celda de record
-        recordCell.parentNode.insertBefore(paceCell, recordCell.nextSibling);
-      }
-    });
-  });
-});
-</script>
-
 <div class="row">
   <div class="bar">
     &nbsp;
@@ -258,7 +145,6 @@ document.addEventListener('DOMContentLoaded', function() {
           <th>Venue</th>
           <th>Year</th>
           <th>Record</th>
-          <th>Pace</th>
         </tr>
       </thead>
       <tbody>
@@ -390,7 +276,6 @@ document.addEventListener('DOMContentLoaded', function() {
           <th>Venue</th>
           <th>Year</th>
           <th>Record</th>
-          <th>Pace</th>
         </tr>
       </thead>
       <tbody>
@@ -464,7 +349,6 @@ document.addEventListener('DOMContentLoaded', function() {
           <th>Venue</th>
           <th>Year</th>
           <th>Record</th>
-          <th>Pace</th>
         </tr>
       </thead>
       <tbody>
@@ -500,7 +384,6 @@ document.addEventListener('DOMContentLoaded', function() {
           <th>Venue</th>
           <th>Year</th>
           <th>Record</th>
-          <th>Pace</th>
         </tr>
       </thead>
       <tbody>
@@ -522,7 +405,6 @@ document.addEventListener('DOMContentLoaded', function() {
           <th>Venue</th>
           <th>Year</th>
           <th>Record</th>
-          <th>Pace</th>
         </tr>
       </thead>
       <tbody>
