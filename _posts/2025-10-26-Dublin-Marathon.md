@@ -3,7 +3,7 @@ title: New Women Club Record at Dublin Marathon Championships 2025
 location: Dublin
 ---
 
-A big congratulations to all our athletes who competed in the <b>Dublin Marathon</b> over the weekend! <br>The race took place on <b>Sunday, 26th October 2025 at 8:45 AM</b>, with cool and mostly cloudy conditions around 7°C and light westerly winds.<br> <b>Mollie O’Donnell</b> set a new <b>LVAC women club record</b> with an impressive <b>2:58:26</b> (gun time for championship purposes), while <b>Jen Preston</b> made a fantastic marathon debut with a time of 3:04:56.<br> A total of 12637 men and 6024 women took part in this year’s event, a great day for running in Dublin!
+A big congratulations to all our athletes who competed in the <b>Dublin Marathon</b> over the weekend! <br>The race took place on <b>Sunday, 26th October 2025 at 8:45 AM</b>, with cool and mostly cloudy conditions around 7°C and light westerly winds.<br> <b>Mollie O’Donnell</b> set a new <b>LVAC women club record</b> with an impressive <b>2:57:28</b> (chip time for championship purposes), while <b>Jen Preston</b> made a fantastic marathon debut with a time of 3:04:56.<br> A total of 12637 men and 6024 women took part in this year’s event, a great day for running in Dublin!
 
 
 <a href="/races/2025-10-26-Dublin-Marathon/" target="_blank" rel="noopener noreferrer">Race Results</a>
@@ -12,9 +12,9 @@ A big congratulations to all our athletes who competed in the <b>Dublin Marathon
 
 <a href="https://myrunresults.com/events/aai_national_marathon-__irish_life_dublin_marathon/5991/results" target="_blank" rel="noopener noreferrer">MyRun Results Nationals</a>
 
-<!--
-<a href="" target="_blank" rel="noopener noreferrer">Instagram</a>
 
+<a href="https://www.instagram.com/p/DQWfw_rDGAJ/?img_index=1" target="_blank" rel="noopener noreferrer">Instagram</a>
+<!--
 
 <a href="https://www.facebook.com/liffeyvalleyac/posts/pfbid033Gp8WVQwJEBnRtqzD4vqCDstZ5XwRM6nN7d9Pht4tZ3feDDVvDF5u7EzSjUUxSQwl" target="_blank" rel="noopener noreferrer">Facebook</a>
 
