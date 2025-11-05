@@ -86,6 +86,11 @@ title: Club Records
     color: #e0e0e0;
   }
   
+  .table tbody td:nth-child(4) {
+    font-size: 1.1em;
+    font-weight: 500;
+  }
+  
   .table tbody tr:nth-child(even) {
     background-color: rgba(255, 255, 255, 0.03);
   }
@@ -99,13 +104,22 @@ title: Club Records
     background-color: rgba(255, 107, 107, 0.15);
   }
   
-  /* Destacar los récords */
-  .table tbody td:last-child {
+  /* Destacar atletas y récords */
+  .table tbody td:nth-child(2) {
+    font-weight: 600;
+    color: #4a9fe0;
+  }
+  
+  .table tbody td:nth-child(5) {
     font-weight: 600;
     color: #ffa07a;
   }
   
-  .women-section .table tbody td:last-child {
+  .women-section .table tbody td:nth-child(2) {
+    color: #ff6b6b;
+  }
+  
+  .women-section .table tbody td:nth-child(5) {
     color: #ffb6c1;
   }
   
