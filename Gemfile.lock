@@ -262,6 +262,7 @@ GEM
     tzinfo (2.0.6)
       concurrent-ruby (~> 1.0)
     unicode-display_width (1.8.0)
+    wdm (0.2.0)
     yell (2.2.2)
     zeitwerk (2.6.18)
 
@@ -277,6 +278,7 @@ DEPENDENCIES
   minitest
   rake
   trollop
+  wdm (>= 0.1.0)
 
 BUNDLED WITH
    2.2.33

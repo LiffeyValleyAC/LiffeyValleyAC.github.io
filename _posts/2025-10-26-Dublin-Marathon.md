@@ -14,11 +14,9 @@ A big congratulations to all our athletes who competed in the <b>Dublin Marathon
 
 
 <a href="https://www.instagram.com/p/DQWfw_rDGAJ/?img_index=1" target="_blank" rel="noopener noreferrer">Instagram</a>
-<!--
 
-<a href="https://www.facebook.com/liffeyvalleyac/posts/pfbid033Gp8WVQwJEBnRtqzD4vqCDstZ5XwRM6nN7d9Pht4tZ3feDDVvDF5u7EzSjUUxSQwl" target="_blank" rel="noopener noreferrer">Facebook</a>
+<a href="https://www.facebook.com/liffeyvalleyac/posts/pfbid0Jmqv24Y8jVHNVhS6QFyUg9roMixSE9PhChJJ6twq37An14MzyTEMrZwkqvtRwY3vl" target="_blank" rel="noopener noreferrer">Facebook</a>
 
--->
 
 <figure style="text-align: center;">
   <a href="/assets/images/races/2025/2025-10-26_01.jpeg" target="_blank" rel="noopener noreferrer">
