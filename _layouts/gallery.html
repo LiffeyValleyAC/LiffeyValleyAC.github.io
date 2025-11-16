@@ -3,57 +3,133 @@ layout: base
 title: Album
 ---
 
-<div class="row">
-  <div class="bar">
-    &nbsp;
+<style>
+.album-hero {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  padding: 3rem 0;
+  text-align: center;
+  margin-bottom: 2rem;
+  border-radius: 0 0 1.5rem 1.5rem;
+}
+
+.album-hero h2 {
+  font-size: 2.5rem;
+  font-weight: 700;
+  margin-bottom: 0.5rem;
+  text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+}
+
+.album-hero .date {
+  font-size: 1.1rem;
+  opacity: 0.9;
+}
+
+.album-stats {
+  background: rgba(255,255,255,0.1);
+  padding: 1rem;
+  border-radius: 0.5rem;
+  display: inline-block;
+  margin-top: 1rem;
+}
+
+.album-gallery {
+  padding: 0 1rem;
+}
+
+.photo-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 1rem;
+  margin-bottom: 2rem;
+}
+
+.photo-item {
+  position: relative;
+  border-radius: 0.75rem;
+  overflow: hidden;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+  transition: all 0.3s ease;
+  aspect-ratio: 1;
+}
+
+.photo-item:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 16px rgba(0,0,0,0.15);
+}
+
+.photo-item img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.3s ease;
+}
+
+.photo-item:hover img {
+  transform: scale(1.05);
+}
+
+.photo-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0,0,0,0.7);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+  color: white;
+  font-weight: 600;
+}
+
+.photo-item:hover .photo-overlay {
+  opacity: 1;
+}
+
+.photo-overlay::before {
+  content: "🔍";
+  font-size: 2rem;
+  margin-right: 0.5rem;
+}
+
+
+@media (max-width: 768px) {
+  .album-hero h2 {
+    font-size: 2rem;
+  }
+  
+  .photo-grid {
+    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+    gap: 0.5rem;
+  }
+}
+</style>
+
+<div class="album-hero">
+  <div class="container">
+    <h2>📸 {{ page.title }}</h2>
+    <div class="date">{{ page.date | date: "%B %-d, %Y" }}</div>
+    <div class="album-stats">
+      <strong>{{ page.photos | size }} Photos</strong>
+    </div>
   </div>
 </div>
-<div class="row content">
-  <div class="title">
-    <h3>
-      {{ page.title }}
-      <br /><small>{{ page.date | date: "%A, %-d %B, %Y" }}</small>
-    </h3>
-  </div>
-  <div id="links">
+
+<div class="container album-gallery">
+  <div class="photo-grid">
     {% for photo in page.photos %}
-    <a href="{{ photo.original }}" title="{{ photo.title }}" data-gallery>
-      <img src="{{ photo.thumbnail }}" alt="{{ photo.title }}">
-    </a>
+    <div class="photo-item">
+      <a href="{{ photo.original }}" title="{{ photo.title }}" target="_blank" rel="noopener noreferrer">
+        <img src="{{ photo.thumbnail }}" alt="{{ photo.title }}" loading="lazy">
+        <div class="photo-overlay">
+          <span>View Photo</span>
+        </div>
+      </a>
+    </div>
     {% endfor %}
   </div>
 </div>
-<!-- The Bootstrap Image Gallery lightbox, should be a child element of the document body -->
-<div id="blueimp-gallery" class="blueimp-gallery blueimp-gallery-controls" data-use-bootstrap-modal="false">
-    <!-- The container for the modal slides -->
-    <div class="slides"></div>
-    <!-- Controls for the borderless lightbox -->
-    <h3 class="title"></h3>
-    <a class="prev" href="javascript:;">‹</a>
-    <a class="next" href="javascript:;">›</a>
-    <a class="close" href="javascript:;">×</a>
-    <a class="play-pause" href="javascript:;"></a>
-    <ol class="indicator"></ol>
-    <!-- The modal dialog, which will be used to wrap the lightbox content -->
-    <div class="modal fade">
-        <div class="modal-dialog">
-            <div class="modal-content">
-                <div class="modal-header">
-                    <button type="button" class="close" aria-hidden="true">&times;</button>
-                    <h4 class="modal-title"></h4>
-                </div>
-                <div class="modal-body next"></div>
-                <div class="modal-footer">
-                    <button type="button" class="btn btn-default pull-left prev">
-                        <i class="glyphicon glyphicon-chevron-left"></i>
-                        Previous
-                    </button>
-                    <button type="button" class="btn btn-primary next">
-                        Next
-                        <i class="glyphicon glyphicon-chevron-right"></i>
-                    </button>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
+

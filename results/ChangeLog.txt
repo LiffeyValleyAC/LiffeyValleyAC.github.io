@@ -63,9 +63,14 @@ const SURFACE_COLORS = {
     'Trail': '#8B5A2B'   // Marrón tierra — caminos de montaña o barro
 };
 
+20:03 16/11/2025
+OK -> Cuando se hace click en el nombre dentro e la tabla, si el nombre tiene apóstrofe, el filtro no se carga correctamente.
+The fix uses .replace(/'/g, "\\'") to escape all apostrophes in the athlete name before inserting it into the onclick handler.
+
+
+
 
 FUTURE IMPROVEMENTS:
-Cuando se hace click en el nombre dentro e la tabla, si el nombre tiene apóstrofe, el filtro no se carga correctamente.
 
 Al visualizar en celular, las estadísticas se ven mal. Disminuir el gap y reducir el tamaño de la fuente. La tabla hacerla más corta para que siempre se vea parte de la pantalla para hacer scroll porque sino quedamos "atrapados" dentro de la tabla haciendo scroll.
 

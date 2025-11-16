@@ -8,26 +8,149 @@ custom_js:
   - bootstrap-image-gallery.min
 ---
 
-<div class="row">
-  <div class="bar">
-    &nbsp;
+<style>
+.gallery-hero {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  padding: 4rem 0;
+  text-align: center;
+  margin-bottom: 3rem;
+  border-radius: 0 0 2rem 2rem;
+}
+
+.gallery-hero h1 {
+  font-size: 3rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+  text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+}
+
+.gallery-hero p {
+  font-size: 1.2rem;
+  opacity: 0.9;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.gallery-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 2rem;
+  padding: 0 1rem;
+  margin-bottom: 3rem;
+}
+
+.gallery-card {
+  background: white;
+  border-radius: 1rem;
+  overflow: hidden;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+  transition: all 0.3s ease;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.gallery-card:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 12px 24px rgba(0,0,0,0.15);
+}
+
+.gallery-card .img-wrapper {
+  position: relative;
+  overflow: hidden;
+  height: 200px;
+}
+
+.gallery-card img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.3s ease;
+}
+
+.gallery-card:hover img {
+  transform: scale(1.05);
+}
+
+.gallery-card .content {
+  padding: 1.5rem;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+.gallery-card h4 {
+  font-size: 1.25rem;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+  line-height: 1.4;
+}
+
+.gallery-card .date {
+  color: #666;
+  font-size: 0.9rem;
+  margin-top: auto;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.gallery-card .date::before {
+  content: "📅";
+}
+
+.gallery-stats {
+  text-align: center;
+  padding: 2rem;
+  background: #f8f9fa;
+  border-radius: 1rem;
+  margin-bottom: 3rem;
+}
+
+.gallery-stats h3 {
+  color: #667eea;
+  font-size: 2rem;
+  font-weight: 700;
+}
+
+@media (max-width: 768px) {
+  .gallery-hero h1 {
+    font-size: 2rem;
+  }
+  
+  .gallery-grid {
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 1.5rem;
+  }
+}
+</style>
+
+<div class="gallery-hero">
+  <div class="container">
+    <h1>📸 Photo Gallery</h1>
+    <p>Relive our club's memorable moments through our collection of race photos and events</p>
+  <h3>{{ site.albums | size }} Photo Albums</h3>
   </div>
 </div>
-<!-- {% include tombrennan.html %} -->
-<div class="row content">
-  <ul class="gallery">
+
+<div class="container">
+
+  <div class="gallery-grid">
     {% for album in site.albums reversed %}
-    <li class="col-lg-3 col-md-4 col-sm-6 col-xs-12">
-      <a href="{{ album.url }}" class="link-gallery">
-        <img src="{{ album.cover }}" alt="{{ album.title }}" class="img-rounded">
-        <h4 class="caption">
-            {{ album.title }}
-        </h4>
-      </a>
-      <p>
-        <small class="text-muted">{{ album.date | date: "%A, %-d %B, %Y" }}</small>
-      </p>
-    </li>
+    <div class="gallery-card">
+      <div class="img-wrapper">
+        <a href="{{ album.url }}" class="link-gallery">
+          <img src="{{ album.cover }}" alt="{{ album.title }}" loading="lazy">
+        </a>
+      </div>
+      <div class="content">
+        <a href="{{ album.url }}" class="link-gallery">
+          <h4>{{ album.title }}</h4>
+        </a>
+        <p class="date">{{ album.date | date: "%B %-d, %Y" }}</p>
+      </div>
+    </div>
     {% endfor %}
-  </ul>
+  </div>
 </div>

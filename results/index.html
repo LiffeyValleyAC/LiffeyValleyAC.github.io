@@ -976,7 +976,7 @@
                     columns.forEach(col => {
                         if (col === 'ATHLETE') {
                             // Hacer el nombre del atleta clickeable
-                            bodyHTML += `<td class="col-athlete"><a href="#" onclick="filterByAthlete('${row[col]}')">${row[col] || ''}</a></td>`;
+                            bodyHTML += `<td class="col-athlete"><a href="#" onclick="filterByAthlete('${row[col].replace(/'/g, "\\'")}')">${row[col] || ''}</a></td>`;
                         } else {
                             bodyHTML += `<td class="col-${col.toLowerCase().replace(/\s+/g, '-').replace(/[^\w-]/g, '')}">${row[col] || ''}</td>`;
                         }
