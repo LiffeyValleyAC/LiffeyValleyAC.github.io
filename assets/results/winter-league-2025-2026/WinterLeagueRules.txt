@@ -1,0 +1,32 @@
+16:35 14/11/2025
+1. Google Sheet with the table and automated calculations. You only need to paste the corresponding points into the “ResultsWL” sheet. It is important to keep the “Race” (1 to 6) and “Points” (50, 45, 44…) columns consistent for each runner. Also update the icons from red to a green tick when the race is completed!
+2. Web link for real-time online visualization of the table, using File > Share > Publish to web, and selecting only the “WinterLeague” sheet as a “Web page”.
+Image previews display with a small rectangular border around them — this is a Google rendering quirk.
+https://docs.google.com/spreadsheets/d/e/2PACX-1vQrq2Su5x9eRR65MDFK6RvWpdV1VjKMdLaVkMO5_v4etW2YNhoIhh5rRkxGPKMK72D5jYDM4ve-SlqL/pubhtml?gid=0&single=true
+3. For better presentation, export the sheet to PDF using File > Print > PDF to ensure all icons display correctly.
+Then convert the PDF to a high-quality JPG using www.ilovepdf.com
+4. Create a “News” post on the website and publish the results there, along with a summary of the league standings or movements, with the help of ChatGPT.
+
+LVAC Winter League 2025/2026
+
+Our club Winter League 2025/2026 (WL) is a 6 race series for LV club members only, from November 2025 to
+around the end of March 2026, composed of 4 XC and 2 Road races.
+
+The WL trophy winner at the end of the races is the one with most points from their 4
+BEST RESULTS.
+
+You earn WL points based on where you finish in each race (50 points for first finisher, 45 for
+second, 44 for third and so on. This means even if you finish down the field (say, 20th) you
+still get some points.
+
+Most races are handicapped races, meaning slower racers get a head start, so winning the Winter League is more about consistency than speed. Aso, there
+are bonus points on offer: a 40 point bonus for running the 1st race (5km Club XC), a 50 point bonus for running the 3rd race (the Club XC
+championship) and a further 10 point bonus by running all 6 races.
+
+So you can still win the Winter League even if you can only manage to do 4 out of 6 races.
+
+WL races are your chance to race with clubmates for WL points, craic and bragging rights,
+and to help build the habit of regular racing that converts your hard work in training into real
+improvements in your racing.
+And when you race, wear your LV club singlet with confidence and give 100% of what you have in
+the tank on the day.

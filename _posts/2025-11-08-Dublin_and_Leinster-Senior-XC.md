@@ -17,23 +17,23 @@ location: Kilbeggan, Co. Westmeath
 
   <h3 style="margin-top:1.5em;">🏃‍♀️ Women’s 6km Results</h3>
   <ul>
-    <li><strong>29.</strong> Mollie O'Donnell – 24:39 (BIB 398)</li>
-    <li><strong>33.</strong> Siobhan Nugent – 25:10 (BIB 124)</li>
-    <li><strong>47.</strong> Rebecca McLoughlin – 26:52 (BIB 397)</li>
-    <li><strong>54.</strong> Aifric Gallagher – 27:28 (BIB 396)</li>
-    <li><strong>55.</strong> Orla Gordon – 27:43 (BIB 122)</li>
+    <li><strong>29.</strong> Mollie O'Donnell – 24:39</li>
+    <li><strong>33.</strong> Siobhan Nugent – 25:10</li>
+    <li><strong>47.</strong> Rebecca McLoughlin – 26:52</li>
+    <li><strong>54.</strong> Aifric Gallagher – 27:28</li>
+    <li><strong>55.</strong> Orla Gordon – 27:43</li>
   </ul>
 
   <h3 style="margin-top:1.5em;">🏃‍♂️ Men’s 9km Results</h3>
   <ul>
-    <li><strong>21.</strong> Pierce Geoghegan – 30:41 (BIB 193)</li>
-    <li><strong>30.</strong> Mark Naylor – 31:32 (BIB 161)</li>
-    <li><strong>37.</strong> Geoffrey Alexandre – 32:09 (BIB 190)</li>
-    <li><strong>40.</strong> Cormac Jones – 32:20 (BIB 160)</li>
-    <li><strong>47.</strong> David Carroll – 32:48 (BIB 191)</li>
-    <li><strong>72.</strong> Antoine Daubigny – 34:45 (BIB 158)</li>
-    <li><strong>73.</strong> Richard Finegan – 34:58 (BIB 192)</li>
-    <li><strong>74.</strong> Patrick Fox – 35:05 (BIB 159)</li>
+    <li><strong>21.</strong> Pierce Geoghegan – 30:41</li>
+    <li><strong>30.</strong> Mark Naylor – 31:32</li>
+    <li><strong>37.</strong> Geoffrey Alexandre – 32:09</li>
+    <li><strong>40.</strong> Cormac Jones – 32:20</li>
+    <li><strong>47.</strong> David Carroll – 32:48</li>
+    <li><strong>72.</strong> Antoine Daubigny – 34:45</li>
+    <li><strong>73.</strong> Richard Finegan – 34:58</li>
+    <li><strong>74.</strong> Patrick Fox – 35:05</li>
   </ul>
 
   <p style="margin-top:1em;">
