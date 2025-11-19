@@ -24,14 +24,52 @@ a, a:hover {
   position: relative;
 }
 #header h1 {
-  padding-top: 95px;
-  margin-left: 500px;
+  padding-top: 80px;
+  margin-left: 370px;
   margin-top: 0px;
-  font-size: 350%;
+  font-size: 285%;
   font-weight: bold;
   position: relative;
   
 }
+
+@media (max-width: 990px) {
+  #header h1 {
+    padding-top: 30px;
+    margin-left: 370px;
+    margin-top: 0px;
+    font-size: 270%;
+    font-weight: bold;
+    position: relative;
+    
+  }
+}
+
+@media (max-width: 768px) {
+  #header h1 {
+    padding-top: 0px;
+    margin-left: 370px;
+    margin-top: 0px;
+    font-size: 178%;
+    font-weight: bold;
+    position: relative;
+    
+  }
+}
+
+@media (max-width: 576px) {
+  #header h1 {
+    padding-top: 0px;
+    margin-left: 370px;
+    margin-top: 0px;
+    font-size: 180%;
+    font-weight: bold;
+    position: relative;
+    
+  }
+}
+
+
 #header h1 a {
   color: #2F318D;
   text-decoration: none;
@@ -72,6 +110,10 @@ a, a:hover {
 .navbar {
   background-color: #2F318D;
   border-color: #2F318D;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
   /*margin-bottom: -10px;*/
 }
 
@@ -264,7 +306,8 @@ dd {
 }
 
 .social-media-orga {
-  padding: 2.75% 0 41px 85%;
+  /* padding: 2.75% 0 41px 85%; */
+  padding: 0% 10px 35px 0%;
   /* padding-bottom: 1%; */
 }
 .social-media-orga-row {
@@ -273,6 +316,10 @@ dd {
 
 .logo-social-media{
   float: right;
+}
+
+.row.tight-gutter {
+  --bs-gutter-x: 0.0rem; /* valor que prefieras */
 }
 
 .image-col img {
