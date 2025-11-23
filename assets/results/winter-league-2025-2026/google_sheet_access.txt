@@ -1,5 +1,5 @@
 16:26 14/11/2025
-The Google Sheet is located in my Google Drive account alecavallo@gmail.com
+The Google Sheet to populate the LVAC Races Dashboard is located in my Google Drive account alecavallo@gmail.com
 The folder is:
 https://drive.google.com/drive/folders/1anvP1tTkgh7fmosigqTwY5ZO-vNAxxQl?usp=sharing
 

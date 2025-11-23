@@ -144,7 +144,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <style>
 /* Carousel image sizing - todas las imágenes del mismo tamaño */
 #carouselExampleIndicators .carousel-item {
-  height: 300px; /* Altura fija para todas las imágenes */
+  height: 320px; /* Altura fija para todas las imágenes */
   overflow: hidden;
 }
 
@@ -156,6 +156,12 @@ document.addEventListener('DOMContentLoaded', function() {
 }
 
 /* Responsive para móviles */
+@media (max-width: 990px) {
+  #carouselExampleIndicators .carousel-item {
+    height: 300px;
+  }
+}
+
 @media (max-width: 768px) {
   #carouselExampleIndicators .carousel-item {
     height: 250px;
