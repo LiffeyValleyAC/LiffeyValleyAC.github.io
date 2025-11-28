@@ -63,9 +63,10 @@ const SURFACE_COLORS = {
     'Trail': '#8B5A2B'   // Marrón tierra — caminos de montaña o barro
 };
 
-20:03 16/11/2025
+20:03 16/11/2025 v8
 OK -> Cuando se hace click en el nombre dentro e la tabla, si el nombre tiene apóstrofe, el filtro no se carga correctamente.
 The fix uses .replace(/'/g, "\\'") to escape all apostrophes in the athlete name before inserting it into the onclick handler.
+OK -> Snow Flakes falling on all web pages
 
 
 
