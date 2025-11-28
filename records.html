@@ -139,6 +139,35 @@ title: Club Records
       font-size: 1.1em;
     }
   }
+
+  .print-actions {
+    margin-bottom: 20px;
+  }
+
+  #print-records-btn {
+    background-color: #4a9fe0;
+    color: #ffffff;
+    border: none;
+    border-radius: 4px;
+    padding: 10px 18px;
+    font-size: 0.95em;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    cursor: pointer;
+    transition: background-color 0.2s ease, box-shadow 0.2s ease;
+  }
+
+  #print-records-btn:hover,
+  #print-records-btn:focus {
+    background-color: #2c6a9e;
+    box-shadow: 0 0 0 3px rgba(74, 159, 224, 0.3);
+    outline: none;
+  }
+
+  #print-records-btn:active {
+    background-color: #21527a;
+  }
 </style>
 
 <div class="row">
@@ -148,6 +177,10 @@ title: Club Records
 </div>
 <div class="row content">
   <div>
+    <div class="print-actions">
+      <button type="button" id="print-records-btn">PRINT RECORDS</button>
+    </div>
+    <div id="records-tables">
     <div class="men-section">
       <h3>Men's Records</h3>
     <h4>Men's Olympic Distances</h4>
@@ -192,7 +225,7 @@ title: Club Records
           <td>M. Kearney</td>
           <td>Santry</td>
           <td>1982</td>
-          <td>49.90 (h)<br>50.06 (e)</td>
+          <td>49.90 (hand)<br>50.06 (electronic)</td>
           <td>2'05"/km</td>
         </tr>
         <tr>
@@ -200,7 +233,7 @@ title: Club Records
           <td>M. Fanning</td>
           <td>Santry</td>
           <td>1984</td>
-          <td>1'53.30 (h)<br>1'53.39 (e)</td>
+          <td>1'53.30 (hand)<br>1'53.39 (electronic)</td>
           <td>2'21"/km</td>
         </tr>
         <tr>
@@ -394,7 +427,7 @@ title: Club Records
           <td>Sile Muldowney</td>
           <td>Athlone International Arena</td>
           <td>2020</td>
-          <td>2'19.33 (i)</td>
+          <td>2'19.33</td>
           <td>2'55"/km</td>
         </tr>
         <tr>
@@ -472,3 +505,137 @@ title: Club Records
     </div>
   </div>
 </div>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    const printButton = document.getElementById('print-records-btn');
+    const tablesContainer = document.getElementById('records-tables');
+
+    if (!printButton || !tablesContainer) {
+      return;
+    }
+
+    printButton.addEventListener('click', function () {
+      const printWindow = window.open('', '_blank', 'width=1024,height=768');
+
+      if (!printWindow) {
+        return;
+      }
+
+      const tablesHTML = tablesContainer.innerHTML;
+      const styles = `
+        body {
+          font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif;
+          background-color: #ffffff;
+          color: #1f2933;
+          margin: 0;
+          padding: 2rem;
+        }
+        .print-container {
+          max-width: 960px;
+          margin: 0 auto;
+        }
+        h3 {
+          color: #1f2933;
+          border-bottom: 2px solid #e5e7eb;
+          padding-bottom: 8px;
+          margin: 2.5rem 0 1.5rem;
+          text-transform: uppercase;
+          font-size: 1.4rem;
+          font-weight: 600;
+        }
+        .men-section h3 {
+          border-bottom-color: #4a9fe0;
+        }
+        .women-section h3 {
+          border-bottom-color: #ff6b6b;
+        }
+        h4 {
+          color: #1f2933;
+          margin: 2rem 0 1rem;
+          padding-left: 15px;
+          border-left: 3px solid #4a9fe0;
+          font-size: 1.1rem;
+          font-weight: 500;
+        }
+        .women-section h4 {
+          border-left-color: #ff6b6b;
+        }
+        .women-section {
+          page-break-before: always;
+        }
+        table {
+          width: 100%;
+          border-collapse: separate;
+          border-spacing: 0;
+          margin-bottom: 2rem;
+          background-color: #ffffff;
+          border: 1px solid #d1d5db;
+          border-radius: 6px;
+          overflow: hidden;
+        }
+        thead th {
+          color: #ffffff;
+          font-weight: 600;
+          padding: 12px 15px;
+          text-align: left;
+          text-transform: uppercase;
+          font-size: 0.85rem;
+          letter-spacing: 0.5px;
+        }
+        .men-section thead th {
+          background-color: #2c6a9e;
+          border-bottom: 2px solid #4a9fe0;
+        }
+        .women-section thead th {
+          background-color: #a83a3a;
+          border-bottom: 2px solid #ff6b6b;
+        }
+        tbody td {
+          padding: 12px 15px;
+          border-bottom: 1px solid #e5e7eb;
+          color: #1f2933;
+          font-size: 0.95rem;
+          vertical-align: middle;
+        }
+        tbody tr:nth-child(even) {
+          background-color: #f9fafb;
+        }
+        tbody tr:last-child td {
+          border-bottom: none;
+        }
+        tbody td:nth-child(2) {
+          font-weight: 600;
+          color: #2563eb;
+        }
+        .women-section tbody td:nth-child(2) {
+          color: #ef4444;
+        }
+        tbody td:nth-child(5) {
+          font-weight: 600;
+          color: #f97316;
+        }
+        .women-section tbody td:nth-child(5) {
+          color: #f59e0b;
+        }
+      `;
+
+      printWindow.document.open();
+      printWindow.document.write(`<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Club Records</title>
+  <style>${styles}</style>
+</head>
+<body>
+  <div class="print-container">
+    ${tablesHTML}
+  </div>
+</body>
+</html>`);
+      printWindow.document.close();
+      printWindow.focus();
+    });
+  });
+</script>
