@@ -1,0 +1,1192 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LVAC Race Results Dashboard</title>
+    <script src="js/papaparse.min.js"></script>
+    <script src="js/chart.umd.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels"></script>
+    <!--<script src="js/chartjs-plugin-doughnutlabel.js"></script>-->
+    <!--<script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-annotation"></script>-->
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif;
+            background-color: #f9fafb;
+            color: #111827;
+        }
+        
+        .banner {
+            background-color: #facc15;
+            border-bottom: 4px solid #1e3a8a;
+            padding: 1rem;
+            text-align: center;    
+        }
+        
+        .banner-content {
+            max-width: 1280px;
+            margin: 0 auto;
+        }
+        
+        .banner h1 {
+            font-size: 2.5rem;
+            font-weight: bold;
+            color: #1e3a8a;
+            margin-bottom: -0.4rem;
+        }
+        
+        .subtitle {
+            font-size: 1.25rem;
+            color: #374151;
+            margin-bottom: -1rem;
+        }
+        .container {
+            max-width: 1280px;
+            margin: 0 auto;
+            padding: 1rem;
+            margin-top: -0.7rem;
+        }
+        
+        .description {
+            color: #6b7280;
+            line-height: 1.1;
+            text-align: justify;
+            /*max-width: 900px;*/
+        }
+        
+        .section {
+            background: white;
+            border-radius: 0.5rem;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+            padding: 0.5rem;
+            margin-bottom: 0.5rem;
+        }
+        
+        .section-title {
+            font-size: 1.5rem;
+            font-weight: bold;
+            margin-bottom: 0.5rem;
+            color: #111827;
+        }
+        
+        .checkbox-grid {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.4rem;
+        }
+        
+        .checkbox-label {
+            display: flex;
+            align-items: center;
+            cursor: pointer;
+        }
+        
+        .checkbox-label input {
+            margin-right: 0.5rem;
+            cursor: pointer;
+        }
+        
+        .filters-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+            gap: 1rem;
+            margin-bottom: 1rem;
+        }
+        
+        .filter-group {
+            display: flex;
+            flex-direction: column;
+        }
+        
+        .filter-label {
+            font-weight: 600;
+            margin-bottom: 0.5rem;
+            color: #374151;
+        }
+        .filter-label2 {
+            font-weight: 800;
+            margin-bottom: 0.5rem;
+            color: #ff6200;
+        }
+        
+        input[type="date"],
+        input[type="text"] {
+            padding: 0.5rem;
+            border: 1px solid #d1d5db;
+            border-radius: 0.375rem;
+            font-size: 0.875rem;
+        }
+        
+        .filter-checkboxes {
+            max-height: 70px;
+            overflow-y: auto;
+            border: 1px solid #e5e7eb;
+            border-radius: 0.375rem;
+            padding: 0.5rem;
+        }
+        .filter-checkboxes2 {
+            max-height: 100px;
+        }
+        
+        .btn {
+            padding: 0.5rem 1rem;
+            border: none;
+            border-radius: 0.375rem;
+            cursor: pointer;
+            font-weight: 600;
+            transition: all 0.2s;
+        }
+        
+        .btn-primary {
+            background-color: #1e3a8a;
+            color: white;
+        }
+        .btn-primary:hover {
+            background-color: #1e40af;
+        }
+
+        /* Estilo para los botones marrones */
+        .btn-brown {
+            background-color: #78350f; /* Marrón oscuro */
+            color: white;
+        }
+        
+        .btn-brown:hover {
+            background-color: #a16207; /* Marrón más claro al pasar el mouse */
+        }
+        /* Estilo para botones deshabilitados */
+        button:disabled {
+            background-color: #d1d5db; /* Gris claro */
+            color: #9ca3af; /* Gris más oscuro para el texto */
+            cursor: not-allowed; /* Cambia el cursor a "no permitido" */
+            opacity: 0.6; /* Reduce la opacidad */
+        }        
+
+        
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(50px, 1fr));
+            gap: 1rem;
+            margin-bottom: 0.5rem;
+        }
+        
+        .stat-card {
+            border-radius: 0.5rem;
+            padding: 0.5rem;
+            color: white;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        }
+        
+        .stat-card.blue { background: linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%); }
+        .stat-card.yellow { background: linear-gradient(135deg, #eab308 0%, #facc15 100%); }
+        .stat-card.green { background: linear-gradient(135deg, #059669 0%, #10b981 100%); }
+        .stat-card.purple { background: linear-gradient(135deg, #7c3aed 0%, #a855f7 100%); }
+        .stat-card.red { background: linear-gradient(135deg, #dc2626 0%, #ef4444 100%); }
+        .stat-card.brown { background: linear-gradient(135deg, #78350f 0%, #a16207 100%); }
+        
+        .stat-value {
+            font-size: 2rem;
+            font-weight: bold;
+            margin-bottom: 0.5rem;
+        }
+        
+        .stat-label {
+            opacity: 0.9;
+            font-size: 0.875rem;
+        }
+        
+        .charts-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 0.5rem;
+            margin-bottom: 0.5rem;
+        }
+        
+        .chart-container {
+            background: white;
+            border-radius: 0.5rem;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+            padding: 1.5rem;
+        }
+
+        .chart-title, .chart-title2, .chart-title3 {
+            font-size: 1.25rem;
+            font-weight: bold;
+            margin-bottom: 1rem;
+        }
+        
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        
+        thead {
+            background-color: #f3f4f6;
+        }
+        
+        th, td {
+            padding: 0.4rem;
+            text-align: left;
+            border-bottom: 1px solid #e5e7eb;
+            font-size: 0.75rem;
+        }
+        
+        th {
+            /*font-weight: 600;*/
+            color: #374151;
+        }
+        
+        tbody tr:hover {
+            background-color: #f9fafb;
+        }
+
+        /* Centrar el contenido de columnas específicas */
+        .col-surface, .col-place, .col-gender, .col-distance-km, .col-pace-minkm, .col-category, .col-time {
+            text-align: center;
+        }  
+        .col-distance-km {
+            max-width: 72px; /* Ancho máximo */
+        }
+        .col-pace-minkm {
+            max-width: 62px; /* Ancho máximo */
+        }
+
+        .col-time {
+            min-width: 70px; /* Ancho minimo */
+        }
+        .col-location, .col-race-name {
+            min-width: 122px; /* Ancho minimo */
+        }        
+        td.col-athlete {
+            font-weight: bold;
+            white-space: nowrap; /* Evitar que el texto se corte en varias líneas */
+            padding-right: 10px;
+        }
+        td.col-date {
+            font-weight: bold;
+            font-size: small;
+            white-space: nowrap;
+            padding-right: 10px;
+        }
+        
+        .table-container {
+            overflow-x: auto;
+            max-height: 600px;
+            overflow-y: auto;
+        }
+        
+        .loading {
+            text-align: center;
+            padding: 3rem;
+            font-size: 1.5rem;
+            font-weight: bold;
+            color: #1e3a8a;
+        }
+        
+        .surface-list {
+            display: flex;
+            flex-direction: column;
+            gap: 1rem;
+        }
+        
+        .surface-item {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+        
+        .surface-color {
+            width: 1rem;
+            height: 1rem;
+            border-radius: 0.25rem;
+            margin-right: 0.75rem;
+        }
+        
+        .surface-name {
+            display: flex;
+            align-items: center;
+            font-weight: 500;
+        }
+        
+        .surface-count {
+            font-size: 1.5rem;
+            font-weight: bold;
+            color: #374151;
+        }
+        /* Estilo para los enlaces */
+        a {
+            color: #1e3a8a; /* Color acorde al diseño (azul oscuro) */
+            text-decoration: none; /* Elimina el subrayado */
+            font-weight: bold; /* Opcional: hace el texto más destacado */
+        }
+        /* Estilo para el hover (cuando el mouse pasa por encima) */
+        a:hover {
+            color: #374151; /* Cambia el color al pasar el mouse (gris oscuro) */
+            text-decoration: underline; /* Opcional: agrega subrayado al pasar el mouse */
+        }
+        /* Estilo para enlaces visitados */
+        a:visited {
+            color: #6b7280; /* Color gris para enlaces visitados */
+        }
+    </style>
+</head>
+
+
+
+
+<body>
+    <!-- Banner -->
+    <div class="banner">
+        <div class="banner-content">
+            <img src="LVAC_2024_logo.png" width="100" alt="LVAC Logo" style="margin-bottom: -1.3rem;">
+            <h1>Liffey Valley Athletic Club</h1>
+            <p class="subtitle">LVAC Results and Statistics</p>
+        </div>
+    </div>
+
+    <div class="container">
+        <!-- Loading -->
+        <div id="loading" class="loading">Loading Race Results...</div>
+
+        <!-- Main Content (hidden until loaded) -->
+        <div id="main-content" style="display: none;">
+            <!-- Title -->
+            <div style="margin-bottom: 2rem;">
+                <h2 style="font-size: 2rem; font-weight: bold; margin-bottom: 0.75rem;">Race Results Dashboard</h2>
+                <p class="description">An interactive panel designed to visualize, explore, and analyze race results from LVAC members. It centralizes competition data in one place and provides dynamic filtering tools to quickly access relevant information, making it easier to track athlete performance, review event details, and identify trends across different races and surfaces.</p>
+            </div>
+
+            <!-- Column Visibility -->
+            <div class="section">
+                <h3 class="section-title">Column Visibility</h3>
+                <div id="column-checkboxes" class="checkbox-grid"></div>
+            </div>
+
+            <!-- Filters -->
+            <div class="section">
+                <h3 class="section-title">Filters
+                    <button class="btn btn-primary" onclick="setSeasonDates(2024, 2025)" style="margin-left: 0.5rem;">Season 2024-2025</button>
+                    <button class="btn btn-primary" onclick="setYearDate(2024)" style="margin-left: 0.5rem;">2024</button>
+                    <button class="btn btn-primary" onclick="setYearDate(2025)" style="margin-left: 0.5rem;">2025</button>
+                    <button class="btn btn-primary" onclick="setLast30Days()" style="margin-left: 0.5rem;">Last 30 Days</button>
+                </h3>
+                <div class="filters-grid">
+                    <div class="filter-group">
+                        <label class="filter-label">Date From</label>
+                        <input type="date" id="dateFrom">
+                    </div>
+                    <div class="filter-group">
+                        <label class="filter-label">Date To</label>
+                        <input type="date" id="dateTo">
+                    </div>
+                    <div class="filter-group">
+                        <label class="filter-label">Surface</label>
+                        <div id="surfaceFilters" class="filter-checkboxes"></div>
+                    </div>
+                    <div class="filter-group">
+                        <label class="filter-label">Gender</label>
+                        <div id="genderFilters" class="filter-checkboxes"></div>
+                    </div>
+                </div>
+                <div class="filters-grid">
+                    <div class="filter-group">
+                        <label class="filter-label2">Athlete Name</label>
+                        <input type="text" id="athleteSearch" placeholder="Search athlete...">
+                    </div>
+                </div>
+                <div class="filters-grid">
+                    <div class="filter-group">
+                        <label class="filter-label">Race Name (Search)</label>
+                        <input type="text" id="raceSearch" placeholder="Search race...">
+                    </div>
+                    <div class="filter-group">
+                        <label class="filter-label">Race Name (Select Multiple)</label>
+                        <div id="raceFilters" class="filter-checkboxes filter-checkboxes2"></div>
+                    </div>
+                </div>
+                <button class="btn btn-primary" onclick="clearFilters()">Clear All Filters</button>
+            </div>
+
+            <!-- Results Table -->
+            <div class="section">
+                <h3 class="section-title" id="tableTitle">Race Results</h3>
+                <button id="showFullTableBtn" class="btn btn-brown" onclick="updateTable(10000)" style="margin-left: 0.5rem;" disabled>Show Full Table</button>
+                <button class="btn btn-brown" onclick="printTable()" style="margin-bottom: 0.3rem;">Print Table</button>
+                <div class="table-container">
+                    <table>
+                        <thead id="tableHeader"></thead>
+                        <tbody id="tableBody"></tbody>
+                    </table>
+                </div>
+            </div>
+
+            <!-- Statistics Cards -->
+            <div class="stats-grid" id="statsCards"></div>
+
+            <!-- Charts -->
+            <div class="charts-grid">
+                <div class="chart-container">
+                    <h3 class="chart-title">Races by Month</h3>
+                    <canvas id="monthChart"></canvas>
+                </div>
+            </div>
+            <div class="charts-grid">
+                <div class="chart-container">
+                    <h3 class="chart-title2">Races by Surface</h3>
+                    <canvas id="surfaceChart"></canvas>
+                </div>
+                <div class="chart-container">
+                    <h3 class="chart-title">Surface Breakdown</h3>
+                    <div id="surfaceList" class="surface-list"></div>
+                </div>
+                <div class="chart-container">
+                    <h3 class="chart-title3">Participations by Gender</h3>
+                    <canvas id="genderChart"></canvas>
+                </div>            
+            </div>
+        </div>
+    </div>
+
+
+
+    
+    <script>
+        let allData = [];
+        let filteredData = [];
+        let visibleColumns = {};
+        let filters = {
+            dateFrom: '',
+            dateTo: '',
+            athlete: '',
+            raceSearch: '',
+            surfaces: [],
+            genders: [],
+            raceNames: []
+        };
+        
+        const SURFACE_COLORS = { 
+            'Road': '#6B7280',   // Gris asfalto — neutro, urbano
+            'Track': '#B91C1C',  // Rojo ladrillo — típico del tartán de pista
+            'XC': '#166534',     // Verde oscuro — césped, tierra, naturaleza
+            'Trail': '#8B5A2B'   // Marrón tierra — caminos de montaña o barro
+        };
+        
+        const MONTH_COLORS = [
+                '#FF5733', // Rojo anaranjado
+                '#33FF57', // Verde brillante
+                '#3357FF', // Azul brillante
+                '#FF33A1', // Rosa
+                '#FFC300', // Amarillo
+                '#8E44AD', // Morado
+                '#16A085', // Verde azulado
+                '#E74C3C'  // Rojo
+            ];
+
+        let charts = {
+            month: null,
+            surface: null,
+            gender: null
+        };
+
+        function init() {
+            Papa.parse('https://docs.google.com/spreadsheets/d/e/2PACX-1vRmcNgtKLugcwRVqJ6a-AK-m4AqoAXQ5shhj-l6qFdYf6GuzJgBSsSknrpYsb7jRmh-yu_tmOadR6x8/pub?gid=686949919&single=true&output=csv', {
+                download: true,
+                header: true,
+                complete: function(results) {
+                    allData = results.data.filter(row => row.DATE); // Filtrar filas vacías
+                    filteredData = [...allData];
+                    
+                    // Inicializar columnas visibles - desactivar algunas por defecto
+                    if (allData.length > 0) {
+                        const hiddenColumns = ['ID', 'LOCATION', 'ORGANISATION', 'CATEGORY', 'GRADE', 'NOTES'];
+                        Object.keys(allData[0]).forEach(col => {
+                            visibleColumns[col] = !hiddenColumns.includes(col);
+                        });
+                    }
+                    
+                    document.getElementById('loading').style.display = 'none';
+                    document.getElementById('main-content').style.display = 'block';
+                    
+                    setupUI();
+                    updateDisplay();
+
+                    // Mostrar estadísticas completas en el pie de página
+                    displayFullStatistics();
+                }
+            });
+        }
+
+        function setupUI() {
+            if (allData.length === 0) return;
+            
+            const columns = Object.keys(allData[0]);
+            
+            // Column checkboxes
+            const columnCheckboxes = document.getElementById('column-checkboxes');
+            columns.forEach(col => {
+                const label = document.createElement('label');
+                label.className = 'checkbox-label';
+                const checked = visibleColumns[col] ? 'checked' : '';
+                label.innerHTML = `
+                    <input type="checkbox" ${checked} onchange="toggleColumn('${col}')">
+                    <span>${col}</span>
+                `;
+                columnCheckboxes.appendChild(label);
+            });
+            
+            // Populate filter options
+            const uniqueValues = {
+                surfaces: [...new Set(allData.map(d => d.SURFACE).filter(Boolean))],
+                genders: [...new Set(allData.map(d => d.GENDER).filter(Boolean))],
+                raceNames: [...new Set(allData.map(d => d['RACE NAME']).filter(Boolean))].sort()
+            };
+            
+            createFilterCheckboxes('raceFilters', uniqueValues.raceNames, 'raceNames');
+            createFilterCheckboxes('surfaceFilters', uniqueValues.surfaces, 'surfaces');
+            createFilterCheckboxes('genderFilters', uniqueValues.genders, 'genders');
+            
+            // Event listeners
+            document.getElementById('dateFrom').addEventListener('change', applyFilters);
+            document.getElementById('dateTo').addEventListener('change', applyFilters);
+            document.getElementById('athleteSearch').addEventListener('input', applyFilters);
+            document.getElementById('raceSearch').addEventListener('input', applyFilters);
+        }
+
+        function createFilterCheckboxes(containerId, values, filterKey) {
+            const container = document.getElementById(containerId);
+            values.forEach(value => {
+                const label = document.createElement('label');
+                label.className = 'checkbox-label';
+                label.innerHTML = `
+                    <input type="checkbox" onchange="toggleFilter('${filterKey}', '${value.replace(/'/g, "\\'")}')">
+                    <span style="font-size: 0.875rem;">${value}</span>
+                `;
+                container.appendChild(label);
+            });
+        }
+
+        function toggleColumn(col) {
+            visibleColumns[col] = !visibleColumns[col];
+            updateTable();
+        }
+
+        function toggleFilter(filterKey, value) {
+            const index = filters[filterKey].indexOf(value);
+            if (index > -1) {
+                filters[filterKey].splice(index, 1);
+            } else {
+                filters[filterKey].push(value);
+            }
+            applyFilters();
+        }
+
+        function clearFilters() {
+            filters = {
+                dateFrom: '',
+                dateTo: '',
+                athlete: '',
+                raceSearch: '',
+                surfaces: [],
+                genders: [],
+                raceNames: []
+            };
+            
+            document.getElementById('dateFrom').value = '';
+            document.getElementById('dateTo').value = '';
+            document.getElementById('athleteSearch').value = '';
+            document.getElementById('raceSearch').value = '';
+            
+            document.querySelectorAll('.filter-checkboxes input[type="checkbox"]').forEach(cb => {
+                cb.checked = false;
+            });
+            
+            applyFilters();
+        }
+
+        function setSeasonDates(yearFrom, yearTo) {
+                clearFilters();
+                document.getElementById('dateFrom').value = `${yearFrom}-10-01`;
+                document.getElementById('dateTo').value = `${yearTo}-09-30`;
+                applyFilters();
+        }
+
+        function setYearDate(year) {
+                clearFilters();
+                document.getElementById('dateFrom').value = `${year}-01-01`;
+                document.getElementById('dateTo').value = `${year}-12-31`;
+                applyFilters();
+        }
+
+        function setLast30Days() {
+                clearFilters();
+                const today = new Date();
+                const pastDate = new Date();
+                pastDate.setDate(today.getDate() - 30);
+                document.getElementById('dateFrom').value = pastDate.toISOString().split('T')[0];
+                document.getElementById('dateTo').value = today.toISOString().split('T')[0];
+                applyFilters();
+        }
+
+        function applyFilters() {
+            filters.dateFrom = document.getElementById('dateFrom').value;
+            filters.dateTo = document.getElementById('dateTo').value;
+            filters.athlete = document.getElementById('athleteSearch').value;
+            filters.raceSearch = document.getElementById('raceSearch').value;
+            
+            filteredData = allData.filter(row => {
+                if (filters.dateFrom && row.DATE < filters.dateFrom) return false;
+                if (filters.dateTo && row.DATE > filters.dateTo) return false;
+                if (filters.athlete && !row.ATHLETE?.toLowerCase().includes(filters.athlete.toLowerCase())) return false;
+                if (filters.raceSearch && !row['RACE NAME']?.toLowerCase().includes(filters.raceSearch.toLowerCase())) return false;
+                if (filters.surfaces.length > 0 && !filters.surfaces.includes(row.SURFACE)) return false;
+                if (filters.genders.length > 0 && !filters.genders.includes(row.GENDER)) return false;
+                if (filters.raceNames.length > 0 && !filters.raceNames.includes(row['RACE NAME'])) return false;
+                return true;
+            });
+            
+            updateDisplay();
+        }
+
+        function updateDisplay() {
+            updateStats();
+            updateCharts();
+            updateTable();
+        }
+
+        function parseTime(timeStr) {
+            if (!timeStr) return 0;
+            const parts = timeStr.split(':');
+            if (parts.length === 3) {
+                return parseInt(parts[0]) * 3600 + parseInt(parts[1]) * 60 + parseFloat(parts[2]);
+            } else if (parts.length === 2) {
+                return parseInt(parts[0]) * 60 + parseFloat(parts[1]);
+            }
+            return 0;
+        }
+
+        function updateStats() {
+            const filteredRecords = filteredData.length;
+            const filteredRaces = new Set(filteredData.map(d => d.ID)).size;
+            const filteredAthletes = new Set(filteredData.map(d => d.ATHLETE?.normalize('NFC').trim().toLowerCase())).size;
+            console.log('Filtered Athletes:', filteredAthletes);
+            
+
+            const genderCount = {};
+            const surfaceIds = {}; // Objeto para rastrear IDs únicos por superficie
+            const surfaceCount = {};            
+
+            filteredData.forEach(row => {
+                /*surfaceCount[row.SURFACE] = (surfaceCount[row.SURFACE] || 0) + 1;*/
+                if (!surfaceIds[row.SURFACE]) {
+                    surfaceIds[row.SURFACE] = new Set(); // Inicializa un conjunto para cada superficie
+                }
+                surfaceIds[row.SURFACE].add(row.ID); // Agrega el ID al conjunto correspondiente a la superficie
+                
+                genderCount[row.GENDER] = (genderCount[row.GENDER] || 0) + 1;
+            });
+
+                // Calcula el conteo de IDs únicos por superficie
+                Object.keys(surfaceIds).forEach(surface => {
+                    surfaceCount[surface] = surfaceIds[surface].size;
+                });
+
+                // Actualiza el título con el total de Races
+                const racesBySurfaceTitle = document.querySelector('.chart-title2');
+                racesBySurfaceTitle.textContent = `Races by Surface [${filteredRaces}]`;
+            
+            let statsHTML = `
+                <div class="stat-card brown">
+                    <div class="stat-value">${filteredRecords}</div>
+                    <div class="stat-label">Registrations</div>
+                </div>                
+                <div class="stat-card blue">
+                    <div class="stat-value">${filteredRaces}</div>
+                    <div class="stat-label">Races</div>
+                </div>
+                <div class="stat-card yellow">
+                    <div class="stat-value">${filteredAthletes}</div>
+                    <div class="stat-label">Participants</div>
+                </div>
+            `;
+            
+            // Athlete-specific stats
+            if (filters.athlete) {
+                const athleteData = filteredData.filter(d => 
+                    d.ATHLETE?.toLowerCase().includes(filters.athlete.toLowerCase())
+                );
+                
+                let totalDistance = 0;
+                let totalTimeSeconds = 0;
+                let validRaces = 0;
+                
+                 athleteData.forEach(row => {
+                    const distStr = row['DISTANCE KM']?.toString().trim(); // Cambiado a 'DISTANCE KM'
+
+                
+                    if (distStr) {
+                        const dist = parseFloat(distStr);
+                
+                        if (!isNaN(dist) && dist > 0) {
+                            totalDistance += dist;
+                
+                            const timeSeconds = parseTime(row.TIME);
+                
+                            if (timeSeconds > 0) {
+                                totalTimeSeconds += timeSeconds;
+                                validRaces++;
+                            }
+                        }
+                    }
+                });
+                
+                const avgPaceSecondsPerKm = totalDistance > 0 ? totalTimeSeconds / totalDistance : 0;
+                const paceMinutes = Math.floor(avgPaceSecondsPerKm / 60);
+                const paceSeconds = Math.floor(avgPaceSecondsPerKm % 60);
+                const avgPace = avgPaceSecondsPerKm > 0 ? `${paceMinutes}:${paceSeconds.toString().padStart(2, '0')}` : 'N/A';
+                
+                statsHTML += `
+                    <div class="stat-card green">
+                        <div class="stat-value">${totalDistance.toFixed(2)}</div>
+                        <div class="stat-label">Total Distance (km)</div>
+                    </div>
+                    <div class="stat-card purple">
+                        <div class="stat-value">${avgPace}</div>
+                        <div class="stat-label">Avg Pace (min/km)</div>
+                    </div>
+                `;
+            }
+            
+            document.getElementById('statsCards').innerHTML = statsHTML;
+            
+            // Update surface list
+            let surfaceListHTML = '';
+            Object.entries(surfaceCount).forEach(([surface, count]) => {
+                const color = SURFACE_COLORS[surface] || '#999';
+                surfaceListHTML += `
+                    <div class="surface-item">
+                        <div class="surface-name">
+                            <div class="surface-color" style="background-color: ${color}"></div>
+                            <span>${surface}</span>
+                        </div>
+                        <div class="surface-count">${count}</div>
+                    </div>
+                `;
+            });
+            document.getElementById('surfaceList').innerHTML = surfaceListHTML;
+        }
+
+        function updateCharts() {
+            // Races by Month
+            const monthData = {};
+            filteredData.forEach(row => {
+                if (row.DATE) {
+                    const month = row.DATE.substring(0, 7);
+                    if (!monthData[month]) monthData[month] = {};
+                    const raceName = row['RACE NAME'];
+                    if (!monthData[month][raceName]) {
+                        monthData[month][raceName] = 0;
+                    }
+                    monthData[month][raceName]++;
+                }
+            });
+            
+            // Calcular el total de carreras por mes
+            const months = Object.keys(monthData).sort();
+            const monthTotals = months.map(month => {
+                /*return Object.values(monthData[month]).reduce((a, b) => a + b, 0);*/ // Sumar todas las participaciones de carreras del mes
+                return Object.keys(monthData[month]).length; // Contar los nombres de carreras únicos
+            });
+
+            // Actualizar las etiquetas para incluir el total de carreras
+            const monthLabels = months.map((month, index) => `${month}`); //(${monthTotals[index]})
+
+            const raceNames = [...new Set(filteredData.map(d => d['RACE NAME']).filter(Boolean))];
+            
+            const datasets = raceNames.map((race, idx) => ({
+                label: race,
+                data: months.map(month => monthData[month][race] || 0),
+                backgroundColor: MONTH_COLORS[idx % MONTH_COLORS.length] // Asignar colores cíclicamente
+            }));
+            
+            if (charts.month) charts.month.destroy();
+            charts.month = new Chart(document.getElementById('monthChart'), {
+                type: 'bar',
+                data: {
+                    labels: monthLabels, // Usar las etiquetas con el total de carreras
+                    datasets: datasets
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: true,
+                    scales: {
+                        x: { stacked: true },
+                        y: { stacked: true, beginAtZero: true, grace: '20%' }
+                    },
+                    plugins: {
+                        datalabels: {
+                            display: function(context) {
+                                // Mostrar la etiqueta solo en el último dataset (para evitar repeticiones)
+                                return context.datasetIndex === datasets.length - 1;
+                            },
+                            color: '#374151', // Color del texto
+                            font: {
+                                weight: 'bold', // Negrita
+                                size: 10 // Tamaño de la fuente
+                            },
+                            anchor: 'end', // Posición de la etiqueta (arriba de la barra)
+                            align: 'end', // Alineación de la etiqueta
+                            formatter: function(value, context) {
+                                // Mostrar el total de carreras por mes
+                                const monthIndex = context.dataIndex;
+                                return monthTotals[monthIndex]; // Devuelve el conteo total del mes
+                            }
+                        }
+                    }
+                },
+                plugins: [ChartDataLabels] // Activar el plugin
+            });
+            
+            // Surface Pie Chart
+            const surfaceIds = {}; // Objeto para rastrear IDs únicos por superficie
+            const surfaceCount = {};            
+
+            filteredData.forEach(row => {
+                /*surfaceCount[row.SURFACE] = (surfaceCount[row.SURFACE] || 0) + 1;*/
+                if (!surfaceIds[row.SURFACE]) {
+                    surfaceIds[row.SURFACE] = new Set(); // Inicializa un conjunto para cada superficie
+                }
+                surfaceIds[row.SURFACE].add(row.ID); // Agrega el ID al conjunto correspondiente a la superficie
+            });
+
+            // Calcula el conteo de IDs únicos por superficie
+                Object.keys(surfaceIds).forEach(surface => {
+                    surfaceCount[surface] = surfaceIds[surface].size;
+                });
+            
+            if (charts.surface) charts.surface.destroy();
+                charts.surface = new Chart(document.getElementById('surfaceChart'), {
+                type: 'pie',
+                data: {
+                    labels: Object.keys(surfaceCount),
+                    datasets: [{
+                        data: Object.values(surfaceCount),
+                        backgroundColor: Object.keys(surfaceCount).map(s => SURFACE_COLORS[s] || '#999')
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: true,
+                    /* Las siguientes opciones son para personalizar la leyenda */
+                    plugins: {
+                        legend: {
+                            labels: {
+                                generateLabels: function(chart) {
+                                    const data = chart.data;
+                                    return data.labels.map((label, index) => ({
+                                        text: `${label} (${data.datasets[0].data[index]})`, // Agrega el conteo a la etiqueta
+                                        fillStyle: data.datasets[0].backgroundColor[index],
+                                        hidden: false,
+                                        index: index
+                                    }));
+                                }
+                            }
+                        },
+
+                    }
+                },                
+            });
+            
+            // Gender Pie Chart
+            const genderCount = {};
+            filteredData.forEach(row => {
+                genderCount[row.GENDER] = (genderCount[row.GENDER] || 0) + 1;
+            });
+
+            const totalParticipations = Object.values(genderCount).reduce((a, b) => a + b, 0); // Suma total de participaciones
+            
+            const genderColors = {
+                'Men': '#3B82F6',
+                'Women': '#EF4444',
+                'Male': '#3B82F6',
+                'Female': '#EF4444',
+                'M': '#3B82F6',
+                'F': '#EF4444'
+            };
+
+            // Actualiza el título con el conteo total
+            const genderChartTitle = document.querySelector('.chart-title3');
+            genderChartTitle.textContent = `Participations by Gender [${totalParticipations}]`;
+
+            // Crear el gráfico
+            if (charts.gender) charts.gender.destroy();
+            charts.gender = new Chart(document.getElementById('genderChart'), {
+                type: 'pie',
+                data: {
+                    labels: Object.keys(genderCount),
+                    datasets: [{
+                        data: Object.values(genderCount),
+                        backgroundColor: Object.keys(genderCount).map(g => genderColors[g] || '#999')
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: true,
+                    plugins: {
+                        legend: {
+                            labels: {
+                                generateLabels: function(chart) {
+                                    const data = chart.data;
+                                    return data.labels.map((label, index) => ({
+                                        text: `${label} (${data.datasets[0].data[index]})`, // Agrega el conteo a la etiqueta
+                                        fillStyle: data.datasets[0].backgroundColor[index],
+                                        hidden: false,
+                                        index: index
+                                    }));
+                                }
+                            }
+                        }
+                    }
+                }
+            });
+        }
+
+        function updateTable(limit = 100) {
+            if (allData.length === 0) return;
+            
+            const columns = Object.keys(allData[0]).filter(col => visibleColumns[col]);
+            
+            // Header
+            let headerHTML = '<tr>';
+            columns.forEach(col => {
+                headerHTML += `<th class="col-${col.toLowerCase().replace(/\s+/g, '-').replace(/[^\w-]/g, '')}">${col}</th>`;            });
+            headerHTML += '</tr>';
+            document.getElementById('tableHeader').innerHTML = headerHTML;
+            
+            // Body
+            let bodyHTML = '';
+            const displayData = filteredData.slice(0, limit); // Usa el límite proporcionado
+            displayData.forEach(row => {
+                    bodyHTML += '<tr>';
+                    columns.forEach(col => {
+                        if (col === 'ATHLETE') {
+                            // Hacer el nombre del atleta clickeable
+                            bodyHTML += `<td class="col-athlete"><a href="#" onclick="filterByAthlete('${row[col].replace(/'/g, "\\'")}')">${row[col] || ''}</a></td>`;
+                        } else {
+                            bodyHTML += `<td class="col-${col.toLowerCase().replace(/\s+/g, '-').replace(/[^\w-]/g, '')}">${row[col] || ''}</td>`;
+                        }
+                    });
+                    bodyHTML += '</tr>';
+                });
+            document.getElementById('tableBody').innerHTML = bodyHTML;
+            
+            // Update title
+            const tableTitle = document.getElementById('tableTitle');
+            const isFiltered = filteredData.length > limit;
+            tableTitle.textContent = 
+                `Race Results (${filteredData.length} records${isFiltered ? `, showing first ${limit}` : ''})`;
+
+            // Enable or disable the "Show Full Table" button
+            const showFullTableBtn = document.getElementById('showFullTableBtn');
+            if (isFiltered) {
+                showFullTableBtn.disabled = false; // Habilitar si está filtrado
+                console.log('Table is filtered. Show Full Table button enabled.');
+            } else {
+                showFullTableBtn.disabled = true; // Deshabilitar si no está filtrado
+                console.log('Table is not filtered. Show Full Table button disabled.');
+            }
+        }
+
+        function filterByAthlete(athleteName) {
+            // Actualiza el filtro de atleta
+            document.getElementById('athleteSearch').value = athleteName;
+            filters.athlete = athleteName.toLowerCase();
+            applyFilters();
+        }
+
+        function printTable() {
+            // Generar el contenido completo de la tabla
+            const columns = Object.keys(allData[0]).filter(col => visibleColumns[col]);
+            let tableHTML = '<table><thead><tr>';
+
+            // Generar encabezados
+            columns.forEach(col => {
+                tableHTML += `<th class="col-${col.toLowerCase().replace(/\s+/g, '-').replace(/[^\w-]/g, '')}">${col}</th>`;
+            });
+            tableHTML += '</tr></thead><tbody>';
+
+            // Generar filas con todos los datos filtrados
+            filteredData.forEach(row => {
+                tableHTML += '<tr>';
+                columns.forEach(col => {
+                    tableHTML += `<td class="col-${col.toLowerCase().replace(/\s+/g, '-').replace(/[^\w-]/g, '')}">${row[col] || ''}</td>`;
+                });
+                tableHTML += '</tr>';
+            });
+            tableHTML += '</tbody></table>';
+        
+            // Calcula dinámicamente las fechas según los datos filtrados
+            const filteredDates = filteredData.map(d => d.DATE).filter(Boolean).sort();
+            const dateFrom = filteredDates.length > 0 ? filteredDates[0] : 'N/A'; // Primera fecha
+            const dateTo = filteredDates.length > 0 ? filteredDates[filteredDates.length - 1] : 'N/A'; // Última fecha
+
+            // Obtén las estadísticas necesarias
+            const filteredRecords = filteredData.length;
+            const filteredRaces = new Set(filteredData.map(d => d.ID)).size;
+            const filteredAthletes = new Set(filteredData.map(d => d.ATHLETE?.normalize('NFC').trim().toLowerCase())).size;
+            
+            // Crea una nueva ventana
+            const printWindow = window.open('', '_blank');
+        
+            // Escribe el contenido de la tabla en la nueva ventana
+            printWindow.document.write(`
+                <!DOCTYPE html>
+                <html lang="en">
+                <head>
+                    <meta charset="UTF-8">
+                    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+                    <title>Print Table</title>
+                    <style>
+                        body {
+                            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif;
+                            color: #111827;
+                            margin: 0rem;
+                        }
+                        .header {
+                            display: flex;
+                            align-items: center;
+                            justify-content: space-between; /* Coloca el título a la izquierda y los stats a la derecha */
+                            margin-bottom: 0rem;
+                        }
+                        .header img {
+                            width: 50px; /* Ajusta el tamaño del logo */
+                            margin-right: 1rem;
+                            margin-bottom: 0.2rem;
+                        }
+                        .header h2 {
+                            margin: 0;
+                            margin-top: 0;
+                            margin-bottom: 0.5rem;
+                            font-size: 1.5rem;
+                        }
+                        table {
+                            width: 100%;
+                            border-collapse: collapse;
+                        }
+                        th, td {
+                            text-align: left;
+                            border: 1px solid #e5e7eb;
+                            font-size: 0.75rem;
+                        }
+                        thead {
+                            background-color: #f3f4f6;
+                        }
+
+                        .col-surface, .col-place, .col-gender, .col-distance-km, .col-pace-minkm, .col-category, .col-time {
+                            text-align: center;
+                        }  
+                        .col-distance-km {
+                            max-width: 72px; 
+                        }
+                        .col-pace-minkm {
+                            max-width: 62px; 
+                        }
+
+                        .col-time {
+                            min-width: 70px; 
+                        }
+                        .col-location, .col-race-name {
+                            min-width: 122px; 
+                        }        
+                        td.col-athlete {
+                            font-weight: bold;
+                            white-space: nowrap;
+                            padding-right: 10px;
+                        }
+                        td.col-date {
+                            font-weight: bold;
+                            font-size: small;
+                            white-space: nowrap;
+                            padding-right: 10px;
+                        }
+                        .stats {
+                            display: flex;
+                            gap: 0.5rem;
+                            margin-bottom: 0.5rem;
+
+                            font-size: 0.8rem;
+                        }
+                        .stats div {
+                            margin-bottom: -0.2rem;
+                        }
+                    </style>
+                </head>
+                <body>
+                    <div class="header">
+                        <div style="display: flex; align-items: center;">
+                            <img src="LVAC_2024_logo.png" alt="LVAC Logo">
+                            <h2>Race Results</h2>
+                        </div>
+                        <div class="stats">
+                            <div><strong>Date From:<br></strong> ${dateFrom}</div>
+                            <div><strong>Date To:<br></strong> ${dateTo}</div>
+                            <div><strong>Total Races:<br></strong> ${filteredRaces}</div>
+                            <div><strong>Total Athletes:<br></strong> ${filteredAthletes}</div>
+                            <div><strong>Total Records:<br></strong> ${filteredRecords}</div>
+                        </div>
+                    </div>
+                    ${tableHTML}
+                </body>
+                </html>
+            `);
+        
+            // Espera a que el contenido se cargue y luego imprime
+            printWindow.document.close();
+            printWindow.focus();
+            printWindow.print();
+        
+            // Cierra la ventana después de imprimir
+            //printWindow.close();
+        }
+
+        function displayFullStatistics() {
+            if (allData.length === 0) return;
+        
+            // Calcular estadísticas
+            const totalRecords = allData.length;
+            const totalRaces = new Set(allData.map(d => d.ID)).size;
+            const totalAthletes = new Set(allData.map(d => d.ATHLETE)).size;
+        
+            // Calcular fechas más antigua y más reciente
+            const allDates = allData.map(d => d.DATE).filter(Boolean).sort();
+            const earliestDate = allDates.length > 0 ? allDates[0] : 'N/A';
+            const latestDate = allDates.length > 0 ? allDates[allDates.length - 1] : 'N/A';
+        
+            // Crear el contenido del pie de página
+            const footerHTML = `
+                <div style="font-size: 0.75rem; text-align: center; color: #6b7280; padding: 0.5rem 0; border-top: 1px solid #e5e7eb;">
+                    <strong>Full Statistics:</strong> 
+                    Total Records: <strong>${totalRecords}</strong> | 
+                    Total Races: <strong>${totalRaces}</strong> | 
+                    Total Athletes: <strong>${totalAthletes}</strong> | 
+                    Earliest Date: <strong>${earliestDate}</strong> | 
+                    Latest Date: <strong>${latestDate}</strong>
+                </div>
+            `;
+        
+            // Insertar el pie de página en el cuerpo
+            const footerContainer = document.createElement('div');
+            footerContainer.innerHTML = footerHTML;
+            document.body.appendChild(footerContainer);
+        }
+
+        // Initialize on load
+        window.addEventListener('load', init);
+    </script>
+</body>
+</html>
