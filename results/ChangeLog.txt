@@ -73,6 +73,8 @@ OK -> Snow Flakes falling on all web pages
 
 FUTURE IMPROVEMENTS:
 
+Que la visualización predeterminada de la tabla sea en ordenamiento por DATE descendente, pero manteniendo GENDER Woman first and Men second, and PLACE in ascending order respectively.
+
 Al visualizar en celular, las estadísticas se ven mal. Disminuir el gap y reducir el tamaño de la fuente. La tabla hacerla más corta para que siempre se vea parte de la pantalla para hacer scroll porque sino quedamos "atrapados" dentro de la tabla haciendo scroll.
 
 Filtrar por distancia Min y Max.

@@ -334,6 +334,39 @@
         a:visited {
             color: #6b7280; /* Color gris para enlaces visitados */
         }
+
+        .snowflake {
+            position: fixed;
+            top: -10vh;
+            color: #ffffff;
+            pointer-events: none;
+            z-index: 9999;
+            animation-name: snowFall;
+            animation-timing-function: linear;
+            animation-iteration-count: infinite;
+            animation-duration: var(--duration, 12s);
+            animation-delay: var(--delay, 0s);
+            opacity: 0;
+            will-change: transform, opacity;
+            text-shadow: 0 0 8px rgba(255, 255, 255, 0.6);
+        }
+
+        @keyframes snowFall {
+            0% {
+                transform: translate3d(0, -10vh, 0);
+                opacity: 0;
+            }
+            10% {
+                opacity: 0.95;
+            }
+            50% {
+                transform: translate3d(var(--sway, 20px), 50vh, 0);
+            }
+            100% {
+                transform: translate3d(calc(var(--sway, 20px) * -1), 110vh, 0);
+                opacity: 0;
+            }
+        }
     </style>
 </head>
 
@@ -457,8 +490,37 @@
 
     
     <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            const totalFlakes = 28;
+            const fragment = document.createDocumentFragment();
+
+            for (let i = 0; i < totalFlakes; i++) {
+                const flake = document.createElement('span');
+                flake.className = 'snowflake';
+                flake.textContent = '❄️';
+
+                const sizeRem = (Math.random() * 1.2 + 0.6).toFixed(2);
+                const duration = (Math.random() * 6 + 8).toFixed(2);
+                const delay = (Math.random() * 8).toFixed(2);
+                const sway = `${Math.floor(Math.random() * 30) + 10}px`;
+
+                flake.style.left = `${Math.random() * 100}vw`;
+                flake.style.fontSize = `${sizeRem}rem`;
+                flake.style.setProperty('--duration', `${duration}s`);
+                flake.style.setProperty('--delay', `${delay}s`);
+                flake.style.setProperty('--sway', sway);
+
+                fragment.appendChild(flake);
+            }
+
+            document.body.appendChild(fragment);
+        });
+    </script>
+
+    <script>
         let allData = [];
         let filteredData = [];
+        
         let visibleColumns = {};
         let filters = {
             dateFrom: '',
