@@ -8,8 +8,9 @@ The National Novice Cross Country Championships took place in Abbotstown, Dublin
 Well done to the LVAC Men and Woman Teams who raced in a very competive National Novice Cross Country Championship, in challenging conditions.<br>
 
 19th Men Team <br>
-19th Women Team <br>
-<b>Ennis Track A.C</b> was the winner in both categories<br>
+10th Women Team <br>
+
+Callum Barron (Kilkenny City Harriers AC) and Dearbhla Cox (Annadale Striders) were the winners.
 
 <a href="https://www.instagram.com/p/DR-ibQRgI-i/?img_index=1" target="_blank" rel="noopener noreferrer">Instagram</a>
 

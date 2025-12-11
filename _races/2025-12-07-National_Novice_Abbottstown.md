@@ -10,22 +10,22 @@ results:
     name: Mollie O'Donnell
     time: 17.58
     category: 
-    note: BIB 264
+    note: BIB 264 10° Club Team
   - place: 61
     name: Ellen Cronin
     time: 18.21
     category: 
-    note: BIB 274
+    note: BIB 274 10° Club Team
   - place: 73
     name: Siobhan Nugent
     time: 18.39
     category: 
-    note: BIB 275
+    note: BIB 275 10° Club Team
   - place: 100
     name: Dearbhaile Rooney
     time: 19.30
     category: 
-    note: BIB 276
+    note: BIB 276 10° Club Team
   - place: 101
     name: Lynn Devitt
     time: 19.32
@@ -55,22 +55,22 @@ results:
     name: David Carroll
     time: 23.08
     category: 
-    note: BIB 267
+    note: BIB 267 18° Club Team
   - place: 104
     name: Paddy Murphy
     time: 24.47
     category: 
-    note: BIB 280
+    note: BIB 280 18° Club Team
   - place: 112
     name: Cormac Jones
     time: 24.59
     category: 
-    note: BIB 282
+    note: BIB 282 18° Club Team
   - place: 159
     name: Patrick Fox
     time: 26.25
     category: 
-    note: BIB 279
+    note: BIB 279 18° Club Team
   - place: 164
     name: James Foley
     time: 26.34
