@@ -241,6 +241,38 @@
             /*font-weight: 600;*/
             color: #374151;
         }
+
+        th.sortable {
+            cursor: pointer;
+            user-select: none;
+            white-space: nowrap;
+        }
+
+        th.sortable.active {
+            color: #111827;
+        }
+
+        .sort-label {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.35rem;
+        }
+
+        .sort-icon {
+            display: inline-flex;
+            flex-direction: column;
+            font-size: 0.6rem;
+            line-height: 0.6rem;
+            color: #9ca3af;
+        }
+
+        .sort-icon .arrow {
+            transition: color 0.2s ease;
+        }
+
+        .sort-icon .arrow.active {
+            color: #1f2937;
+        }
         
         tbody tr:hover {
             background-color: #f9fafb;
@@ -522,6 +554,8 @@
         let filteredData = [];
         
         let visibleColumns = {};
+        let sortState = { column: 'DATE', direction: 'desc', mode: 'default' };
+        let currentTableLimit = 100;
         let filters = {
             dateFrom: '',
             dateTo: '',
@@ -728,16 +762,15 @@
                 'Male': 1
             };
 
-            filteredData.sort((a, b) => {
+            const compareDefault = (a, b, dateOrder = 'desc') => {
                 const dateA = a.DATE ? new Date(a.DATE) : new Date(0);
                 const dateB = b.DATE ? new Date(b.DATE) : new Date(0);
-                const dateDiff = dateB - dateA;
+                const dateDiff = dateOrder === 'asc' ? dateA - dateB : dateB - dateA;
                 if (dateDiff !== 0) return dateDiff;
 
                 const genderA = Object.prototype.hasOwnProperty.call(genderPriority, a.GENDER) ? genderPriority[a.GENDER] : 2;
                 const genderB = Object.prototype.hasOwnProperty.call(genderPriority, b.GENDER) ? genderPriority[b.GENDER] : 2;
-                const genderDiff = genderA - genderB;
-                if (genderDiff !== 0) return genderDiff;
+                if (genderA !== genderB) return genderA - genderB;
 
                 const placeA = parseInt(a.PLACE, 10);
                 const placeB = parseInt(b.PLACE, 10);
@@ -745,8 +778,7 @@
                 const validB = !Number.isNaN(placeB);
 
                 if (validA && validB) {
-                    const placeDiff = placeA - placeB;
-                    if (placeDiff !== 0) return placeDiff;
+                    if (placeA !== placeB) return placeA - placeB;
                 } else if (validA) {
                     return -1;
                 } else if (validB) {
@@ -754,11 +786,130 @@
                 } else {
                     const placeStrA = (a.PLACE || '').toString();
                     const placeStrB = (b.PLACE || '').toString();
-                    const strDiff = placeStrA.localeCompare(placeStrB);
+                    const strDiff = placeStrA.localeCompare(placeStrB, undefined, { sensitivity: 'base' });
                     if (strDiff !== 0) return strDiff;
                 }
 
                 return 0;
+            };
+
+            const compareColumn = (a, b, column) => {
+                if (column === 'DATE') {
+                    return compareDefault(a, b, sortState.direction);
+                }
+
+                if (column === 'GENDER') {
+                    const genderA = Object.prototype.hasOwnProperty.call(genderPriority, a.GENDER) ? genderPriority[a.GENDER] : 2;
+                    const genderB = Object.prototype.hasOwnProperty.call(genderPriority, b.GENDER) ? genderPriority[b.GENDER] : 2;
+                    if (genderA !== genderB) return genderA - genderB;
+                }
+
+                if (column === 'PLACE') {
+                    const placeA = parseInt(a.PLACE, 10);
+                    const placeB = parseInt(b.PLACE, 10);
+                    const validA = !Number.isNaN(placeA);
+                    const validB = !Number.isNaN(placeB);
+
+                    if (validA && validB) {
+                        if (placeA !== placeB) return placeA - placeB;
+                    } else if (validA) {
+                        return -1;
+                    } else if (validB) {
+                        return 1;
+                    }
+                }
+
+                const valueA = (a[column] ?? '').toString().trim();
+                const valueB = (b[column] ?? '').toString().trim();
+
+                const numericA = valueA !== '' && !Number.isNaN(Number(valueA));
+                const numericB = valueB !== '' && !Number.isNaN(Number(valueB));
+
+                if (numericA && numericB) {
+                    const numDiff = Number(valueA) - Number(valueB);
+                    if (numDiff !== 0) return numDiff;
+                } else {
+                    const strDiff = valueA.localeCompare(valueB, undefined, { sensitivity: 'base' });
+                    if (strDiff !== 0) return strDiff;
+                }
+
+                return compareDefault(a, b, 'desc');
+            };
+
+            if (sortState.mode === 'default') {
+                filteredData.sort((a, b) => compareDefault(a, b, 'desc'));
+            } else if (sortState.mode === 'date') {
+                filteredData.sort((a, b) => compareDefault(a, b, sortState.direction));
+            } else {
+                const factor = sortState.direction === 'asc' ? 1 : -1;
+                filteredData.sort((a, b) => compareColumn(a, b, sortState.column) * factor);
+            }
+        }
+
+        function attachSortHandlers() {
+            const headerCells = document.querySelectorAll('#tableHeader th.sortable');
+            headerCells.forEach(th => {
+                th.addEventListener('click', event => {
+                    event.preventDefault();
+                    const column = th.dataset.column;
+                    handleSort(column);
+                });
+            });
+        }
+
+        function handleSort(column) {
+            if (!column) return;
+
+            if (column === 'DATE') {
+                if (sortState.mode === 'default') {
+                    sortState = { column, direction: 'asc', mode: 'date' };
+                } else if (sortState.mode === 'date' && sortState.direction === 'asc') {
+                    sortState.direction = 'desc';
+                } else if (sortState.mode === 'date' && sortState.direction === 'desc') {
+                    sortState = { column, direction: 'desc', mode: 'default' };
+                } else {
+                    sortState = { column, direction: 'desc', mode: 'date' };
+                }
+            } else {
+                if (sortState.mode === 'column' && sortState.column === column) {
+                    sortState.direction = sortState.direction === 'asc' ? 'desc' : 'asc';
+                } else {
+                    sortState = { column, direction: 'asc', mode: 'column' };
+                }
+            }
+
+            sortFilteredData();
+            updateTable(currentTableLimit);
+        }
+
+        function updateSortIcons() {
+            const headerCells = document.querySelectorAll('#tableHeader th.sortable');
+            headerCells.forEach(th => {
+                const icon = th.querySelector('.sort-icon');
+                if (!icon) return;
+
+                th.classList.remove('active');
+                icon.querySelectorAll('.arrow').forEach(arrow => arrow.classList.remove('active'));
+
+                const column = th.dataset.column;
+                let direction = null;
+
+                if (sortState.mode === 'default' && column === 'DATE') {
+                    direction = 'desc';
+                } else if (sortState.mode === 'date' && column === 'DATE') {
+                    direction = sortState.direction;
+                } else if (sortState.mode === 'column' && sortState.column === column) {
+                    direction = sortState.direction;
+                }
+
+                if (direction) {
+                    th.classList.add('active');
+                    const arrowSelector = direction === 'asc' ? '.arrow-up' : '.arrow-down';
+                    const arrow = icon.querySelector(arrowSelector);
+                    if (arrow) {
+                        arrow.classList.add('active');
+                    }
+                }
             });
         }
 
@@ -1068,14 +1219,25 @@
         function updateTable(limit = 100) {
             if (allData.length === 0) return;
             
+            currentTableLimit = limit;
             const columns = Object.keys(allData[0]).filter(col => visibleColumns[col]);
+            if (sortState.mode !== 'default' && !columns.includes(sortState.column)) {
+                sortState = { column: 'DATE', direction: 'desc', mode: 'default' };
+                sortFilteredData();
+            }
             
             // Header
             let headerHTML = '<tr>';
             columns.forEach(col => {
-                headerHTML += `<th class="col-${col.toLowerCase().replace(/\s+/g, '-').replace(/[^\w-]/g, '')}">${col}</th>`;            });
+                const className = col.toLowerCase().replace(/\s+/g, '-').replace(/[^\w-]/g, '');
+                const dataAttr = col.replace(/"/g, '&quot;');
+                headerHTML += `<th class="col-${className} sortable" data-column="${dataAttr}"><span class="sort-label">${col}<span class="sort-icon"><span class="arrow arrow-up">▲</span><span class="arrow arrow-down">▼</span></span></span></th>`;
+            });
             headerHTML += '</tr>';
-            document.getElementById('tableHeader').innerHTML = headerHTML;
+            const tableHeader = document.getElementById('tableHeader');
+            tableHeader.innerHTML = headerHTML;
+            attachSortHandlers();
+            updateSortIcons();
             
             // Body
             let bodyHTML = '';
