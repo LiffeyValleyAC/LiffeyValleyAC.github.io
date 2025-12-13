@@ -563,6 +563,7 @@
                 complete: function(results) {
                     allData = results.data.filter(row => row.DATE); // Filtrar filas vacías
                     filteredData = [...allData];
+                    sortFilteredData();
                     
                     // Inicializar columnas visibles - desactivar algunas por defecto
                     if (allData.length > 0) {
@@ -711,8 +712,54 @@
                 if (filters.raceNames.length > 0 && !filters.raceNames.includes(row['RACE NAME'])) return false;
                 return true;
             });
-            
+
+            sortFilteredData();
+
             updateDisplay();
+        }
+
+        function sortFilteredData() {
+            if (!Array.isArray(filteredData) || filteredData.length === 0) return;
+
+            const genderPriority = {
+                'Women': 0,
+                'Female': 0,
+                'Men': 1,
+                'Male': 1
+            };
+
+            filteredData.sort((a, b) => {
+                const dateA = a.DATE ? new Date(a.DATE) : new Date(0);
+                const dateB = b.DATE ? new Date(b.DATE) : new Date(0);
+                const dateDiff = dateB - dateA;
+                if (dateDiff !== 0) return dateDiff;
+
+                const genderA = Object.prototype.hasOwnProperty.call(genderPriority, a.GENDER) ? genderPriority[a.GENDER] : 2;
+                const genderB = Object.prototype.hasOwnProperty.call(genderPriority, b.GENDER) ? genderPriority[b.GENDER] : 2;
+                const genderDiff = genderA - genderB;
+                if (genderDiff !== 0) return genderDiff;
+
+                const placeA = parseInt(a.PLACE, 10);
+                const placeB = parseInt(b.PLACE, 10);
+                const validA = !Number.isNaN(placeA);
+                const validB = !Number.isNaN(placeB);
+
+                if (validA && validB) {
+                    const placeDiff = placeA - placeB;
+                    if (placeDiff !== 0) return placeDiff;
+                } else if (validA) {
+                    return -1;
+                } else if (validB) {
+                    return 1;
+                } else {
+                    const placeStrA = (a.PLACE || '').toString();
+                    const placeStrB = (b.PLACE || '').toString();
+                    const strDiff = placeStrA.localeCompare(placeStrB);
+                    if (strDiff !== 0) return strDiff;
+                }
+
+                return 0;
+            });
         }
 
         function updateDisplay() {
