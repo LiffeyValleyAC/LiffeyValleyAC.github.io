@@ -14,7 +14,7 @@ location: Phoenix Park, Dublin
   Well done to <strong>all our athletes</strong> for their great efforts, and a
   <strong>big thank you to our officials</strong> for ensuring another successful and enjoyable event.
 
-  Leaderboard LVAC WL 2025-2026 after Race 2 of 6: <a href="/assets/results/winter-league-2025-2026/LVAC Winter League 2025-2026 - WL 2 of 6.pdf" target="_blank" rel="noopener noreferrer">PDF</a><span>&ensp;|&ensp;</span><a href="/assets/results/winter-league-2025-2026/LVAC Winter League 2025-2026 - WL 2 of 6_page-0001.jpg" target="_blank" rel="noopener noreferrer">JPG</a>
+  Leaderboard LVAC WL 2025-2026 after Race 2 of 6: <a href="/news/2025/11/15/Winter-League-Presentation/" target="_blank" rel="noopener noreferrer">INFO</a><span>&ensp;|&ensp;</span><a href="/assets/results/winter-league-2025-2026/LVAC Winter League 2025-2026 - WL 2 of 6.pdf" target="_blank" rel="noopener noreferrer">PDF</a><span>&ensp;|&ensp;</span><a href="/assets/results/winter-league-2025-2026/LVAC Winter League 2025-2026 - WL 2 of 6_page-0001.jpg" target="_blank" rel="noopener noreferrer">JPG</a>
 
 <a href="/races/2025-12-20-LVAC-WL2of6-Cake-Race/" target="_blank" rel="noopener noreferrer">Race Results</a>
 
