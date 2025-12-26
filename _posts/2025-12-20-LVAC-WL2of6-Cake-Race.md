@@ -1,5 +1,5 @@
 ---
-title: LVAC WL 1/6 Cake Race 2025
+title: LVAC WL 2/6 Cake Race 2025
 location: Phoenix Park, Dublin
 ---
   We enjoyed another <strong>excellent edition of the Cake Race 2025</strong> (the second race in our Club Winter League), with a fantastic
