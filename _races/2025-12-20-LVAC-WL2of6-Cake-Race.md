@@ -196,9 +196,9 @@ results:
     finish_time: 30.59
     handicap: 6.45
     actual_time: 24.14
-    note: M
+    note: W
   - place: 33
-    name: Maeve
+    name: Maeve Gilmartin
     finish_time: 31.03
     handicap: 7.00
     actual_time: 24.03
@@ -226,15 +226,15 @@ results:
     finish_time: 31.21
     handicap: 8.10
     actual_time: 23.11
-    note: M
+    note: W
   - place: 38
-    name: Unknown LA
+    name: Orla Gordon
     finish_time: 31.24
     handicap: 8.10
     actual_time: 23.14
     note: W
   - place: 39
-    name: Unknown Cullen
+    name: John Cillen
     finish_time: 31.29
     handicap: 5.45
     actual_time: 25.44
