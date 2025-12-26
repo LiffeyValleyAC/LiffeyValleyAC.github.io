@@ -221,4 +221,34 @@ results:
     handicap: 0.50
     actual_time: 30.26
     note: M
+  - place: 37
+    name: Aifric Gallagher
+    finish_time: 31.21
+    handicap: 8.10
+    actual_time: 23.11
+    note: M
+  - place: 38
+    name: Unknown LA
+    finish_time: 31.24
+    handicap: 8.10
+    actual_time: 23.14
+    note: W
+  - place: 39
+    name: Unknown Cullen
+    finish_time: 31.29
+    handicap: 5.45
+    actual_time: 25.44
+    note: M
+  - place: 40
+    name: Lynn Devitt
+    finish_time: 31.55
+    handicap: 8.50
+    actual_time: 23.05
+    note: W
+  - place: 41
+    name: Cliodhna Tutty Bardon
+    finish_time: 32.10
+    handicap: 10.00
+    actual_time: 22.10
+    note: W
 ---
