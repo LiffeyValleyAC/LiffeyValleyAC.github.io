@@ -69,7 +69,7 @@ results:
     name: Mollie O'Donnell
     finish_time: 30.01
     handicap: 10.00
-    actual_time: 20.21
+    actual_time: 20.01
     note: W
   - place: 12
     name: Geoffrey Alexandre
