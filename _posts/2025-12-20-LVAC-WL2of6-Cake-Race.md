@@ -10,6 +10,29 @@ location: Phoenix Park, Dublin
   <strong>Brigid claimed the win</strong> with a strong and well-timed run, followed closely by
   <strong>Niki Lynch in second place</strong> and <strong>Luke Evans taking third</strong>, making it
   a thrilling podium battle.
+  
+  <p><strong>Top 3 Results – Handicap Applied</strong><br>
+The following list shows the <strong>top three finishers</strong> based on <strong>net time with handicap applied</strong>.</p>
+
+<ol>
+  <li><strong>1st place:</strong> Brigid Long – <strong>Net Time:</strong> 27:55</li>
+  <li><strong>2nd place:</strong> Nikki Lynch – <strong>Net Time:</strong> 22:19</li>
+  <li><strong>3rd place:</strong> Luke Evans – <strong>Net Time:</strong> 19:17</li>
+</ol>
+
+<p><strong>Women’s Podium (Best Net Times)</strong></p>
+<ol>
+  <li><strong>1st place:</strong> Mollie O'Donnell – <strong>Net Time:</strong> 20:01</li>
+  <li><strong>2nd place:</strong> Jennifer Preston – <strong>Net Time:</strong> 20:41</li>
+  <li><strong>3rd place:</strong> Ellen Cronin – <strong>Net Time:</strong> 20:52</li>
+</ol>
+
+<p><strong>Men’s Podium (Best Net Times)</strong></p>
+<ol>
+  <li><strong>1st place:</strong> Geoffrey Alexandre – <strong>Net Time:</strong> 17:36</li>
+  <li><strong>2nd place:</strong> Mark Naylor – <strong>Net Time:</strong> 17:44</li>
+  <li><strong>3rd place:</strong> Cormac Jones – <strong>Net Time:</strong> 18:14</li>
+</ol>
 
   Well done to <strong>all our athletes</strong> for their great efforts, and a
   <strong>big thank you to our officials</strong> for ensuring another successful and enjoyable event.
