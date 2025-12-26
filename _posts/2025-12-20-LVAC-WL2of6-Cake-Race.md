@@ -22,7 +22,7 @@ location: Phoenix Park, Dublin
 
 <figure style="text-align: center;">
   <a href="/assets/images/races/2025/2025-12-20_group.jpg" target="_blank" rel="noopener noreferrer">
-    <img src="/assets/images/races/2025/2025-12-20_group.jpgg" 
+    <img src="/assets/images/races/2025/2025-12-20_group.jpg" 
          alt="Image"  
          style="width: 100%; height: auto;">
   </a>
