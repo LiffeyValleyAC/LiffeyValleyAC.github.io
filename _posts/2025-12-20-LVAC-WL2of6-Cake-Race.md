@@ -11,7 +11,7 @@ location: Phoenix Park, Dublin
   <strong>Niki Lynch in second place</strong> and <strong>Luke Evans taking third</strong>, making it
   a thrilling podium battle.
   
-  <p><strong>Top 3 Results – Handicap Applied</strong><br>
+  <p><strong>Cake Race 2025 - Top 3 Results – Handicap Applied</strong><br>
 The following list shows the <strong>top three finishers</strong> based on <strong>net time with handicap applied</strong>.</p>
 
 <ol>
