@@ -40,7 +40,7 @@ The following list shows the <strong>top three finishers</strong> based on <stro
 
  <h2>Winter League Standings - Race 2 of 6</h2>
 
-### **New Race 2 Podium:**
+#### **New Race 2 Podium:**
 
 🥇 **Brigid Long** (90 points)
 
@@ -48,7 +48,7 @@ The following list shows the <strong>top three finishers</strong> based on <stro
 
 🥉 **Margaret O'Friel** (80 points)
 
-### **Race 1 Podium:**
+#### **Race 1 Podium:**
 
 🥇 **Pierce Geoghegan** (40 points)
 
@@ -56,7 +56,7 @@ The following list shows the <strong>top three finishers</strong> based on <stro
 
 🥉 **Paddy Murphy** (40 points)
 
-## **Race 1 vs Race 2 – Early League Movement 🏃‍♂️📊**
+#### **Race 1 vs Race 2 – Early League Movement 🏃‍♂️📊**
 
 Race 1 began with a perfectly level playing field, as all 31 runners earned the same points. Race 2, with 41 participants, quickly reshaped the standings and began to separate the field, revealing early trends and momentum shifts 🔍.
 
@@ -65,7 +65,7 @@ Several athletes who competed in both races made strong jumps thanks to standout
 
 🔄 Runners such as **Pat Collins**, **Una Reilly**, **Antonio Lorente**, and **Simon Monds** showed consistency by racing both events and steadily accumulating points 💪. Early commitment is already proving valuable in the overall standings.
 
-## **Biggest Gains 📈 (Race 1 ➜ Race 2)**
+#### **Biggest Gains 📈 (Race 1 ➜ Race 2)**
 
 * 🚀 **Brigid Long**: from a level starting position in Race 1 to **1st overall** after Race 2 with a commanding lead
   *(+26 places, 27th ➜ 1st)*
@@ -82,7 +82,7 @@ Several athletes who competed in both races made strong jumps thanks to standout
 * ⬆️ **Hilary McDonald**: made a notable improvement to secure a **top-10 position**
   *(+23 places, 30th ➜ 7th)*
 
-## **🆕 New Faces Making an Impact**
+#### **🆕 New Faces Making an Impact**
 
 The following athletes made their **first appearance in Race 2**, immediately adding depth and excitement to the league, currently with 50 total participants 👋:
 
