@@ -18,7 +18,7 @@ Well done to all our runners for showing up, putting in the effort, and setting 
 
 They now sit at the top of the Winter League standings, but with five races still to come, <strong>everyone has a real chance to climb the rankings</strong> and make a strong impact on the league.
 
-Leaderboard LVA WL 2025-2026 after Race 1 of 6: <a href="/assets/results/winter-league-2025-2026/LVAC Winter League 2025-2026 - WL 1 of 6.pdf" target="_blank" rel="noopener noreferrer">PDF</a><span>&ensp;|&ensp;</span><a href="/assets/results/winter-league-2025-2026/LVAC Winter League 2025-2026 - WL 1 of 6_page-0001.jpg" target="_blank" rel="noopener noreferrer">JPG</a>
+Leaderboard LVA WL 2025-2026 after Race 1 of 6: <a href="/news/2025/11/15/Winter-League-Presentation/" target="_blank" rel="noopener noreferrer">INFO</a><span>&ensp;|&ensp;</span><a href="/assets/results/winter-league-2025-2026/LVAC Winter League 2025-2026 - WL 1 of 6.pdf" target="_blank" rel="noopener noreferrer">PDF</a><span>&ensp;|&ensp;</span><a href="/assets/results/winter-league-2025-2026/LVAC Winter League 2025-2026 - WL 1 of 6_page-0001.jpg" target="_blank" rel="noopener noreferrer">JPG</a>
 
 <a href="/races/2025-11-22-LVAC-WL1of6-5k-xc/" target="_blank" rel="noopener noreferrer">Race Results</a>
 
