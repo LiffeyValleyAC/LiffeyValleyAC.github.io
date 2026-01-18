@@ -69,11 +69,10 @@ The fix uses .replace(/'/g, "\\'") to escape all apostrophes in the athlete name
 OK -> Snow Flakes falling on all web pages
 
 
-
+15:57 13/12/2025
+OK -> Que la visualización predeterminada de la tabla sea en ordenamiento por DATE descendente, pero manteniendo GENDER Woman first and Men second, and PLACE in ascending order respectively. Estilos e iconos de flechas para indicar sort activo. Renderizado de <th> con iconos, registro de handlers y resaltado según la ordenación vigente. Comparadores actualizados para soportar orden por columna sin perder el orden base de fecha/género/posición
 
 FUTURE IMPROVEMENTS:
-
-Que la visualización predeterminada de la tabla sea en ordenamiento por DATE descendente, pero manteniendo GENDER Woman first and Men second, and PLACE in ascending order respectively.
 
 Al visualizar en celular, las estadísticas se ven mal. Disminuir el gap y reducir el tamaño de la fuente. La tabla hacerla más corta para que siempre se vea parte de la pantalla para hacer scroll porque sino quedamos "atrapados" dentro de la tabla haciendo scroll.
 
@@ -81,11 +80,9 @@ Filtrar por distancia Min y Max.
 
 Si la tabla está vacía, que el botón Print Table esté deshabilitado.
 
-Encabezados de tabla clickeables para ordenar de manera Ascendente o Descendente.
-
 Al imprimir, enviar una nota opcional que se agregue como descripción debajo del título, antes de la tabla.
 
-Agregar otro filtro a la derecha de Gender que filtre si la palabra Handicap se encuentra dentro e NOTES.
+Agregar otro filtro a la derecha de Gender que filtre si la palabra Handicap se encuentra dentro de NOTES.
 
 Botón para filtrar las carreras que incluyen una copa del Club, cuyo Race Name contiene la palabra "Cup".
 
