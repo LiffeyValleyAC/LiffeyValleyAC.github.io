@@ -3,11 +3,6 @@ title: Excellent results at Leinster Intermediate and Master XC Championships
 location: Carlow, Co. Carlow
 ---
 
----
-title: Excellent Results at the Leinster Intermediate & Masters XC Championships
-location: Carlow, Co. Carlow
----
-
   Well done to <strong>all our athletes</strong> who competed at the
   <strong>Leinster Intermediate &amp; Masters Cross Country Championships</strong>
   in Carlow today.
@@ -65,7 +60,18 @@ location: Carlow, Co. Carlow
          style="width: 100%; height: auto;">
   </a>
   <figcaption style="font-size: 1.2em">
-    Master Men podium
+    Master Men
+  </figcaption>
+</figure>
+
+<figure style="text-align: center;">
+  <a href="/assets/images/races/2026/2026-01-18_inter_men.jpg" target="_blank" rel="noopener noreferrer">
+    <img src="/assets/images/races/2026/2026-01-18_inter_men.jpg" 
+         alt="Image"  
+         style="width: 100%; height: auto;">
+  </a>
+  <figcaption style="font-size: 1.2em">
+    Intermediate Men
   </figcaption>
 </figure>
 
