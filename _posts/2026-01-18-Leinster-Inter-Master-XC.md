@@ -46,6 +46,10 @@ location: Carlow, Co. Carlow
 
 <a href="https://www.facebook.com/share/r/17woyz4xpT/ " target="_blank" rel="noopener noreferrer">Facebook video finish line Intermediate Women</a>
 
+<a href="https://www.facebook.com/media/set/?vanity=100063334983883&set=a.1170789631708859" target="_blank" rel="noopener noreferrer">Photos from Perri Williams: 2026 LEINSTER MASTERS XC CARLOW</a>
+
+<a href="https://www.facebook.com/media/set?vanity=100063334983883&set=a.1170111398443349" target="_blank" rel="noopener noreferrer">Photos from Perri Williams: 2026 LEINSTER INTERMEDIATE XC</a>
+
 
 <figure style="text-align: center;">
   <a href="/assets/images/races/2026/2026-01-18_women_inter_podium.jpg" target="_blank" rel="noopener noreferrer">
@@ -55,17 +59,6 @@ location: Carlow, Co. Carlow
   </a>
   <figcaption style="font-size: 1.2em">
     Women's Intermediate podium
-  </figcaption>
-</figure>
-
-<figure style="text-align: center;">
-  <a href="/assets/images/races/2026/2026-01-18_master_men.jpg" target="_blank" rel="noopener noreferrer">
-    <img src="/assets/images/races/2026/2026-01-18_master_men.jpg" 
-         alt="Image"  
-         style="width: 100%; height: auto;">
-  </a>
-  <figcaption style="font-size: 1.2em">
-    Master Men podium
   </figcaption>
 </figure>
 
@@ -81,6 +74,107 @@ location: Carlow, Co. Carlow
 </figure>
 
 <figure style="text-align: center;">
+  <a href="/assets/images/races/2026/2026-01-18_women_inter_2.jpg" target="_blank" rel="noopener noreferrer">
+    <img src="/assets/images/races/2026/2026-01-18_women_inter_2.jpg" 
+         alt="Image"  
+         style="width: 100%; height: auto;">
+  </a>
+  <figcaption style="font-size: 1.2em">
+    Women's Intermediate
+  </figcaption>
+</figure>
+
+<figure style="text-align: center;">
+  <a href="/assets/images/races/2026/2026-01-18_15.jpg" target="_blank" rel="noopener noreferrer">
+    <img src="/assets/images/races/2026/2026-01-18_15.jpg" 
+         alt="Image"  
+         style="width: 100%; height: auto;">
+  </a>
+  <figcaption style="font-size: 1.2em">
+    Jen Preston
+  </figcaption>
+</figure>
+
+<figure style="text-align: center;">
+  <a href="/assets/images/races/2026/2026-01-18_16.jpg" target="_blank" rel="noopener noreferrer">
+    <img src="/assets/images/races/2026/2026-01-18_16.jpg" 
+         alt="Image"  
+         style="width: 100%; height: auto;">
+  </a>
+  <figcaption style="font-size: 1.2em">
+    Siobhan Nugent
+  </figcaption>
+</figure>
+
+<figure style="text-align: center;">
+  <a href="/assets/images/races/2026/2026-01-18_17.jpg" target="_blank" rel="noopener noreferrer">
+    <img src="/assets/images/races/2026/2026-01-18_17.jpg" 
+         alt="Image"  
+         style="width: 100%; height: auto;">
+  </a>
+  <figcaption style="font-size: 1.2em">
+    Elle O'Driscoll
+  </figcaption>
+</figure>
+
+<figure style="text-align: center;">
+  <a href="/assets/images/races/2026/2026-01-18_19_mollie.jpg" target="_blank" rel="noopener noreferrer">
+    <img src="/assets/images/races/2026/2026-01-18_19_mollie.jpg" 
+         alt="Image"  
+         style="width: 100%; height: auto;">
+  </a>
+  <figcaption style="font-size: 1.2em">
+    Mollie O'Donnell
+  </figcaption>
+</figure>
+
+
+<figure style="text-align: center;">
+  <a href="/assets/images/races/2026/2026-01-18_14.jpg" target="_blank" rel="noopener noreferrer">
+    <img src="/assets/images/races/2026/2026-01-18_14.jpg" 
+         alt="Image"  
+         style="width: 100%; height: auto;">
+  </a>
+  <figcaption style="font-size: 1.2em">
+    Women's Master
+  </figcaption>
+</figure>
+
+<figure style="text-align: center;">
+  <a href="/assets/images/races/2026/2026-01-18_11.jpg" target="_blank" rel="noopener noreferrer">
+    <img src="/assets/images/races/2026/2026-01-18_11.jpg" 
+         alt="Image"  
+         style="width: 100%; height: auto;">
+  </a>
+  <figcaption style="font-size: 1.2em">
+    Tom O'Connor
+  </figcaption>
+</figure>
+
+
+<figure style="text-align: center;">
+  <a href="/assets/images/races/2026/2026-01-18_master_men.jpg" target="_blank" rel="noopener noreferrer">
+    <img src="/assets/images/races/2026/2026-01-18_master_men.jpg" 
+         alt="Image"  
+         style="width: 100%; height: auto;">
+  </a>
+  <figcaption style="font-size: 1.2em">
+    Master Men
+  </figcaption>
+</figure>
+
+<figure style="text-align: center;">
+  <a href="/assets/images/races/2026/2026-01-18_10.jpg" target="_blank" rel="noopener noreferrer">
+    <img src="/assets/images/races/2026/2026-01-18_10.jpg" 
+         alt="Image"  
+         style="width: 100%; height: auto;">
+  </a>
+  <figcaption style="font-size: 1.2em">
+    Geoffrey Alexandre and David Carroll
+  </figcaption>
+</figure>
+
+<figure style="text-align: center;">
   <a href="/assets/images/races/2026/2026-01-18_geoffrey.jpg" target="_blank" rel="noopener noreferrer">
     <img src="/assets/images/races/2026/2026-01-18_geoffrey.jpg" 
          alt="Image"  
@@ -88,6 +182,28 @@ location: Carlow, Co. Carlow
   </a>
   <figcaption style="font-size: 1.2em">
     Geoffrey Alexandre
+  </figcaption>
+</figure>
+
+<figure style="text-align: center;">
+  <a href="/assets/images/races/2026/2026-01-18_20_alejandro.jpg" target="_blank" rel="noopener noreferrer">
+    <img src="/assets/images/races/2026/2026-01-18_20_alejandro.jpg" 
+         alt="Image"  
+         style="width: 100%; height: auto;">
+  </a>
+  <figcaption style="font-size: 1.2em">
+    Alejandro Cavallo
+  </figcaption>
+</figure>
+
+<figure style="text-align: center;">
+  <a href="/assets/images/races/2026/2026-01-18_inter_men.jpg" target="_blank" rel="noopener noreferrer">
+    <img src="/assets/images/races/2026/2026-01-18_inter_men.jpg" 
+         alt="Image"  
+         style="width: 100%; height: auto;">
+  </a>
+  <figcaption style="font-size: 1.2em">
+    Intermediate Men
   </figcaption>
 </figure>
 
@@ -102,4 +218,35 @@ location: Carlow, Co. Carlow
   </figcaption>
 </figure>
 
+<figure style="text-align: center;">
+  <a href="/assets/images/races/2026/2026-01-18_12.jpg" target="_blank" rel="noopener noreferrer">
+    <img src="/assets/images/races/2026/2026-01-18_12.jpg" 
+         alt="Image"  
+         style="width: 100%; height: auto;">
+  </a>
+  <figcaption style="font-size: 1.2em">
+    Paddy Murphy
+  </figcaption>
+</figure>
 
+<figure style="text-align: center;">
+  <a href="/assets/images/races/2026/2026-01-18_13.jpg" target="_blank" rel="noopener noreferrer">
+    <img src="/assets/images/races/2026/2026-01-18_13.jpg" 
+         alt="Image"  
+         style="width: 100%; height: auto;">
+  </a>
+  <figcaption style="font-size: 1.2em">
+    Cormac Jones
+  </figcaption>
+</figure>
+
+<figure style="text-align: center;">
+  <a href="/assets/images/races/2026/2026-01-18_19_luke.jpg" target="_blank" rel="noopener noreferrer">
+    <img src="/assets/images/races/2026/2026-01-18_19_luke.jpg" 
+         alt="Image"  
+         style="width: 100%; height: auto;">
+  </a>
+  <figcaption style="font-size: 1.2em">
+    Luke Evans
+  </figcaption>
+</figure>
