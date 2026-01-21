@@ -3,11 +3,6 @@ title: Excellent results at Leinster Intermediate and Master XC Championships
 location: Carlow, Co. Carlow
 ---
 
----
-title: Excellent Results at the Leinster Intermediate & Masters XC Championships
-location: Carlow, Co. Carlow
----
-
   Well done to <strong>all our athletes</strong> who competed at the
   <strong>Leinster Intermediate &amp; Masters Cross Country Championships</strong>
   in Carlow today.
