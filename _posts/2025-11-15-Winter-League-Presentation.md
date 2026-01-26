@@ -32,11 +32,11 @@ location: Phoenix Park, Co. Dublin
 <h2>Bonus Points</h2>
 <ul>
   <li><strong>+40 points</strong> for running Race 1 (5km Club XC)</li>
-  <li><strong>+50 points</strong> for running Race 3 (5km Club XC)</li>
+  <li><strong>+50 points</strong> for running Race 4 (5km W/10km M Club XC)</li>
   <li><strong>+10 points</strong> for completing all six races</li>
 </ul>
 
-<p><em>These bonuses mean you can still contend for the WL title even if you only complete four races.</em></p>
+<p><em>This means you can still contend for the WL title even if you only complete four races.</em></p>
 
 <h2>Race Format</h2>
 <p>Most WL races use a <strong>handicap format</strong>, where slower runners receive a head start. Because of this, the Winter League rewards consistency, commitment, and smart racing as much as pure speed.</p>
@@ -49,7 +49,7 @@ location: Phoenix Park, Co. Dublin
   <li>Earn WL points, enjoy the craic, and claim some bragging rights.</li>
 </ul>
 
-Leaderboard Table: <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQrq2Su5x9eRR65MDFK6RvWpdV1VjKMdLaVkMO5_v4etW2YNhoIhh5rRkxGPKMK72D5jYDM4ve-SlqL/pubhtml?gid=0&single=true" target="_blank" rel="noopener noreferrer">Google Sheet</a><span>&ensp;|&ensp;</span><a href="/assets/results/winter-league-2025-2026/LVAC Winter League 2025-2026 - WL 1 of 6_page-0001.jpg" target="_blank" rel="noopener noreferrer">JPG</a>
+Leaderboard Table: <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQrq2Su5x9eRR65MDFK6RvWpdV1VjKMdLaVkMO5_v4etW2YNhoIhh5rRkxGPKMK72D5jYDM4ve-SlqL/pubhtml?gid=0&single=true" target="_blank" rel="noopener noreferrer">Google Sheet</a><span>&ensp;|&ensp;</span><a href="/assets/results/winter-league-2025-2026/LVAC Winter League 2025-2026 - WL 3 of 6_page-0001.jpg" target="_blank" rel="noopener noreferrer">JPG</a>
 
 
 <!-- Winter League Races Table -->
@@ -73,7 +73,7 @@ Leaderboard Table: <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQrq
 <tr style="border-bottom: 1px solid #ccc;"><td style="font-size: x-large; text-align: center; padding: 0 20px;">2✅</td><td style="text-align: center; padding: 0 10px; color: #FCD50D;">Saturday <br>20/12/2025<br>12pm</td><td style="padding: 0px 0px 0px 10px;">Cake Race 5k XC</td><td style="text-align: left; padding: 0px 10px">5 km</td><td style="text-align: center;">XC</td><td style="text-align: center;">YES</td><td style="text-align: center;"><a href="/news/2025/12/20/LVAC-WL2of6-Cake-Race/" target="_blank">WL2of6</a></td></tr>
 
 
-<tr style="border-bottom: 1px solid #ccc;"><td style="font-size: x-large; text-align: center; padding: 0 20px;">3🔳</td><td style="text-align: center; padding: 0 10px; color: #FCD50D;">Saturday <br>24/01/2026<br>11:30am</td><td style="padding: 0px 0px 0px 10px;">5k XC</td><td style="text-align: left; padding: 0px 10px">5 km</td><td style="text-align: center;">XC</td><td style="text-align: center;">YES</td><td style="text-align: center;"><a href="" target="_blank"></a></td></tr>
+<tr style="border-bottom: 1px solid #ccc;"><td style="font-size: x-large; text-align: center; padding: 0 20px;">3✅</td><td style="text-align: center; padding: 0 10px; color: #FCD50D;">Saturday <br>24/01/2026<br>11:30am</td><td style="padding: 0px 0px 0px 10px;">5k XC</td><td style="text-align: left; padding: 0px 10px">5 km</td><td style="text-align: center;">XC</td><td style="text-align: center;">YES</td><td style="text-align: center;"><a href="/news/2026/01/24/LVAC-WL3of6-5km-XC/" target="_blank">WL3of6</a></td></tr>
 
 
 <tr style="border-bottom: 1px solid #ccc;"><td style="font-size: x-large; text-align: center; padding: 0 20px;">4🔳</td><td style="text-align: center; padding: 0 10px; color: #FCD50D;">Sunday <br>22/02/2026<br>11:30am</td><td style="padding: 0px 0px 0px 10px;">XC Club Championships</td><td style="text-align: left; padding: 0px 10px">5k W<br>10k M</td><td style="text-align: center;">XC</td><td style="text-align: center;">NO</td><td style="text-align: center;"><a href="" target="_blank"></a></td></tr>
