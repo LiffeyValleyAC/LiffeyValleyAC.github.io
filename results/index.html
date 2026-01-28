@@ -768,6 +768,21 @@
                 const dateDiff = dateOrder === 'asc' ? dateA - dateB : dateB - dateA;
                 if (dateDiff !== 0) return dateDiff;
 
+                const idA = (a.ID ?? '').toString().trim();
+                const idB = (b.ID ?? '').toString().trim();
+                if (idA !== idB) {
+                    const idANumeric = idA !== '' && !Number.isNaN(Number(idA));
+                    const idBNumeric = idB !== '' && !Number.isNaN(Number(idB));
+
+                    if (idANumeric && idBNumeric) {
+                        const idDiff = Number(idA) - Number(idB);
+                        if (idDiff !== 0) return idDiff;
+                    } else {
+                        const idStrDiff = idA.localeCompare(idB, undefined, { sensitivity: 'base' });
+                        if (idStrDiff !== 0) return idStrDiff;
+                    }
+                }
+
                 const genderA = Object.prototype.hasOwnProperty.call(genderPriority, a.GENDER) ? genderPriority[a.GENDER] : 2;
                 const genderB = Object.prototype.hasOwnProperty.call(genderPriority, b.GENDER) ? genderPriority[b.GENDER] : 2;
                 if (genderA !== genderB) return genderA - genderB;
