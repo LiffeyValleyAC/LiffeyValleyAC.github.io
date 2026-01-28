@@ -109,7 +109,8 @@ The following athletes made their **first appearance in Race 2**, immediately ad
 Despite missing Race 1, many of these runners immediately positioned themselves competitively in the standings, proving it’s never too late to get involved 💥.
 
 
-🏁 The league is only just getting started! 🌟 Whether you’ve raced once, twice, or haven’t lined up yet, there is still plenty of time to join in, score points, and climb the leaderboard. Every race counts — so lace up, show up, and be part of the Winter League journey! ❄️🔥
+🏁 The league is only just getting started! 🌟 Whether you’ve raced once, twice, or haven’t lined up yet, there is still plenty of time to join in, score points, and climb the leaderboard.
+Every race counts, so lace up, show up, and be part of the Winter League journey! ❄️🔥
 
   Leaderboard LVAC WL 2025-2026 after Race 2 of 6: <a href="/news/2025/11/15/Winter-League-Presentation/" target="_blank" rel="noopener noreferrer">INFO</a><span>&ensp;|&ensp;</span><a href="/assets/results/winter-league-2025-2026/LVAC Winter League 2025-2026 - WL 2 of 6.pdf" target="_blank" rel="noopener noreferrer">PDF</a><span>&ensp;|&ensp;</span><a href="/assets/results/winter-league-2025-2026/LVAC Winter League 2025-2026 - WL 2 of 6_page-0001.jpg" target="_blank" rel="noopener noreferrer">JPG</a>
 

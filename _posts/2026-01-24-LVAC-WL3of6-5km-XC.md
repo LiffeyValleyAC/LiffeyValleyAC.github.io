@@ -1,6 +1,6 @@
 ---
 title: LVAC WL 3/6 5km XC 2026
-location: Phoenix Park, Dublin
+location: Dog Pond, Phoenix Park, Dublin
 ---
 
 <h2>Race 3 of 6 – Winter League Update 🏃‍♂️❄️</h2>
@@ -11,9 +11,9 @@ Race 3 added another exciting chapter to the Winter League, continuing to reshap
 
 🥇 **Paddy Doyle** – Net Time: **22:13**
 
-🥈 **Mark Naylor** – Net Time: **17:46** _(🥇 1st Man)_
+🥈 **Mark Naylor** – Net Time: **17:46**  (🥇 1st Man)
 
-🥉 **Simon Monds** – Net Time: **19:05** _(🥈 2nd Man)_
+🥉 **Simon Monds** – Net Time: **19:05**  (🥈 2nd Man)
 
 A well earned victory for **Paddy Doyle**, backed up by excellent runs from **Mark Naylor** and **Simon Monds**, who continues to show impressive consistency.
 
@@ -39,23 +39,23 @@ A well earned victory for **Paddy Doyle**, backed up by excellent runs from **Ma
 
 Race 3 marked a **major reshuffle at the top of the leaderboard** 🔄. While early leaders from Race 2 remain very much in contention, several consistent performers surged ahead by racing again and accumulating valuable points.
 
-🚀 **Big Movers After Race 3:****Paul Balfe** moved into the overall lead through consistency and strong cumulative scoring, while **Simon Monds** climbed firmly into 2nd place thanks to another podium level performance 💪. **Donal Iremonger** continues to build momentum, moving into the top three with steady results across races. With more races ahead, the battle is far from over.
+🚀 **Big Movers After Race 3: Paul Balfe** moved into the overall lead through consistency and strong cumulative scoring, while **Simon Monds** climbed firmly into 2nd place thanks to another podium level performance 💪. **Donal Iremonger** continues to build momentum, moving into the top three with steady results across races. With more races ahead, the battle is far from over.
 
 🔄 **Consistency Paying Off:** Runners like **Antonio Lorente**, **Pat Collins**, **Joe Cooper**, and **Eddie McGrath** are steadily climbing by showing up and delivering solid performances race after race, a key strategy in the Winter League format 🧠.
 
 #### **Biggest Gains 📈 (Race 2 ➜ Race 3)**
 
-*   🚀 **Paul Balfe**: from **4th after Race 2** to **1st overall**_(+3 places, 4th ➜ 1st)_
+*   🚀 **Paul Balfe**: from **4th after Race 2** to **1st overall** (+3 places, 4th ➜ 1st)
     
-*   🔥 **Simon Monds**: jumped into **2nd overall** following a Race 3 podium_(+7 places, 9th ➜ 2nd)_
+*   🔥 **Simon Monds**: jumped into **2nd overall** following a Race 3 podium (+7 places, 9th ➜ 2nd)
     
-*   📈 **Donal Iremonger**: continued his upward trend into the **top 3**_(+3 places, 6th ➜ 3rd)_
+*   📈 **Donal Iremonger**: continued his upward trend into the **top 3** (+3 places, 6th ➜ 3rd)
     
-*   ⬆️ **Hilary McDonald**: maintained strong form to stay firmly in the **top 5**_(+2 places, 7th ➜ 5th)_
+*   ⬆️ **Hilary McDonald**: maintained strong form to stay firmly in the **top 5** (+2 places, 7th ➜ 5th)
     
-*   ⬆️ **Mark Naylor**: Race 3 podium performance propelled him into the **top 20**_(+23 places, 39th ➜ 16th)_
+*   ⬆️ **Mark Naylor**: Race 3 podium performance propelled him into the **top 20** (+23 places, 39th ➜ 16th)
     
-*   🚀 **Paddy Doyle**: Race 3 victory resulted in a major overall jump_(+24 places, 43rd ➜ 19th)_
+*   🚀 **Paddy Doyle**: Race 3 victory resulted in a major overall jump (+24 places, 43rd ➜ 19th)
     
 
 #### **🆕 New Faces Since Race 2**
@@ -69,7 +69,11 @@ Each new runner strengthens the league and keeps the competition dynamic 👋�
 
 #### **Looking Ahead 🏁**
 
-After three races, the Winter League is **wide open** 🔓. The standings clearly show that **consistent participation is just as important as standout performances**. Whether you’re chasing the podium, climbing the mid-table, or thinking about joining for the first time. **There is still plenty of time to get involved**.
+After three races, the Winter League is **wide open** 🔓. The standings clearly show that **consistent participation is just as important as standout performances**. 
+
+The next race in the **Winter League** will be the **Cross Country Club Championships**, featuring a 10km race for Men and a 5km race for Women, taking place on **Sunday 22/02/2026 at 11:30am**. This is a very important event for the club, as we will be presenting the **Nick Davis Perpetual Cup** on the day 🏆. In addition, every runner who takes part will receive **50 points**, making this a key opportunity for all athletes to boost their Winter League standings.
+
+Whether you’re chasing the podium, climbing the mid-table, or thinking about joining for the first time, **there is still plenty of time to get involved**.
 
 Every race counts ❄️🔥So lace up, show up, and keep the Winter League momentum going! 💙🏃‍♀️🏃‍♂️
 
