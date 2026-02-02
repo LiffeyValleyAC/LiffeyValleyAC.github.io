@@ -89,4 +89,5 @@ Botón para filtrar las carreras que incluyen una copa del Club, cuyo Race Name 
 Team Results. Pensar una forma de resumir los resultados por equipo, y si se consiguieron medallas.
 
 
-
+02/02/2026
+Removing the snow 
