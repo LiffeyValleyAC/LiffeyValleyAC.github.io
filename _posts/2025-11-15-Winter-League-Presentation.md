@@ -33,7 +33,7 @@ location: Phoenix Park, Co. Dublin
 <ul>
   <li><strong>+40 points</strong> for running Race 1 (5km Club XC)</li>
   <li><strong>+50 points</strong> for running Race 4 (5km W/10km M Club XC)</li>
-  <li><strong>+10 points</strong> for completing all six races</li>
+  <li><strong>+10 points</strong> for completing at least 5 of the 6 races</li>
 </ul>
 
 <p><em>This means you can still contend for the WL title even if you only complete four races.</em></p>
