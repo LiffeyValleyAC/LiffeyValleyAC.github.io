@@ -72,6 +72,9 @@ OK -> Snow Flakes falling on all web pages
 15:57 13/12/2025
 OK -> Que la visualización predeterminada de la tabla sea en ordenamiento por DATE descendente, pero manteniendo GENDER Woman first and Men second, and PLACE in ascending order respectively. Estilos e iconos de flechas para indicar sort activo. Renderizado de <th> con iconos, registro de handlers y resaltado según la ordenación vigente. Comparadores actualizados para soportar orden por columna sin perder el orden base de fecha/género/posición
 
+22:34 16/02/2026
+OK -> Less text description. Maybe one "I" icon at the right of "Race Results Dashboard" that shows the text in a popup note when the mouse is over it?
+
 FUTURE IMPROVEMENTS:
 
 Al visualizar en celular, las estadísticas se ven mal. Disminuir el gap y reducir el tamaño de la fuente. La tabla hacerla más corta para que siempre se vea parte de la pantalla para hacer scroll porque sino quedamos "atrapados" dentro de la tabla haciendo scroll.

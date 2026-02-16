@@ -11,23 +11,21 @@ location: Phoenix Park, Co. Dublin
 <p>The Winter League trophy is awarded to the athlete who finishes the series with the highest total from their <strong>best four results</strong> out of the six races.</p>
 
 <h2>Points System</h2>
-<p>WL points are awarded based on finishing position in each race:</p>
+<p>WL points are awarded based on finishing position in each race. All finishers score points, even further down the field.</p>
 
-<table>
+<table border="1" cellpadding="8" cellspacing="0" style="border-collapse: collapse;">
   <thead>
-    <tr><th>Position</th><th>Points</th></tr>
+    <tr style="border-bottom: 3px solid"><th>Position</th><th>Points</th></tr>
   </thead>
   <tbody>
-    <tr><td>1st</td><td>50</td></tr>
-    <tr><td>2nd</td><td>45</td></tr>
-    <tr><td>3rd</td><td>44</td></tr>
-    <tr><td>4th</td><td>43</td></tr>
-    <tr><td>5th</td><td>42</td></tr>
+    <tr style="border-bottom: 1px solid"><td>1st</td><td>50</td></tr>
+    <tr style="border-bottom: 1px solid"><td>2nd</td><td>45</td></tr>
+    <tr style="border-bottom: 1px solid"><td>3rd</td><td>44</td></tr>
+    <tr style="border-bottom: 1px solid"><td>4th</td><td>43</td></tr>
+    <tr style="border-bottom: 1px solid"><td>5th</td><td>42</td></tr>
     <tr><td>…</td><td>-1 point per place</td></tr>
   </tbody>
 </table>
-
-<p><em>All finishers score points, even further down the field.</em></p>
 
 <h2>Bonus Points</h2>
 <ul>
@@ -87,3 +85,15 @@ Leaderboard Table: <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQrq
 
 </tbody>
 </table>
+<br>
+<h2>Winter League Standings</h2>
+<figure style="text-align: center;">
+  <a href="/assets/results/winter-league-2025-2026/LVAC Winter League 2025-2026 - WL 3 of 6_page-0001.jpg" target="_blank" rel="noopener noreferrer">
+    <img src="/assets/results/winter-league-2025-2026/LVAC Winter League 2025-2026 - WL 3 of 6_page-0001.jpg" 
+         alt="Image"  
+         style="width: 100%; height: auto;">
+  </a>
+  <figcaption style="font-size: 1.2em">
+    Winter League Standings
+  </figcaption>
+</figure>
