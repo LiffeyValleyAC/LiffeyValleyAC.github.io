@@ -1,0 +1,12 @@
+19:55 02/02/2026
+For adding new images to the carousel, paste the photo file here (LiffeyValleyAC.github.io\assets\images\carousel).
+Crop the image to an aspect ratio of 11:3 (example 1170x320)
+In index.html, add the file name:
+
+const carouselImages = [
+    {
+      src: '/assets/images/carousel/dublin-senior-xc-women-team.jpeg',
+      alt: "Our women\'s team at the Dublin Novice Cross Country"
+    },
+
+That's it ;-)
