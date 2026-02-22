@@ -3,6 +3,11 @@ title: Presentation Liffey Valley Winter League 2025/2026
 location: Phoenix Park, Co. Dublin
 ---
 
+<style>
+.col-md-4 { display: none !important; }
+.col-md-8 { width: 100% !important; }
+</style>
+
 <h1>LVAC Winter League 2025/2026</h1>
 
 <p>The LVAC Winter League 2025/2026 (WL) is a six-race series exclusively for Liffey Valley AC members, running from November 2025 to late March 2026. The league consists of four cross-country races and two road races.</p>
@@ -13,17 +18,38 @@ location: Phoenix Park, Co. Dublin
 <h2>Points System</h2>
 <p>WL points are awarded based on finishing position in each race. All finishers score points, even further down the field.</p>
 
-<table border="1" cellpadding="8" cellspacing="0" style="border-collapse: collapse;">
+<table style="border-collapse: separate; border-spacing: 0; width: 100%; max-width: 500px; box-shadow: 0 8px 25px rgba(0,0,0,0.3); border-radius: 12px; overflow: hidden; background: linear-gradient(145deg, #1a1a2e 0%, #16213e 100%); border: 2px solid #2F318D;">
   <thead>
-    <tr style="border-bottom: 3px solid"><th>Position</th><th>Points</th></tr>
+    <tr style="background: linear-gradient(145deg, #2F318D 0%, #1e3a8a 50%, #FCD50D 100%);">
+      <th style="padding: 16px 20px; color: #FCD50D; font-weight: bold; font-size: 1.1rem; text-align: center; border-bottom: 3px solid #FCD50D; text-shadow: 1px 1px 2px rgba(0,0,0,0.5); box-shadow: inset 0 -2px 5px rgba(0,0,0,0.3);">Position</th>
+      <th style="padding: 16px 20px; color: #FCD50D; font-weight: bold; font-size: 1.1rem; text-align: center; border-bottom: 3px solid #FCD50D; text-shadow: 1px 1px 2px rgba(0,0,0,0.5); box-shadow: inset 0 -2px 5px rgba(0,0,0,0.3);">Points</th>
+    </tr>
   </thead>
   <tbody>
-    <tr style="border-bottom: 1px solid"><td>1st</td><td>50</td></tr>
-    <tr style="border-bottom: 1px solid"><td>2nd</td><td>45</td></tr>
-    <tr style="border-bottom: 1px solid"><td>3rd</td><td>44</td></tr>
-    <tr style="border-bottom: 1px solid"><td>4th</td><td>43</td></tr>
-    <tr style="border-bottom: 1px solid"><td>5th</td><td>42</td></tr>
-    <tr><td>…</td><td>-1 point per place</td></tr>
+    <tr style="background: linear-gradient(145deg, #2a2a4a 0%, #1f1f3a 100%); transition: all 0.3s ease;">
+      <td style="padding: 14px 20px; color: #fff; text-align: center; border-bottom: 1px solid rgba(252,213,13,0.3); box-shadow: inset 0 1px 0 rgba(255,255,255,0.05);">1st</td>
+      <td style="padding: 14px 20px; color: #FCD50D; font-weight: bold; text-align: center; border-bottom: 1px solid rgba(252,213,13,0.3); box-shadow: inset 0 1px 0 rgba(255,255,255,0.05);">50</td>
+    </tr>
+    <tr style="background: linear-gradient(145deg, #252545 0%, #1a1a35 100%); transition: all 0.3s ease;">
+      <td style="padding: 14px 20px; color: #fff; text-align: center; border-bottom: 1px solid rgba(252,213,13,0.3); box-shadow: inset 0 1px 0 rgba(255,255,255,0.05);">2nd</td>
+      <td style="padding: 14px 20px; color: #FCD50D; font-weight: bold; text-align: center; border-bottom: 1px solid rgba(252,213,13,0.3); box-shadow: inset 0 1px 0 rgba(255,255,255,0.05);">45</td>
+    </tr>
+    <tr style="background: linear-gradient(145deg, #2a2a4a 0%, #1f1f3a 100%); transition: all 0.3s ease;">
+      <td style="padding: 14px 20px; color: #fff; text-align: center; border-bottom: 1px solid rgba(252,213,13,0.3); box-shadow: inset 0 1px 0 rgba(255,255,255,0.05);">3rd</td>
+      <td style="padding: 14px 20px; color: #FCD50D; font-weight: bold; text-align: center; border-bottom: 1px solid rgba(252,213,13,0.3); box-shadow: inset 0 1px 0 rgba(255,255,255,0.05);">44</td>
+    </tr>
+    <tr style="background: linear-gradient(145deg, #252545 0%, #1a1a35 100%); transition: all 0.3s ease;">
+      <td style="padding: 14px 20px; color: #fff; text-align: center; border-bottom: 1px solid rgba(252,213,13,0.3); box-shadow: inset 0 1px 0 rgba(255,255,255,0.05);">4th</td>
+      <td style="padding: 14px 20px; color: #FCD50D; font-weight: bold; text-align: center; border-bottom: 1px solid rgba(252,213,13,0.3); box-shadow: inset 0 1px 0 rgba(255,255,255,0.05);">43</td>
+    </tr>
+    <tr style="background: linear-gradient(145deg, #2a2a4a 0%, #1f1f3a 100%); transition: all 0.3s ease;">
+      <td style="padding: 14px 20px; color: #fff; text-align: center; border-bottom: 1px solid rgba(252,213,13,0.3); box-shadow: inset 0 1px 0 rgba(255,255,255,0.05);">5th</td>
+      <td style="padding: 14px 20px; color: #FCD50D; font-weight: bold; text-align: center; border-bottom: 1px solid rgba(252,213,13,0.3); box-shadow: inset 0 1px 0 rgba(255,255,255,0.05);">42</td>
+    </tr>
+    <tr style="background: linear-gradient(145deg, #1a1a2e 0%, #0f0f1e 100%);">
+      <td style="padding: 14px 20px; color: #aaa; text-align: center; font-style: italic;">…</td>
+      <td style="padding: 14px 20px; color: #aaa; text-align: center; font-style: italic;">-1 point per place</td>
+    </tr>
   </tbody>
 </table>
 
@@ -49,47 +75,42 @@ location: Phoenix Park, Co. Dublin
 
 Leaderboard Table: <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQrq2Su5x9eRR65MDFK6RvWpdV1VjKMdLaVkMO5_v4etW2YNhoIhh5rRkxGPKMK72D5jYDM4ve-SlqL/pubhtml?gid=0&single=true" target="_blank" rel="noopener noreferrer">Google Sheet</a><span>&ensp;|&ensp;</span><a href="/assets/results/winter-league-2025-2026/LVAC Winter League 2025-2026 - WL 3 of 6_page-0001.jpg" target="_blank" rel="noopener noreferrer">JPG</a>
 
-
 <!-- Winter League Races Table -->
-<table style="border-collapse: collapse; font-family: Consolas, monospace; width: 100%; margin-top: 20px;">
+<table style="border-collapse: separate; border-spacing: 0; width: 90%; margin-top: 20px; box-shadow: 0 8px 25px rgba(0,0,0,0.3); border-radius: 12px; overflow: hidden; background: linear-gradient(145deg, #1a1a2e 0%, #16213e 100%); border: 2px solid #2F318D; font-family: Consolas, monospace;">
 <thead>
-<tr><td colspan="7" style="text-align: center; padding: 10px;"><b>WINTER LEAGUE 2025/2026 – RACE SCHEDULE</b></td></tr>
-<tr style="background-color: #000; color: #fff;">
-<th style="border: 4px solid #ccc; padding: 5px; text-align: center;">#</th>
-<th style="border: 4px solid #ccc; padding: 5px; text-align: center;">DATE</th>
-<th style="border: 4px solid #ccc; padding: 5px; text-align: center;">NAME</th>
-<th style="border: 4px solid #ccc; padding: 5px; text-align: center;">DISTANCE</th>
-<th style="border: 4px solid #ccc; padding: 5px; text-align: center;">SURFACE</th>
-<th style="border: 4px solid #ccc; padding: 5px; text-align: center;">HANDICAP</th>
-<th style="border: 4px solid #ccc; padding: 5px; text-align: center;">RESULTS</th>
+<tr style="background: linear-gradient(145deg, #2F318D 0%, #1e3a8a 50%, #FCD50D 100%);">
+<td colspan="7" style="text-align: center; padding: 16px; color: #FCD50D; font-weight: bold; font-size: 1.2rem; text-shadow: 1px 1px 2px rgba(0,0,0,0.5); border-bottom: 3px solid #FCD50D; box-shadow: inset 0 -2px 5px rgba(0,0,0,0.3);">WINTER LEAGUE 2025/2026 – RACE SCHEDULE</td>
+</tr>
+<tr style="background: linear-gradient(145deg, #2F318D 0%, #1e3a8a 100%);">
+<th style="border: none; padding: 14px 10px; text-align: center; color: #FCD50D; font-weight: bold; border-bottom: 3px solid #FCD50D; text-shadow: 1px 1px 2px rgba(0,0,0,0.5); box-shadow: inset 0 -2px 5px rgba(0,0,0,0.3);">#</th>
+<th style="border: none; padding: 14px 10px; text-align: center; color: #FCD50D; font-weight: bold; border-bottom: 3px solid #FCD50D; text-shadow: 1px 1px 2px rgba(0,0,0,0.5); box-shadow: inset 0 -2px 5px rgba(0,0,0,0.3);">DATE</th>
+<th style="border: none; padding: 14px 10px; text-align: center; color: #FCD50D; font-weight: bold; border-bottom: 3px solid #FCD50D; text-shadow: 1px 1px 2px rgba(0,0,0,0.5); box-shadow: inset 0 -2px 5px rgba(0,0,0,0.3);">NAME</th>
+<th style="border: none; padding: 14px 10px; text-align: center; color: #FCD50D; font-weight: bold; border-bottom: 3px solid #FCD50D; text-shadow: 1px 1px 2px rgba(0,0,0,0.5); box-shadow: inset 0 -2px 5px rgba(0,0,0,0.3);">DISTANCE</th>
+<th style="border: none; padding: 14px 10px; text-align: center; color: #FCD50D; font-weight: bold; border-bottom: 3px solid #FCD50D; text-shadow: 1px 1px 2px rgba(0,0,0,0.5); box-shadow: inset 0 -2px 5px rgba(0,0,0,0.3);">SURFACE</th>
+<th style="border: none; padding: 14px 10px; text-align: center; color: #FCD50D; font-weight: bold; border-bottom: 3px solid #FCD50D; text-shadow: 1px 1px 2px rgba(0,0,0,0.5); box-shadow: inset 0 -2px 5px rgba(0,0,0,0.3);">HANDICAP</th>
+<th style="border: none; padding: 14px 10px; text-align: center; color: #FCD50D; font-weight: bold; border-bottom: 3px solid #FCD50D; text-shadow: 1px 1px 2px rgba(0,0,0,0.5); box-shadow: inset 0 -2px 5px rgba(0,0,0,0.3);">RESULTS</th>
 </tr>
 </thead>
 <tbody>
-<tr style="border-bottom: 1px solid #ccc;"><td style="font-size: x-large; text-align: center; padding: 0 20px;">1✅</td><td style="text-align: center; padding: 0 10px; color: #FCD50D;">Saturday <br>22/11/2025<br>12pm</td><td style="padding: 0px 0px 0px 10px;">5k XC</td><td style="text-align: left; padding: 0px 10px">5 km</td><td style="text-align: center;">XC</td><td style="text-align: center;">NO</td><td style="text-align: center;"><a href="/news/2025/11/22/LVAC-WL1of6-5k-xc-Standings/" target="_blank" rel="noopener noreferrer">WL1of6</a></td></tr>
+<tr style="background: linear-gradient(145deg, #2a2a4a 0%, #1f1f3a 100%); transition: all 0.3s ease;"><td style="font-size: x-large; text-align: center; padding: 14px 20px; color: #fff; border-bottom: 1px solid rgba(252,213,13,0.3); box-shadow: inset 0 1px 0 rgba(255,255,255,0.05);">1✅</td><td style="text-align: center; padding: 14px 10px; color: #FCD50D; border-bottom: 1px solid rgba(252,213,13,0.3); box-shadow: inset 0 1px 0 rgba(255,255,255,0.05);">Saturday <br>22/11/2025<br>12pm</td><td style="padding: 14px 10px; color: #fff; border-bottom: 1px solid rgba(252,213,13,0.3); box-shadow: inset 0 1px 0 rgba(255,255,255,0.05);">5k XC</td><td style="text-align: center; padding: 14px 10px; color: #fff; border-bottom: 1px solid rgba(252,213,13,0.3); box-shadow: inset 0 1px 0 rgba(255,255,255,0.05);">5 km</td><td style="text-align: center; padding: 14px 10px; color: #fff; border-bottom: 1px solid rgba(252,213,13,0.3); box-shadow: inset 0 1px 0 rgba(255,255,255,0.05);">XC</td><td style="text-align: center; padding: 14px 10px; color: #fff; border-bottom: 1px solid rgba(252,213,13,0.3); box-shadow: inset 0 1px 0 rgba(255,255,255,0.05);">NO</td><td style="text-align: center; padding: 14px 10px; border-bottom: 1px solid rgba(252,213,13,0.3); box-shadow: inset 0 1px 0 rgba(255,255,255,0.05);"><a href="/news/2025/11/22/LVAC-WL1of6-5k-xc-Standings/" target="_blank" rel="noopener noreferrer" style="color: #FCD50D; font-weight: bold;">WL1of6</a></td></tr>
 
+<tr style="background: linear-gradient(145deg, #252545 0%, #1a1a35 100%); transition: all 0.3s ease;"><td style="font-size: x-large; text-align: center; padding: 14px 20px; color: #fff; border-bottom: 1px solid rgba(252,213,13,0.3); box-shadow: inset 0 1px 0 rgba(255,255,255,0.05);">2✅</td><td style="text-align: center; padding: 14px 10px; color: #FCD50D; border-bottom: 1px solid rgba(252,213,13,0.3); box-shadow: inset 0 1px 0 rgba(255,255,255,0.05);">Saturday <br>20/12/2025<br>12pm</td><td style="padding: 14px 10px; color: #fff; border-bottom: 1px solid rgba(252,213,13,0.3); box-shadow: inset 0 1px 0 rgba(255,255,255,0.05);">Cake Race 5k XC</td><td style="text-align: center; padding: 14px 10px; color: #fff; border-bottom: 1px solid rgba(252,213,13,0.3); box-shadow: inset 0 1px 0 rgba(255,255,255,0.05);">5 km</td><td style="text-align: center; padding: 14px 10px; color: #fff; border-bottom: 1px solid rgba(252,213,13,0.3); box-shadow: inset 0 1px 0 rgba(255,255,255,0.05);">XC</td><td style="text-align: center; padding: 14px 10px; color: #fff; border-bottom: 1px solid rgba(252,213,13,0.3); box-shadow: inset 0 1px 0 rgba(255,255,255,0.05);">YES</td><td style="text-align: center; padding: 14px 10px; color: #fff; border-bottom: 1px solid rgba(252,213,13,0.3); box-shadow: inset 0 1px 0 rgba(255,255,255,0.05);"><a href="/news/2025/12/20/LVAC-WL2of6-Cake-Race/" target="_blank" rel="noopener noreferrer" style="color: #FCD50D; font-weight: bold;">WL2of6</a></td></tr>
 
-<tr style="border-bottom: 1px solid #ccc;"><td style="font-size: x-large; text-align: center; padding: 0 20px;">2✅</td><td style="text-align: center; padding: 0 10px; color: #FCD50D;">Saturday <br>20/12/2025<br>12pm</td><td style="padding: 0px 0px 0px 10px;">Cake Race 5k XC</td><td style="text-align: left; padding: 0px 10px">5 km</td><td style="text-align: center;">XC</td><td style="text-align: center;">YES</td><td style="text-align: center;"><a href="/news/2025/12/20/LVAC-WL2of6-Cake-Race/" target="_blank">WL2of6</a></td></tr>
+<tr style="background: linear-gradient(145deg, #2a2a4a 0%, #1f1f3a 100%); transition: all 0.3s ease;"><td style="font-size: x-large; text-align: center; padding: 14px 20px; color: #fff; border-bottom: 1px solid rgba(252,213,13,0.3); box-shadow: inset 0 1px 0 rgba(255,255,255,0.05);">3✅</td><td style="text-align: center; padding: 14px 10px; color: #FCD50D; border-bottom: 1px solid rgba(252,213,13,0.3); box-shadow: inset 0 1px 0 rgba(255,255,255,0.05);">Saturday <br>24/01/2026<br>11:30am</td><td style="padding: 14px 10px; color: #fff; border-bottom: 1px solid rgba(252,213,13,0.3); box-shadow: inset 0 1px 0 rgba(255,255,255,0.05);">5k XC</td><td style="text-align: center; padding: 14px 10px; color: #fff; border-bottom: 1px solid rgba(252,213,13,0.3); box-shadow: inset 0 1px 0 rgba(255,255,255,0.05);">5 km</td><td style="text-align: center; padding: 14px 10px; color: #fff; border-bottom: 1px solid rgba(252,213,13,0.3); box-shadow: inset 0 1px 0 rgba(255,255,255,0.05);">XC</td><td style="text-align: center; padding: 14px 10px; color: #fff; border-bottom: 1px solid rgba(252,213,13,0.3); box-shadow: inset 0 1px 0 rgba(255,255,255,0.05);">YES</td><td style="text-align: center; padding: 14px 10px; color: #fff; border-bottom: 1px solid rgba(252,213,13,0.3); box-shadow: inset 0 1px 0 rgba(255,255,255,0.05);"><a href="/news/2026/01/24/LVAC-WL3of6-5km-XC/" target="_blank" rel="noopener noreferrer" style="color: #FCD50D; font-weight: bold;">WL3of6</a></td></tr>
 
+<tr style="background: linear-gradient(145deg, #252545 0%, #1a1a35 100%); transition: all 0.3s ease;"><td style="font-size: x-large; text-align: center; padding: 14px 20px; color: #fff; border-bottom: 1px solid rgba(252,213,13,0.3); box-shadow: inset 0 1px 0 rgba(255,255,255,0.05);">4✅</td><td style="text-align: center; padding: 14px 10px; color: #FCD50D; border-bottom: 1px solid rgba(252,213,13,0.3); box-shadow: inset 0 1px 0 rgba(255,255,255,0.05);">Sunday <br>22/02/2026<br>11:30am</td><td style="padding: 14px 10px; color: #fff; border-bottom: 1px solid rgba(252,213,13,0.3); box-shadow: inset 0 1px 0 rgba(255,255,255,0.05);">XC Club Championships</td><td style="text-align: center; padding: 14px 10px; color: #fff; border-bottom: 1px solid rgba(252,213,13,0.3); box-shadow: inset 0 1px 0 rgba(255,255,255,0.05);">5k W<br>10k M</td><td style="text-align: center; padding: 14px 10px; color: #fff; border-bottom: 1px solid rgba(252,213,13,0.3); box-shadow: inset 0 1px 0 rgba(255,255,255,0.05);">XC</td><td style="text-align: center; padding: 14px 10px; color: #fff; border-bottom: 1px solid rgba(252,213,13,0.3); box-shadow: inset 0 1px 0 rgba(255,255,255,0.05);">NO</td><td style="text-align: center; padding: 14px 10px; color: #fff; border-bottom: 1px solid rgba(252,213,13,0.3); box-shadow: inset 0 1px 0 rgba(255,255,255,0.05);"><a href="/news/2026/02/22/LVAC-WL4of6-Standings/" target="_blank" rel="noopener noreferrer" style="color: #FCD50D; font-weight: bold;">WL4of6</a></td></tr>
 
-<tr style="border-bottom: 1px solid #ccc;"><td style="font-size: x-large; text-align: center; padding: 0 20px;">3✅</td><td style="text-align: center; padding: 0 10px; color: #FCD50D;">Saturday <br>24/01/2026<br>11:30am</td><td style="padding: 0px 0px 0px 10px;">5k XC</td><td style="text-align: left; padding: 0px 10px">5 km</td><td style="text-align: center;">XC</td><td style="text-align: center;">YES</td><td style="text-align: center;"><a href="/news/2026/01/24/LVAC-WL3of6-5km-XC/" target="_blank">WL3of6</a></td></tr>
+<tr style="background: linear-gradient(145deg, #2a2a4a 0%, #1f1f3a 100%); transition: all 0.3s ease;"><td style="font-size: x-large; text-align: center; padding: 14px 20px; color: #fff; border-bottom: 1px solid rgba(252,213,13,0.3); box-shadow: inset 0 1px 0 rgba(255,255,255,0.05);">5🔳</td><td style="text-align: center; padding: 14px 10px; color: #FCD50D; border-bottom: 1px solid rgba(252,213,13,0.3); box-shadow: inset 0 1px 0 rgba(255,255,255,0.05);">Sunday <br>08/03/2026<br>11:30am</td><td style="padding: 14px 10px; color: #fff; border-bottom: 1px solid rgba(252,213,13,0.3); box-shadow: inset 0 1px 0 rgba(255,255,255,0.05);">Avondale Cup</td><td style="text-align: center; padding: 14px 10px; color: #fff; border-bottom: 1px solid rgba(252,213,13,0.3); box-shadow: inset 0 1px 0 rgba(255,255,255,0.05);">5 km</td><td style="text-align: center; padding: 14px 10px; color: #fff; border-bottom: 1px solid rgba(252,213,13,0.3); box-shadow: inset 0 1px 0 rgba(255,255,255,0.05);">Road</td><td style="text-align: center; padding: 14px 10px; color: #fff; border-bottom: 1px solid rgba(252,213,13,0.3); box-shadow: inset 0 1px 0 rgba(255,255,255,0.05);">YES</td><td style="text-align: center; padding: 14px 10px; border-bottom: 1px solid rgba(252,213,13,0.3); box-shadow: inset 0 1px 0 rgba(255,255,255,0.05);"><a href="" target="_blank" style="color: #FCD50D; font-weight: bold;"></a></td></tr>
 
-
-<tr style="border-bottom: 1px solid #ccc;"><td style="font-size: x-large; text-align: center; padding: 0 20px;">4🔳</td><td style="text-align: center; padding: 0 10px; color: #FCD50D;">Sunday <br>22/02/2026<br>11:30am</td><td style="padding: 0px 0px 0px 10px;">XC Club Championships</td><td style="text-align: left; padding: 0px 10px">5k W<br>10k M</td><td style="text-align: center;">XC</td><td style="text-align: center;">NO</td><td style="text-align: center;"><a href="" target="_blank"></a></td></tr>
-
-
-<tr style="border-bottom: 1px solid #ccc;"><td style="font-size: x-large; text-align: center; padding: 0 20px;">5🔳</td><td style="text-align: center; padding: 0 10px; color: #FCD50D;">Sunday <br>08/03/2026<br>11:30am</td><td style="padding: 0px 0px 0px 10px;">Avondale Cup</td><td style="text-align: left; padding: 0px 10px">5 km</td><td style="text-align: center;">Road</td><td style="text-align: center;">YES</td><td style="text-align: center;"><a href="" target="_blank"></a></td></tr>
-
-
-<tr style="border-bottom: 1px solid #ccc;"><td style="font-size: x-large; text-align: center; padding: 0 20px;">6🔳</td><td style="text-align: center; padding: 0 10px; color: #FCD50D;">Tuesday <br>31/03/2026<br>7:30pm</td><td style="padding: 0px 0px 0px 10px;">2 Mile Road Race</td><td style="text-align: left; padding: 0px 10px;">2 Miles</td><td style="text-align: center;">Road</td><td style="text-align: center;">YES</td><td style="text-align: center;"><a href="" target="_blank"></a></td></tr>
-
+<tr style="background: linear-gradient(145deg, #252545 0%, #1a1a35 100%); transition: all 0.3s ease;"><td style="font-size: x-large; text-align: center; padding: 14px 20px; color: #fff; border-bottom: 1px solid rgba(252,213,13,0.3); box-shadow: inset 0 1px 0 rgba(255,255,255,0.05);">6🔳</td><td style="text-align: center; padding: 14px 10px; color: #FCD50D; border-bottom: 1px solid rgba(252,213,13,0.3); box-shadow: inset 0 1px 0 rgba(255,255,255,0.05);">Tuesday <br>31/03/2026<br>7:30pm</td><td style="padding: 14px 10px; color: #fff; border-bottom: 1px solid rgba(252,213,13,0.3); box-shadow: inset 0 1px 0 rgba(255,255,255,0.05);">2 Mile Road Race</td><td style="text-align: center; padding: 14px 10px; color: #fff; border-bottom: 1px solid rgba(252,213,13,0.3); box-shadow: inset 0 1px 0 rgba(255,255,255,0.05);">2 Miles</td><td style="text-align: center; padding: 14px 10px; color: #fff; border-bottom: 1px solid rgba(252,213,13,0.3); box-shadow: inset 0 1px 0 rgba(255,255,255,0.05);">Road</td><td style="text-align: center; padding: 14px 10px; color: #fff; border-bottom: 1px solid rgba(252,213,13,0.3); box-shadow: inset 0 1px 0 rgba(255,255,255,0.05);">YES</td><td style="text-align: center; padding: 14px 10px; color: #fff; border-bottom: 1px solid rgba(252,213,13,0.3); box-shadow: inset 0 1px 0 rgba(255,255,255,0.05);"><a href="" target="_blank" style="color: #FCD50D; font-weight: bold;"></a></td></tr>
 
 </tbody>
 </table>
 <br>
 <h2>Winter League Standings</h2>
 <figure style="text-align: center;">
-  <a href="/assets/results/winter-league-2025-2026/LVAC Winter League 2025-2026 - WL 3 of 6_page-0001.jpg" target="_blank" rel="noopener noreferrer">
-    <img src="/assets/results/winter-league-2025-2026/LVAC Winter League 2025-2026 - WL 3 of 6_page-0001.jpg" 
+  <a href="/assets/results/winter-league-2025-2026/LVAC Winter League 2025-2026 - WL 4 of 6_page-0001.jpg" target="_blank" rel="noopener noreferrer">
+    <img src="/assets/results/winter-league-2025-2026/LVAC Winter League 2025-2026 - WL 4 of 6_page-0001.jpg" 
          alt="Image"  
          style="width: 100%; height: auto;">
   </a>
