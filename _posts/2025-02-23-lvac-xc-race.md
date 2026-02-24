@@ -1,5 +1,5 @@
 ---
-title: LVAC XC Championships
+title: LVAC XC Championships and the new Nick Davis Perpetual Cup
 location: Phoenix Park, Dublin
 ---
 

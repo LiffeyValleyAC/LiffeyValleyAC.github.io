@@ -1,5 +1,5 @@
 ---
-title: LVAC XC Championships
+title: LVAC XC Championships and the new Nick Davis Perpetual Cup
 location: Dog's Pond, Phoenix Park, Dublin
 ---
 <p>
@@ -30,6 +30,8 @@ location: Dog's Pond, Phoenix Park, Dublin
 
 
 <a href="/races/2026-02-22-LVAC-WL4of6-championships-xc/" target="_blank" rel="noopener noreferrer">Race Results</a>
+
+<a href="https://www.instagram.com/p/DVHOTOzjmqZ/?img_index=1" target="_blank" rel="noopener noreferrer">Instagram</a>
 
 <a href="/news/2026/02/22/LVAC-WL4of6-Standings/" target="_blank" rel="noopener noreferrer">Winter League Standings after Race 4 of 6</a>
 

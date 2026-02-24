@@ -184,7 +184,7 @@ results:
     distance: 6km
     note: BIB 649
   - place: 50
-    name: Patrick Fox
+    name: Jason McGlone
     time: 29.06
     category: Inter Men
     distance: 6km
