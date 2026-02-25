@@ -35,6 +35,65 @@ location: Dog's Pond, Phoenix Park, Dublin
 
 <a href="/news/2026/02/22/LVAC-WL4of6-Standings/" target="_blank" rel="noopener noreferrer">Winter League Standings after Race 4 of 6</a>
 
+<style>
+  /* Video container */
+  .video-container {
+    width: 80%;
+    max-width: 640px;
+    aspect-ratio: 16 / 9;
+    margin: 0 auto;
+  }
+
+  .video-container iframe {
+    width: 100%;
+    height: 100%;
+    border: 0;
+  }
+
+  /* Caption / Title */
+  .video-caption {
+    width: 80%;
+    max-width: 640px;
+    margin: 8px auto 0;
+    font-size: 0.9rem;
+    line-height: 1.4;
+    color: #ffffffcc;
+    text-align: center;
+  }
+
+  .video-caption strong {
+    display: block;
+    font-size: 1rem;
+    color: #ffffffff;
+    margin-bottom: 2px;
+  }
+
+  /* Mobile */
+  @media (max-width: 768px) {
+    .video-container,
+    .video-caption {
+      width: 90%;
+    }
+  }
+</style>
+
+<div class="video-container">
+  <iframe 
+    src="https://www.youtube.com/embed/dYkEHU0EpBI?vq=hd1080&rel=0&modestbranding=1"
+    title="2.5km XC Lap – Dog’s Pond, Phoenix Park"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen>
+  </iframe>
+</div>
+
+<div class="video-caption">
+  <strong>2.5km XC Lap – Dog’s Pond, Phoenix Park</strong>
+  Fast-motion lap from the 10km Cross Country Championship organised by Liffey Valley Athletic Club, Dublin, Ireland.
+</div>
+
+<br>
+<br>
+
 <figure style="text-align: center;">
   <a href="/assets/images/races/2026/2026-02-22_men_winners.jpg" target="_blank" rel="noopener noreferrer">
     <img src="/assets/images/races/2026/2026-02-22_men_winners.jpg" 
