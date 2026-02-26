@@ -235,11 +235,11 @@ results:
     actual_time: 23.14
     note: W
   - place: 39
-    name: John Cillen
+    name: John Cullen
     finish_time: 31.29
     handicap: 5.45
     actual_time: 25.44
-    note: M
+    note: M GUEST
   - place: 40
     name: Lynn Devitt
     finish_time: 31.55

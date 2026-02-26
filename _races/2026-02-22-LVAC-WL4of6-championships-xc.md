@@ -31,7 +31,7 @@ results:
     time: 25.58
     category: Women 5k
   - place: 7
-    name: Clare Kavanagh
+    name: Clare Woods
     time: 27.14
     category: Women 5k
   - place: 8
@@ -45,7 +45,7 @@ results:
   - place: 10
     name: Aoife Reilly
     time: 29.52
-    category: Women 5k
+    category: Women 5k GUEST
   - place: 11
     name: Hilary McDonald
     time: 31.37
@@ -53,11 +53,11 @@ results:
   - place: 12
     name: Christine Roche
     time: 31.50
-    category: Women 5k
+    category: Women 5k GUEST
   - place: 13
     name: Linda Spratt
     time: 31.50
-    category: Women 5k
+    category: Women 5k GUEST
   - place: 14
     name: Melissa Thompson
     time: 32.13
@@ -133,7 +133,7 @@ results:
   - place: 1
     name: Eamonn Tilley
     time: 20.27
-    category: Men 5k
+    category: Men 5k GUEST
   - place: 2
     name: Tom O'Connor
     time: 21.56
@@ -141,7 +141,7 @@ results:
   - place: 3
     name: Colm Tilley
     time: 23.46
-    category: Men 5k
+    category: Men 5k GUEST
   - place: 4
     name: Pat Collins
     time: 26.41
@@ -149,7 +149,7 @@ results:
   - place: 5
     name: John Cullen
     time: 26.43
-    category: Men 5k
+    category: Men 5k GUEST
   - place: 6
     name: Joe Cooper
     time: 29.00

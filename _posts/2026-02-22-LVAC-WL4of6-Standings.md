@@ -71,21 +71,27 @@ Race 4 reinforced the current shape of the league 🔄. The **top three remain u
 
 #### **New Faces Since Race 3**
 
-Race 4 welcomed **several new participants**, further strengthening the league and adding fresh competition 👋👏:
+Race 4 welcomed **several new participants**, further strengthening the league and adding fresh competition 👋👏.
+This race also included a number of **guest runners**, who took part in the race but do not score Winter League points. Their presence is always very welcome and adds depth and quality to the event 🏃‍♂️🏃‍♀️.
+##### 🆕 New Winter League Competitors (Scoring Points)
 
-*   🆕 **Aoife Reilly**
-    
-*   🆕 **Christine Roche**
-    
-*   🆕 **Linda Spratt**
-    
-*   🆕 **Melissa Thompson**
-    
-*   🆕 **Conor McAvoy**
-    
-*   🆕 **Eamonn Tilley**
-    
-*   🆕 **Colm Tilley**
+*   🆕 Melissa Thompson
+
+*   🆕 Conor McAvoy
+
+##### 🎽 Guest Runners (Non-Scoring)
+
+*   🎽 Aoife Reilly
+
+*   🎽 Christine Roche
+
+*   🎽 Linda Spratt
+
+*   🎽 John Cullen
+
+*   🎽 Eamonn Tilley
+
+*   🎽 Colm Tilley
     
 
 Every new runner adds depth and energy to the Winter League. It is great to see the numbers continuing to grow 💙❄️.
@@ -95,7 +101,7 @@ Every new runner adds depth and energy to the Winter League. It is great to see 
 
 With four races completed, the Winter League is **wide open** 🔓. The standings clearly show that **consistent participation is just as important as standout performances**, and with only two races remaining, every opportunity to score points counts.
 
-The next race in the **Winter League** will be the **Avondale Cup**, featuring a **5km Road Race for Men and Women with Handicap**, taking place on **Sunday 08/03/2026 at 11:30am**. 
+The next race in the **Winter League** will be the **Avondale Cup**, featuring a **5km Road Race for Men and Women with Open Handicap**, taking place on **Sunday 08/03/2026 at 11:30am**. It's a 2 laps at the Fifteen Acres (South Eastern Loop), Phoenix Park.
 
 **Every race counts** ❄️🔥So lace up, show up, and keep the Winter League momentum going! 💙🏃‍♀️🏃‍♂️
 
