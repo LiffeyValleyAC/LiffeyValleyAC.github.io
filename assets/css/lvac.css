@@ -280,6 +280,53 @@ a, a:hover {
   font-size: 200%;
   margin: 0;
 }
+
+.trackseason {
+  padding: 0px;
+  margin: 5px 0px 5px 0px;
+  -moz-box-shadow: inset 0px 1px 0px 0px #3e8e41;
+  -webkit-box-shadow: inset 0px 1px 0px 0px #3e8e41;
+  box-shadow: inset 0px 1px 0px 0px #3e8e41;
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0.05, #32cd32), color-stop(1, #228b22));
+  background: -moz-linear-gradient(center top, #32cd32 5%, #228b22 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#32cd32', endColorstr='#228b22');
+  background-color: #32cd32;
+  -webkit-border-top-left-radius: 6px;
+  -moz-border-radius-topleft: 6px;
+  border-top-left-radius: 6px;
+  -webkit-border-top-right-radius: 6px;
+  -moz-border-radius-topright: 6px;
+  border-top-right-radius: 6px;
+  -webkit-border-bottom-right-radius: 6px;
+  -moz-border-radius-bottomright: 6px;
+  border-bottom-right-radius: 6px;
+  -webkit-border-bottom-left-radius: 6px;
+  -moz-border-radius-bottomleft: 6px;
+  border-bottom-left-radius: 6px;
+  text-indent: 0;
+  border: 1px solid #3e8e41;
+  color: #ffffff;
+  text-align: center;
+  text-shadow: 1px 1px 0px #3e8e41;
+}
+
+.trackseason:hover {
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0.05, #228b22), color-stop(1, #32cd32));
+  background: -moz-linear-gradient(center top, #228b22 5%, #32cd32 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#228b22', endColorstr='#32cd32');
+  background-color: #228b22;
+}
+
+.trackseason:active {
+  position: relative;
+  top: 1px;
+}
+
+.trackseason .head {
+  font-size: 200%;
+  margin: 0;
+}
+
 .title {
   color: #888;
   padding: 10px;
