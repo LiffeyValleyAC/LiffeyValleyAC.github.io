@@ -1,0 +1,8 @@
+bundle exec jekyll serve
+
+
+Local Development
+You should have the following version of ruby and gem installed.
+
+ruby >2.50 (working on windows with `2.6.8)
+gem (working on windows with 3.0.3.1)

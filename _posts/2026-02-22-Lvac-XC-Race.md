@@ -134,7 +134,7 @@ location: Dog's Pond, Phoenix Park, Dublin
          style="width: 100%; height: auto;">
   </a>
   <figcaption style="font-size: 1.2em; color: #ceb329; margin-top: 6px;">
-    Aoife Brady
+    Aoife Brady, the first winner of the Nick Davis Perpetual Cup
   </figcaption>
 </figure>
 

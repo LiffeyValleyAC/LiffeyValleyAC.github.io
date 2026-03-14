@@ -1,0 +1,87 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Dublin Graded League 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:DGL2026-1
+DTSTAMP:20260216T120000Z
+DTSTART:20260502T110000Z
+DTEND:20260502T150000Z
+SUMMARY:Meet 1 - Graded League 2026
+LOCATION:Morton Stadium, Santry, Dublin
+DESCRIPTION:Graded League Meeting 1. Dublin Senior Championships included.\nGoogle Maps: https://www.google.com/maps?q=Morton+Stadium+Santry+Dublin
+END:VEVENT
+
+BEGIN:VEVENT
+UID:DGL2026-2
+DTSTAMP:20260216T120000Z
+DTSTART:20260510T110000Z
+DTEND:20260510T150000Z
+SUMMARY:Meet 2 - Graded League 2026
+LOCATION:Morton Stadium, Santry, Dublin
+DESCRIPTION:Graded League Meeting 2. Dublin Senior Championships included.\nGoogle Maps: https://www.google.com/maps?q=Morton+Stadium+Santry+Dublin
+END:VEVENT
+
+BEGIN:VEVENT
+UID:DGL2026-3
+DTSTAMP:20260216T120000Z
+DTSTART:20260520T173000Z
+DTEND:20260520T203000Z
+SUMMARY:Meet 3 - Graded League 2026
+LOCATION:Irishtown Stadium, Dublin
+DESCRIPTION:Graded League Meeting 3. Dublin Senior Championships included.\nGoogle Maps: https://www.google.com/maps?q=Irishtown+Stadium+Dublin
+END:VEVENT
+
+BEGIN:VEVENT
+UID:DGL2026-4
+DTSTAMP:20260216T120000Z
+DTSTART:20260603T173000Z
+DTEND:20260603T203000Z
+SUMMARY:Meet 4 - Graded League 2026
+LOCATION:Morton Stadium, Santry, Dublin
+DESCRIPTION:Graded League Meeting 4.\nGoogle Maps: https://www.google.com/maps?q=Morton+Stadium+Santry+Dublin
+END:VEVENT
+
+BEGIN:VEVENT
+UID:DGL2026-5
+DTSTAMP:20260216T120000Z
+DTSTART:20260613T130000Z
+DTEND:20260613T170000Z
+SUMMARY:Meet 5 - Graded League 2026
+LOCATION:Dundrum South Dublin Athletics Club, Dublin
+DESCRIPTION:Graded League Meeting 5.\nGoogle Maps: https://www.google.com/maps?q=Dundrum+South+Dublin+Athletics+Club
+END:VEVENT
+
+BEGIN:VEVENT
+UID:DGL2026-6
+DTSTAMP:20260216T120000Z
+DTSTART:20260624T180000Z
+DTEND:20260624T210000Z
+SUMMARY:Meet 6 - Graded League 2026
+LOCATION:Morton Stadium, Santry, Dublin
+DESCRIPTION:Graded League Meeting 6.\nGoogle Maps: https://www.google.com/maps?q=Morton+Stadium+Santry+Dublin
+END:VEVENT
+
+BEGIN:VEVENT
+UID:DGL2026-7
+DTSTAMP:20260216T120000Z
+DTSTART:20260715T180000Z
+DTEND:20260715T210000Z
+SUMMARY:Meet 7 - Graded League 2026
+LOCATION:Lucan Harriers Track, Dublin
+DESCRIPTION:Graded League Meeting 7.\nGoogle Maps: https://www.google.com/maps?q=Lucan+Harriers+Athletic+Track
+END:VEVENT
+
+BEGIN:VEVENT
+UID:DGL2026-8
+DTSTAMP:20260216T120000Z
+DTSTART:20260729T180000Z
+DTEND:20260729T210000Z
+SUMMARY:Meet 8 - Graded League 2026
+LOCATION:Morton Stadium, Santry, Dublin
+DESCRIPTION:Graded League Meeting 8.\nGoogle Maps: https://www.google.com/maps?q=Morton+Stadium+Santry+Dublin
+END:VEVENT
+
+END:VCALENDAR
