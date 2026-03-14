@@ -3,7 +3,7 @@ title: LVAC Avondale Cup 2026 - WL 5 of 6
 location: George Harrison 5k Lap, Phoenix Park.
 ---
 
-#### **Race 3 Podium – Handicap Applied 🏆**
+#### **Race 5 Podium – Handicap Applied 🏆**
 
 🥇 **Hilary McDonald** – Net Time: **27:42**
 
@@ -11,7 +11,7 @@ location: George Harrison 5k Lap, Phoenix Park.
 
 🥉 **Jason McGlone** – Net Time: **18:55**
 
-#### **Race 3 Podium – Clock Time 🏆**
+#### **Race 5 Podium – Clock Time 🏆**
 
 🥇 **Mark Naylor** – Net Time: **15:48**
 
