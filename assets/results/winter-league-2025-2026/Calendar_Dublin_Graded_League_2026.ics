@@ -55,6 +55,16 @@ DESCRIPTION:Graded League Meeting 5.\nGoogle Maps: https://www.google.com/maps?q
 END:VEVENT
 
 BEGIN:VEVENT
+UID:LVAC2026-C1
+DTSTAMP:20260216T120000Z
+DTSTART:20260617T193000Z
+DTEND:20260617T210000Z
+SUMMARY:Club 1 - LVAC Track 2026
+LOCATION:Tallaght Athletic Club, Dublin
+DESCRIPTION:Club Track 1 - 800m.\nGoogle Maps: https://www.google.com/maps?q=Tallaght+Athletic+Club
+END:VEVENT
+
+BEGIN:VEVENT
 UID:DGL2026-6
 DTSTAMP:20260216T120000Z
 DTSTART:20260624T180000Z
@@ -65,6 +75,16 @@ DESCRIPTION:Graded League Meeting 6.\nGoogle Maps: https://www.google.com/maps?q
 END:VEVENT
 
 BEGIN:VEVENT
+UID:LVAC2026-C2
+DTSTAMP:20260216T120000Z
+DTSTART:20260708T193000Z
+DTEND:20260708T210000Z
+SUMMARY:Club 2 - LVAC Track 2026
+LOCATION:Tallaght Athletic Club, Dublin
+DESCRIPTION:Club Track 2 - 1500m and 3000m.\nGoogle Maps: https://www.google.com/maps?q=Tallaght+Athletic+Club
+END:VEVENT
+
+BEGIN:VEVENT
 UID:DGL2026-7
 DTSTAMP:20260216T120000Z
 DTSTART:20260715T180000Z
@@ -72,6 +92,16 @@ DTEND:20260715T210000Z
 SUMMARY:Meet 7 - Graded League 2026
 LOCATION:Lucan Harriers Track, Dublin
 DESCRIPTION:Graded League Meeting 7.\nGoogle Maps: https://www.google.com/maps?q=Lucan+Harriers+Athletic+Track
+END:VEVENT
+
+BEGIN:VEVENT
+UID:LVAC2026-C3
+DTSTAMP:20260216T120000Z
+DTSTART:20260722T193000Z
+DTEND:20260722T210000Z
+SUMMARY:Club 3 - LVAC Track 2026
+LOCATION:Tallaght Athletic Club, Dublin
+DESCRIPTION:Club Track 3 - 1 Mile.\nGoogle Maps: https://www.google.com/maps?q=Tallaght+Athletic+Club
 END:VEVENT
 
 BEGIN:VEVENT
