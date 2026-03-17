@@ -5,7 +5,7 @@ location: George Harrison 5k Lap, Phoenix Park.
 
 #### **Race 5 Podium – Handicap Applied 🏆**
 
-🥇 **Hilary McDonald** – Net Time: **27:42**
+🥇 **Hilary McDonnell** – Net Time: **27:42**
 
 🥈 **Aoife Brady** – Net Time: **23:17**
 
@@ -28,7 +28,7 @@ Several athletes who have taken part in **five races** received the **+10 point 
 
 #### **New Race 5 Podium 🏆**
 
-🥇 **Hilary McDonald** (**187 points**)
+🥇 **Hilary McDonnell** (**187 points**)
 
 🥈 **Paul Balfe** (**176 points**)
 
@@ -47,7 +47,7 @@ Several athletes who have taken part in **five races** received the **+10 point 
 
 Race 5 proved to be a **turning point in the league standings** 🔄. The introduction of the **+10 bonus points for athletes completing five races** rewarded consistency across the series and reshuffled the leaderboard.
 
-🚀 **New League Leader:** **Hilary McDonald** surged into **1st place overall**, combining another strong result with the **5 race participation bonus** to take control of the standings with **187 points**.
+🚀 **New League Leader:** **Hilary McDonnell** surged into **1st place overall**, combining another strong result with the **5 race participation bonus** to take control of the standings with **187 points**.
 
 🔥 **Paul Balfe**, who had led the league for several races, remains firmly in contention in **2nd place**, while **Donal Iremonger** continues his impressive consistency to hold onto **3rd place**.
 
@@ -57,7 +57,7 @@ The fight for the podium remains extremely tight, with several runners still mat
 
 Athletes who have raced **five events** are now being rewarded for their commitment. Runners such as:
 
-*   **Hilary McDonald**
+*   **Hilary McDonnell**
     
 *   **Paul Balfe**
     
@@ -79,7 +79,7 @@ Have all received the **+10 participation bonus**, demonstrating how **showing u
 **Biggest Gains 📈 (Race 4 ➜ Race 5)**
 --------------------------------------
 
-*   🚀 **Hilary McDonald**: major leap into the **overall lead** thanks to another strong result and the 5 race bonus (+4 places, 5th ➜ 1st)
+*   🚀 **Hilary McDonnell**: major leap into the **overall lead** thanks to another strong result and the 5 race bonus (+4 places, 5th ➜ 1st)
     
 *   🔥 **Mark Naylor**: continued his excellent form, breaking into the **top 6 overall** (+8 places, 14th ➜ 6th)
     
@@ -115,7 +115,7 @@ It’s fantastic to see the **Winter League continuing to attract new runners ev
 
 With **five races completed**, the **Winter League now heads into its final event**, the **2 Mile Road Race**, with Handicap, on **Tuesday 31th March 7:30pm**.
 
-While **Hilary McDonald currently leads the standings**, the margins remain tight and a strong performance in the **final race** could still reshape the top positions.
+While **Hilary McDonnell currently leads the standings**, the margins remain tight and a strong performance in the **final race** could still reshape the top positions.
 
 The final race of the **Winter League** promises to be a thrilling conclusion to the series, where **every point will matter** and runners will give their last push to secure their final positions.
 
@@ -141,7 +141,7 @@ Leaderboard LVAC WL 2025-2026 after Race 5 of 6: <a href="/news/2025/11/15/Winte
          style="width: 100%; height: auto;">
   </a>
   <figcaption style="font-size: 1.2em; color: #ceb329; margin-top: 6px;">
-    Avondale Cup Winners: 🥇 Hilary McDonald 🥈 Aoife Brady 🥉 Jason McGlone
+    Avondale Cup Winners: 🥇 Hilary McDonnell 🥈 Aoife Brady 🥉 Jason McGlone
   </figcaption>
 </figure>
 

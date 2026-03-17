@@ -47,7 +47,7 @@ results:
     time: 29.52
     category: Women 5k GUEST
   - place: 11
-    name: Hilary McDonald
+    name: Hilary McDonnell
     time: 31.37
     category: Women 5k
   - place: 12

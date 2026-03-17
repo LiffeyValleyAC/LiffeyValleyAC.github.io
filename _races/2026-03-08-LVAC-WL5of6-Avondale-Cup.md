@@ -7,7 +7,7 @@ longitude: -6.318130
 distance: 5km
 results:
   - place: 1
-    name: Hilary McDonald
+    name: Hilary McDonnell
     finish_time: 27.42
     handicap: 00.00
     actual_time: 27.42

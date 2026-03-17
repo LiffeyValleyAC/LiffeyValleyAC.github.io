@@ -85,7 +85,7 @@ results:
     actual_time: 19.55
     note: M
   - place: 14
-    name: Hilary McDonald
+    name: Hilary McDonnell
     finish_time: 30.11
     handicap: 00.00
     actual_time: 30.11

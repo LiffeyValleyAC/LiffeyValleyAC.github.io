@@ -79,7 +79,7 @@ Several athletes who competed in both races made strong jumps thanks to standout
 * ⬆️ **Paul Balfe**: jumped into the **top 5**, capitalising on an excellent Race 2 run
   *(+4 places, 8th ➜ 4th)*
 
-* ⬆️ **Hilary McDonald**: made a notable improvement to secure a **top-10 position**
+* ⬆️ **Hilary McDonnell**: made a notable improvement to secure a **top-10 position**
   *(+23 places, 30th ➜ 7th)*
 
 #### **🆕 New Faces Making an Impact**

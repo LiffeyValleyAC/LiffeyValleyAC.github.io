@@ -51,7 +51,7 @@ Race 3 marked a **major reshuffle at the top of the leaderboard** 🔄. While ea
     
 *   📈 **Donal Iremonger**: continued his upward trend into the **top 3** (+3 places, 6th ➜ 3rd)
     
-*   ⬆️ **Hilary McDonald**: maintained strong form to stay firmly in the **top 5** (+2 places, 7th ➜ 5th)
+*   ⬆️ **Hilary McDonnell**: maintained strong form to stay firmly in the **top 5** (+2 places, 7th ➜ 5th)
     
 *   ⬆️ **Mark Naylor**: Race 3 podium performance propelled him into the **top 20** (+23 places, 39th ➜ 16th)
     
