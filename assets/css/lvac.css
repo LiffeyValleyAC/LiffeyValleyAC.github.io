@@ -284,13 +284,13 @@ a, a:hover {
 .trackseason {
   padding: 0px;
   margin: 5px 0px 5px 0px;
-  -moz-box-shadow: inset 0px 1px 0px 0px #3e8e41;
-  -webkit-box-shadow: inset 0px 1px 0px 0px #3e8e41;
-  box-shadow: inset 0px 1px 0px 0px #3e8e41;
-  background: -webkit-gradient(linear, left top, left bottom, color-stop(0.05, #32cd32), color-stop(1, #228b22));
-  background: -moz-linear-gradient(center top, #32cd32 5%, #228b22 100%);
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#32cd32', endColorstr='#228b22');
-  background-color: #32cd32;
+  -moz-box-shadow: inset 0px 1px 0px 0px #e6b800;
+  -webkit-box-shadow: inset 0px 1px 0px 0px #e6b800;
+  box-shadow: inset 0px 1px 0px 0px #e6b800;
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0.05, #ffd700), color-stop(1, #e6b800));
+  background: -moz-linear-gradient(center top, #ffd700 5%, #e6b800 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffd700', endColorstr='#e6b800');
+  background-color: #ffd700;
   -webkit-border-top-left-radius: 6px;
   -moz-border-radius-topleft: 6px;
   border-top-left-radius: 6px;
@@ -304,17 +304,17 @@ a, a:hover {
   -moz-border-radius-bottomleft: 6px;
   border-bottom-left-radius: 6px;
   text-indent: 0;
-  border: 1px solid #3e8e41;
-  color: #ffffff;
+  border: 1px solid #cc9900;
+  color: #2a2a2a;
   text-align: center;
-  text-shadow: 1px 1px 0px #3e8e41;
+  text-shadow: 1px 1px 0px #ffeb99;
 }
 
 .trackseason:hover {
-  background: -webkit-gradient(linear, left top, left bottom, color-stop(0.05, #228b22), color-stop(1, #32cd32));
-  background: -moz-linear-gradient(center top, #228b22 5%, #32cd32 100%);
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#228b22', endColorstr='#32cd32');
-  background-color: #228b22;
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0.05, #e6b800), color-stop(1, #ffd700));
+  background: -moz-linear-gradient(center top, #e6b800 5%, #ffd700 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#e6b800', endColorstr='#ffd700');
+  background-color: #e6b800;
 }
 
 .trackseason:active {
