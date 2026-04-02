@@ -83,6 +83,12 @@ Whether you raced once or completed the full series, **you are part of this jour
 
 <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQrq2Su5x9eRR65MDFK6RvWpdV1VjKMdLaVkMO5_v4etW2YNhoIhh5rRkxGPKMK72D5jYDM4ve-SlqL/pubhtml?gid=0&single=true" target="_blank" rel="noopener noreferrer">Online Version</a>
 
+<a href="https://liffeyvalleyac.com/news/2025/11/15/Winter-League-Presentation/" target="_blank">
+    Winter League 2025/2026 Resume
+  </a>
+
+<a href="/races/2026-03-31-LVAC-WL6of6-2-Mile-road/" target="_blank" rel="noopener noreferrer">Race 6 of 6 Results</a>
+
 <a href="https://photos.app.goo.gl/Cd9RzW5HEWaCFhVr9" target="_blank" rel="noopener noreferrer">Photos from David Mitchell</a>
 
 <a href="https://www.instagram.com/p/DWpQLaXAHZw/?img_index=1" target="_blank" rel="noopener noreferrer">Instagram Post</a>
@@ -107,5 +113,159 @@ Whether you raced once or completed the full series, **you are part of this jour
   </a>
   <figcaption style="font-size: 1.2em">
     Starting Lane - 2 Mile Road Winter League Final
+  </figcaption>
+</figure>
+
+<figure style="text-align: center;">
+  <a href="/assets/images/races/2026/2026-03-31_2mileroad_15_winners.jpg" target="_blank" rel="noopener noreferrer">
+    <img src="/assets/images/races/2026/2026-03-31_2mileroad_15_winners.jpg" 
+         alt="Image"  
+         style="width: 100%; height: auto;">
+  </a>
+  <figcaption style="font-size: 1.2em">
+    2 Mile Road Winners - Stephanie Hawkins, Eimear Dunne, Michael O'Connor
+  </figcaption>
+</figure>
+
+<figure style="text-align: center;">
+  <a href="/assets/images/races/2026/2026-03-31_2mileroad_02.jpg" target="_blank" rel="noopener noreferrer">
+    <img src="/assets/images/races/2026/2026-03-31_2mileroad_02.jpg" 
+         alt="Image"  
+         style="width: 100%; height: auto;">
+  </a>
+  <figcaption style="font-size: 1.2em">
+    2 Mile Road - Photo by David Mitchell
+  </figcaption>
+</figure>
+
+<figure style="text-align: center;">
+  <a href="/assets/images/races/2026/2026-03-31_2mileroad_03.jpg" target="_blank" rel="noopener noreferrer">
+    <img src="/assets/images/races/2026/2026-03-31_2mileroad_03.jpg" 
+         alt="Image"  
+         style="width: 100%; height: auto;">
+  </a>
+  <figcaption style="font-size: 1.2em">
+    2 Mile Road - Photo by David Mitchell
+  </figcaption>
+</figure>
+
+<figure style="text-align: center;">
+  <a href="/assets/images/races/2026/2026-03-31_2mileroad_04.jpg" target="_blank" rel="noopener noreferrer">
+    <img src="/assets/images/races/2026/2026-03-31_2mileroad_04.jpg" 
+         alt="Image"  
+         style="width: 100%; height: auto;">
+  </a>
+  <figcaption style="font-size: 1.2em">
+    2 Mile Road - Photo by David Mitchell
+  </figcaption>
+</figure>
+
+<figure style="text-align: center;">
+  <a href="/assets/images/races/2026/2026-03-31_2mileroad_05.jpg" target="_blank" rel="noopener noreferrer">
+    <img src="/assets/images/races/2026/2026-03-31_2mileroad_05.jpg" 
+         alt="Image"  
+         style="width: 100%; height: auto;">
+  </a>
+  <figcaption style="font-size: 1.2em">
+    2 Mile Road - Photo by David Mitchell
+  </figcaption>
+</figure>
+
+<figure style="text-align: center;">
+  <a href="/assets/images/races/2026/2026-03-31_2mileroad_06.jpg" target="_blank" rel="noopener noreferrer">
+    <img src="/assets/images/races/2026/2026-03-31_2mileroad_06.jpg" 
+         alt="Image"  
+         style="width: 100%; height: auto;">
+  </a>
+  <figcaption style="font-size: 1.2em">
+    2 Mile Road - Photo by David Mitchell
+  </figcaption>
+</figure>
+
+<figure style="text-align: center;">
+  <a href="/assets/images/races/2026/2026-03-31_2mileroad_07.jpg" target="_blank" rel="noopener noreferrer">
+    <img src="/assets/images/races/2026/2026-03-31_2mileroad_07.jpg" 
+         alt="Image"  
+         style="width: 100%; height: auto;">
+  </a>
+  <figcaption style="font-size: 1.2em">
+    2 Mile Road - Photo by David Mitchell
+  </figcaption>
+</figure>
+
+<figure style="text-align: center;">
+  <a href="/assets/images/races/2026/2026-03-31_2mileroad_08.jpg" target="_blank" rel="noopener noreferrer">
+    <img src="/assets/images/races/2026/2026-03-31_2mileroad_08.jpg" 
+         alt="Image"  
+         style="width: 100%; height: auto;">
+  </a>
+  <figcaption style="font-size: 1.2em">
+    2 Mile Road - Photo by David Mitchell
+  </figcaption>
+</figure>
+
+<figure style="text-align: center;">
+  <a href="/assets/images/races/2026/2026-03-31_2mileroad_09.jpg" target="_blank" rel="noopener noreferrer">
+    <img src="/assets/images/races/2026/2026-03-31_2mileroad_09.jpg" 
+         alt="Image"  
+         style="width: 100%; height: auto;">
+  </a>
+  <figcaption style="font-size: 1.2em">
+    2 Mile Road - Photo by David Mitchell
+  </figcaption>
+</figure>
+
+<figure style="text-align: center;">
+  <a href="/assets/images/races/2026/2026-03-31_2mileroad_10.jpg" target="_blank" rel="noopener noreferrer">
+    <img src="/assets/images/races/2026/2026-03-31_2mileroad_10.jpg" 
+         alt="Image"  
+         style="width: 100%; height: auto;">
+  </a>
+  <figcaption style="font-size: 1.2em">
+    2 Mile Road - Photo by David Mitchell
+  </figcaption>
+</figure>
+
+<figure style="text-align: center;">
+  <a href="/assets/images/races/2026/2026-03-31_2mileroad_11.jpg" target="_blank" rel="noopener noreferrer">
+    <img src="/assets/images/races/2026/2026-03-31_2mileroad_11.jpg" 
+         alt="Image"  
+         style="width: 100%; height: auto;">
+  </a>
+  <figcaption style="font-size: 1.2em">
+    2 Mile Road - Photo by David Mitchell
+  </figcaption>
+</figure>
+
+<figure style="text-align: center;">
+  <a href="/assets/images/races/2026/2026-03-31_2mileroad_12.jpg" target="_blank" rel="noopener noreferrer">
+    <img src="/assets/images/races/2026/2026-03-31_2mileroad_12.jpg" 
+         alt="Image"  
+         style="width: 100%; height: auto;">
+  </a>
+  <figcaption style="font-size: 1.2em">
+    2 Mile Road - Photo by David Mitchell
+  </figcaption>
+</figure>
+
+<figure style="text-align: center;">
+  <a href="/assets/images/races/2026/2026-03-31_2mileroad_13.jpg" target="_blank" rel="noopener noreferrer">
+    <img src="/assets/images/races/2026/2026-03-31_2mileroad_13.jpg" 
+         alt="Image"  
+         style="width: 100%; height: auto;">
+  </a>
+  <figcaption style="font-size: 1.2em">
+    2 Mile Road - Photo by David Mitchell
+  </figcaption>
+</figure>
+
+<figure style="text-align: center;">
+  <a href="/assets/images/races/2026/2026-03-31_2mileroad_14.jpg" target="_blank" rel="noopener noreferrer">
+    <img src="/assets/images/races/2026/2026-03-31_2mileroad_14.jpg" 
+         alt="Image"  
+         style="width: 100%; height: auto;">
+  </a>
+  <figcaption style="font-size: 1.2em">
+    2 Mile Road - Photo by David Mitchell
   </figcaption>
 </figure>
