@@ -11,7 +11,15 @@ location: Kujawsko-Pomorska Arena, Toruń, Poland
 
 <h4>🏃‍♂️ 800m M55 - Round 1 Heat 4</h4>
 
-<p>Well done to <strong>Donal Iremonger</strong> who placed <strong>4th</strong> in his 800m heat at the European Masters Indoor Championships with a time of <strong>2:15.15 min</strong>,just missing out on qualification for the final. A tremendous effort! 👏👏👏</p>
+<p>Well done to <strong>Donal Iremonger</strong> who placed <strong>4th</strong> in his 800m heat at the European Masters Indoor Championships with a time of <strong>2:15.15 min</strong>, just missing out on qualification for the final. A tremendous effort! 👏👏👏</p>
+
+<h4>🏃‍♂️ 1500m M35 - Round 1 Heat 1</h4>
+
+<p>Well done to <strong>David Carroll</strong> who placed <strong>4th</strong> in his 1500m heat with a time of <strong>4:10.92 min</strong>, qualifying for the final!</p>
+
+<h4>🏃‍♂️ 1500m M35 - Final</h4>
+
+<p>Well done to <strong>David Carroll</strong> who placed <strong>7th</strong> in his 1500m final with a time of <strong>4:08.10 min</strong>! 👏👏👏</p>
 
 <a href="/races/2026-03-29-European-Masters-Indoor-Championships/" target="_blank" rel="noopener noreferrer">Race Results</a>
 
@@ -61,5 +69,16 @@ location: Kujawsko-Pomorska Arena, Toruń, Poland
   </a>
   <figcaption style="font-size: 1.2em; color: #ceb329; margin-top: 6px;">
     Donal 4th results
+  </figcaption>
+</figure>
+
+<figure style="text-align: center;">
+  <a href="/assets/images/races/2026/2026-03-31_david01.jpg" target="_blank" rel="noopener noreferrer">
+    <img src="/assets/images/races/2026/2026-03-31_david01.jpg" 
+         alt="Image"  
+         style="width: 100%; height: auto;">
+  </a>
+  <figcaption style="font-size: 1.2em; color: #ceb329; margin-top: 6px;">
+    David and Donal
   </figcaption>
 </figure>
