@@ -107,6 +107,30 @@ Leaderboard Table: <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQrq
 </tbody>
 </table>
 <br>
+<h2>Winter League Winners 2025-2026</h2>
+<table style="width: 100%; max-width: 600px; margin: 0 auto 20px auto; border-collapse: separate; border-spacing: 0; border-radius: 12px; overflow: hidden; box-shadow: 0 8px 32px rgba(0,0,0,0.3); font-family: 'Segoe UI', system-ui, sans-serif;">
+<thead>
+<tr style="background: linear-gradient(145deg, #2F318D 0%, #1e3a8a 100%);">
+<th style="padding: 12px; text-align: center; color: #ffffffff; font-size: 1.1em; font-weight: bold; text-transform: uppercase; letter-spacing: 1px;">Position</th>
+<th style="padding: 12px; text-align: center; color: #ffffffff; font-size: 1.1em; font-weight: bold; text-transform: uppercase; letter-spacing: 1px;">Athlete</th>
+</tr>
+</thead>
+<tbody>
+<tr style="background: linear-gradient(145deg, #FFD700 0%, #FFC400 100%);">
+<td style="font-size: 2.4em; text-align: center; padding: 0px; color: #000000; font-weight: bold;">🥇</td>
+<td style="font-size: 1.2em; text-align: center; padding: 0px; color: #000000; font-weight: bold;">Hilary McDonnell</td>
+</tr>
+<tr style="background: linear-gradient(145deg, #C0C0C0 0%, #A8A8A8 100%);">
+<td style="font-size: 2.4em; text-align: center; padding: 0px; color: #000000; font-weight: bold;">🥈</td>
+<td style="font-size: 1.2em; text-align: center; padding: 0px; color: #000000; font-weight: bold;">Mark Naylor</td>
+</tr>
+<tr style="background: linear-gradient(145deg, #CD7F32 0%, #B87333 100%);">
+<td style="font-size: 2.4em; text-align: center; padding: 0px; color: #000000; font-weight: bold;">🥉</td>
+<td style="font-size: 1.2em; text-align: center; padding: 0px; color: #000000; font-weight: bold;">Neil Duffy</td>
+</tr>
+</tbody>
+</table>
+<br>
 <h2>Winter League Standings</h2>
 <figure style="text-align: center;">
   <a href="/assets/results/winter-league-2025-2026/LVAC Winter League 2025-2026 - WL 6 of 6_page-0001.jpg" target="_blank" rel="noopener noreferrer">

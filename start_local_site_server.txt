@@ -6,3 +6,15 @@ You should have the following version of ruby and gem installed.
 
 ruby >2.50 (working on windows with `2.6.8)
 gem (working on windows with 3.0.3.1)
+
+Gemfile.lock working versions:
+
+-
+eventmachine (1.2.7-x64-mingw32)
+-
+    faraday (2.8.1)
+      base64
+      faraday-net_http (>= 2.0, < 3.1)
+      ruby2_keywords (>= 0.0.4)
+    faraday-net_http (3.0.2)
+    ffi (1.17.2-x64-mingw32)
