@@ -18,3 +18,39 @@ eventmachine (1.2.7-x64-mingw32)
       ruby2_keywords (>= 0.0.4)
     faraday-net_http (3.0.2)
     ffi (1.17.2-x64-mingw32)
+
+nokogiri (1.13.10-x64-mingw32)
+
+ruby2_keywords (0.0.5)
+
+wdm (0.2.0)
+
+x64-mingw32
+
+wdm (>= 0.1.0)
+
+MODIFICADOS Y AGREGADOS QUE QUIZAS PRODUZCAN ERROR:
+    eventmachine (1.2.7)
+
+    faraday (2.14.1)
+      faraday-net_http (>= 2.0, < 3.5)
+      json
+      logger
+    faraday-net_http (3.4.2)
+      net-http (~> 0.5)
+    ffi (1.17.2-x86_64-linux-gnu)
+
+    json (2.19.1)
+
+ mini_portile2 (2.8.9)
+
+    net-http (0.9.1)
+      uri (>= 0.11.1)
+    nokogiri (1.13.10)
+      mini_portile2 (~> 2.8.0)
+
+    uri (1.1.1)
+
+  x86_64-linux
+
+

@@ -83,7 +83,7 @@ Whether you raced once or completed the full series, **you are part of this jour
 
 <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQrq2Su5x9eRR65MDFK6RvWpdV1VjKMdLaVkMO5_v4etW2YNhoIhh5rRkxGPKMK72D5jYDM4ve-SlqL/pubhtml?gid=0&single=true" target="_blank" rel="noopener noreferrer">Online Version</a>
 
-<a href="https://liffeyvalleyac.com/news/2025/11/15/Winter-League-Presentation/" target="_blank">
+<a href="/news/2025/11/15/Winter-League-Presentation/" target="_blank">
     Winter League 2025/2026 Resume
   </a>
 
