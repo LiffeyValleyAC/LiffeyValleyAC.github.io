@@ -73,7 +73,7 @@ location: Phoenix Park, Co. Dublin
   <li>Earn WL points, enjoy the craic, and claim some bragging rights.</li>
 </ul>
 
-Leaderboard Table: <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQrq2Su5x9eRR65MDFK6RvWpdV1VjKMdLaVkMO5_v4etW2YNhoIhh5rRkxGPKMK72D5jYDM4ve-SlqL/pubhtml?gid=0&single=true" target="_blank" rel="noopener noreferrer">Google Sheet</a><span>&ensp;|&ensp;</span><a href="/assets/results/winter-league-2025-2026/LVAC Winter League 2025-2026 - WL 3 of 6_page-0001.jpg" target="_blank" rel="noopener noreferrer">JPG</a><span>&ensp;|&ensp;</span><a href="/assets/results/winter-league-2025-2026/LVAC Winter League 2025-2026 - WL 6 of 6.pdf" target="_blank" rel="noopener noreferrer">PDF</a>
+Leaderboard Table: <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQrq2Su5x9eRR65MDFK6RvWpdV1VjKMdLaVkMO5_v4etW2YNhoIhh5rRkxGPKMK72D5jYDM4ve-SlqL/pubhtml?gid=0&single=true" target="_blank" rel="noopener noreferrer">Google Sheet</a><span>&ensp;|&ensp;</span><a href="/assets/results/winter-league-2025-2026/LVAC Winter League 2025-2026 - WL 6 of 6_page-0001.jpg" target="_blank" rel="noopener noreferrer">JPG</a><span>&ensp;|&ensp;</span><a href="/assets/results/winter-league-2025-2026/LVAC Winter League 2025-2026 - WL 6 of 6.pdf" target="_blank" rel="noopener noreferrer">PDF</a>
 
 <!-- Winter League Races Table -->
 <table style="border-collapse: separate; border-spacing: 0; width: 90%; margin-top: 20px; box-shadow: 0 8px 25px rgba(0,0,0,0.3); border-radius: 12px; overflow: hidden; background: linear-gradient(145deg, #1a1a2e 0%, #16213e 100%); border: 2px solid #2F318D; font-family: Consolas, monospace;">
