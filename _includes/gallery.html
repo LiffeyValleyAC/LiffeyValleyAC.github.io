@@ -1,0 +1,28 @@
+{% assign album_slug = include.album %}
+{% assign album_data = nil %}
+
+{% for album in site.albums %}
+  {% assign album_basename = album.path | split: '/' | last | split: '.' | first %}
+  {% if album_basename == album_slug or album.slug == album_slug %}
+    {% assign album_data = album %}
+    {% break %}
+  {% endif %}
+{% endfor %}
+
+{% if album_data %}
+<div class="gallery-grid" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 15px; margin: 20px 0;">
+  {% for photo in album_data.photos %}
+  <a href="{{ photo.original }}" target="_blank" rel="noopener noreferrer" class="gallery-item">
+    <img src="{{ photo.thumbnail }}" alt="{{ photo.title }}" loading="lazy" style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px; transition: transform 0.2s;">
+  </a>
+  {% endfor %}
+</div>
+
+<style>
+.gallery-item:hover img {
+  transform: scale(1.05);
+}
+</style>
+{% else %}
+<p style="color: #999; font-style: italic;">Galería no disponible: álbum '{{ include.album }}' no encontrado.</p>
+{% endif %}

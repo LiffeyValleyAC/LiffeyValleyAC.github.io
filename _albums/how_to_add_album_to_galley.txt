@@ -1,0 +1,4 @@
+22:03 02/05/2026 Alejandro
+Create a .md file in _albums
+Point every photo correctly.
+From 2026 I'm adding the photos in assets\images\galleryimgs
