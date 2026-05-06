@@ -34,7 +34,7 @@
   </head>
   <body>
     <div class="container">
-      <div class="row tight-gutter">
+      <div class="row">
         <div id="header">
           <h1 class="hidden-xs"><a href="/">Liffey Valley Athletic Club</a></h1>
           <div class="social-media-orga">
@@ -92,7 +92,7 @@
                 </li>
                 <li class="nav-item dropdown">
                   <a class="nav-link dropdown-toggle" href="#" id="joinUsDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                    JOIN US
+                    Join Us
                   </a>
                   <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="joinUsDropdown">
                     <li><a class="dropdown-item" href="/join-us">Join Us Overview</a></li>
@@ -109,17 +109,20 @@
         <!-- /nav bar-->
       </div>
       {{ content }}
-      <div class="row" id="footer" class="small">
-        <div class="col-md-8">
-          <p>Liffey Valley Athletic Club, Sandpitts Cottage, Islandbridge, Dublin 8, D08HX92</p>
-          <p>Contact: Club Secretary, Clare Kavanagh<abbr title="Email"><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span></abbr> <a href="mailto:lvacsecretary@gmail.com">lvacsecretary@gmail.com</a></p>
-          <p><a href="http://liffeyvalleyac.com/privacy/">Club privacy statement</a></p>
-        </div>
-        <div class="col-md-4">
-          <form class="search">
-            <input type="text" class="search-box" id="search" />
-            <input type="submit" class="search-button" value="Search" />
-          </form>
+      <div id="footer">
+        <div class="footer-content">
+          <div class="footer-info">
+            <p class="club-name">Liffey Valley Athletic Club</p>
+            <p class="address">Sandpitts Cottage, Islandbridge, Dublin 8, D08HX92</p>
+            <p class="contact">Contact: Club Secretary, Clare Kavanagh <a href="mailto:lvacsecretary@gmail.com"><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span> lvacsecretary@gmail.com</a></p>
+            <p class="privacy"><a href="http://liffeyvalleyac.com/privacy/">Club privacy statement</a></p>
+          </div>
+          <div class="footer-search">
+            <form class="search">
+              <input type="text" class="search-box" id="search" placeholder="Search..." />
+              <input type="submit" class="search-button" value="Search" />
+            </form>
+          </div>
         </div>
       </div>
     </div>
