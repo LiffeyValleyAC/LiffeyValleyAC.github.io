@@ -8,8 +8,6 @@ An incredible achievement to take on one of the world’s biggest marathons 👏
 ### 🔥 Results
 - **Mark Naylor** – 2:41:41 (MS) – *Place 778* – BIB 48993  
 - **Joseph Whittle** – 3:17:48 (MS) – *Place 6470* – BIB 6226  
-- **Antoine Daubigny** – 3:28:45 (MS) – *Place 9316* – BIB 16269  
-
 ---
 
 ### 🌍 About the London Marathon 2026
@@ -38,6 +36,8 @@ Your dedication, discipline, and performance represent the spirit of Liffey Vall
 
 <a href="https://results.tcslondonmarathon.com/2026/?pid=start&pidp=start" target="_blank" rel="noopener noreferrer">Official Results</a>
 
+<a href="https://www.instagram.com/p/DXnBabcAKFc/?img_index=1" target="_blank" rel="noopener noreferrer">Instagram</a>
+
 <figure style="text-align: center;">
   <a href="/assets/images/races/2026/2026-04-26_mark_cert.jpg" target="_blank" rel="noopener noreferrer">
     <img src="/assets/images/races/2026/2026-04-26_mark_cert.jpg" 
@@ -60,15 +60,5 @@ Your dedication, discipline, and performance represent the spirit of Liffey Vall
   </figcaption>
 </figure>
 
-<figure style="text-align: center;">
-  <a href="/assets/images/races/2026/2026-04-26_antoine_cert.jpg" target="_blank" rel="noopener noreferrer">
-    <img src="/assets/images/races/2026/2026-04-26_antoine_cert.jpg" 
-         alt="Image"  
-         style="width: 100%; height: auto;">
-  </a>
-  <figcaption style="font-size: 1.2em">
-    Antoine Daubigny - <a href="https://results.tcslondonmarathon.com/2026/?content=detail&fpid=search&pid=search&idp=9TG2O3HQ504E1C&lang=EN_CAP&event=MAS&pidp=start&search%5Bfirstname%5D=antoine&search_event=MAS" target="_blank" rel="noopener noreferrer">Certificate</a>
-  </figcaption>
-</figure>
 
 

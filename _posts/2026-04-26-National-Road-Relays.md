@@ -21,6 +21,8 @@ Thanks to Raheny Shamrock AC for hosting another fantastic day of racing, as alw
 
 <a href="https://www.instagram.com/p/DXpi9IojkUY/?img_index=1" target="_blank" rel="noopener noreferrer">Instagram</a>
 
+<a href="https://www.instagram.com/reels/DXmLCWiCP91/" target="_blank" rel="noopener noreferrer">Instagram Video David finishing</a>
+
 <a href="https://myrunresults.com/events/123ie_national_road_relays_2026/5644/results" target="_blank" rel="noopener noreferrer">MyRunResults</a>
 
 <a href="https://photos.app.goo.gl/WxVcoypf7oJvE2YF9" target="_blank" rel="noopener noreferrer">Photo gallery David Mitchell</a>

@@ -15,9 +15,4 @@ results:
     time: 3.17.48
     category: MS
     note: BIB 6226
-  - place: 9316
-    name: Antoine Daubigny
-    time: 3.28.45
-    category: MS
-    note: BIB 16269
 ---
