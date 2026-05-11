@@ -10,27 +10,163 @@ redirect_from:
     &nbsp;
   </div>
 </div>
-<!-- {% include tombrennan.html %} -->
+
 <div class="row content">
   <div class="col-md-12">
-    <hr>
-      {% for post in paginator.posts %}
-      <h3>
-        <a href="{{ post.url }}">{{ post.title }}</a>
-        <br /><small>{{ post.date | date: "%A, %-d %B, %Y" }}</small>
-      </h3>
-      {{ post.excerpt }}
-      <a href="{{ post.url }}">read more</a>
-      <hr>
+    <!-- News Controls -->
+    <div class="news-controls">
+      <div class="news-count">
+        Showing {{ paginator.posts.size }} of {{ paginator.total_posts }} news items
+      </div>
+    </div>
+
+    <!-- Timeline -->
+    {% assign posts_by_year = site.posts | group_by_exp: 'post', 'post.date | date: "%Y"' | sort: 'name' %}
+    {% assign max_count = 0 %}
+    {% for year_group in posts_by_year %}
+      {% if year_group.items.size > max_count %}
+        {% assign max_count = year_group.items.size %}
+      {% endif %}
     {% endfor %}
-    <!-- Pagination links -->
-    <ul class="pager">
-      {% if paginator.next_page %}
-      <li class="previous"><a href="{{ paginator.next_page_path }}">&larr; Older</a></li>
-      {% endif %}
-      {% if paginator.previous_page %}
-      <li class="next"><a href="{{ paginator.previous_page_path }}">Newer &rarr;</a></li>
-      {% endif %}
-    </ul>
+
+    <div class="news-timeline">
+      <div class="timeline-line"></div>
+      <div class="timeline-points">
+        {% for year_group in posts_by_year %}
+          {% assign year = year_group.name %}
+          {% assign count = year_group.items.size %}
+          {% assign size_percent = count | times: 100 | divided_by: max_count %}
+          {% if size_percent < 30 %}{% assign size_percent = 30 %}{% endif %}
+          {% if size_percent > 100 %}{% assign size_percent = 100 %}{% endif %}
+          <div class="timeline-point" data-year="{{ year }}" data-count="{{ count }}" style="--point-size: {{ size_percent }}%;">
+            <div class="timeline-dot" title="{{ year }}: {{ count }} noticias"></div>
+            <span class="timeline-year">{{ year }}</span>
+          </div>
+        {% endfor %}
+      </div>
+    </div>
+
+    <!-- News List -->
+    <div class="news-list">
+      {% for post in paginator.posts %}
+      <article class="news-item" data-year="{{ post.date | date: '%Y' }}">
+        <div class="news-meta">
+          <span class="news-date">{{ post.date | date: "%b %d, %Y" }}</span>
+        </div>
+        <h3 class="news-title">
+          <a href="{{ post.url }}">{{ post.title }}</a>
+        </h3>
+        <p class="news-excerpt">{{ post.excerpt | strip_html | truncatewords: 40 }}</p>
+        <a href="{{ post.url }}" class="read-more">Read more →</a>
+      </article>
+      {% endfor %}
+    </div>
+
+    <!-- Year Filter Indicator -->
+    <div id="year-filter" class="year-filter">
+      <span class="year-filter-text">Filtered by year: <strong id="filter-year"></strong></span>
+      <button class="year-filter-clear" onclick="clearYearFilter()">Clear filter</button>
+    </div>
   </div>
 </div>
+
+<script>
+// Timeline year filtering
+document.addEventListener('DOMContentLoaded', function() {
+  const timelinePoints = document.querySelectorAll('.timeline-point');
+  const newsItems = document.querySelectorAll('.news-item');
+  const yearFilter = document.getElementById('year-filter');
+  const filterYear = document.getElementById('filter-year');
+  const paginationNav = document.querySelector('.pagination-nav');
+
+  timelinePoints.forEach(point => {
+    point.addEventListener('click', function() {
+      const year = this.dataset.year;
+      const count = this.dataset.count;
+
+      // Toggle active state
+      timelinePoints.forEach(p => p.classList.remove('active'));
+      this.classList.add('active');
+
+      // Filter news items
+      let visibleCount = 0;
+      newsItems.forEach(item => {
+        const itemYear = item.dataset.year;
+        if (itemYear === year) {
+          item.style.display = '';
+          visibleCount++;
+        } else {
+          item.style.display = 'none';
+        }
+      });
+
+      // Show filter indicator
+      yearFilter.classList.add('active');
+      filterYear.textContent = year + ' (' + visibleCount + ' items)';
+
+      // Hide pagination when filtering
+      if (paginationNav) {
+        paginationNav.style.display = 'none';
+      }
+
+      // Update news count
+      const newsCount = document.querySelector('.news-count');
+      if (newsCount) {
+        newsCount.innerHTML = 'Showing ' + visibleCount + ' of {{ paginator.total_posts }} news items (filtered by year ' + year + ')';
+      }
+
+      // Update URL hash for shareable links
+      history.pushState(null, null, '#year=' + year);
+    });
+  });
+
+  // Check URL hash on page load
+  const hash = window.location.hash;
+  if (hash && hash.startsWith('#year=')) {
+    const yearFromHash = hash.replace('#year=', '');
+    const targetPoint = document.querySelector('.timeline-point[data-year="' + yearFromHash + '"]');
+    if (targetPoint) {
+      targetPoint.click();
+    }
+  } else {
+    // Auto-filter by current year if no hash
+    const currentYear = new Date().getFullYear().toString();
+    const currentYearPoint = document.querySelector('.timeline-point[data-year="' + currentYear + '"]');
+    if (currentYearPoint) {
+      currentYearPoint.click();
+    }
+  }
+});
+
+function clearYearFilter() {
+  const newsItems = document.querySelectorAll('.news-item');
+  const timelinePoints = document.querySelectorAll('.timeline-point');
+  const yearFilter = document.getElementById('year-filter');
+  const paginationNav = document.querySelector('.pagination-nav');
+
+  // Show all news items
+  newsItems.forEach(item => {
+    item.style.display = '';
+  });
+
+  // Remove active states
+  timelinePoints.forEach(p => p.classList.remove('active'));
+
+  // Hide filter indicator
+  yearFilter.classList.remove('active');
+
+  // Show pagination
+  if (paginationNav) {
+    paginationNav.style.display = '';
+  }
+
+  // Reset news count
+  const newsCount = document.querySelector('.news-count');
+  if (newsCount) {
+    newsCount.innerHTML = 'Showing {{ paginator.posts.size }} of {{ paginator.total_posts }} news items';
+  }
+
+  // Clear URL hash
+  history.pushState(null, null, window.location.pathname);
+}
+</script>
