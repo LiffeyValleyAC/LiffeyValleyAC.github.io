@@ -33,6 +33,7 @@ Registration closes 3-5 days before each event, so make sure to secure your spot
 
 See you all on the track! 💪💥
 
+  <a href="/news/2026/04/01/Dublin-Graded-2026/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;"><button style="background: linear-gradient(145deg, #FCD50D 0%, #c2aa10 100%); color: #181818; font-weight: bold; border: none; padding: 12px 24px; font-size: 14px; border-radius: 8px; cursor: pointer; box-shadow: 0 4px 8px rgba(0,0,0,0.3); transition: all 0.2s ease; text-transform: uppercase; letter-spacing: 0.5px;" onmouseover="this.style.transform='translateY(-2px)'; this.style.boxShadow='0 6px 12px rgba(0,0,0,0.4)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 4px 8px rgba(0,0,0,0.3)'">🧾 Track Season Summary</button></a>
 
 <a href="https://www.instagram.com/p/DJPOnbjIhdA/?img_index=1" target="_blank" rel="noopener noreferrer">Instagram</a>
 

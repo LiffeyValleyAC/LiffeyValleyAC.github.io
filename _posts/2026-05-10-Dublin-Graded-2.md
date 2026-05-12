@@ -15,16 +15,56 @@ A huge thank you to all <b>Liffey Valley Athletic Club</b> athletes who particip
       <th style="border: 2px solid #ddd; padding: 0px; text-align: center; font-weight: bold;">CATEGORY</th>
     </tr>
   </thead>
-  <tbody>
-    <tr style="border-bottom: 1px solid #eee; background-color: #fff;"><td style="padding: 0px 0px 0px 0px; text-align: right; font-weight: bold;"></td><td style="padding: 0px 10px;">David Carroll</td><td style="text-align: right; padding: 0px 10px; font-family: monospace;">4:03</td><td style="padding: 0px 20px;">1500m Men A <span style="color: #28a745; font-weight: bold;">PB</span></td></tr>
-    <tr style="border-bottom: 1px solid #eee; background-color: #fafafa;"><td style="padding: 0px 0px 0px 0px; text-align: right; font-weight: bold;"></td><td style="padding: 0px 10px;">Richard Finegan</td><td style="text-align: right; padding: 0px 10px; font-family: monospace;">4:25</td><td style="padding: 0px 20px;">1500m Men C <span style="color: #28a745; font-weight: bold;">PB</span></td></tr>
-    <tr style="border-bottom: 1px solid #eee; background-color: #fff;"><td style="padding: 0px 0px 0px 0px; text-align: right; font-weight: bold;"></td><td style="padding: 0px 10px;">Simon Monds</td><td style="text-align: right; padding: 0px 10px; font-family: monospace;">4:49</td><td style="padding: 0px 20px;">1500m Men D <span style="color: #28a745; font-weight: bold;">PB</span></td></tr>
-    <tr style="border-bottom: 1px solid #eee; background-color: #fafafa;"><td style="padding: 0px 0px 0px 0px; text-align: right; font-weight: bold;"></td><td style="padding: 0px 10px;">James Foley</td><td style="text-align: right; padding: 0px 10px; font-family: monospace;">4:54</td><td style="padding: 0px 20px;">1500m Men D</td></tr>
-    <tr style="border-bottom: 1px solid #eee; background-color: #fff;"><td style="padding: 0px 0px 0px 0px; text-align: right; font-weight: bold;"></td><td style="padding: 0px 10px;">Neil Duffy</td><td style="text-align: right; padding: 0px 10px; font-family: monospace;">4:59</td><td style="padding: 0px 20px;">1500m Men D <span style="color: #28a745; font-weight: bold;">PB</span></td></tr>
-    <tr style="border-bottom: 1px solid #eee; background-color: #fafafa;"><td style="padding: 0px 0px 0px 0px; text-align: right; font-weight: bold;"></td><td style="padding: 0px 10px;">Joseph Whittle</td><td style="text-align: right; padding: 0px 10px; font-family: monospace;">4:59</td><td style="padding: 0px 20px;">1500m Men D</td></tr>
-    <tr style="border-bottom: 1px solid #eee; background-color: #fff;"><td style="padding: 0px 0px 0px 0px; text-align: right; font-weight: bold;"></td><td style="padding: 0px 10px;">Bernard O'Sullivan</td><td style="text-align: right; padding: 0px 10px; font-family: monospace;">5:04</td><td style="padding: 0px 20px;">1500m Men D</td></tr>
-    <tr style="background-color: #fafafa;"><td style="padding: 0px 0px 0px 0px; text-align: right; font-weight: bold;"></td><td style="padding: 0px 10px;">Paul Balfe</td><td style="text-align: right; padding: 0px 10px; font-family: monospace;">5:14</td><td style="padding: 0px 20px;">1500m Men D</td></tr>
-  </tbody>
+<tbody>
+    <tr style="border-bottom: 1px solid #eee; background-color: #fff;">
+        <td style="padding: 0px 0px 0px 0px; text-align: right; font-weight: bold;">10</td>
+        <td style="padding: 0px 10px;">David Carroll</td>
+        <td style="text-align: right; padding: 0px 10px; font-family: monospace;">4:03.57</td>
+        <td style="padding: 0px 20px;">1500m Men A <span style="color: #28a745; font-weight: bold;">PB</span></td>
+    </tr>
+    <tr style="border-bottom: 1px solid #eee; background-color: #fafafa;">
+        <td style="padding: 0px 0px 0px 0px; text-align: right; font-weight: bold;">5</td>
+        <td style="padding: 0px 10px;">Richard Finegan</td>
+        <td style="text-align: right; padding: 0px 10px; font-family: monospace;">4:25.01</td>
+        <td style="padding: 0px 20px;">1500m Men C <span style="color: #28a745; font-weight: bold;">PB</span></td>
+    </tr>
+    <tr style="border-bottom: 1px solid #eee; background-color: #fff;">
+        <td style="padding: 0px 0px 0px 0px; text-align: right; font-weight: bold;">8</td>
+        <td style="padding: 0px 10px;">Simon Monds</td>
+        <td style="text-align: right; padding: 0px 10px; font-family: monospace;">4:49.44</td>
+        <td style="padding: 0px 20px;">1500m Men C <span style="color: #28a745; font-weight: bold;">PB</span></td>
+    </tr>
+    <tr style="border-bottom: 1px solid #eee; background-color: #fafafa;">
+        <td style="padding: 0px 0px 0px 0px; text-align: right; font-weight: bold;">9</td>
+        <td style="padding: 0px 10px;">James Foley</td>
+        <td style="text-align: right; padding: 0px 10px; font-family: monospace;">4:54.73</td>
+        <td style="padding: 0px 20px;">1500m Men C <span style="color: #007bff; font-weight: bold;">SB</span></td>
+    </tr>
+    <tr style="border-bottom: 1px solid #eee; background-color: #fff;">
+        <td style="padding: 0px 0px 0px 0px; text-align: right; font-weight: bold;">9</td>
+        <td style="padding: 0px 10px;">Neil Duffy</td>
+        <td style="text-align: right; padding: 0px 10px; font-family: monospace;">4:59.80</td>
+        <td style="padding: 0px 20px;">1500m Men D H1 <span style="color: #28a745; font-weight: bold;">PB</span></td>
+    </tr>
+    <tr style="border-bottom: 1px solid #eee; background-color: #fafafa;">
+        <td style="padding: 0px 0px 0px 0px; text-align: right; font-weight: bold;">10</td>
+        <td style="padding: 0px 10px;">Paul Balfe</td>
+        <td style="text-align: right; padding: 0px 10px; font-family: monospace;">5:14.81</td>
+        <td style="padding: 0px 20px;">1500m Men D H1 <span style="color: #007bff; font-weight: bold;">SB</span></td>
+    </tr>
+    <tr style="border-bottom: 1px solid #eee; background-color: #fff;">
+        <td style="padding: 0px 0px 0px 0px; text-align: right; font-weight: bold;">11</td>
+        <td style="padding: 0px 10px;">Joseph Whittle</td>
+        <td style="text-align: right; padding: 0px 10px; font-family: monospace;">4:59.84</td>
+        <td style="padding: 0px 20px;">1500m Men D H2 <span style="color: #007bff; font-weight: bold;">SB</span></td>
+    </tr>
+    <tr style="background-color: #fafafa;">
+        <td style="padding: 0px 0px 0px 0px; text-align: right; font-weight: bold;">12</td>
+        <td style="padding: 0px 10px;">Bernard O'Sullivan</td>
+        <td style="text-align: right; padding: 0px 10px; font-family: monospace;">5:04.73</td>
+        <td style="padding: 0px 20px;">1500m Men D H2</td>
+    </tr>
+</tbody>
 </table>
 <br>
 
@@ -43,5 +83,8 @@ See you all on the track! 💪💥
 <a href="https://www.dublinathletics.com/results-2026" target="_blank" rel="noopener noreferrer">Full Results</a>
 
 <h5>Videos Graded 2:</h5>
-<a href="https://www.youtube.com/watch?v=vkfM7K0ktSY" target="_blank">1500m_Races</a><br>
+<a href="https://www.youtube.com/watch?v=vkfM7K0ktSY&t=1h37m38s" target="_blank">1500m_Men_A</a><br>
+<a href="https://www.youtube.com/watch?v=vkfM7K0ktSY&t=1h45m41s" target="_blank">1500m_Men_C</a><br>
+<a href="https://www.youtube.com/watch?v=vkfM7K0ktSY&t=1h53m43s" target="_blank">1500m_Men_D1</a><br>
+<a href="https://www.youtube.com/watch?v=vkfM7K0ktSY&t=2h1m25s" target="_blank">1500m_Men_D2</a><br>
  
