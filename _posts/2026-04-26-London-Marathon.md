@@ -1,23 +1,24 @@
 ---
-title: Great performance by LVAC member at the London Marathon 2026
+title: London Marathon 2026 - Great performance by LVAC member
 location: London, England.
 ---
 **Well done to all of our athletes who ran at the London Marathon 2026!**  
 An incredible achievement to take on one of the world’s biggest marathons 👏
 
-### 🔥 Results
+#### 🔥 Results
 - **Mark Naylor** – 2:41:41 (MS) – *Place 778* – BIB 48993  
 - **Joseph Whittle** – 3:17:48 (MS) – *Place 6470* – BIB 6226  
+
 ---
 
-### 🌍 About the London Marathon 2026
+#### 🌍 About the London Marathon 2026
 - Over **59,000 runners** took part in this year’s race, making it one of the largest marathon events ever.
 - Conditions were **dry, sunny and warm**, starting around **11°C and rising to ~17–19°C**, ideal but slightly challenging later in the race.  
 - Light winds and bright skies created a fantastic atmosphere for both runners and supporters.
 
 ---
 
-### ⚡ Historic Performances
+#### ⚡ Historic Performances
 This year’s marathon will be remembered as one of the greatest in history:
 
 - 🇰🇪 **Sabastian Sawe** set a new **world record (1:59:30)** and became the **first man to break the 2-hour barrier in an official race**.
@@ -25,7 +26,7 @@ This year’s marathon will be remembered as one of the greatest in history:
 
 ---
 
-### 💬 Final Words
+#### 💬 Final Words
 To compete in such a historic edition of the London Marathon is something truly special.  
 Your dedication, discipline, and performance represent the spirit of Liffey Valley AC 💙
 
