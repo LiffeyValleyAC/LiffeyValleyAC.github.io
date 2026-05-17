@@ -6,6 +6,7 @@ location: Phoenix Park, Co. Dublin
 <style>
 .col-md-4 { display: none !important; }
 .col-md-8 { width: 100% !important; }
+.winter-league-table-container { overflow-x: auto; -webkit-overflow-scrolling: touch; margin-top: 20px; }
 </style>
 
 <h1>LVAC Winter League 2025/2026</h1>
@@ -76,7 +77,8 @@ location: Phoenix Park, Co. Dublin
 Leaderboard Table: <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQrq2Su5x9eRR65MDFK6RvWpdV1VjKMdLaVkMO5_v4etW2YNhoIhh5rRkxGPKMK72D5jYDM4ve-SlqL/pubhtml?gid=0&single=true" target="_blank" rel="noopener noreferrer">Google Sheet</a><span>&ensp;|&ensp;</span><a href="/assets/results/winter-league-2025-2026/LVAC Winter League 2025-2026 - WL 6 of 6_page-0001.jpg" target="_blank" rel="noopener noreferrer">JPG</a><span>&ensp;|&ensp;</span><a href="/assets/results/winter-league-2025-2026/LVAC Winter League 2025-2026 - WL 6 of 6.pdf" target="_blank" rel="noopener noreferrer">PDF</a>
 
 <!-- Winter League Races Table -->
-<table style="border-collapse: separate; border-spacing: 0; width: 90%; margin-top: 20px; box-shadow: 0 8px 25px rgba(0,0,0,0.3); border-radius: 12px; overflow: hidden; background: linear-gradient(145deg, #1a1a2e 0%, #16213e 100%); border: 2px solid #2F318D; font-family: Consolas, monospace;">
+<div class="winter-league-table-container">
+<table style="border-collapse: separate; border-spacing: 0; width: 100%; min-width: 800px; margin-top: 20px; box-shadow: 0 8px 25px rgba(0,0,0,0.3); border-radius: 12px; overflow: hidden; background: linear-gradient(145deg, #1a1a2e 0%, #16213e 100%); border: 2px solid #2F318D; font-family: Consolas, monospace;">
 <thead>
 <tr style="background: linear-gradient(145deg, #2F318D 0%, #1e3a8a 50%, #FCD50D 100%);">
 <td colspan="7" style="text-align: center; padding: 16px; color: #FCD50D; font-weight: bold; font-size: 1.2rem; text-shadow: 1px 1px 2px rgba(0,0,0,0.5); border-bottom: 3px solid #FCD50D; box-shadow: inset 0 -2px 5px rgba(0,0,0,0.3);">WINTER LEAGUE 2025/2026 – RACE SCHEDULE</td>
