@@ -4,8 +4,6 @@ location: Phoenix Park, Co. Dublin
 ---
 
 <style>
-.col-md-4 { display: none !important; }
-.col-md-8 { width: 100% !important; }
 .winter-league-table-container { overflow-x: auto; -webkit-overflow-scrolling: touch; margin-top: 20px; }
 </style>
 
