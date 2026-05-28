@@ -38,11 +38,11 @@ location: Phoenix Park, Dublin
 <h3>Team Results</h3>
 <p><em>Team scores are based on gross time, as listed by MyRunResults.</em></p>
 <ul>
-  <li><strong>8th</strong> - Senior Men Team: <strong>1:09:26</strong></li>
+  <li><strong>7th</strong> - Senior Men Team: <strong>1:09:26</strong></li>
   <li><strong>7th</strong> - Men 35+ Team: <strong>52:10</strong></li>
-  <li><strong>2nd</strong> - Men 50+ Team: <strong>1:17:41</strong></li>
-  <li><strong>4th</strong> - Senior Women Team: <strong>1:03:20</strong></li>
-  <li><strong>5th</strong> - Women 35+ Team: <strong>1:15:50</strong></li>
+  <li><strong>12th</strong> - Men 50+ Team: <strong>1:17:41</strong></li>
+  <li><strong>6th</strong> - Senior Women Team: <strong>1:03:20</strong></li>
+  <li><strong>9th</strong> - Women 35+ Team: <strong>1:15:50</strong></li>
 </ul>
 
 <p>Congratulations to all who raced and represented the club so well at national level.</p>
@@ -51,9 +51,9 @@ location: Phoenix Park, Dublin
 
 <a href="https://www.myrunresults.com/events/irish_runner_5k_challenge_2026/6110/results" target="_blank" rel="noopener noreferrer">MyRunResults</a>
 
-<a href="https://www.myrunresults.com/events/irish_runner_5k_challenge_2026/6110/stats" target="_blank" rel="noopener noreferrer">MyRunResults Stats</a>
-
 <a href="https://www.instagram.com/p/DYcUV8IiLxd/?img_index=1" target="_blank" rel="noopener noreferrer">Instagram</a>
+
+<a href="https://www.raceroutes.ie/courses/irish-runner-5k-2026" target="_blank" rel="noopener noreferrer">Race Route and Elevation</a>
 
 <figure style="text-align: center;">
   <a href="/assets/images/races/2026/2026-05-16_group.jpg" target="_blank" rel="noopener noreferrer">
