@@ -47,19 +47,25 @@ A huge thank you to all <b>Liffey Valley Athletic Club</b> athletes who particip
         <td style="text-align: right; padding: 0px 10px; font-family: monospace;">21:49.53</td>
         <td style="padding: 0px 20px;">5000m Women D</td>
     </tr>
-    <tr style="border-bottom: 1px solid #eee; background-color: #fff;">
+        <tr style="border-bottom: 1px solid #eee; background-color: #fff;">
+        <td style="padding: 0px 0px 0px 0px; text-align: right; font-weight: bold;">6</td>
+        <td style="padding: 0px 10px;">David Carroll</td>
+        <td style="text-align: right; padding: 0px 10px; font-family: monospace;">2:06.36</td>
+        <td style="padding: 0px 20px;">800m Men A <span style="color: #007bff; font-weight: bold;">SB</span></td>
+    </tr>
+    <tr style="border-bottom: 1px solid #eee; background-color: #fafafa;">
         <td style="padding: 0px 0px 0px 0px; text-align: right; font-weight: bold;">3</td>
         <td style="padding: 0px 10px;">Michael O'Connor</td>
         <td style="text-align: right; padding: 0px 10px; font-family: monospace;">2:12.24</td>
         <td style="padding: 0px 20px;">800m Men C H1 <span style="color: #007bff; font-weight: bold;">SB</span></td>
     </tr>
-    <tr style="border-bottom: 1px solid #eee; background-color: #fafafa;">
+    <tr style="border-bottom: 1px solid #eee; background-color: #fff;">
         <td style="padding: 0px 0px 0px 0px; text-align: right; font-weight: bold;">5</td>
         <td style="padding: 0px 10px;">Richard Finegan</td>
         <td style="text-align: right; padding: 0px 10px; font-family: monospace;">2:11.27</td>
         <td style="padding: 0px 20px;">800m Men C H2 <span style="color: #007bff; font-weight: bold;">SB</span></td>
     </tr>
-    <tr style="background-color: #fff;">
+    <tr style="background-color: #fafafa;">
         <td style="padding: 0px 0px 0px 0px; text-align: right; font-weight: bold;">2</td>
         <td style="padding: 0px 10px;">Luke Evans</td>
         <td style="text-align: right; padding: 0px 10px; font-family: monospace;">2:13.99</td>
@@ -78,7 +84,7 @@ See you all on the track! 💪💥
 
   <a href="/news/2026/04/01/Dublin-Graded-2026/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;"><button style="background: linear-gradient(145deg, #FCD50D 0%, #c2aa10 100%); color: #181818; font-weight: bold; border: none; padding: 12px 24px; font-size: 14px; border-radius: 8px; cursor: pointer; box-shadow: 0 4px 8px rgba(0,0,0,0.3); transition: all 0.2s ease; text-transform: uppercase; letter-spacing: 0.5px;" onmouseover="this.style.transform='translateY(-2px)'; this.style.boxShadow='0 6px 12px rgba(0,0,0,0.4)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 4px 8px rgba(0,0,0,0.3)'">🧾 Track Season Summary</button></a>
 
-<a href="" target="_blank" rel="noopener noreferrer">Instagram</a>
+<a href="https://www.instagram.com/p/DZNxNOCkbba/?img_index=5" target="_blank" rel="noopener noreferrer">Instagram</a>
 
 <a href="/races/2026-06-03-Dublin-Graded-4/" target="_blank" rel="noopener noreferrer">Club Results</a>
 

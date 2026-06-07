@@ -30,6 +30,11 @@ results:
     time: 20.34.43
     category: 5000m Men D
     note: 
+  - place: 6
+    name: David Carroll
+    time: 2.03.36
+    category: 800m Men A
+    note: SB
   - place: 3
     name: Michael O'Connor
     time: 2.12.24
