@@ -3,7 +3,11 @@ title: Dublin Graded Meeting 3 of 8
 location: Irishtown Stadium, Dublin.
 ---
 
-A huge thank you to all <b>Liffey Valley Athletic Club</b> athletes who participated in the third Graded Meeting of the 2026 Track Season at <b>Irishtown Stadium</b> on May 20th 2026. Your dedication and hard work truly shone through as you hit the track and gave it your all in the 1500m and 10000m distances.
+A huge thank you to all <b>Liffey Valley Athletic Club</b> athletes who participated in the third Graded Meeting of the 2026 Track Season at <b>Irishtown Stadium</b> on May 20th 2026. Your dedication and hard work truly shone through as you hit the track and gave it your all in the 1500m and 10000m distances.<br><br>
+
+A special congratulations to the club for finishing <b>2nd team overall in the Dublin 10,000m Championships</b>, a fantastic achievement and a testament to the strength and depth of the squad.<br><br>
+
+Outstanding individual performances also came from <b>Pierce</b>, who secured <b>2nd place</b> in <b>32:45.83 min</b>, and <b>Geoffrey</b>, who claimed <b>3rd place</b> in <b>33:09.24 min</b>. These excellent results helped secure the team silver medals and are a credit to their hard work and commitment.
 
 <table style="border-collapse: collapse; font-family: Consolas, monospace; background-color: #fff; color: #333; border: 8px solid #fff; box-shadow: 0 4px 12px rgba(0,0,0,0.15); outline: 1px solid #ddd;">
   <thead>
@@ -16,6 +20,11 @@ A huge thank you to all <b>Liffey Valley Athletic Club</b> athletes who particip
     </tr>
   </thead>
 <tbody>
+    <tr style="background-color: #FFF3CD; border-top: 2px solid #FCD50D; border-bottom: 2px solid #FCD50D;">
+        <td colspan="4" style="padding: 2px 10px; text-align: center; font-weight: bold; color: #856404; line-height: 1.1;">
+            🏆 Dublin 10000m Championships 🏆<br>Liffey Valley AC Team Silver Medalists 🥈
+        </td>
+    </tr>
     <tr style="border-bottom: 1px solid #eee; background-color: #fafafa;">
         <td style="padding: 0px 0px 0px 0px; text-align: right; font-weight: bold;">🥈2</td>
         <td style="padding: 0px 10px;">Pierce Geoghegan</td>
@@ -40,31 +49,31 @@ A huge thank you to all <b>Liffey Valley Athletic Club</b> athletes who particip
         <td style="text-align: right; padding: 0px 10px; font-family: monospace;">5:52.74</td>
         <td style="padding: 0px 20px;">1500m Women Grade D <span style="color: #007bff; font-weight: bold;">SB</span></td>
     </tr>
-    <tr style="border-bottom: 1px solid #eee; background-color: #fff;">
+    <tr style="border-bottom: 1px solid #eee; background-color: #fafafa;">
         <td style="padding: 0px 0px 0px 0px; text-align: right; font-weight: bold;">2</td>
         <td style="padding: 0px 10px;">David Carroll</td>
         <td style="text-align: right; padding: 0px 10px; font-family: monospace;">4:07.09</td>
         <td style="padding: 0px 20px;">1500m Men Grade A</td>
     </tr>
-    <tr style="border-bottom: 1px solid #eee; background-color: #fafafa;">
+    <tr style="border-bottom: 1px solid #eee; background-color: #fff;">
         <td style="padding: 0px 0px 0px 0px; text-align: right; font-weight: bold;">3</td>
         <td style="padding: 0px 10px;">Michael O'Connor</td>
         <td style="text-align: right; padding: 0px 10px; font-family: monospace;">4:30.21</td>
         <td style="padding: 0px 20px;">1500m Men Grade C <span style="color: #007bff; font-weight: bold;">SB</span></td>
     </tr>
-    <tr style="border-bottom: 1px solid #eee; background-color: #fff;">
+    <tr style="border-bottom: 1px solid #eee; background-color: #fafafa;">
         <td style="padding: 0px 0px 0px 0px; text-align: right; font-weight: bold;">4</td>
         <td style="padding: 0px 10px;">James Foley</td>
         <td style="text-align: right; padding: 0px 10px; font-family: monospace;">4:51.58</td>
         <td style="padding: 0px 20px;">1500m Men Grade C <span style="color: #007bff; font-weight: bold;">SB</span></td>
     </tr>
-    <tr style="border-bottom: 1px solid #eee; background-color: #fafafa;">
+    <tr style="border-bottom: 1px solid #eee; background-color: #fff;">
         <td style="padding: 0px 0px 0px 0px; text-align: right; font-weight: bold;">10</td>
         <td style="padding: 0px 10px;">Joseph Whittle</td>
         <td style="text-align: right; padding: 0px 10px; font-family: monospace;">5:08.26</td>
         <td style="padding: 0px 20px;">1500m Men Grade D H2</td>
     </tr>
-    <tr style="background-color: #fff;">
+    <tr style="background-color: #fafafa;">
         <td style="padding: 0px 0px 0px 0px; text-align: right; font-weight: bold;">12</td>
         <td style="padding: 0px 10px;">Patrick Doyle</td>
         <td style="text-align: right; padding: 0px 10px; font-family: monospace;">5:23.72</td>
@@ -79,6 +88,7 @@ Stay focused and keep up the great work as we gear up for <b>Meeting 4 on Wednes
 Registration closes 3-5 days before each event, so make sure to secure your spot early. Let's keep the momentum going and make the next meeting even more memorable!
 
 See you all on the track! 💪💥
+<br>
 
   <a href="/news/2026/04/01/Dublin-Graded-2026/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;"><button style="background: linear-gradient(145deg, #FCD50D 0%, #c2aa10 100%); color: #181818; font-weight: bold; border: none; padding: 12px 24px; font-size: 14px; border-radius: 8px; cursor: pointer; box-shadow: 0 4px 8px rgba(0,0,0,0.3); transition: all 0.2s ease; text-transform: uppercase; letter-spacing: 0.5px;" onmouseover="this.style.transform='translateY(-2px)'; this.style.boxShadow='0 6px 12px rgba(0,0,0,0.4)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 4px 8px rgba(0,0,0,0.3)'">🧾 Track Season Summary</button></a>
 
