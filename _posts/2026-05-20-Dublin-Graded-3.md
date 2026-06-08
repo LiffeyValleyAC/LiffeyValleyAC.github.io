@@ -1,11 +1,11 @@
 ---
-title: Dublin Graded Meeting 3 of 8
+title: Dublin Graded Meeting 3 of 8 - Team Silver for Liffey Valley AC in the Dublin 10000m Senior Championship!
 location: Irishtown Stadium, Dublin.
 ---
 
-A huge thank you to all <b>Liffey Valley Athletic Club</b> athletes who participated in the third Graded Meeting of the 2026 Track Season at <b>Irishtown Stadium</b> on May 20th 2026. Your dedication and hard work truly shone through as you hit the track and gave it your all in the 1500m and 10000m distances.<br><br>
+A huge thank you to all <b>Liffey Valley Athletic Club</b> athletes who participated in the third Graded Meeting of the 2026 Track Season at <b>Irishtown Stadium</b> on May 20th 2026. Your dedication and hard work truly shone through as you hit the track and gave it your all in the 1500m and 10000m distances.<br>
 
-A special congratulations to the club for finishing <b>2nd team overall in the Dublin 10,000m Championships</b>, a fantastic achievement and a testament to the strength and depth of the squad.<br><br>
+A special congratulations to the club for finishing <b>2nd team overall in the Dublin 10000m Championships</b>, a fantastic achievement and a testament to the strength and depth of the squad.<br>
 
 Outstanding individual performances also came from <b>Pierce</b>, who secured <b>2nd place</b> in <b>32:45.83 min</b>, and <b>Geoffrey</b>, who claimed <b>3rd place</b> in <b>33:09.24 min</b>. These excellent results helped secure the team silver medals and are a credit to their hard work and commitment.
 
@@ -22,26 +22,26 @@ Outstanding individual performances also came from <b>Pierce</b>, who secured <b
 <tbody>
     <tr style="background-color: #FFF3CD; border-top: 2px solid #FCD50D; border-bottom: 2px solid #FCD50D;">
         <td colspan="4" style="padding: 2px 10px; text-align: center; font-weight: bold; color: #856404; line-height: 1.1;">
-            🏆 Dublin 10000m Championships 🏆<br>Liffey Valley AC Team Silver Medalists 🥈
+            🏆 Dublin 10000m Senior Championship 🏆<br>Liffey Valley AC Team Silver Medalists 🥈
         </td>
     </tr>
     <tr style="border-bottom: 1px solid #eee; background-color: #fafafa;">
         <td style="padding: 0px 0px 0px 0px; text-align: right; font-weight: bold;">🥈2</td>
         <td style="padding: 0px 10px;">Pierce Geoghegan</td>
         <td style="text-align: right; padding: 0px 10px; font-family: monospace;">32:45.83</td>
-        <td style="padding: 0px 20px;">10000m Men</td>
+        <td style="padding: 0px 20px;">🏆 10000m Men</td>
     </tr>
     <tr style="border-bottom: 1px solid #eee; background-color: #fff;">
         <td style="padding: 0px 0px 0px 0px; text-align: right; font-weight: bold;">🥉3</td>
         <td style="padding: 0px 10px;">Geoffrey Alexandre</td>
         <td style="text-align: right; padding: 0px 10px; font-family: monospace;">33:09.24</td>
-        <td style="padding: 0px 20px;">10000m Men <span style="color: #007bff; font-weight: bold;">SB</span></td>
+        <td style="padding: 0px 20px;">🏆 10000m Men <span style="color: #007bff; font-weight: bold;">SB</span></td>
     </tr>
     <tr style="border-bottom: 1px solid #eee; background-color: #fafafa;">
         <td style="padding: 0px 0px 0px 0px; text-align: right; font-weight: bold;">11</td>
         <td style="padding: 0px 10px;">Antoine Daubigny</td>
         <td style="text-align: right; padding: 0px 10px; font-family: monospace;">38:23.47</td>
-        <td style="padding: 0px 20px;">10000m Men</td>
+        <td style="padding: 0px 20px;">🏆 10000m Men</td>
     </tr>
         <tr style="border-bottom: 1px solid #eee; background-color: #fff;">
         <td style="padding: 0px 0px 0px 0px; text-align: right; font-weight: bold;">7</td>

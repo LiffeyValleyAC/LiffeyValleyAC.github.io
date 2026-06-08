@@ -1,9 +1,13 @@
 ---
-title: Dublin Graded Meeting 4 of 8
+title: Dublin Graded Meeting 4 of 8 - Pierce Wins Gold and Geoffrey Takes Bronze in the Dublin 5000m Senior Championship!
 location: Morton Stadium, Dublin.
 ---
 
-A huge thank you to all <b>Liffey Valley Athletic Club</b> athletes who participated in the fourth Graded Meeting of the 2026 Track Season at <b>Morton Stadium</b> on June 3rd 2026. Your dedication and hard work truly shone through as you hit the track and gave it your all in the 800m and 5000m distances.<br><br>
+A huge thank you to all <b>Liffey Valley Athletic Club</b> athletes who participated in the fourth Graded Meeting of the 2026 Track Season at <b>Morton Stadium</b> on <b>June 3rd 2026</b>. Your dedication and hard work truly shone through as you hit the track and gave it your all in the <b>800m</b> and <b>5000m</b> distances.<br>
+
+A special mention goes to the outstanding performances in the <b>Dublin 5000m Track Championship</b>, where <b>Pierce Geoghegan claimed 1st place</b> and <b>Geoffrey Alexandre finished 3rd</b>. These excellent results are another clear example of the strength of the club’s distance running programme and show how the coaching strategy led by <b>Jim Davis</b>, together with <b>Eddie McGrath</b>, continues to deliver remarkable results for <b>Liffey Valley AC</b>.<br>
+
+Well done to Pierce, Geoffrey, and everyone who represented the club on the night. 🔵🟡
 
 
 <table style="border-collapse: collapse; font-family: Consolas, monospace; background-color: #fff; color: #333; border: 8px solid #fff; box-shadow: 0 4px 12px rgba(0,0,0,0.15); outline: 1px solid #ddd;">
@@ -17,17 +21,22 @@ A huge thank you to all <b>Liffey Valley Athletic Club</b> athletes who particip
     </tr>
   </thead>
 <tbody>
+    <tr style="background-color: #FFF3CD; border-top: 2px solid #FCD50D; border-bottom: 2px solid #FCD50D;">
+        <td colspan="4" style="padding: 2px 10px; text-align: center; font-weight: bold; color: #856404; line-height: 1.1;">
+            🏆 Dublin 5000m Senior Championship 🏆<br>🥇 Pierce 🥉Geoffrey
+        </td>
+    </tr>
     <tr style="border-bottom: 1px solid #eee; background-color: #fafafa;">
         <td style="padding: 0px 0px 0px 0px; text-align: right; font-weight: bold;">🥇1</td>
         <td style="padding: 0px 10px;">Pierce Geoghegan</td>
         <td style="text-align: right; padding: 0px 10px; font-family: monospace;">15:44.54</td>
-        <td style="padding: 0px 20px;">5000m Men A</td>
+        <td style="padding: 0px 20px;">🏆 5000m Men A</td>
     </tr>
     <tr style="border-bottom: 1px solid #eee; background-color: #fff;">
         <td style="padding: 0px 0px 0px 0px; text-align: right; font-weight: bold;">🥉3</td>
         <td style="padding: 0px 10px;">Geoffrey Alexandre</td>
         <td style="text-align: right; padding: 0px 10px; font-family: monospace;">15:54.21</td>
-        <td style="padding: 0px 20px;">5000m Men A</td>
+        <td style="padding: 0px 20px;">🏆 5000m Men A</td>
     </tr>
     <tr style="border-bottom: 1px solid #eee; background-color: #fafafa;">
         <td style="padding: 0px 0px 0px 0px; text-align: right; font-weight: bold;">5</td>
@@ -111,6 +120,6 @@ See you all on the track! 💪💥
          style="width: 100%; height: auto;">
   </a>
   <figcaption style="font-size: 1.2em">
-    Coaches
+    Coaches Eddie McGrath and Jim Davis
   </figcaption>
 </figure>
