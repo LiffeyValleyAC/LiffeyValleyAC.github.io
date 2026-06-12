@@ -31,7 +31,7 @@ results:
     county: Wexford
     time: 20m 27s
   - place: 6
-    name: Kate O Neill
+    name: Kate O'Neill
     club: Metro St Brigid's
     county: Dublin
     time: 20m 32s

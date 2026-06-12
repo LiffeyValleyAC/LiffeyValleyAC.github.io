@@ -4,6 +4,7 @@ location: Phoenix Park, George Harrison 5k Lap at The Magazine Fort
 date: 2025-03-09 11:30
 latitude: 53.348753
 longitude: -6.318130
+distance: 5km
 results:
   - place: 1
     name: Calvin Malone

@@ -1766,7 +1766,7 @@ results:
     club: ""
     time: 24m 34s
   - place: 353
-    name: Paul O Neill
+    name: Paul O'Neill
     category: M60
     club: ""
     time: 24m 35s
