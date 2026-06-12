@@ -25,7 +25,7 @@ results:
     handicap: 2m 30s
     actual_time: 19m 49s
   - place: 5
-    name: Ger Feeley
+    name: Ger Feely
     finish_time: 22m 40s
     handicap: 2m 15s
     actual_time: 20m 29s

@@ -14,7 +14,7 @@ results:
     time: 1.29.30
     note: FS 7th + Personal Best
   - place: 310
-    name: John Touhy
+    name: John Tuohy
     time: 1.31.06
     note: M40 45th
 ---

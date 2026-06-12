@@ -6,7 +6,7 @@ latitude: 53.375489638136266
 longitude: -6.269647159887494
 results:
   - place: 13
-    name: Geoffrey Alexander
+    name: Geoffrey Alexandre
     time: 10.05 
     category: MS 
     note: BIB 260

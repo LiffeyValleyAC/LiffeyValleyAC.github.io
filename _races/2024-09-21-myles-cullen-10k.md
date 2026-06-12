@@ -40,7 +40,7 @@ results:
     handicap: 4m 30s
     actual_time: 33m 41s
   - place: 8
-    name: Cormac Long (3)
+    name: Cormac Long
     finish_time: 38m 36s
     handicap: 7m 15s
     actual_time: 31m 21s
@@ -50,17 +50,17 @@ results:
     handicap: 7m 30s
     actual_time: 31m 33s
   - place: 10
-    name: Donal Iremonger (1)
+    name: Donal Iremonger
     finish_time: 39m 08s
     handicap: 8m 00s
     actual_time: 31m 08s
   - place: 11
-    name: Anthony McMahon (2)
+    name: Anthony McMahon
     finish_time: 39m 17s
     handicap: 8m 00s
     actual_time: 31m 17s
   - place: 12
-    name: Oisín Murphy
+    name: Oisin Murphy
     finish_time: 39m 47s
     handicap: 7m 00s
     actual_time: 32m 47s
@@ -75,7 +75,7 @@ results:
     handicap: 9m 00s
     actual_time: 32m 01s
   - place: 15
-    name: Richie Finnegan
+    name: Richard Finegan
     finish_time: 41m 27s
     handicap: 10m 00s
     actual_time: 31m 27s
@@ -95,12 +95,12 @@ results:
     handicap: 9m 15s
     actual_time: 32m 48s
   - place: 19
-    name: Johnny Gannor
+    name: John Gannon
     finish_time: 43m 04s
     handicap: 9m 15s
     actual_time: 33m 49s
   - place: 20
-    name: Rob Collins
+    name: Robert Collins
     finish_time: 43m 31s
     handicap: 8m 00s
     actual_time: 35m 31s

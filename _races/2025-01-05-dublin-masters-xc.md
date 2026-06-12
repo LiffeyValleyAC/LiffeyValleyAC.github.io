@@ -11,11 +11,11 @@ results:
     time: 23.22
     category: M I
   - place: 37
-    name: Calvin
+    name: Calvin Malone
     time: 24.20
     category: M I 
   - place: 38
-    name: James F
+    name: James Foley
     time: 24.36
     category: M I
   - place: 41

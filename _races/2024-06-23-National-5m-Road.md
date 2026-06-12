@@ -41,7 +41,7 @@ results:
     category: F40
     note: 
   - place: 9
-    name: Hilary Mitchell McDonnell
+    name: Hilary McDonnell
     time: 45m 05s
     category: F55
     note: 
@@ -121,7 +121,7 @@ results:
     category: M50
     note:
   - place: 30
-    name: Tito Lorente
+    name: Antonio Lorente Lorente
     time: 35m 10s
     category: M50
     note: 

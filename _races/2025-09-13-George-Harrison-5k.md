@@ -18,7 +18,7 @@ results:
     actual_time: 
     note: LVAC 5km 🥈
   - place: 3
-    name: Rebecca McLoughin
+    name: Rebecca McLoughlin
     finish_time: 21.25
     handicap: 
     actual_time: 

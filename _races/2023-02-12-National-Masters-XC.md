@@ -22,7 +22,7 @@ results:
     time: 25.25
     category: M50
   - place: 21
-    name: Matt Blyth
+    name: Matthew Blyth
     time: 27.11
     category: M40
   - place: 30
@@ -34,7 +34,7 @@ results:
     time: 28.31
     category: M60
   - place: 27
-    name: Michael Ferriera
+    name: Michael Ferreira
     time: 29.24
     category: M40
   - place: 49

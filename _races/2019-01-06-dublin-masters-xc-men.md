@@ -11,7 +11,7 @@ results:
     category: M35
     time: 20m58s
   - place: 2
-    name: Shane O’NEIL
+    name: Shane O'NEIL
     club: Rathfarnham WSAF
     category: M45
     time: 21m05s
@@ -161,7 +161,7 @@ results:
     category: M40
     time: 23m09s
   - place: 32
-    name: Rory O’SULLIVAN
+    name: Rory O'SULLIVAN
     club: Raheny Shamrock A.C.
     category: M40
     time: 23m11s
@@ -431,7 +431,7 @@ results:
     category: M55
     time: 24m46s
   - place: 86
-    name: Al O’DONNELL
+    name: Al O'DONNELL
     club: Balbriggan & Dist.
     category: M40
     time: 24m50s
@@ -496,7 +496,7 @@ results:
     category: M55
     time: 25m07s
   - place: 99
-    name: David O’BRIEN
+    name: David O'BRIEN
     club: Tallaght A.C.
     category: M40
     time: 25m11s
@@ -591,7 +591,7 @@ results:
     category: M35
     time: 25m34s
   - place: 118
-    name: Conor O’REILLY
+    name: Conor O'REILLY
     club: Balbriggan & Dist.
     category: M50
     time: 25m37s
@@ -641,7 +641,7 @@ results:
     category: M35
     time: 25m51s
   - place: 127
-    name: Emmet O’SULLIVAN
+    name: Emmet O'SULLIVAN
     club: Brothers Pearse A.C.
     category: M35
     time: 25m51s
@@ -736,12 +736,12 @@ results:
     category: M35
     time: 26m23s
   - place: 147
-    name: Damon O’SHEA
+    name: Damon O'SHEA
     club: Balbriggan & Dist.
     category: M50
     time: 26m25s
   - place: 148
-    name: Wes O’BRIEN
+    name: Wes O'BRIEN
     club: Raheny Shamrock A.C.
     category: M40
     time: 26m26s
@@ -946,7 +946,7 @@ results:
     category: M50
     time: 27m27s
   - place: 189
-    name: Dave O’HARA
+    name: Dave O'HARA
     club: Raheny Shamrock A.C.
     category: M50
     time: 27m29s
@@ -1116,7 +1116,7 @@ results:
     category: M40
     time: 28m40s
   - place: 223
-    name: Alan O’BOYLE
+    name: Alan O'BOYLE
     club: Brothers Pearse A.C.
     category: M45
     time: 28m41s

@@ -72,7 +72,7 @@ results:
     club: Sportsworld A.C.
     time: 30m 05s
   - place: 17
-    name: Cillian O’Leary
+    name: Cillian O'Leary
     club: Raheny Shamrock A.C.
     time: 30m 10s
   - place: 18

@@ -21,7 +21,7 @@ results:
     name: Paul Balfe
     time: 31m 00s
   - place: 6
-    name: Matt Blyth
+    name: Matthew Blyth
     time: 31m 39s
   - place: 7
     name: Paul Quinn

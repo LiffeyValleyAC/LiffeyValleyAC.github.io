@@ -11,7 +11,7 @@ results:
     category: Masters Men M50
     note: 8th in category
   - place: 67
-    name: Seán Ó'Meallaigh
+    name: Seán O'Meallaigh
     time: 29.00
     category: Masters Men M40
     note: 22nd in category
@@ -36,7 +36,7 @@ results:
     category: Masters Men M40
     note: 32nd in category
   - place: 112
-    name: Michael Ferriera 
+    name: Michael Ferreira 
     time: 32.04
     category: Masters Men M45
     note:  31st in category

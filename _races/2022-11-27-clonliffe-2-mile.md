@@ -26,7 +26,7 @@ results:
     time: 12.05
     category: M
   - place: 47
-    name: Alejandro
+    name: Alejandro Cavallo
     time: 12.26
     category: M
 ---

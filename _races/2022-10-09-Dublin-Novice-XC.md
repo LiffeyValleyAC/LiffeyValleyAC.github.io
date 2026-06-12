@@ -58,7 +58,7 @@ results:
     time: 23.51
     category: MS
   - place: 80
-    name: Matt Blyth
+    name: Matthew Blyth
     time: 24.08
     category: MS
 ---

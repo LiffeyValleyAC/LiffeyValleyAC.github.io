@@ -2,6 +2,7 @@
 title: LVAC Cross Country Championships
 location: Dog Pond, Phoenix Park
 date: 2023-02-19 11:00
+distance: Women 5km, Men M60 5km, Men 10km
 latitude: 53.3522291
 longitude: -6.3214874
 results:
@@ -78,7 +79,7 @@ results:
     time: 39.24
     category: MS
   - place: 6
-    name: Matt Blyth
+    name: Matthew Blyth
     time: 39.40
     category: MS
   - place: 7
@@ -102,11 +103,11 @@ results:
     time: 43.18
     category: MS
   - place: 12
-    name: John Touhy
+    name: John Tuohy
     time: 43.30
     category: MS
   - place: 13
-    name: Diego Alejandro Cavallo
+    name: Alejandro Cavallo
     time: 43.41
     category: MS
   - place: 14

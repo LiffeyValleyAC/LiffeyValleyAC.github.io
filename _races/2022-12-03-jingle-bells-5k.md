@@ -34,7 +34,7 @@ results:
     time: 18.20
     category: M
   - place: 244
-    name: Matt Blyth
+    name: Matthew Blyth
     time: 18.25
     category: M40
   - place: 304

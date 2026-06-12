@@ -51,7 +51,7 @@ results:
     category: Mile Men Grade D Heat 1
     note:
   - place: 6
-    name: Matt Blyth
+    name: Matthew Blyth
     time: 5.42.10
     category: Mile Men Grade D Heat 1
     note:

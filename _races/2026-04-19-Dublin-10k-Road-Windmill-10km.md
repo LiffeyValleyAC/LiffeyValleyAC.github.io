@@ -36,7 +36,7 @@ results:
     note: F DUB 35
 
   - place: 107
-    name: Michael O'Conor
+    name: Michael O'Connor
     time: 44.26
     category: MS
     note: M DUB 35

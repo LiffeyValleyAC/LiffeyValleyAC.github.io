@@ -26,7 +26,7 @@ results:
     time: 2.54.57
     category: M40
   - place: 115
-    name: John Touhy
+    name: John Tuohy
     time: 3.09.00
     category: M40
   - place: 396

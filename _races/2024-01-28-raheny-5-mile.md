@@ -11,8 +11,8 @@ results:
     category: M40
     note: 2nd in category🥈
   - place: 311
-    name: Oisín Murphy
-    time: 10.113
+    name: Oisin Murphy
+    time: 30.11
     category: MS
     note: 148th in category
   - place: 409

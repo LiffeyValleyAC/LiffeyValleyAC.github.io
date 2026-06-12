@@ -34,11 +34,11 @@ results:
     time: 24.45
     category: M35
   - place: 52
-    name: Matt Blyth
+    name: Matthew Blyth
     time: 25.55
     category: M40
   - place: 54
-    name: John Touhy
+    name: John Tuohy
     time: 26.03
     category: M40
   - place: 68

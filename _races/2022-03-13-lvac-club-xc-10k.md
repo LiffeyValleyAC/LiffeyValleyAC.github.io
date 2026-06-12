@@ -24,7 +24,7 @@ results:
     name: Tom Ward
     time: 41m 26s
   - place: 7
-    name: John Touhy
+    name: John Tuohy
     time: 44m 08s
   - place: 8
     name: Sean O'Malley

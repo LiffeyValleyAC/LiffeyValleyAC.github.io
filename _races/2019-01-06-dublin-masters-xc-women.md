@@ -111,7 +111,7 @@ results:
     category: W45
     time: 12m52s
   - place: 22
-    name: Anne O’BRIEN
+    name: Anne O'BRIEN
     club: Balbriggan & Dist
     category: W40
     time: 12m54s
@@ -726,7 +726,7 @@ results:
     category: W45
     time: 15m22s
   - place: 145
-    name: Suzanna O’CALLAGHAN
+    name: Suzanna O'CALLAGHAN
     club: Tallaght A.C.
     category: W35
     time: 15m22s
@@ -791,7 +791,7 @@ results:
     category: W50
     time: 15m41s
   - place: 158
-    name: Claire O’BRIEN
+    name: Claire O'BRIEN
     club: Tallaght A.C.
     category: W40
     time: 15m43s
@@ -986,7 +986,7 @@ results:
     category: W55
     time: 18m05s
   - place: 197
-    name: Noeleen O’HAGAN
+    name: Noeleen O'HAGAN
     club: Balbriggan & Dist
     category: W60
     time: 18m09s

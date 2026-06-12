@@ -6,17 +6,17 @@ latitude: 53.348753
 longitude: -6.318130
 results:
   - place: 1
-    name: 🥇 Geoffrey Alexandre
+    name: Geoffrey Alexandre
     finish_time: 25m 15s
     handicap: 9m 15s
     actual_time: 16m 00s [1st]
   - place: 2
-    name: 🥈 Bernard O'Sullivan 
+    name: Bernard O'Sullivan 
     finish_time: 25m 35s
     handicap: 5m 45s
     actual_time: 19m 50s
   - place: 3
-    name: 🥉 John Touhy 
+    name: John Tuohy 
     finish_time: 25m 40s
     handicap: 5m 30s
     actual_time: 20m 10s
@@ -31,7 +31,7 @@ results:
     handicap: 8m 35s
     actual_time: 19m 48s
   - place: 6
-    name: Oisín Murphy
+    name: Oisin Murphy
     finish_time: 26m 00s
     handicap: 8m 00s
     actual_time: 18m 00s

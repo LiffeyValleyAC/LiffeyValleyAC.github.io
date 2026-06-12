@@ -31,7 +31,7 @@ results:
     category: 22/675(W40)
     note: BIB 2459
   - place: 146/5066(W)
-    name: Rebecca Mc Loughlin
+    name: Rebecca McLoughlin
     time: 1.36.44
     category: 71/2682(WS)
     note: BIB 2229

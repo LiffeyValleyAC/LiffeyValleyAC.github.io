@@ -6,7 +6,7 @@ latitude: 53.36259
 longitude: -6.335077
 results:
   - place: 1
-    name: Ger Feeley
+    name: Ger Feely
     finish_time: 34m 00s
     handicap: 4m 45s
     actual_time: 29m 15s
@@ -36,7 +36,7 @@ results:
     handicap: 4m 45s
     actual_time: 30m 19s
   - place: 7
-    name: Paddy Reily
+    name: Paddy Reilly
     finish_time: 35m 08s
     handicap: 5m 30s
     actual_time: 29m 38s
@@ -66,7 +66,7 @@ results:
     handicap: 4m 00s
     actual_time: 31m 24s
   - place: 13
-    name: Michael Ferriera
+    name: Michael Ferreira
     finish_time: 35m 25s
     handicap: 9m 30s
     actual_time: 25m 55s

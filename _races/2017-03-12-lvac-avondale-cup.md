@@ -26,7 +26,7 @@ results:
     handicap: 10m 00s
     actual_time: 19m 57s
   - place: 5
-    name: Matt Blyth
+    name: Matthew Blyth
     finish_time: 30m 01s
     handicap: 7m 15s
     actual_time: 22m 46s
@@ -41,7 +41,7 @@ results:
     handicap: 5m 45s
     actual_time: 24m 31s
   - place: 8
-    name: Tommy Brehany
+    name: Tommy Breheny
     finish_time: 30m 18s
     handicap: 5m 15s
     actual_time: 25m 03s
@@ -81,7 +81,7 @@ results:
     handicap: 6m 15s
     actual_time: 24m 59s
   - place: 16
-    name: Michael Ferrera
+    name: Michael Ferreira
     finish_time: 31m 19s
     handicap: 4m 30s
     actual_time: 26m 49s
@@ -101,7 +101,7 @@ results:
     handicap: 6m 00s
     actual_time: 25m 40s
   - place: 20
-    name: Eoin Ó Rathallaigh
+    name: Eoin O'Rathallaigh
     finish_time: 31m 42s
     handicap: 6m 00s
     actual_time: 25m 42s

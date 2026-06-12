@@ -66,7 +66,7 @@ results:
     time: 27.34
     category: M40
   - place: 30
-    name: Sean Ó'Meallaigh
+    name: Sean O'Meallaigh
     time: 28.55
     category: M40
   - place: 40
@@ -82,7 +82,7 @@ results:
     time: 31.28
     category: M40
   - place: 53
-    name: John Touhy
+    name: John Tuohy
     time: 31.38
     category: M40
 ---

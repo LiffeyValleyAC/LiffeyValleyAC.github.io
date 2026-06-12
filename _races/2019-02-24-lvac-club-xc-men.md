@@ -15,7 +15,7 @@ results:
     name: Ciaran Reilly
     time: 27m 26s
   - place: 4
-    name: Matt Blyth
+    name: Matthew Blyth
     time: 27m 35s
   - place: 5
     name: Gaetan Le Page

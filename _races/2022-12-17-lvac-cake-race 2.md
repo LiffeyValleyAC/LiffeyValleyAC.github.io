@@ -24,7 +24,7 @@ results:
     actual_time: 18m 39s
     note:
   - place: 4
-    name: Michael Ferriera
+    name: Michael Ferreira
     finish_time: 25m 21s
     handicap: 5m 45s
     actual_time: 19m 36s
@@ -36,7 +36,7 @@ results:
     actual_time: 19m 42s
     note:
   - place: 6
-    name: John Touhy
+    name: John Tuohy
     finish_time: 25m 29s
     handicap: 6m 00s
     actual_time: 19m 29s
@@ -54,7 +54,7 @@ results:
     actual_time: 18m 12s
     note:
   - place: 9
-    name: Matt Blyth
+    name: Matthew Blyth
     finish_time: 25m 45s
     handicap: 6m 30s
     actual_time: 19m 15s

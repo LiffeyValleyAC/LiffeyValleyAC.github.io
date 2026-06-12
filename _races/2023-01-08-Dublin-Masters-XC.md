@@ -18,7 +18,7 @@ results:
     time: 26.40
     category: M40
   - place: 49
-    name: John Touhy
+    name: John Tuohy
     time: 26.42
     category: M40
   - place: 58
@@ -26,7 +26,7 @@ results:
     time: 28.07
     category: M40
   - place: 21
-    name: Matt Blyth
+    name: Matthew Blyth
     time: 24.39
     category: M45
   - place: 22
@@ -34,7 +34,7 @@ results:
     time: 24.44
     category: M45
   - place: 36
-    name: Michael Ferriera
+    name: Michael Ferreira
     time: 26.51
     category: M45
   - place: 3

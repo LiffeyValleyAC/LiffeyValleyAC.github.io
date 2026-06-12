@@ -46,7 +46,7 @@ results:
     time: 10.35.0
     category: MS
   - place: 23
-    name: Oisín Murphy
+    name: Oisin Murphy
     time: 5.06.0
     category: MS
   - place: 23

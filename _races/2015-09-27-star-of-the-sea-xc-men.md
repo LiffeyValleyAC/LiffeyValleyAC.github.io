@@ -91,7 +91,7 @@ results:
     category: 
     time: 22.56
   - place: 18
-    name: Johnny Parker
+    name: John Parker
     club: Liffey Valley AC
     category: 
     time: 23.22
@@ -146,7 +146,7 @@ results:
     category: 
     time: 24.19
   - place: 29
-    name: Matt Blythe
+    name: Matthew Blyth
     club: Liffey Valley AC
     category: 
     time: 24.22

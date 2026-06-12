@@ -81,7 +81,7 @@ results:
     category: 3000m Men Grade D
     note:
   - place: 9
-    name: Matt Blyth
+    name: Matthew Blyth
     time: 11.28.62
     category: 3000m Men Grade D
     note:

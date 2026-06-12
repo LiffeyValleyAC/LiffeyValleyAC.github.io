@@ -38,7 +38,7 @@ results:
     club: Donore Harriers
     time: 18m 54s
   - place: 9
-    name: Leona O’Reilly
+    name: Leona O'Reilly
     club: Liffey Valley A.C.
     time: 19m 04s
   - place: 10

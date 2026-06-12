@@ -166,7 +166,7 @@ results:
     club: Crusaders A.C.
     time: 34m 12s
   - place: 41
-    name: Rory O’Sullivan
+    name: Rory O'Sullivan
     club: Raheny Shamrock A.C.
     time: 34m 44s
   - place: 42

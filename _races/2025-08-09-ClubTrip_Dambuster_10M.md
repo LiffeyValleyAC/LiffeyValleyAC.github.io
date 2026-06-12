@@ -11,7 +11,7 @@ results:
     category: 5k M40
     note: BIB 659
   - place: 7
-    name: Rebecca Mc Loughlin
+    name: Rebecca McLoughlin
     time: 22.40
     category: 5k F
     note: BIB 916

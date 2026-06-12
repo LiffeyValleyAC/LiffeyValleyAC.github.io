@@ -1516,7 +1516,7 @@ results:
     category: M50
     time: 27m16s
   - place: 303
-    name: Jennifer O’SULLIVAN
+    name: Jennifer O'SULLIVAN
     club: Sloggers 2 Joggers
     category: FS
     time: 27m16s
@@ -2406,7 +2406,7 @@ results:
     category: FS
     time: 31m43s
   - place: 481
-    name: Jackie O’CONNELL
+    name: Jackie O'CONNELL
     club: Sloggers 2 Joggers
     category: FS
     time: 31m44s

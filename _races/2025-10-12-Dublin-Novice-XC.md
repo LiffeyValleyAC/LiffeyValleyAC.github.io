@@ -82,7 +82,7 @@ results:
     category: Novice Men
     note: BIB 748
   - place: 8
-    name: Richie
+    name: Richard Finegan
     time: 22.42
     category: Novice Men
     note: BIB 752

@@ -9,7 +9,7 @@ results:
     name: Sinead McDonald 
     time: 19m 34s
   - place: 2
-    name: Mollie O’Donnell
+    name: Mollie O'Donnell
     time: 21m 30s
   - place: 3
     name: Siobhán Nugent
@@ -45,7 +45,7 @@ results:
     name: Sharon Kinsella
     time: 27m 34s
   - place: 14
-    name: Hillary McDonnell
+    name: Hilary McDonnell
     time: 28m 35s
   - place: 15
     name: Jim Davis

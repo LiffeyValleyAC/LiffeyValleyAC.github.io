@@ -11,7 +11,7 @@ results:
     category: Senior Men 5000m C
     note: Personal Best
   - place: 13
-    name: Sergey Dolgy
+    name: Sergei Dolgy
     time: 16.40.20
     category: Senior Men 5000m C
     note: 

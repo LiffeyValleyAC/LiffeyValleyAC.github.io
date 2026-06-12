@@ -50,7 +50,7 @@ results:
     club: Sportsworld A.C. M35
     time: 21m 56s
   - place: 12
-    name: Wes O’Brien
+    name: Wes O'Brien
     club: Raheny Shamrock M35
     time: 22m 02s
   - place: 13
@@ -94,7 +94,7 @@ results:
     club: Raheny Shamrock M35
     time: 22m 40s
   - place: 23
-    name: Rory O’Sullivan
+    name: Rory O'Sullivan
     club: Raheny Shamrock M35
     time: 22m 44s
   - place: 24
@@ -306,7 +306,7 @@ results:
     club: Balbriggan & District M35
     time: 24m 31s
   - place: 76
-    name: Ian O’Reilly
+    name: Ian O'Reilly
     club: Bros. Pearse M35
     time: 24m 32s
   - place: 77
@@ -458,7 +458,7 @@ results:
     club: Tallaght A.C. M50
     time: 26m 00s
   - place: 114
-    name: Philip O’Doherty
+    name: Philip O'Doherty
     club: Clonliffe Harriers M50
     time: 26m 01s
   - place: 115
@@ -594,7 +594,7 @@ results:
     club: Dublin Bay Running Club M35
     time: 26m 53s
   - place: 148
-    name: John Touhy
+    name: John Tuohy
     club: Liffey Valley A.C. M35
     time: 26m 55s
   - place: 149
@@ -642,7 +642,7 @@ results:
     club: Tallaght A.C. M35
     time: 27m 20s
   - place: 160
-    name: Paul O’Loughlan
+    name: Paul O'Loughlan
     club: Clonliffe Harriers M35
     time: 27m 21s
   - place: 161
@@ -902,7 +902,7 @@ results:
     club: Portmarnock M35
     time: 29m 42s
   - place: 225
-    name: Dave O’Hara
+    name: Dave O'Hara
     club: Raheny Shamrock M50
     time: 29m 43s
   - place: 226

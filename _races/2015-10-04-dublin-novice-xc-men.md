@@ -214,7 +214,7 @@ results:
     club: Liffey Valley
     time: 21m 26s
   - place: 53
-    name: Diarmuid O’Sullivan
+    name: Diarmuid O'Sullivan
     club: Liffey Valley
     time: 21m 28s
   - place: 54
@@ -294,7 +294,7 @@ results:
     club: Civil Service
     time: 22m 18s
   - place: 73
-    name: Matt Blythe
+    name: Matthew Blyth
     club: Liffey Valley
     time: 22m 20s
   - place: 74
@@ -310,7 +310,7 @@ results:
     club: Sportsworld
     time: 22m 47s
   - place: 77
-    name: Stephen O’Brien
+    name: Stephen O'Brien
     club: Liffey Valley
     time: 22m 48s
   - place: 78
@@ -330,7 +330,7 @@ results:
     club: Clonliffe H
     time: 23m 01s
   - place: 82
-    name: Peter O’Brien
+    name: Peter O'Brien
     club: Liffey Valley
     time: 23m 01s
   - place: 83

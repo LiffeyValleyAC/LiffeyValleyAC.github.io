@@ -94,7 +94,7 @@ results:
     time: 46.05
     category: MS
   - place: 12
-    name: John Touhy
+    name: John Tuohy
     time: 47.08
     category: MS
 ---

@@ -126,7 +126,7 @@ results:
    county: Dublin
    time: 31m 09s
  - place: '25'
-   name: Michael O'Conor
+   name: Michael O'Connor
    club: Crusaders A.C.
    county: ''
    time: 31m 14s

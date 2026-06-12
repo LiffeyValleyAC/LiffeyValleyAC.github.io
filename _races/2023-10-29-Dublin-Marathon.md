@@ -36,7 +36,7 @@ results:
     category: M35
     note: 
   - place: 225
-    name: John Touhy
+    name: John Tuohy
     time: 3.27.21
     category: M40
     note: 

@@ -26,7 +26,7 @@ results:
     category: M45
     note: 6th M35 Team
   - place: 10
-    name: Matt Blyth
+    name: Matthew Blyth
     time: 24.26
     category: M45
     note: 6th M35 Team

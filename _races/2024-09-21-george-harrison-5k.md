@@ -10,7 +10,7 @@ results:
     handicap: 0m 00s
     actual_time: 20m 38s
   - place: 2
-    name: Mollie Carroll
+    name: Mollie O'Donnell
     finish_time: 21m 12s
     handicap: 0m 00s
     actual_time: 21m 12s
@@ -35,7 +35,7 @@ results:
     handicap: 0m 00s
     actual_time: 24m 21s
   - place: 7
-    name: Hilary Mitchell McDonnell
+    name: Hilary McDonnell
     finish_time: 27m 46s
     handicap: 0m 00s
     actual_time: 27m 46s

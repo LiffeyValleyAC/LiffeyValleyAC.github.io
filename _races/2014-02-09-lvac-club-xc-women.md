@@ -6,7 +6,7 @@ latitude: 53.3522291
 longitude: -6.3214874
 results:
   - place: 1
-    name: Leona O’Reilly
+    name: Leona O'Reilly
     time: 15m 26s
   - place: 2
     name: Siobhan Keenehan

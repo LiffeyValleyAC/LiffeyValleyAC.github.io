@@ -16,7 +16,7 @@ results:
     category: M35
     note: BIB 715
   - place: 22
-    name: Mark Neylor
+    name: Mark Naylor
     time: 16.07
     category: MS
     note: BIB 719

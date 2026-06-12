@@ -36,7 +36,7 @@ results:
     category: M40
     note: Personal Best
   - place: 67
-    name: Oisín Murphy
+    name: Oisin Murphy
     time: 17.47.0
     category: MS
     note: 

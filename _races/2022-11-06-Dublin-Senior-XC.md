@@ -6,7 +6,7 @@ latitude: 53.281955
 longitude: -6.413396
 results:
   - place: 15
-    name: Sile Caroll
+    name: Sile Carroll
     time: 24.40
     category: Senior Women
   - place: 23

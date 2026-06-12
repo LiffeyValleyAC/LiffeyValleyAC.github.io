@@ -6,7 +6,7 @@ latitude: 52.560901
 longitude: -9.932166
 results:
   - place: 8
-    name: Michael Ferriera
+    name: Michael Ferreira
     time: 1hr 39m 15s
     category: M45
     note: 

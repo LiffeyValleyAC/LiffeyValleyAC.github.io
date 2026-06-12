@@ -15,7 +15,7 @@ results:
     name: Paul Balfe
     time: 29m 24s
   - place: 4
-    name: C Donnelly
+    name: Charlie Donnelly
     time: 30m 03s
   - place: 5
     name: Tom O'Connor
@@ -27,13 +27,13 @@ results:
     name: Gavin Curran
     time: 31m 05s
   - place: 8
-    name: Johnny Parker
+    name: John Parker
     time: 32m 02s
   - place: 9
-    name: G Le Page
+    name: Gaetan Le Page
     time: 32m 22s
   - place: 10
-    name: Matt Blyth
+    name: Matthew Blyth
     time: 32m 27s
   - place: 11
     name: Eddie McGrath
@@ -48,7 +48,7 @@ results:
     name: Tommy Breheny
     time: 34m 36s
   - place: 15
-    name: M Ferreira
+    name: Michael Ferreira
     time: 34m 43s
   - place: 16
     name: Joe Cooper

@@ -461,7 +461,7 @@ results:
     club: Drogheda and District AC
     time: 18m 29s
   - place: 92
-    name: Stephen O’Sullivan
+    name: Stephen O'Sullivan
     category: M35
     club: Brothers Pearse AC
     time: 18m 30s

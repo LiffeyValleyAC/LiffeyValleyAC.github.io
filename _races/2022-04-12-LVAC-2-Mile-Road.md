@@ -21,7 +21,7 @@ results:
     handicap: 1m 00s
     actual_time: 15m 43s
   - place: 4
-    name: John Touhy
+    name: John Tuohy
     finish_time: 16m 46s
     handicap: 5m 00s
     actual_time: 11m 46s
@@ -36,7 +36,7 @@ results:
     handicap: 6m 15s
     actual_time: 10m 38s
   - place: 7
-    name: Sergie Dolgy
+    name: Sergei Dolgy
     finish_time: 16m 55s
     handicap: 6m 30s
     actual_time: 10m 25s
@@ -51,7 +51,7 @@ results:
     handicap: 7m 00s
     actual_time: 10m 01s
   - place: 10
-    name: Kevin McDonald
+    name: Kevin McDonnell
     finish_time: 17m 05s
     handicap: 5m 30s
     actual_time: 11m 35s

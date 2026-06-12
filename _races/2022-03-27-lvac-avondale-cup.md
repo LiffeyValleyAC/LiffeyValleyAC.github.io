@@ -11,7 +11,7 @@ results:
     handicap: 8m 45s
     actual_time: 17m 37s
   - place: 2
-    name: Brigit Long
+    name: Brigid Long
     finish_time: 26m 33s
     handicap: 5m 30s
     actual_time: 21m 03s
@@ -41,7 +41,7 @@ results:
     handicap: 8m 30s
     actual_time: 18m 36s
   - place: 8
-    name: Tadgh Prendeville
+    name: Tadhg Prendiville
     finish_time: 27m 21s
     handicap: 9m 45s
     actual_time: 17m 36s

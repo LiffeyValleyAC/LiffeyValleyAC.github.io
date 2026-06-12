@@ -21,7 +21,7 @@ results:
     category: MS
     note: 🥇 1st Team
   - place: 15
-    name: Oisín Murphy
+    name: Oisin Murphy
     time: 37.31.0
     category: MS
     note: 🥇 1st Team

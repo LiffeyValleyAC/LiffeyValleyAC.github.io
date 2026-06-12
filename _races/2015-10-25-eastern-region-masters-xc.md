@@ -102,7 +102,7 @@ results:
     county: Wexford
     time: 21m 01s 
   - place: 17
-    name: Mark Caroll
+    name: Mark Carroll
     club: Mullingar Harriers A.C.
     category: M35
     county: Westmeath

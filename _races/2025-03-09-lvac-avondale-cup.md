@@ -6,19 +6,19 @@ latitude: 53.348753
 longitude: -6.318130
 results:
   - place: 1
-    name: 🥇 Calvin Malone
+    name: Calvin Malone
     finish_time: 26.21
     handicap: 07.45
     actual_time: 18.36
     note:
   - place: 2
-    name: 🥈 Robert Collins
+    name: Robert Collins
     finish_time: 26.38
     handicap: 07.00
     actual_time: 19.38
     note:
   - place: 3
-    name: 🥉 Matthew Blyth
+    name: Matthew Blyth
     finish_time: 26.45
     handicap: 06.10
     actual_time: 20.35

@@ -70,7 +70,7 @@ results:
     handicap: 7m 15s
     actual_time: 34m 05s
   - place: 14
-    name: John Touhy
+    name: John Tuohy
     finish_time: 41m 27s
     handicap: 8m 30s
     actual_time: 32m 57s
@@ -85,7 +85,7 @@ results:
     handicap: 8m 30s
     actual_time: 34m 16s
   - place: 17
-    name: Michael Ferriera
+    name: Michael Ferreira
     finish_time: 44m 52s
     handicap: 9m 45s
     actual_time: 35m 07s

@@ -62,11 +62,11 @@ results:
     time: 23.19
     category: Novice Men
   - place: 95
-    name: Kevin McDonald
+    name: Kevin McDonnell
     time: 23.30
     category: Novice Men
   - place: 96
-    name: John Touhy 
+    name: John Tuohy 
     time: 23.34
     category: Novice Men
   - place: 99

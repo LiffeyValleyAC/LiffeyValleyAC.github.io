@@ -24,10 +24,10 @@ results:
     name: Billy Hanley
     time: 30m 56s
   - place: 7
-    name: Tom O’Connor
+    name: Tom O'Connor
     time: 31m 19s
   - place: 8
-    name: Arnoud Benjacar
+    name: Arnaud Benjacar
     time: 31m 27s
   - place: 9
     name: Peter Arthur
@@ -42,7 +42,7 @@ results:
     name: John Cullen
     time: 32m 08s
   - place: 13
-    name: Mohammed Dahir
+    name: Mohammad Dahir
     time: 32m 32s
   - place: 14
     name: Matthew Blyth
@@ -54,7 +54,7 @@ results:
     name: Conor Reilly
     time: 35m 12s
   - place: 17
-    name: Martin O’Callaghan
+    name: Martin O'Callaghan
     time: 35m 30s
   - place: 18
     name: Colm Gormley

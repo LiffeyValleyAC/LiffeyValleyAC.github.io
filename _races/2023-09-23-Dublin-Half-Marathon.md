@@ -11,7 +11,7 @@ results:
     category: F35 
     note: 🥉 3rd Dublin Championship 🥉
   - place: 52
-    name: Oisín Murphy
+    name: Oisin Murphy
     time: 1.25.42
     category: MS
     note:

@@ -14,7 +14,7 @@ results:
     finish_time: 30m 37s
     actual_time: 21m 52s
   - place: 3
-    name: Mohammed Dahir
+    name: Mohammad Dahir
     finish_time: 30m 46s
     actual_time: 23m 16s
   - place: 4

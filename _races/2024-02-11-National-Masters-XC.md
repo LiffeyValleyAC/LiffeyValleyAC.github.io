@@ -21,7 +21,7 @@ results:
     category: Masters Men M50
     note: 9th in category and🥇County Team
   - place: 114
-    name: Seán Ó'Meallaigh
+    name: Seán O'Meallaigh
     time: 31.48
     category: Masters Men M40
     note: 29th in category

@@ -25,7 +25,7 @@ results:
     handicap: 0m 00s
     actual_time: 20m 30s
   - place: 5
-    name: Ciara Broderick
+    name: Ciara Broderick Farrell
     finish_time: 21m 54s
     handicap: 2m 30s
     actual_time: 19m 24s
@@ -65,7 +65,7 @@ results:
     handicap: 2m 55s
     actual_time: 20m 31s
   - place: 13
-    name: Ger Feeley
+    name: Ger Feely
     finish_time: 23m 54s
     handicap: 2m 45s
     actual_time: 21m 09s

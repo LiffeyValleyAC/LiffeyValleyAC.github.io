@@ -15,7 +15,7 @@ results:
     handicap: 1m 00s
     actual_time: 31m 35s
   - place: 3
-    name: Arnoud Benjacar
+    name: Arnaud Benjacar
     finish_time: 35m 17s
     handicap: 2m 30s
     actual_time: 32m 47s
@@ -75,7 +75,7 @@ results:
     handicap: 7m 00s
     actual_time: 34m 46s
   - place: 15
-    name: John Touhy
+    name: John Tuohy
     finish_time: 42m 09s
     handicap: 6m 30s
     actual_time: 35m 39s
@@ -95,7 +95,7 @@ results:
     handicap: 13m 00s
     actual_time: 35m 25s
   - place: 19
-    name: Stephen Coghlan
+    name: Stephen Coughlan
     finish_time: 48m 46s
     handicap: 11m 00s
     actual_time: 37m 46s

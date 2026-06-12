@@ -76,7 +76,7 @@ results:
     handicap: 3m 45s
     actual_time: 22m 45s
   - place: 15
-    name: Jonathon Mullervy
+    name: Jonathan Mullervy
     finish_time: 27m 09s
     handicap: 4m 15s
     actual_time: 22m 54s

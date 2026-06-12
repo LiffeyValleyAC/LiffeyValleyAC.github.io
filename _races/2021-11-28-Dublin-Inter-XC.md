@@ -54,7 +54,7 @@ results:
     time: 31.05
     category: Inter Men
   - place: 59
-    name: Matt Blyth
+    name: Matthew Blyth
     time: 32.58
     category: Inter Men
   - place: 62
@@ -62,7 +62,7 @@ results:
     time: 33.16
     category: Inter Men
   - place: 65
-    name: John Touhy 
+    name: John Tuohy 
     time: 33.35
     category: Inter Men
 ---

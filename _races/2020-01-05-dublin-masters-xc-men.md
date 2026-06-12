@@ -441,7 +441,7 @@ results:
     county: M40 (20)
     time: 24m 58s
   - place: 88
-    name: Al O’DONNELL
+    name: Al O'DONNELL
     club: Balbriggan & Dist. A.C.
     county: M40 (21)
     time: 25m 00s
@@ -706,7 +706,7 @@ results:
     county: M40 (35)
     time: 26m 11s
   - place: 141
-    name: Conor O’REILLY
+    name: Conor O'REILLY
     club: Balbriggan & Dist. A.C.
     county: M50 (18)
     time: 26m 12s
@@ -926,7 +926,7 @@ results:
     county: M50 (28)
     time: 27m 13s
   - place: 185
-    name: Damon O’SHEA
+    name: Damon O'SHEA
     club: Balbriggan & Dist. A.C.
     county: M50 (29)
     time: 27m 13s

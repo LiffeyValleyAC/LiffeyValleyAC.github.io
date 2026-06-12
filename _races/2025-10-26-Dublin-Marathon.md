@@ -36,7 +36,7 @@ results:
     category: FS
     note: BIB 4346
   - place: 2654
-    name: Colin Gargan
+    name: Colin Garrigan
     time: 03.19.13
     category: M35
     note: BIB 3394

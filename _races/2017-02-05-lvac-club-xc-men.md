@@ -24,7 +24,7 @@ results:
     name: Paul Balfe
     time: 29m 51s
   - place: 7
-    name: Matt Blyth
+    name: Matthew Blyth
     time: 29m 59s
   - place: 8
     name: Arnaud Benjacar
@@ -42,7 +42,7 @@ results:
     name: Eddie McGrath
     time: 32m 27s
   - place: 13
-    name: John Touhy
+    name: John Tuohy
     time: 33m 06s
   - place: 14
     name: Anthony McMahon
@@ -54,7 +54,7 @@ results:
     name: Daniel English
     time: 35m 26s
   - place: 17
-    name: Eoin Ó Rathallaigh
+    name: Eoin O'Rathallaigh
     time: 36m 17s
   - place: 18
     name: Joe Cooper

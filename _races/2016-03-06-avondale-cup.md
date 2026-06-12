@@ -56,7 +56,7 @@ results:
     handicap: 7m 00s
     actual_time: 24m 52s
   - place: 11
-    name: Matt Blythe
+    name: Matthew Blyth
     finish_time: 31m 56s
     handicap: 8m 00s
     actual_time: 23m 56s
@@ -96,7 +96,7 @@ results:
     handicap: 7m 15s
     actual_time: 25m 15s
   - place: 19
-    name: Johnny Parker
+    name: John Parker
     finish_time: 32m 35s
     handicap: 8m 15s
     actual_time: 24m 20s

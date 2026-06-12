@@ -6,7 +6,7 @@ latitude: 53.3522291
 longitude: -6.3214874
 results:
   - place: 1
-    name: Leona O’Reilly
+    name: Leona O'Reilly
     finish_time: 12m 22s
     estimated: 26m 16s
     handicap: 2m 00s
@@ -54,13 +54,13 @@ results:
     handicap: 8m 30s
     actual_time: 23m 00s
   - place: 9
-    name: Louise O’Brien
+    name: Louise O'Brien
     finish_time: 14m 56s
     estimated: 31m 43s
     handicap: 9m 00s
     actual_time: 22m 43s
   - place: 10
-    name: Ciara O’Riordan
+    name: Ciara O'Riordan
     finish_time: 15m 00s
     estimated: 31m 51s
     handicap: 8m 00s

@@ -30,7 +30,7 @@ results:
     club: MSB
     time: 23m 32s
   - place: 7
-    name: Leona O’Reilly
+    name: Leona O'Reilly
     club: Liffey Valley
     time: 23m 55s
   - place: 8

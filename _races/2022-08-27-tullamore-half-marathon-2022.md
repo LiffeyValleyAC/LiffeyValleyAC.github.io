@@ -10,7 +10,7 @@ results:
     time: 1.17.49
     note: Personal Best
   - place: 92
-    name: John Touhy
+    name: John Tuohy
     time: 1.25.21
     note: Personal Best
 ---

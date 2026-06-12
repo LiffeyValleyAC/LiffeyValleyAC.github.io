@@ -60,7 +60,7 @@ results:
     handicap: 2m 40s
     actual_time: 34m 49s
   - place: 12
-    name: Matt Blyth
+    name: Matthew Blyth
     finish_time: 37m 38s
     handicap: 3m 15s
     actual_time: 34m 23s

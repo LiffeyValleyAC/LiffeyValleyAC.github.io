@@ -11,12 +11,12 @@ results:
     category: M40
     note: 1544° / 3829° Category
   - place: ND
-    name: Michael F
+    name: Michael Ferreira
     time: 3.29.34
     category: M
     note: TIME AND POSITION TO CONFIRM
   - place: 14942
-    name: Bernard Osullivan
+    name: Bernard O'Sullivan
     time: 3.39.35
     category: M45
     note: 2138° / 3668° Category

@@ -4,6 +4,7 @@ location: Phoenix Park
 date: 2023-04-16 10:00
 latitude: 53.3522291
 longitude: -6.3214874
+distance: 8.6km
 results:
   - place: 8
     name: Brigid Long
@@ -21,7 +22,7 @@ results:
     category: MS
     note: 8.6k
   - place: 40
-    name: Conor Gavin
+    name: Conor Galvin
     time: 31.48
     category: MS
     note: 8.6k

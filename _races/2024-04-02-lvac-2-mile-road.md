@@ -46,7 +46,7 @@ results:
     handicap: 4m 15s
     actual_time: 11m 40s
   - place: 9
-    name: Lauren Sullivan
+    name: Lauryn Sullivan
     finish_time: 16m 02s
     handicap: 0m 35s
     actual_time: 15m 27s
@@ -76,12 +76,12 @@ results:
     handicap: 5m 20s
     actual_time: 10m 51s
   - place: 15
-    name: John Touhy
+    name: John Tuohy
     finish_time: 16m 12s
     handicap: 4m 05s
     actual_time: 12m 07s
   - place: 16
-    name: Christine Roche (Guest)
+    name: Christine Roche
     finish_time: 16m 13s
     handicap: 0m 35s
     actual_time: 15m 38s
