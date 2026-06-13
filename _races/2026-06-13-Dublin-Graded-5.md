@@ -1,5 +1,5 @@
 ---
-title: Dublin Athletics Graded Meeting 5 
+title: Dublin Graded Meeting 5 
 location: DSD, Dublin
 date: 2026-06-13 14:00
 latitude: 53.264778560405496

@@ -1,5 +1,5 @@
 ---
-title: Dublin Athletics Graded Meeting 1 
+title: Dublin Graded Meeting 1 
 location: Tallaght Athletic Club Stadium 
 date: 2022-04-27 19:30
 latitude: 53.3522291

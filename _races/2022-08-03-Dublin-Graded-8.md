@@ -1,5 +1,5 @@
 ---
-title: Dublin Athletics Graded Meeting 8
+title: Dublin Graded Meeting 8
 location: Lucan Athletic Club Stadium  
 date: 2022-08-03 19:30
 latitude: 53.3522291

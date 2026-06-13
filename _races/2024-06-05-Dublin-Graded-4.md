@@ -1,5 +1,5 @@
 ---
-title: Dublin Athletics Graded Meeting 4 
+title: Dublin Graded Meeting 4 
 location: Tallaght Athletics Stadium, Dublin
 date: 2024-06-05 19:00
 latitude: 53.291533 

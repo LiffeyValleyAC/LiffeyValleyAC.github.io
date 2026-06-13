@@ -1,5 +1,5 @@
 ---
-title: Dublin Athletics Graded Meeting 1 
+title: Dublin Graded Meeting 1 
 location: Belfield, UCD
 date: 2023-04-29 14:00
 latitude: 53.31098719630516

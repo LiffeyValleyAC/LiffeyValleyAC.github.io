@@ -1,5 +1,5 @@
 ---
-title: Dublin Athletics Graded Meeting 5 
+title: Dublin Graded Meeting 5 
 location: Morton Stadium.
 date: 2023-06-21 19:00
 latitude: 53.400939

@@ -1,5 +1,5 @@
 ---
-title: Dublin Athletics Graded Meeting 3
+title: Dublin Graded Meeting 3
 location: Tallaght Athletic Club Stadium 
 date: 2022-05-25 19:30
 latitude: 53.3522291

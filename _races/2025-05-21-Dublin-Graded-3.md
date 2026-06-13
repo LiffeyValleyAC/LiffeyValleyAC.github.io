@@ -1,5 +1,5 @@
 ---
-title: Dublin Athletics Graded Meeting 3 
+title: Dublin Graded Meeting 3 
 location: Tallaght Track, Dublin
 date: 2025-05-21 18:45
 latitude: 53.29114749517

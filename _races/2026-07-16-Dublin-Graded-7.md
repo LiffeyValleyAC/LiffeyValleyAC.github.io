@@ -1,5 +1,5 @@
 ---
-title: Dublin Athletics Graded Meeting 7 
+title: Dublin Graded Meeting 7 
 location: Lucan Track, Dublin
 date: 2026-07-16 19:00
 latitude: 53.34658676198882

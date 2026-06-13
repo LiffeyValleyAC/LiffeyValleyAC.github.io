@@ -1,5 +1,5 @@
 ---
-title: Dublin Athletics Graded Meeting 7 
+title: Dublin Graded Meeting 7 
 location: Tallaght Athletics Stadium
 date: 2023-07-19 19:00
 latitude: 53.291533 

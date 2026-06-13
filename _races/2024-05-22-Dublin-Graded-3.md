@@ -1,5 +1,5 @@
 ---
-title: Dublin Athletics Graded Meeting 3
+title: Dublin Graded Meeting 3
 location: Tallaght Stadium
 date: 2024-05-22 18:45
 latitude: 53.291533 

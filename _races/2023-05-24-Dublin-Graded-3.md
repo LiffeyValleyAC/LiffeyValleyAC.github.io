@@ -1,5 +1,5 @@
 ---
-title: Dublin Athletics Graded Meeting 3 
+title: Dublin Graded Meeting 3 
 location: Lucan, Dublin.
 date: 2023-05-24 19:00
 latitude: 53.3463369

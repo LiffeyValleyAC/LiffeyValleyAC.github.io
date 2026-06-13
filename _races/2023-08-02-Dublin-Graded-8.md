@@ -1,5 +1,5 @@
 ---
-title: Dublin Athletics Graded Meeting 8 
+title: Dublin Graded Meeting 8 
 location: Morton Stadium
 date: 2023-08-02 19:00
 latitude: 53.291533 

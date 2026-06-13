@@ -1,5 +1,5 @@
 ---
-title: Dublin Athletics Graded Meeting 4 
+title: Dublin Graded Meeting 4 
 location: Morton Stadium, Dublin
 date: 2025-06-04 20:00
 latitude: 53.40109735594  

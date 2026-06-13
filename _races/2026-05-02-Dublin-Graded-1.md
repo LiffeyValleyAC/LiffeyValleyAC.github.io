@@ -1,5 +1,5 @@
 ---
-title: Dublin Athletics Graded Meeting 1 
+title: Dublin Graded Meeting 1 
 location: Morton Stadium, Dublin
 date: 2026-05-02 12:00
 latitude: 53.40109735594  

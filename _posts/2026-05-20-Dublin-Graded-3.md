@@ -9,7 +9,7 @@ A special congratulations to the club for finishing <b>2nd team overall in the D
 
 Outstanding individual performances also came from <b>Pierce</b>, who secured <b>2nd place</b> in <b>32:45.83 min</b>, and <b>Geoffrey</b>, who claimed <b>3rd place</b> in <b>33:09.24 min</b>. These excellent results helped secure the team silver medals and are a credit to their hard work and commitment.
 
-<table style="border-collapse: collapse; font-family: Consolas, monospace; background-color: #fff; color: #333; border: 8px solid #fff; box-shadow: 0 4px 12px rgba(0,0,0,0.15); outline: 1px solid #ddd;">
+<table style="line-height: 1.1; border-collapse: collapse; font-family: Consolas, monospace; background-color: #fff; color: #333; border: 8px solid #fff; box-shadow: 0 4px 12px rgba(0,0,0,0.15); outline: 1px solid #ddd;">
   <thead>
     <tr style="background-color: #FCD50D;"><td colspan="4" style="text-align: center; padding: 0px; color: #2F318D; font-weight: bold; font-size: 1.1em;">DUBLIN GRADED 2026 MEETING 3 of 8 - RESULTS</td></tr>
     <tr style="background-color: #f0f0f0; color: #333;">

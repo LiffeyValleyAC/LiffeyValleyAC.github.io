@@ -5,7 +5,7 @@ location: Morton Stadium, Dublin.
 
 A huge thank you to all <b>Liffey Valley Athletic Club</b> athletes who participated in the first Graded Meeting of the 2026 Track Season at <b>Morton Stadium</b> on May 2nd 2026. Your dedication and hard work truly shone through as you hit the track and gave it your all in distances of 800m and 3000m.
 
-<table style="border-collapse: collapse; font-family: Consolas, monospace; background-color: #fff; color: #333; border: 8px solid #fff; box-shadow: 0 4px 12px rgba(0,0,0,0.15); outline: 1px solid #ddd;">
+<table style="line-height: 1.1; border-collapse: collapse; font-family: Consolas, monospace; background-color: #fff; color: #333; border: 8px solid #fff; box-shadow: 0 4px 12px rgba(0,0,0,0.15); outline: 1px solid #ddd;">
   <thead>
     <tr style="background-color: #FCD50D;"><td colspan="4" style="text-align: center; padding: 0px; color: #2F318D; font-weight: bold; font-size: 1.1em;">DUBLIN GRADED 2026 MEETING 1 of 8 - RESULTS</td></tr>
     <tr style="background-color: #f0f0f0; color: #333;">

@@ -1,5 +1,5 @@
 ---
-title: Dublin Athletics Graded Meeting 6 
+title: Dublin Graded Meeting 6 
 location: Tallaght Stadium  
 date: 2022-07-06 19:30
 latitude: 53.3522291

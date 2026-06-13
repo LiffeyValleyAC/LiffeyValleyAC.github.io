@@ -1,5 +1,5 @@
 ---
-title: Dublin Athletics Graded Meeting 7
+title: Dublin Graded Meeting 7
 location: Lucan Harriers Track, Lucan
 date: 2025-07-16 19:00
 latitude: 53.346477809376495  

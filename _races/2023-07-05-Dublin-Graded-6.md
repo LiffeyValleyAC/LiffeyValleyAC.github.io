@@ -1,5 +1,5 @@
 ---
-title: Dublin Athletics Graded Meeting 6 
+title: Dublin Graded Meeting 6 
 location: DSD Campus.
 date: 2023-07-05 19:00
 latitude: 53.287290 

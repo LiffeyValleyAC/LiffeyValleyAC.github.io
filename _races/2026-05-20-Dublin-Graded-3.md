@@ -1,5 +1,5 @@
 ---
-title: Dublin Athletics Graded Meeting 3 
+title: Dublin Graded Meeting 3 
 location: Irishtown Stadium, Dublin
 date: 2026-05-20 18:30
 latitude: 53.3403898259143 

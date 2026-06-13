@@ -1,5 +1,5 @@
 ---
-title: Dublin Athletics Graded Meeting 8
+title: Dublin Graded Meeting 8
 location: Morton Stadium, Dublin
 date: 2025-07-30 19:00
 latitude: 53.40109735594  

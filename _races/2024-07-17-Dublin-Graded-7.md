@@ -1,5 +1,5 @@
 ---
-title: Dublin Athletics Graded Meeting 7 
+title: Dublin Graded Meeting 7 
 location: Lucan, Dublin
 date: 2024-07-17 19:00
 latitude: 53.3463369

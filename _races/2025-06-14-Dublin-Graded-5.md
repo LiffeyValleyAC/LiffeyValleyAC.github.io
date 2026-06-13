@@ -1,5 +1,5 @@
 ---
-title: Dublin Athletics Graded Meeting 5 
+title: Dublin Graded Meeting 5 
 location: DSD Track, Dublin
 date: 2025-06-14 14:00
 latitude: 53.26475684474336 

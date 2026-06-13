@@ -1,5 +1,5 @@
 ---
-title: Dublin Athletics Graded Meeting 4 
+title: Dublin Graded Meeting 4 
 location: Morton Stadium Santry 
 date: 2022-06-08 19:30
 latitude: 53.3522291

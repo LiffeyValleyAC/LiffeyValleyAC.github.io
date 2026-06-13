@@ -1,5 +1,5 @@
 ---
-title: Dublin Athletics Graded Meeting 4 
+title: Dublin Graded Meeting 4 
 location: UCD Stadium.
 date: 2023-06-03 14:45
 latitude: 53.310420

@@ -1,5 +1,5 @@
 ---
-title: Dublin Athletics Graded Meeting 2 
+title: Dublin Graded Meeting 2 
 location: Morton Stadium Santry 
 date: 2022-05-11 19:30
 latitude: 53.3522291
