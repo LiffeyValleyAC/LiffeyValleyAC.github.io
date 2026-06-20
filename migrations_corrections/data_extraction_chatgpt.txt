@@ -20,3 +20,5 @@ Se ejecuta con:
 powershell -NoProfile -ExecutionPolicy Bypass -File "C:\Users\hogar\Documents\Codex\2026-06-09\tengo-una-pagina-web-de-un\work\extract-race-results-v9.ps1" -DateFrom "2026-06-01" -DateTo "2026-06-30"
 
 Can work with zero, one or the two date parameters.
+
+Before copying into GoogleSheets, apply format in excel to the time column L like this: hh:mm:ss.00 so it will show decimals of seconds, and it then it can be copied correctly into Google Sheets.
