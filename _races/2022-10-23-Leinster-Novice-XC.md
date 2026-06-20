@@ -4,6 +4,7 @@ location: Bellurgan Park, Carlingford Road, Dundalk (Eircode A91 FP86).
 date: 2022-10-23 12:00
 latitude: 54.023189
 longitude: -6.330367
+distance: "4km (ESTIMATED, Source: Leinster booklet: Novice Women 4,000m)"
 results:
   - place: 27
     name: Ciara Broderick Farrell

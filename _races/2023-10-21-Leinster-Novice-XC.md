@@ -4,6 +4,7 @@ location: Mountain View, Co. Kilkenny
 date: 2023-10-21 14:00
 latitude: 52.457262
 longitude: -7.186697
+distance: "4km FS, 6km MS (ESTIMATED, Source: Leinster booklet: Novice Women 4,000m)"
 results:
   - place: 35
     name: Siobhán Nugent
@@ -27,7 +28,7 @@ results:
     note: 9th Club Team
   - place: 22
     name: Geoffrey Alexandre
-    time: 35.50
+    time: 22.50
     category: MS
     note: 6th Club Team /🥇Dublin County 
   - place: 23

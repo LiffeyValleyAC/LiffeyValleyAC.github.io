@@ -4,6 +4,7 @@ location: Phoenix Park
 date: 2012-02-11 11:30
 latitude: 53.3522291
 longitude: -6.3214874
+distance: 6km (Estimated)
 results:
   - place: 1
     name: Tom O'Connor

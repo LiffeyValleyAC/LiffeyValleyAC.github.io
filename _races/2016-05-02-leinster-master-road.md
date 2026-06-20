@@ -4,6 +4,7 @@ location: Gowran, Co Kilkenny
 date: 2016-05-02 12:00
 latitude: 52.6293756
 longitude: -7.0737631
+distance: "6.437km (ESTIMATED, Override: Leinster 2016 Master Road result with mile splits; approx 4 miles)"
 results:
   - place: 1
     name: Brian BYRNE

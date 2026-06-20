@@ -4,6 +4,7 @@ location: Dog Pond, Phoenix Park
 date: 2025-02-23 11:30
 latitude: 53.3522291
 longitude: -6.3214874
+distance: Women and Men 7.5km, M60 and W60 5km
 results:
   - place: 1
     name: Geoffrey Alexandre
@@ -64,23 +65,23 @@ results:
   - place: 15
     name: Brigid Long
     time: 34.26
-    category: F 🥇
+    category: W 🥇
   - place: 16
     name: Lynn Devitt
     time: 34.35
-    category: F 🥈
+    category: W 🥈
   - place: 17
     name: Orla Gordon
     time: 35.16
-    category: F 🥉
+    category: W 🥉
   - place: 18
     name: Ruth Murphy
     time: 41.57
-    category: F
+    category: W
   - place: DNF
     name: Rebecca McLoughlin
     time: DNF
-    category: F
+    category: W
   - place: 1
     name: Tom O'Connor
     time: 22.21
@@ -92,7 +93,7 @@ results:
   - place: 3
     name: Margaret O'Friel
     time: 27.40
-    category: F60
+    category: W60
   - place: 4
     name: Paddy Reilly
     time: 28.14
@@ -100,7 +101,7 @@ results:
   - place: 5
     name: Una Reilly
     time: 29.30
-    category: F60
+    category: W60
   - place: 6
     name: Joe Cooper
     time: 30.20

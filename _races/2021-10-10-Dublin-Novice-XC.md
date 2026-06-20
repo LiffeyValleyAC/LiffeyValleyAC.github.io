@@ -4,6 +4,7 @@ location: Tymon Park, Dublin
 date: 2021-10-10 14:00
 latitude: 53.3522291
 longitude: -6.3214874
+distance: "4km (ESTIMATED, Source: Dublin Novice women reported as 4k; standard novice women distance)"
 results:
   - place: 4
     name: Sinead McDonald

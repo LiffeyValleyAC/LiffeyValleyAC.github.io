@@ -4,6 +4,7 @@ location: Avondale, Co. Wicklow
 date: 2024-01-21 14:00
 latitude: 52.913309
 longitude: -6.222561
+distance: "5km (ESTIMATED, Source: Leinster booklet: Intermediate Women 5,000m)"
 results:
   - place: 7
     name: Ciara Broderick Farrell

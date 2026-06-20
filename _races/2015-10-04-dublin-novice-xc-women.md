@@ -4,6 +4,7 @@ location: Phoenix Park
 date: 2015-10-04 14:15
 latitude: 53.3502469
 longitude: -6.3199964
+distance: "4km (ESTIMATED, Source: Dublin Novice women reported as 4k; standard novice women distance)"
 results:
   - place: 1
     name: Gemma Reddin

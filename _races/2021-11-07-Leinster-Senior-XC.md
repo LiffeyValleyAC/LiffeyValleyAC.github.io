@@ -4,6 +4,7 @@ location: Avondale House, Co. Wicklow
 date: 2021-11-07 14:30
 latitude: 53.3522291
 longitude: -6.3214874
+distance: "10km (ESTIMATED, Override: Lea Fulcher appears miscoded as Senior Women; time fits historic Leinster Senior Men approx 10k)"
 results:
   - place: 21
     name: Lea Fulcher

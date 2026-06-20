@@ -4,6 +4,7 @@ location: Tymon Park, Dublin
 date: 2023-10-08 13:00
 latitude: 53.3522291
 longitude: -6.3214874
+distance: "4km WOne, 6km Men (ESTIMATED, Source: Dublin Novice women reported as 4k; standard novice women distance)"
 results:
   - place: 8
     name: Ciara Broderick Farrell

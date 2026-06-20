@@ -4,6 +4,7 @@ location: Navan Race Course, Co. Meath
 date: 2023-12-03 11:00
 latitude: 53.683289
 longitude: -6.673760
+distance: "4km (ESTIMATED, Source: Athletics Ireland rules: Novice Women 4,000m)"
 results: 
   - place: 63
     name: Siobhan Nugent

@@ -1,0 +1,117 @@
+ID	DATE	LOCATION	RACE NAME	SURFACE	ORGANISATION	PLACE	ATHLETE	CATEGORY	GENDER	GRADE	TIME	DISTANCE KM	NOTES	PACE MIN/KM													
+1002	11/02/2012	Phoenix Park	LVAC Mens Cross Country Championships	XC	LVAC	1	Tom O'Connor	Club Championships	Men		22:56.0		Finish 00:22:56.00 | Handicap 00:00:00.00 | Check distance														
+1003	11/02/2012	Phoenix Park	LVAC Womens Cross Country Championships	XC	LVAC	1	Leona O'Reilly	Club Championships	Women		24:16.0		Estimated 00:26:16.00 | Finish 00:12:22.00 | Handicap 00:02:00.00 | Check distance														
+1010	09/02/2014	Phoenix Park	LVAC Mens Cross Country Championships	XC	LVAC	1	Mike Griffin	Club Championships	Men		29:28.0		Check distance														
+1011	09/02/2014	Phoenix Park	LVAC Womens Cross Country Championships	XC	LVAC	1	Leona O'Reilly	Club Championships	Women		15:26.0		Check distance														
+1013	28/09/2014	"Stamullen, Co Meath."	Star of the Sea Men's Cross Country	XC	Club Races	7	Chris Morgan		Men		20:36.0		Check distance														
+1014	28/09/2014	"Stamullen, Co Meath."	Star of the Sea Women's Cross Country	XC	Club Races	1	Leona O'Reilly		Women		11:17.0		Check distance														
+1015	02/11/2014	Santry	Dublin Senior XC Men	XC	Dublin	38	Chris Morgan	Senior	Men		31:44.0		Check distance														
+1016	02/11/2014	Santry	Dublin Senior XC Women	XC	Dublin	9	Leona O'Reilly	Senior	Women		19:04.0		Check distance														
+1017	27/12/2014	Phoenix Park	LVAC Multi Terrain	Road	LVAC	1	Chris Morgan		Men		21:12.0		Finish 00:30:27.00 | Check distance														
+1018	19/01/2015	"Dunboyne, Co. Meath"	Leinster Senior Cross Country Men	XC	Leinster	11	Damien Cauvet	Senior	Men		35:44.0		Check distance														
+1019	19/01/2015	"Dunboyne, Co. Meath"	Leinster Senior Cross Country Women	XC	Leinster	4	Leona O'Reilly	Senior	Women		20:09.0		Check distance														
+1021	08/02/2015	"Tuam, Co. Galway"	National Intermediate Cross Country Women	XC	National	15	Sile Carroll	Intermediate	Women		20:53.0		Check distance														
+1022	08/02/2015	"Tuam, Co. Galway"	National Masters Cross Country Men Over 65	XC	National	4	Pat Collins	Master	Men		17:46.0		Check distance														
+1023	08/02/2015	"Tuam, Co. Galway"	National Masters Cross Country Women	XC	National	67	Linda Spratt	Master	Women		18:32.0		Check distance														
+1024	12/02/2015	Phoenix Park	LVAC Mens Cross Country Championships	XC	LVAC	1	Peter Arthur	Club Championships	Men		26:34.0		Check distance														
+1025	12/02/2015	Phoenix Park	LVAC Womens Cross Country Championships	XC	LVAC	1	Sile Carroll	Club Championships	Women		15:12.0		Check distance														
+1036	27/09/2015	"Stamullen, Co Meath."	Star of the Sea Men's Cross Country	XC	Club Races	5	Brendan Beere		Men		21:29.0		Check distance														
+1037	27/09/2015	"Stamullen, Co Meath."	Star of the Sea Women's Cross Country	XC	Club Races	1	Leona O'Reilly		Women		11:14.0		Check distance														
+1038	04/10/2015	Phoenix Park	Dublin Novice Men's Cross Country	XC	Dublin	18	Michael O'Connor	Novice	Men		20:10.0		Check distance														
+1039	04/10/2015	Phoenix Park	Dublin Novice Women's Cross Country	XC	Dublin	31	Frances Kinnane	Novice	Women		17:04.0		Check distance														
+1042	25/10/2015	"Moyvalley, Co. Meath"	Eastern Region Masters Cross Country	XC	Club Races	26	Billy Hanley	Master	Men	M40	21:21.0		Check distance														
+1044	01/11/2015	Santry	Dublin Senior Cross Country Women	XC	Dublin	7	Leona O'Reilly	Senior	Women		23:55.0		Check distance														
+1045	01/11/2015	Santry	Dublin Senior Cross Country Men	XC	Dublin	37	Chris Morgan	Senior	Men		37:19.0		Check distance														
+1047	22/11/2015	Santry	National Senior Inter Clubs Cross Country Men	XC	National	43	Peter Arthur	Intermediate	Men		33:49.0		Check distance														
+1050	19/12/2015	"Dog Pond, Phoenix Park"	LVAC Cake Race	Road	LVAC	1	Peter Arthur		Men		16:15.0		Finish 00:26:15.00 | Handicap 00:10:00.00 | Check distance														
+1058	21/02/2016	Phoenix Park	LVAC Mens Cross Country Championships	XC	LVAC	1	Damien Cauvet	Club Championships	Men		28:42.0		Check distance														
+1059	21/02/2016	Phoenix Park	LVAC Womens Cross Country Championships	XC	LVAC	1	Sile Carroll	Club Championships	Women		15:30.0		Check distance														
+1060	06/03/2016	Phoenix Park	LVAC Avondale Cup	Road	LVAC	1	Eimear Nic An Bhaird		Women		25:12.0		Finish 00:30:42.00 | Handicap 00:05:30.00 | Check distance														
+1062	01/05/2016	Tallaght	Dublin Novice Road Championships	Road	Dublin	22	Charlie Donnelly	Novice	Men		17:39.0		Check distance														
+1063	02/05/2016	"Gowran, Co Kilkenny"	Leinster Master Road Championships	Road	Leinster	6	Paul Balfe	Master	Men	M40	20:40.0		Check distance														
+1074	06/11/2016	Santry	Dublin Senior Cross Country Men	XC	Dublin	7	Peter Arthur	Senior	Men		30:29.0		Check distance														
+1075	06/11/2016	Santry	Dublin Senior Cross Country Women	XC	Dublin	20	Aileen Gittens	Senior	Women		22:03.0		Check distance														
+1076	13/11/2016	"New Forest Golf Club, Tyrellstown"	Leinster Senior Cross Country Men	XC	Leinster	5	Peter Arthur	Senior	Men		32:51.0		Check distance														
+1077	13/11/2016	"New Forest Golf Club, Tyrellstown"	Leinster Senior Cross Country Women	XC	Leinster	7	Aileen Gittens	Senior	Women		18:57.0		Check distance														
+1082	08/01/2017	"St Annes Park, Raheny"	Dublin Masters Cross Country	XC	Dublin	34	Ciaran Reilly	Master	Men		23:10.0		Check distance														
+1085	22/01/2017	"Palace Grounds, Tuam"	National Intermediate Cross Country	XC	National	4	Damien Cauvet	Intermediate	Men		28:22.0		Check distance														
+1086	05/02/2017	Phoenix Park	LVAC Mens Cross Country Championships	XC	LVAC	1	Peter Arthur	Club Championships	Men		25:33.0		Check distance														
+1087	05/02/2017	Phoenix Park	LVAC Womens Cross Country Championships	XC	LVAC	1	Sile Carroll	Club Championships	Women		14:47.0		Check distance														
+1090	12/03/2017	Phoenix Park	LVAC Avondale Cup	Road	LVAC	1	Damien Cauvet		Men		19:36.0		Finish 00:28:46.00 | Handicap 00:09:10.00 | Check distance														
+1097	16/12/2017	"Dog Pond, Phoenix Park"	LVAC Cake Race	Road	LVAC	1	Aoife Brady		Women		23:30.0		Finish 00:26:45.00 | Handicap 00:03:15.00 | Check distance														
+1102	11/03/2018	Phoenix Park	LVAC Mens Cross Country Championships	XC	LVAC	1	Peter Arthur	Club Championships	Men		26:02.0		Check distance														
+1103	11/03/2018	Phoenix Park	LVAC Womens Cross Country Championships	XC	LVAC	1	Sile Carroll	Club Championships	Women		19:33.0		Check distance														
+1104	25/03/2018	Phoenix Park	LVAC Avondale Cup	Road	LVAC	1	Eddie McGrath		Men		24:20.0		Finish 00:28:20.00 | Handicap 00:04:00.00 | Check distance														
+1107	21/10/2018	"Abbotstown, Dublin"	Athletics Ireland Autumn Open Cross Country Masters Men	XC	Dublin	62	Ciaran Reilly	Master	Men		28:13.0		Check distance														
+1108	21/10/2018	"Abbotstown, Dublin"	Athletics Ireland Autumn Open Cross Country Masters Women	XC	Dublin	21	Eimear Nic An Bhaird	Master	Women		23:51.0		Check distance														
+1109	21/10/2018	"Abbotstown, Dublin"	Athletics Ireland Autumn Open Cross Country Senior Men	XC	Dublin	24	Peter Arthur	Senior	Men		24:02.0		Check distance														
+1110	21/10/2018	"Abbotstown, Dublin"	Athletics Ireland Autumn Open Cross Country Senior Women	XC	Dublin	32	Sile Carroll	Senior	Women		23:44.0		Check distance														
+1111	11/11/2018	"Adamstown, Co Wexford"	Leinster Senior Cross Country Men	XC	Leinster	3	Peter Arthur	Senior	Men		34:26.0		Check distance														
+1112	11/11/2018	"Adamstown, Co Wexford"	Leinster Senior Cross Country Women	XC	Leinster	7	Eimear Nic An Bhaird	Senior	Women		20:29.0		Check distance														
+1113	15/12/2018	"Dog Pond, Phoenix Park"	LVAC Cake Race	Road	LVAC	1	Hilary McDonnell		Women		27:06.0		Finish 00:27:36.00 | Handicap 00:00:30.00 | Check distance														
+1115	06/01/2019	"St Annes Park, Raheny"	Dublin Masters Cross Country Men	XC	Dublin	39	Ciaran Reilly	Master	Men	M40	23:33.0		Check distance														
+1116	06/01/2019	"St Annes Park, Raheny"	Dublin Masters Cross Country Women	XC	Dublin	69	Maeve Walsh	Master	Women	W40	14:13.0		Check distance														
+1117	13/01/2019	"Gowran, Co Kilkenny"	Leinster Intermediate Cross Country Women	XC	Leinster	18	Jen Preston	Intermediate	Women		16:14.0		Check distance														
+1120	24/02/2019	Phoenix Park	LVAC Mens Cross Country Championships	XC	LVAC	1	Peter Arthur	Club Championships	Men		24:01.0		Check distance														
+1121	24/02/2019	Phoenix Park	LVAC Womens Cross Country Championships	XC	LVAC	1	Sile Carroll	Club Championships	Women		19:22.0		Check distance														
+1122	24/03/2019	Phoenix Park	LVAC Avondale Cup	Road	LVAC	1	Ger Feely		Women		29:15.0		Finish 00:34:00.00 | Handicap 00:04:45.00 | Check distance														
+1128	14/12/2019	"Dog Pond, Phoenix Park"	LVAC Cake Race	Road	LVAC	2	Tommy Breheny		Men		21:30.0		Finish 00:24:30.00 | Handicap 00:03:00.00 | Check distance														
+1130	05/01/2020	"St Annes Park, Raheny"	Dublin Masters Cross Country - Men	XC	Dublin	2	Pierce Geoghegan	Master	Men		20:58.0		Check distance														
+1131	05/01/2020	"St Annes Park, Raheny"	Dublin Masters Cross Country - Women	XC	Dublin	66	Ger Feely	Master	Women		14:33.0		Check distance														
+1134	10/10/2021	"Tymon Park, Dublin"	Dublin Novice Cross Country Championships	XC	Dublin	4	Sinead McDonald	Novice	Women		14:46.0		Check distance														
+1135	23/10/2021	"Ballyhale, Co. Kilkenny"	Leinster Novice Cross Country Championships	XC	Leinster	10	Sinead McDonald	Novice	Women		15:42.0		Check distance														
+1136	31/10/2021	"Trinity Sports Ground, Santry"	Dublin Senior Cross Country Championships	XC	Dublin	17	Sinead McDonald	Senior	Women		22:14.0		Check distance														
+1137	07/11/2021	"Avondale House, Co. Wicklow"	Leinster Senior Cross Country Championships	XC	Leinster	21	Lea Fulcher	Senior	Women		35:46.0		Check distance														
+1139	21/11/2021	"Santry, Dublin"	National Senior Cross Country Championships	XC	National	71	Peter Arthur	Senior	Men		33:42.0		Check distance														
+1140	28/11/2021	"Tymon Park, Dublin"	Dublin Intermediate Cross Country Championships	XC	Dublin	4	Sinead McDonald	Intermediate	Women		20:07.0		Check distance														
+1141	05/12/2021	"Gowran, Co. Kilkenny"	National Novice Cross Country Championships	XC	National	56	Sinead McDonald	Novice	Women		16:07.0		Check distance														
+1142	18/12/2021	"Dog Pond, Phoenix Park"	LVAC Cake Race	Road	LVAC	1	Mary Ellen Ryan		Women		23:49.0		Finish 00:23:49.00 | Handicap 00:00:00.00 | Check distance														
+1144	09/01/2022	"St. Annes Park, Raheny"	Dublin Masters Cross Country Championships	XC	Dublin	17	Orla Gordon	Master	Women		14:24.0		Check distance														
+1145	15/01/2022	"Dunboyne, Co. Meath"	Leinster Inter Cross Country Championships	XC	Leinster	10	Sinead McDonald	Intermediate	Women		15:23.0		Check distance														
+1146	15/01/2022	"Dunboyne, Co. Meath"	Leinster Masters Cross Country Championships	XC	Leinster	6	Una Reilly	Master	Women		19:53.0		Check distance														
+1148	13/02/2022	"Castlelyons, Co. Cork"	National Intermediate Cross Country Championships	XC	National	22	Elle O'Driscoll	Intermediate	Women		20:45.0		Check distance														
+1149	13/02/2022	"Castlelyons, Co. Cork"	National Masters Cross Country Championships	XC	National	7	Arnaud Benjacar	Master	Men	M50	25:29.0		Check distance														
+1154	27/03/2022	"Phoenix Park, George Harrison 5k Lap"	LVAC Avondale Cup	Road	LVAC	1	David Carroll		Men		17:37.0		Finish 00:26:22.00 | Handicap 00:08:45.00 | Check distance														
+1158	24/04/2022	"Raheny, Dublin"	National Road Relays	Road	National	10	Mollie O'Donnell		Women		05:50.0		Check distance														
+1160	30/04/2022	"Gowran, Co Kilkenny"	Leinster Inter & Master Road Championships	Road	Leinster	1	Lea Fulcher	Intermediate	Women	M45	19:39.0		Check distance														
+1185	25/09/2022	"Stamullen, Co. Meath"	Star of the Sea AC 32nd Annual Cross Country	XC	Club Races	18	Siobhan Nugent		Women		13:11.0		Check distance														
+1187	09/10/2022	"Tymon Park, Dublin"	Dublin Novice XC	XC	Dublin	7	Jen Preston	Novice	Women		16:00.0		Check distance														
+1188	16/10/2022	"Abbottstown, Dublin"	Autumn Open International Cross Country Festival	XC	International	35	Sile Carroll	Intermediate	Women		24:02.0		Check distance														
+1189	23/10/2022	"Bellurgan Park, Carlingford Road, Dundalk (Eircode A91 FP86)."	Leinster Novice Cross Country Championships	XC	Leinster	27	Ciara Broderick Farrell	Novice	Women		18:43.0		Check distance														
+1191	06/11/2022	"Citywest Hotel Leisure Centre, Dublin"	Dublin Senior Cross Country Championships	XC	Dublin	15	Sile Carroll	Senior	Women		24:40.0		Check distance														
+1195	04/12/2022	"Aghern Garryann (St. Catherines A.C.), East Cork."	National Novice Cross Country Championships	XC	National	77	Siobhan Nugent	Novice	Women		18:19.0		Check distance														
+1196	11/12/2022	"Tymon Park, Dublin"	Dublin Intermediate XC	XC	Dublin	6	Ciara Broderick Farrell	Intermediate	Women		22:34.0		Check distance														
+1197	17/12/2022	"Dog Pond, Phoenix Park"	LVAC Cake Race	Road	LVAC	1	Rebecca McLoughlin		Women		21:56.0		Finish 00:24:26.00 | Handicap 00:02:30.00 | Check distance														
+1199	08/01/2023	"St. Annes Park, Raheny"	Dublin Masters Cross Country Championships	XC	Dublin	2	Una Reilly	Master	Women		15:38.0		Check distance														
+1200	15/01/2023	"Avondale House, Co. Wicklow"	Leinster Intermediate Cross Country Championships	XC	Leinster	10	Ciara Broderick Farrell	Intermediate	Women		17:13.0		Club Team | Check distance														
+1201	15/01/2023	"Avondale House, Co. Wicklow"	Leinster Masters Cross Country Championships	XC	Leinster	1	Peter Arthur	Master	Men	M35	20:27.0		"Individual, County, 6th M35 Team | Check distance"														
+1203	12/02/2023	"Gowran, Co. Kilkenny"	National Inter Cross Country Championships	XC	National	31	Mollie O'Donnell	Intermediate	Women		20:48.0		Check distance														
+1204	12/02/2023	"Dunboyne, Co. Meath"	National Masters Cross Country Championships	XC	National	3	Una Reilly	Master	Women		20:04.0		Check distance														
+1206	12/03/2023	"Phoenix Park, George Harrison 5k Lap"	LVAC Avondale Cup	Road	LVAC	1	Patrick Fox		Men		18:42.0		Finish 00:27:02.00 | Handicap 00:08:20.00 | Check distance														
+1208	23/04/2023	"Raheny, Dublin"	National Road Relays	Road	National	10	Mollie O'Donnell		Women		05:50.0		Check distance														
+1209	29/04/2023	"Belfield, UCD"	Dublin Graded Meeting 1	Track	Dublin	5	Orla Gordon		Women		06:09.4		PB | Check distance														
+1210	29/04/2023	"Gowran, Co. Kilkenny"	Leinster Novice Road Championships	Road	Leinster	21	Siobhan Nugent	Novice	Women		12:32.0		Check distance														
+1226	02/08/2023	Morton Stadium	Dublin Graded Meeting 8	Track	Dublin	3	Brigid Reilly		Women		05:57.4		Check distance														
+1234	01/10/2023	"Pescara, Italy"	EUROPEAN MASTERS ATHLETICS CHAMPIONSHIPS	Road	International	9	Tom O'Connor	Master	Men	M60	01:28.6		3rd Team Ireland | Check distance														
+1235	08/10/2023	"Tymon Park, Dublin"	Dublin Novice XC	XC	Dublin	8	Ciara Broderick Farrell	Novice	Women		15:58.0		Check distance														
+1237	21/10/2023	"Mountain View, Co. Kilkenny"	Leinster Novice Cross Country Championships	XC	Leinster	35	Siobhan Nugent	Novice	Women		18:30.0		9th Club Team | Check distance														
+1239	04/11/2023	"Dunboyne, Co. Meath"	Leinster Senior Cross Country Championships	XC	Leinster	32	Siobhan Nugent	Senior	Women		29:42.0		5th Club Team | Check distance														
+1242	19/11/2023	Gowran Demesne	National Senior Cross County Championships	Road	National	155	Geoffrey Alexandre	Senior	Men		39:38.0		"2nd Club Grade ""B"" All Ireland Senior | Check distance"														
+1243	26/11/2023	"Tymon Park, Dublin"	Dublin Intermediate Cross Country Championships	XC	Dublin	12	Brigid Long	Intermediate	Women		21:19.0		5th Team | Check distance														
+1245	03/12/2023	"Navan Race Course, Co. Meath"	National Novice Cross Country Championships	XC	National	63	Siobhan Nugent	Novice	Women		17:26.0		Check distance														
+1246	16/12/2023	"Dog Pond, Phoenix Park"	LVAC Cake Race	Road	LVAC	1	Bernard O'Sullivan		Men		20:33.0		Finish 00:25:18.00 | Handicap 00:04:45.00 | Check distance														
+1248	07/01/2024	"St. Annes Park, Raheny"	Dublin Masters Cross Country Championships	XC	Dublin	2	Una Reilly	Master	Women		16:26.0		Check distance														
+1250	21/01/2024	"Avondale, Co. Wicklow"	Leinster Intermediate Cross Country Championships	XC	Leinster	7	Ciara Broderick Farrell	Intermediate	Women		22:18.0		3rd Club Team | Check distance														
+1251	21/01/2024	"Avondale, Co. Wicklow"	Leinster Masters Cross Country Championships	XC	Leinster	49	Donal Iremonger	Master	Men		28:15.0		8th in category | Check distance														
+1255	11/02/2024	"Dundalk IT, Co. Louth"	National Intermediate Cross Country Championships	XC	National	18	Brigid Long	Intermediate	Women		25:32.0		5th Club Team | Check distance														
+1256	11/02/2024	"Dundalk IT, Co. Louth"	National Masters Cross Country Championships	XC	National	26	Pat Collins	Master	Men		23:01.0		2nd Individual | Check distance														
+1258	25/02/2024	"Dog Pond, Phoenix Park"	LVAC Cross Country Championships	XC	LVAC	1	Brigid Long	Club Championships	Women		21:38.0		Check distance														
+1261	10/03/2024	"Phoenix Park, George Harrison 5k Lap at The Magazine Fort"	LVAC Avondale Cup	Road	LVAC	1	Geoffrey Alexandre		Men		16:00.0		Finish 00:25:15.00 | Handicap 00:09:15.00 | Check distance														
+1270	28/04/2024	"Raheny, Dublin"	National Road Relays	Road	National	15	Brianna McGhee		Women		05:48.0		Check distance														
+1278	22/05/2024	Tallaght Stadium	Dublin Graded Meeting 3	Track	Dublin	4	Brigid Long		Women		06:02.2		Check distance														
+1310	06/10/2024	"Phoenix Park, Dublin"	Dublin Novice XC	XC	Dublin	7	Ciara Broderick Farrell	Novice	Women		14:51.0		3rd Team | Check distance														
+1312	20/10/2024	"Dunboyne, Co. Meath"	Leinster Novice Cross Country Championships	XC	Leinster	18	Conor O'Loughlin	Novice	Men		22:01.0		BIB 1029 | Check distance														
+1313	03/11/2024	"Citywest, Co. Dublin"	Dublin Senior Cross Country Championships	XC	Dublin	12	Pierce Geoghegan	Senior	Men		24:34.0		BIB 180 | Check distance														
+1321	18/01/2025	"Kilcormac, Co. Offaly"	Leinster Intermediate and Master Cross Country Championships	XC	Leinster	11	Mollie O'Donnell	Intermediate	Women		19:36.0		3rd Club Team | Check distance														
+1324	09/02/2025	"Westport, Co. Mayo"	National Intermediate and Master Cross Country Championships	XC	National	18	Conor O'Loughlin	Intermediate	Men	M40	29:46.0		"Bib ""480"" | Check distance"														
+1377	19/10/2025	"Abbottstown, Dublin"	National Autumn Open XC Senior Masters	XC	National	5	Pierce Geoghegan	Senior	Men	M35	26:51.0		Check distance														

@@ -4,6 +4,7 @@ location: Gowran, Co Kilkenny
 date: 2019-01-13 13:30
 latitude: 52.619959 
 longitude: -7.064579
+distance: "5km (ESTIMATED, Source: Leinster booklet: Intermediate Women 5,000m)"
 results:
   - place: 1
     name: Lisa MADDEN
@@ -126,7 +127,7 @@ results:
     category: F
     time: 16m44s
   - place: 25
-    name: Laura RYAN
+    name: Laura Ryan
     club: Rathfarnham WSAF
     category: F
     time: 16m45s

@@ -334,7 +334,7 @@ results:
     club: none
     time: 20m 30s
   - place: 83
-    name: Dave  TILLY
+    name: Dave TILLY
     club: Liffey Valley AC
     time: 20m 36s
   - place: 84
@@ -2358,7 +2358,7 @@ results:
     club: Waterstown Warriors
     time: 49m 30s
   - place: 588
-    name: Laura  RYAN
+    name: Laura Ryan
     club: Waterstown Warriors
     time: 49m 32s
   - place: 590

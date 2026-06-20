@@ -4,6 +4,7 @@ location: Moyvalley, Co. Meath
 date: 2015-10-25 12:00
 latitude: 53.4299195
 longitude: -6.92087
+distance: "6km (ESTIMATED, Override: Estimated by pace for historic Eastern Region masters XC)"
 results:
   - place: 1
     name: Mick Traynor

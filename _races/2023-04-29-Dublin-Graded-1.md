@@ -9,7 +9,7 @@ results:
     name: Orla Gordon
     time: 6.09.37
     category: Paced Mile 6 Min 
-    note: Personal Best
+    note: 1 Mile Personal Best
   - place: 5
     name: Sergei Dolgy
     time: 2.18.32

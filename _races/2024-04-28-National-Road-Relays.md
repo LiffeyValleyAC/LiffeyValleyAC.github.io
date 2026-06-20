@@ -4,6 +4,7 @@ location: Raheny, Dublin
 date: 2024-04-28 14:00
 latitude: 53.3522291
 longitude: -6.3214874
+distance: "1.609km (ESTIMATED, Source: Athletics Ireland Road Relays rules: 1 lap approx 1 mile; split time fits 1-lap leg)"
 results:
   - place: 15
     name: Brianna McGhee

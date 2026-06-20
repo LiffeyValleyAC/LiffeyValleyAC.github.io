@@ -4,6 +4,7 @@ location: Phoenix Park
 date: 2018-03-25 11:30
 latitude: 53.36259
 longitude: -6.335077
+distance: "5km (ESTIMATED, Source: LVAC race listing: Avondale Cup on George Harrison 5k lap)"
 results:
   - place: 1
     name: Eddie McGrath

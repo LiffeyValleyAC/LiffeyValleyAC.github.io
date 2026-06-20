@@ -4,6 +4,7 @@ location: Tallaght Stadium
 date: 2024-05-22 18:45
 latitude: 53.291533 
 longitude: -6.356521
+distance: "1.609km (ESTIMATED, Override: Dublin Graded Meeting 3 2024 programme/report: 1 mile)"
 results:
   - place: 4
     name: Brigid Long 

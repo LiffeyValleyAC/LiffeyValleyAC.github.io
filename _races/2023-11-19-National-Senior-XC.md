@@ -4,6 +4,7 @@ location: Gowran Demesne
 date: 2023-11-19 12:00
 latitude: 52.614185
 longitude: -7.069892
+distance: "10km (ESTIMATED, Estimated: Historic national senior XC distance inferred by pace)"
 results: 
   - place: 155
     name: Geoffrey Alexandre

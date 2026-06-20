@@ -4,6 +4,7 @@ location: Dundalk IT, Co. Louth
 date: 2024-02-11 14:00
 latitude: 53.984295
 longitude: -6.393292
+distance: 5km W, 9km M
 results:
   - place: 18
     name: Brigid Long

@@ -4,6 +4,7 @@ location: Santry
 date: 2015-11-01 12:00
 latitude: 53.4013794
 longitude: -6.2477711
+distance: "6km (ESTIMATED, Source: Dublin Senior women 2021 listing: 6,000m; same-era standard)"
 results:
   - place: 1
     name: Caroline Crowley

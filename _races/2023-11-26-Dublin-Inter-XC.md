@@ -4,6 +4,7 @@ location: Tymon Park, Dublin
 date: 2023-11-26 13:00
 latitude: 53.302456
 longitude: -6.339960
+distance: "5km (ESTIMATED, Source: Dublin Intermediate women reported as 5,000m)"
 results:
   - place: 12
     name: Brigid Long

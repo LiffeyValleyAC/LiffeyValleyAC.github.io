@@ -4,6 +4,7 @@ location: Gowran, Co. Kilkenny
 date: 2021-12-05 14:00
 latitude: 53.3522291
 longitude: -6.3214874
+distance: "4km (ESTIMATED, Source: Athletics Ireland rules: Novice Women 4,000m)"
 results:
   - place: 56
     name: Sinead McDonald

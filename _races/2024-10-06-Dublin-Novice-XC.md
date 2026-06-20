@@ -4,6 +4,7 @@ location: Phoenix Park, Dublin
 date: 2024-10-06 13:00
 latitude: 53.3522291
 longitude: -6.3214874
+distance: "4km (ESTIMATED, Source: Dublin Novice women reported as 4k; standard novice women distance)"
 results:
   - place: 7
     name: Ciara Broderick Farrell

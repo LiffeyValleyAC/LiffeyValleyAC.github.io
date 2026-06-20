@@ -4,6 +4,7 @@ location: Dunboyne, Co. Meath
 date: 2023-11-04 14:00
 latitude: 53.417416
 longitude: -6.464825
+distance: "6km (ESTIMATED, Source: Leinster booklet: Senior Women 6,000m)"
 results:
   - place: 32
     name: Siobhán Nugent

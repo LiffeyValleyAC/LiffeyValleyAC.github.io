@@ -4,6 +4,7 @@ location: Santry, Dublin
 date: 2021-11-21 14:30
 latitude: 53.3522291
 longitude: -6.3214874
+distance: "10km (ESTIMATED, Estimated: Historic national senior XC distance inferred by pace)"
 results:
   - place: 71
     name: Peter Arthur

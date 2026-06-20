@@ -4,6 +4,7 @@ location: St. Annes Park, Raheny
 date: 2024-01-07 13:00
 latitude: 53.3522291
 longitude: -6.3214874
+distance: "3km F65+ and M65+, 4km F, 7km M (ESTIMATED, Source: Dublin/National masters)"
 results:
   - place: 2
     name: Úna Reilly
@@ -68,10 +69,6 @@ results:
   - place: 30
     name: Sean O'Meallaigh
     time: 28.55
-    category: M40
-  - place: 40
-    name: Orla Gordon
-    time: 30.21
     category: M40
   - place: 45  
     name: Bernard O'Sullivan

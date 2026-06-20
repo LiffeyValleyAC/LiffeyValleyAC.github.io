@@ -4,6 +4,7 @@ location: Avondale, Co. Wicklow
 date: 2024-01-21 13:00
 latitude: 52.913309
 longitude: -6.222561
+distance: "7km (ESTIMATED, Source: Leinster booklet: Masters Men O35-O64 7,000m)"
 results:
   - place: 49
     name: Donal Iremonger

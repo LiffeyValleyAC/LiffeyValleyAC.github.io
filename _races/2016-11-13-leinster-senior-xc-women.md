@@ -4,6 +4,7 @@ location: New Forest Golf Club, Tyrellstown
 date: 2016-11-13 15:00
 latitude: 53.3885425
 longitude: -7.4324636
+distance: "5km (ESTIMATED, Estimated: Historic Leinster senior women distance inferred by pace)"
 results:
   - place: 1
     name: Barbara CLEARY

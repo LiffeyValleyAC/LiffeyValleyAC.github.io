@@ -4,6 +4,7 @@ location: Phoenix Park
 date: 2014-02-09 11:30
 latitude: 53.3522291
 longitude: -6.3214874
+distance: 4.5km
 results:
   - place: 1
     name: Leona O'Reilly

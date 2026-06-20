@@ -63,7 +63,7 @@ results:
     name: Derek Cullen
     finish_time: 41m 06s
     handicap: 0m 00s
-    actual_time: 0m 00s
+    actual_time: 41m 06s
   - place: 13
     name: Anthony Mcmahon
     finish_time: 41m 20s

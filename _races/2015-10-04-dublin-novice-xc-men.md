@@ -4,6 +4,7 @@ location: Phoenix Park
 date: 2015-10-04 14:15
 latitude: 53.3502469
 longitude: -6.3199964
+distance: "6km (ESTIMATED, Source: Standard Dublin novice men distance 6k)"
 results:
   - place: 1
     name: Patrick MacGabhann

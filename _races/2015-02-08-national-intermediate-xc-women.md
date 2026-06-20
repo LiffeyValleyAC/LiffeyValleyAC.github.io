@@ -4,6 +4,7 @@ location: Tuam, Co. Galway
 date: 2015-02-08 12:00:00
 latitude: 53.518208
 longitude: -8.848617
+distance: "5km (ESTIMATED, Source: Athletics Ireland rules: Intermediate Women 5,000m)"
 results:
   - place: 1
     name: Danielle Fegan

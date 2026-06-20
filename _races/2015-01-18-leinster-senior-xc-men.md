@@ -4,6 +4,7 @@ location: Dunboyne, Co. Meath
 date: 2015-01-19 12:00
 latitude: 53.415714
 longitude: -6.458190
+distance: 10km
 results:
   - place: 1
     name: John Eves

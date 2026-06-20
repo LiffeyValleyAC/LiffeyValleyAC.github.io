@@ -4,6 +4,7 @@ location: Dunboyne, Co. Meath
 date: 2022-01-15 14:00
 latitude: 53.3522291
 longitude: -6.3214874
+distance: "5km (ESTIMATED, Source: Leinster booklet: Intermediate Women 5,000m)"
 results:
   - place: 10
     name: Sinead McDonald

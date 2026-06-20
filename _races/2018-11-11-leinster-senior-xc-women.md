@@ -4,6 +4,7 @@ location: Adamstown, Co Wexford
 date: 2018-11-11 15:00
 latitude: 52.3935679
 longitude: -6.7273115
+distance: "5km (ESTIMATED, Estimated: Historic Leinster senior women distance inferred by pace)"
 results:
   - place: 1
     name: Lauren DERMODY

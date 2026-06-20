@@ -4,6 +4,7 @@ location: Castlelyons, Co. Cork
 date: 2022-02-13 14:00
 latitude: 53.3522291
 longitude: -6.3214874
+distance: "7km (ESTIMATED, Source: Athletics Ireland rules: Masters Men 35+/50+ 7,000m)"
 results:
   - place: 7
     name: Arnaud Benjacar

@@ -4,6 +4,7 @@ location: Dundalk IT, Co. Louth
 date: 2024-02-11 13:00
 latitude: 53.984295
 longitude: -6.393292
+distance: 7km M, 5km M65+
 results:
   - place: 26
     name: Pat Collins

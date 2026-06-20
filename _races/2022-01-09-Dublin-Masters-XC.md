@@ -4,6 +4,7 @@ location: St. Annes Park, Raheny
 date: 2022-01-09 13:00
 latitude: 53.3522291
 longitude: -6.3214874
+distance: "3km W, 6km M (ESTIMATED, Source: Dublin/National)"
 results:
   - place: 17
     name: Orla Gordon

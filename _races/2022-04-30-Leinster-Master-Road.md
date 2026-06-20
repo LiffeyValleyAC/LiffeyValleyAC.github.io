@@ -4,6 +4,7 @@ location: Gowran, Co Kilkenny
 date: 2022-04-30 15:00
 latitude: 53.3522291
 longitude: -6.3214874
+distance: "6.437km (ESTIMATED, Override: Gender appears miscoded; M45 master road championship distance inferred as approx 4 miles)"
 results:
   - place: 1
     name: Lea Fulcher

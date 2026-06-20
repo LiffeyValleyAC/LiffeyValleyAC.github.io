@@ -4,6 +4,7 @@ location: Stamullen, Co. Meath
 date: 2022-09-25 13:30
 latitude: 53.3522291
 longitude: -6.3214874
+distance: "3km (ESTIMATED, Source: Star of the Sea programme: women junior/senior/masters 3,000m)"
 results:
   - place: 18
     name: Siobhán Nugent

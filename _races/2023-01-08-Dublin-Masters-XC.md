@@ -4,6 +4,7 @@ location: St. Annes Park, Raheny
 date: 2023-01-08 13:00
 latitude: 53.3522291
 longitude: -6.3214874
+distance: "4km (ESTIMATED, Source: Dublin/National masters women standard 4,000m)"
 results:
   - place: 2
     name: Una Reilly

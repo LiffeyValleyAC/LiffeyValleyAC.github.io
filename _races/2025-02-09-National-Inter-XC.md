@@ -4,6 +4,7 @@ location: Westport, Co. Mayo
 date: 2025-02-09 14:00
 latitude: 53.800658439245 
 longitude: -9.53549737870558
+distance: "7km (ESTIMATED, Source/estimated: National Intermediate Men: current rules 7,000m; older editions inferred as 8,000m)"
 results:
   - place: 18
     name: Conor O'Loughlin

@@ -4,6 +4,7 @@ location: Citywest Hotel Leisure Centre, Dublin
 date: 2022-11-06 14:30
 latitude: 53.281955
 longitude: -6.413396
+distance: "6km (ESTIMATED, Source: Dublin Senior women 2021 listing: 6,000m; same-era standard)"
 results:
   - place: 15
     name: Sile Carroll

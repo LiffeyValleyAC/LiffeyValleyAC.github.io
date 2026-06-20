@@ -4,6 +4,7 @@ location: Abbotstown, Dublin
 date: 2018-10-21 14:00
 latitude: 53.3970143
 longitude: -6.3722956
+distance: "6km (ESTIMATED, Source: Athletics Ireland Autumn Open rules: senior/masters women 6,000m)"
 results:
   - place: 1
     name: Shona HEASLIP

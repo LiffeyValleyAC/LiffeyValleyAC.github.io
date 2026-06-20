@@ -1,0 +1,22 @@
+23:28 14/06/2026
+Archivo con carreras sin distancias: RACES_WITHOUT_DISTANCE.txt
+
+Carreras con distancias inferidas de internet: RACES_WITH_DISTANCE_COMPLETED.tsv
+
+Usé ChatGPT para incluir esas distancias en los registros de las carreras, en un parámetro "distance: " al comienzo del archivo .md
+
+Script ejecutado para extraer todos registros al formato que necesitamos para Google Sheet dashboard: extract-race-results-v8.ps1
+
+Registros con distancias completas, pero que necesitan ser chequeadas: lvac-races-v8.tsv reformateado en lvac-races-v8_excel.xlsx
+
+* Manualmente formatear el tiempo a hh:mm:ss.00 par aluego copiarlo a Google Sheets. 
+* Reemplacé los emoticons 🥇 ðŸ¥‡ 🥈 ðŸ¥ˆ 🥉 ðŸ¥‰ y el carácter grado Â° a °)
+
+
+19:37 20/06/2026
+Genere una V9 para que reciba como parámetros Fecha de Inicio y Fin para que solo procese esas carreras.
+
+Se ejecuta con:
+powershell -NoProfile -ExecutionPolicy Bypass -File "C:\Users\hogar\Documents\Codex\2026-06-09\tengo-una-pagina-web-de-un\work\extract-race-results-v9.ps1" -DateFrom "2026-06-01" -DateTo "2026-06-30"
+
+Can work with zero, one or the two date parameters.

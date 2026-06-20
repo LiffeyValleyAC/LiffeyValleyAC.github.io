@@ -4,6 +4,7 @@ location: Trinity Sports Ground, Santry
 date: 2021-10-31 14:30
 latitude: 53.3522291
 longitude: -6.3214874
+distance: "6km (ESTIMATED, Source: Dublin Senior women 2021 listing: 6,000m; same-era standard)"
 results:
   - place: 17
     name: Sinead McDonald

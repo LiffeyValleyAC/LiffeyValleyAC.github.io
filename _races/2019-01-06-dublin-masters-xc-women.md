@@ -4,6 +4,7 @@ location: St Annes Park, Raheny
 date: 2019-01-06 13:00
 latitude: 53.374814
 longitude: -6.170177
+distance: "4km (ESTIMATED, Source: Dublin/National masters women standard 4,000m)"
 results:
   - place: 1
     name: Siobhan EVISTON

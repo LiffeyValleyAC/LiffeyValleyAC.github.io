@@ -4,6 +4,7 @@ location: Phoenix Park
 date: 2019-02-24 11:00
 latitude: 53.3522291
 longitude: -6.3214874
+distance: "5km (ESTIMATED, Source/estimated: LVAC race listing labels later club XC championship as 5km)"
 results:
   - place: 1
     name: Síle Carroll

@@ -4,6 +4,7 @@ location: Palace Grounds, Tuam
 date: 2017-01-22 12:00
 latitude: 53.5190713
 longitude: -8.84935029999997
+distance: "8km (ESTIMATED, Source/estimated: National Intermediate Men: current rules 7,000m; older editions inferred as 8,000m)"
 results:
  - place: '1'
    name: Niall Sheehan

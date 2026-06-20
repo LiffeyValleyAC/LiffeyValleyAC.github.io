@@ -4,6 +4,7 @@ location: Abbotstown, Dublin
 date: 2018-10-21 14:45
 latitude: 53.3970143
 longitude: -6.3722956
+distance: "7.5km (ESTIMATED, Source: Autumn Open rules/timetable: senior/masters men 8,000m in current rules, 7,500m in older timetable)"
 results:
   - place: 1
     name: Sean TOBIN

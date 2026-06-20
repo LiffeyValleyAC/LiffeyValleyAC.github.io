@@ -4,6 +4,7 @@ location: Ballyhale, Co. Kilkenny
 date: 2021-10-23 14:00
 latitude: 53.3522291
 longitude: -6.3214874
+distance: "4km (ESTIMATED, Source: Leinster booklet: Novice Women 4,000m)"
 results:
   - place: 10
     name: Sinead McDonald

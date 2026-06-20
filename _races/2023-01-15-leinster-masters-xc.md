@@ -4,6 +4,7 @@ location: Avondale House, Co. Wicklow
 date: 2023-01-15 13:00
 latitude: 53.3522291
 longitude: -6.3214874
+distance: "7km (ESTIMATED, Source: Leinster booklet: Masters Men O35-O64 7,000m)"
 results:
   - place: 1
     name: Peter Arthur

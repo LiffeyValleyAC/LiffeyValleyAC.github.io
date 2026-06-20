@@ -4,6 +4,7 @@ location: Castlelyons, Co. Cork
 date: 2022-02-13 14:00
 latitude: 53.3522291
 longitude: -6.3214874
+distance: "5km (ESTIMATED, Source: Athletics Ireland rules: Intermediate Women 5,000m)"
 results:
   - place: 22
     name: Elle O'Driscoll

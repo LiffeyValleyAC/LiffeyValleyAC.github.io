@@ -4,6 +4,7 @@ location: St Annes Park, Raheny
 date: 2020-01-05 13:30
 latitude: 53.3712996
 longitude: -6.1820273
+distance: "6km (ESTIMATED, Estimated: Dublin masters men historical distance inferred from pace)"
 results:
   - place: 1
     name: Colm ROONEY

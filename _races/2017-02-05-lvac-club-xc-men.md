@@ -4,6 +4,7 @@ location: Phoenix Park
 date: 2017-02-05 11:30
 latitude: 53.3522291
 longitude: -6.3214874
+distance: "6km (ESTIMATED, Estimated: Historic LVAC men's XC format/pace)"
 results:
   - place: 1
     name: Peter Arthur

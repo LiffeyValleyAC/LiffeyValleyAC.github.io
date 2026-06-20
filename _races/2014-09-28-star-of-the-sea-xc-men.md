@@ -4,6 +4,7 @@ location: Stamullen, Co Meath.
 date: 2014-09-28 11:00
 latitude: 53.6214518
 longitude: -6.3234359
+distance: 6km
 results:
   - place: 1
     name: Rory Kavanagh

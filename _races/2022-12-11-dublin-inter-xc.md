@@ -4,6 +4,7 @@ location: Tymon Park, Dublin
 date: 2022-12-11 13:00
 latitude: 53.3522291
 longitude: -6.3214874
+distance: "5km (ESTIMATED, Source: Dublin Intermediate women reported as 5,000m)"
 results:
   - place: 6
     name: Ciara Broderick Farrell

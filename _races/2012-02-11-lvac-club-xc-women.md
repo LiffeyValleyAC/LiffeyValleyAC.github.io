@@ -4,6 +4,7 @@ location: Phoenix Park
 date: 2012-02-11 11:30
 latitude: 53.3522291
 longitude: -6.3214874
+distance: 4km (Estimated)
 results:
   - place: 1
     name: Leona O'Reilly
@@ -30,7 +31,7 @@ results:
     handicap: 5m 30s
     actual_time: 23m 01s
   - place: 5
-    name: JuileAnne Bowden
+    name: Juileanne Bowden
     finish_time: 14m 02s
     estimated: 29m 48s
     handicap: 6m 00s

@@ -4,6 +4,7 @@ location: Dunboyne, Co. Meath
 date: 2024-10-20 14:00
 latitude: 53.41350621411874
 longitude: -6.456684885495307
+distance: "6km (ESTIMATED, Source: Leinster booklet: Novice Men 6,000m)"
 results:
   - place: 18
     name: Conor O'Loughlin

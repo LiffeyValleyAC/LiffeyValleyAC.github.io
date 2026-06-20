@@ -4,6 +4,7 @@ location: Dog Pond, Phoenix Park
 date: 2022-12-17 12:00
 latitude: 53.3515897
 longitude: -6.3090013
+distance: "5km (ESTIMATED, Source: LVAC race listing: Cake Race 5K XC (Handicap))"
 results:
   - place: 1
     name: Rebecca McLoughlin

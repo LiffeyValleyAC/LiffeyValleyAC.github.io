@@ -4,6 +4,7 @@ location: Gowran, Co. Kilkenny
 date: 2023-02-12 14:00
 latitude: 53.3522291
 longitude: -6.3214874
+distance: "5km (ESTIMATED, Source: Athletics Ireland rules: Intermediate Women 5,000m)"
 results:
   - place: 31
     name: Mollie O'Donnell

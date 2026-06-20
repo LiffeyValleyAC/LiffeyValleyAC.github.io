@@ -4,6 +4,7 @@ location: Santry
 date: 2015-11-01 12:00
 latitude: 53.4013794
 longitude: -6.2477711
+distance: "10km (ESTIMATED, Estimated: Historic Dublin senior men distance inferred by pace/standard)"
 results:
   - place: 1
     name: Mick Clohisey

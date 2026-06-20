@@ -4,6 +4,7 @@ location: Stamullen, Co Meath.
 date: 2015-09-27 12:45
 latitude: 53.6214518
 longitude: -6.3234359
+distance: "3km (ESTIMATED, Source: Star of the Sea programme: women junior/senior/masters 3,000m)"
 results:
   - place: 1
     name: Leona O'Reilly

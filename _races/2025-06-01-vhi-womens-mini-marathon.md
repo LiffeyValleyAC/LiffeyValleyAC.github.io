@@ -2,6 +2,7 @@
 title: VHI Women's Mini Marathon 10k
 location: Merrion Square Park, Dublin
 date: 2025-06-01 12:30
+distance: 10km
 latitude: 53.33824536324811 
 longitude: -6.247742940665635
 

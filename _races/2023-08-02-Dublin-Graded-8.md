@@ -4,6 +4,7 @@ location: Morton Stadium
 date: 2023-08-02 19:00
 latitude: 53.291533 
 longitude: -6.356521
+distance: "1.609km (ESTIMATED, Override: World Athletics listing: Dublin Graded Meeting 8 2023 women's mile)"
 results:
   - place: 3
     name: Brigid Reilly

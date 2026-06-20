@@ -4,6 +4,7 @@ location: Tallaght
 date: 2016-05-01 12:00
 latitude: 53.2912085
 longitude: -6.3584152
+distance: "5km (ESTIMATED, Source: Dublin Novice Road Championship held within Tallaght 5k)"
 results:
   - place: 22
     name: Charlie DONNELLY

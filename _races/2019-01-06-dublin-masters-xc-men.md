@@ -4,6 +4,7 @@ location: St Annes Park, Raheny
 date: 2019-01-06 13:30
 latitude: 53.374814
 longitude: -6.170177
+distance: "6km (ESTIMATED, Estimated: Dublin masters men historical distance inferred from pace)"
 results:
   - place: 1
     name: Rossa HURLEY

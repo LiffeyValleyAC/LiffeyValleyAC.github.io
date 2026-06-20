@@ -4,6 +4,7 @@ location: Raheny, Dublin
 date: 2023-04-23 14:00
 latitude: 53.3522291
 longitude: -6.3214874
+distance: "1.609km (ESTIMATED, Source: Athletics Ireland Road Relays rules: 1 lap approx 1 mile; split time fits 1-lap leg)"
 results:
   - place: 10
     name: Mollie O'Donnell

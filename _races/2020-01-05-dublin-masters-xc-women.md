@@ -4,6 +4,7 @@ location: St Annes Park, Raheny
 date: 2020-01-05 13:00
 latitude: 53.3712996
 longitude: -6.1820273
+distance: "3km W, 6km M (ESTIMATED, Source: Dublin/National)"
 results:
   - place: 1
     name: Kate O'NEILL

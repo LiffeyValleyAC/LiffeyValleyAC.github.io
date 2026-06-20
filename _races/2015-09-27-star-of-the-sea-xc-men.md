@@ -4,6 +4,7 @@ location: Stamullen, Co Meath.
 date: 2015-09-27 13:00
 latitude: 53.6214518
 longitude: -6.3234359
+distance: "6km (ESTIMATED, Source: Star of the Sea programme: men junior/senior/masters 6,000m)"
 results:
   - place: 1
     name: Peter Arthurs
