@@ -101,7 +101,7 @@ results:
     category: M75
     note: BIB 408 🥉 Bronce Championship Medal M75
   - place: 692
-    name: Hilary Mitchell McDonnelll
+    name: Hilary McDonnell
     time: 44.34
     category: F60
     note: BIB 183

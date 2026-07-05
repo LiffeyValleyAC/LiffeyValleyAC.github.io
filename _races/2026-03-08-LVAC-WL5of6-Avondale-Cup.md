@@ -70,7 +70,7 @@ results:
     note:
 
   - place: 10
-    name: Paddy Doyle
+    name: Patrick Doyle
     finish_time: 29.02
     handicap: 08.45
     actual_time: 20.17

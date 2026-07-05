@@ -85,7 +85,7 @@ Have all received the **+10 participation bonus**, demonstrating how **showing u
     
 *   ⬆️ **Paddy Reilly**: climbed into the **top 5** with consistent scoring and the participation bonus (+1 place, 6th ➜ 5th)
     
-*   📈 **Paddy Doyle**: continued his strong upward trajectory (+4 places, 16th ➜ 12th)
+*   📈 **Patrick Doyle**: continued his strong upward trajectory (+4 places, 16th ➜ 12th)
     
 *   🚀 **Joseph Whittle**: steady improvement through consistent participation (+6 places, 20th ➜ 14th)
     

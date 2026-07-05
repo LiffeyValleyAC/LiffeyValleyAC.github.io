@@ -97,7 +97,7 @@ The following athletes made their **first appearance in Race 2**, immediately ad
 * 🆕 **Martin Dorgan**
 * 🆕 **Aoife Brady**
 * 🆕 **Ellen Cronin**
-* 🆕 **Paddy Doyle**
+* 🆕 **Patrick Doyle**
 * 🆕 **Annie Gittens**
 * 🆕 **Jennifer Preston**
 * 🆕 **Ruth Murphy**

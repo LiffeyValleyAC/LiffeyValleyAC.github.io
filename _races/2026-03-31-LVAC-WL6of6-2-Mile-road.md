@@ -114,7 +114,7 @@ results:
     actual_time: 12.21
     note:
   - place: 19
-    name: Paddy Doyle
+    name: Patrick Doyle
     finish_time: 16.57
     handicap: 4.30
     actual_time: 12.27

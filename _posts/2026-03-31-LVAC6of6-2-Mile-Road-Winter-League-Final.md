@@ -47,7 +47,7 @@ Athletes who consistently showed up across the six races, especially those who s
     
 *   📈 **Joseph Whittle**: impressive move into the **top 5 overall** (+10 places, 14th ➜ 4th)
     
-*   🚀 **Paddy Doyle**: continued his strong late season form (+6 places, 12th ➜ 6th)
+*   🚀 **Patrick Doyle**: continued his strong late season form (+6 places, 12th ➜ 6th)
     
 *   ⬆️ **Aoife Brady**: major improvement into the **top 15** (+5 places, 20th ➜ 15th)
     
