@@ -4,70 +4,70 @@ location: Raheny, Dublin
 date: 2024-04-28 14:00
 latitude: 53.3522291
 longitude: -6.3214874
-distance: "1.609km (ESTIMATED, Source: Athletics Ireland Road Relays rules: 1 lap approx 1 mile; split time fits 1-lap leg)"
+distance: 1.609km per lap
 results:
   - place: 15
     name: Brianna McGhee
     time: 5.48.0
-    category: FS - Liffey Valley "A"
+    category: FS - Liffey Valley "A" 1 lap
   - place: 15
     name: Ciara Broderick Farrell
     time: 12.00.0
-    category: FS - Liffey Valley "A"
+    category: FS - Liffey Valley "A" 2 laps
   - place: 15
     name: Jen Preston
     time: 5.39.0
-    category: FS - Liffey Valley "A"
+    category: FS - Liffey Valley "A" 1 lap
   - place: 22
     name: Aifric Gallagher
     time: 6.17.0
-    category: FS - Liffey Valley "B"
+    category: FS - Liffey Valley "B" 1 lap
   - place: 22
     name: Shauna Dunne
     time: 12.44.0
-    category: FS - Liffey Valley "B"
+    category: FS - Liffey Valley "B" 2 laps
   - place: 22
     name: Jeanne Nicollier
     time: 6.10.0
-    category: FS - Liffey Valley "B"
+    category: FS - Liffey Valley "B" 1 lap
   - place: 10
     name: Orla Gordon
     time: 6.26.0
-    category: F35+ 
+    category: F35+ 1 lap
   - place: 10
     name: Brigid Long 
     time: 12.52.0
-    category: F35+ 
+    category: F35+ 2 laps
   - place: 10
     name: Annie Gittens
     time: 5.59.0
-    category: F35+ 
+    category: F35+ 1 lap
   - place: 23
     name: Conor Galvin
     time: 10.35.0
-    category: MS
+    category: MS 2 laps
   - place: 23
     name: Oisin Murphy
     time: 5.06.0
-    category: MS
+    category: MS 1 lap
   - place: 23
     name: Pierce Geoghegan
     time: 15.49.0
-    category: MS
+    category: MS 3 laps
   - place: 23
     name: Patrick Fox
     time: 12.20.0
-    category: MS
+    category: MS 2 laps
   - place: 5
     name: Donal Iremonger
     time: 5.14.0
-    category: M50+
+    category: M50+ 1 lap
   - place: 5
     name: Arnaud Benjacar
     time: 11.16.0
-    category: M50+
+    category: M50+ 2 laps
   - place: 5
     name: Tom O'Connor
     time: 5.45.0
-    category: M50+
+    category: M50+ 1 lap
 ---

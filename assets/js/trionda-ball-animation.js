@@ -1,6 +1,6 @@
 (function () {
   var ballImageSrc = '/assets/images/pngtree-fifa-world-cup-soccer-ball-2026-trionda-png-small.png';
-  var activeBalls = 2;
+  var activeBalls = 3;
 
   function randomBetween(min, max) {
     return Math.random() * (max - min) + min;
@@ -14,10 +14,10 @@
   // pérdida de energía (restitución) y rebotes contra los bordes laterales
   // de la pantalla, bajando "escalón a escalón" hasta el fondo.
   function simulateTrajectory(startX, size, viewportWidth, viewportHeight) {
-    var g = 3600;              // gravedad, px/s^2
+    var g = 2600;              // gravedad, px/s^2 3600
     var dt = 1 / 45;           // paso de simulación
     var restitution = 0.6;     // energía vertical conservada tras cada rebote
-    var friction = 0.94;       // pérdida de velocidad horizontal por rebote
+    var friction = 1.1;       // pérdida de velocidad horizontal por rebote 0.94
     var totalSteps = 8;        // número de "escalones" del descenso
 
     var x = startX;
