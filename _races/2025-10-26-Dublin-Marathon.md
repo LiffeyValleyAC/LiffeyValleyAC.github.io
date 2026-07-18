@@ -31,7 +31,7 @@ results:
     category: M45
     note: BIB 3051
   - place: 2062
-    name: Cliodhna Bardon
+    name: Cliodhna Tutty Bardon
     time: 03.12.50
     category: FS
     note: BIB 4346

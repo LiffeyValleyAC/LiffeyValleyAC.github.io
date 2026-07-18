@@ -4,7 +4,7 @@ location: Paris, France
 ---
 Well done to our club members who finished the Paris Marathon in a hugh field of 51545 finishers.
 
-BIB 24459 <b>Cliodhna Bardon 3:17:45 hr</b>
+BIB 24459 <b>Cliodhna Tutty Bardon 3:17:45 hr</b>
 
 BIB 54307 <b>Heather Browning 4:01:57 hr</b>
 
