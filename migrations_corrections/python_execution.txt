@@ -2,3 +2,10 @@
 powershell -NoProfile -ExecutionPolicy Bypass -File "C:\Users\hogar\Documents\Codex\2026-06-09\tengo-una-pagina-web-de-un\work\extract-race-results-v9.ps1" -DateFrom "2026-06-01" -DateTo "2026-06-30"
 
 Can work with zero, one or the two date parameters.
+
+Final file is in C:\Users\hogar\Documents\Codex\2026-06-09\tengo-una-pagina-web-de-un\outputs
+"lvac-races-v9.tsv"
+
+Open in with Excel, and format the column DATE (L) to hh:mm:ss.00
+
+Then copy it to the Google Sheet file for the dashboard
