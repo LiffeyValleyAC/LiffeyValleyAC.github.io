@@ -123,7 +123,7 @@ Whether you raced once or completed the full series, **you are part of this jour
          style="width: 100%; height: auto;">
   </a>
   <figcaption style="font-size: 1.2em">
-    2 Mile Road Winners - Stephanie Hawkins, Eimear Dunne, Michael O'Connor
+    2 Mile Road Winners - Stephanie Hawkins, Eimear Dunne, Michael O'Conor
   </figcaption>
 </figure>
 

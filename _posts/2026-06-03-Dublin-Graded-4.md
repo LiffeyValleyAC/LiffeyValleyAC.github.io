@@ -64,7 +64,7 @@ Well done to Pierce, Geoffrey, and everyone who represented the club on the nigh
     </tr>
     <tr style="border-bottom: 1px solid #eee; background-color: #fafafa;">
         <td style="padding: 0px 0px 0px 0px; text-align: right; font-weight: bold;">3</td>
-        <td style="padding: 0px 10px;">Michael O'Connor</td>
+        <td style="padding: 0px 10px;">Michael O'Conor</td>
         <td style="text-align: right; padding: 0px 10px; font-family: monospace;">2:12.24</td>
         <td style="padding: 0px 20px;">800m Men C H1 <span style="color: #007bff; font-weight: bold;">SB</span></td>
     </tr>

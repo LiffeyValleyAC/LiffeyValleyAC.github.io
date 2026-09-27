@@ -18,7 +18,7 @@ results:
     actual_time: 13.29
     note:
   - place: 3
-    name: Michael O'Connor
+    name: Michael O'Conor
     finish_time: 16.15
     handicap: 5.50
     actual_time: 10.25

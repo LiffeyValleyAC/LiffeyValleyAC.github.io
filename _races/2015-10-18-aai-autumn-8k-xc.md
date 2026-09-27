@@ -138,7 +138,7 @@ results:
     category: SM
     time: 27m 51s
   - place: 27
-    name: Michael O'Connor
+    name: Michael O'Conor
     club: Galway City Harriers A.C.
     category: M40
     time: 27m 53s

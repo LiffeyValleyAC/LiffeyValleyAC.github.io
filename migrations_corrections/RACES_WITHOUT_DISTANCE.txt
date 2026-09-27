@@ -17,7 +17,7 @@ ID	DATE	LOCATION	RACE NAME	SURFACE	ORGANISATION	PLACE	ATHLETE	CATEGORY	GENDER	GR
 1025	12/02/2015	Phoenix Park	LVAC Womens Cross Country Championships	XC	LVAC	1	Sile Carroll	Club Championships	Women		15:12.0		Check distance														
 1036	27/09/2015	"Stamullen, Co Meath."	Star of the Sea Men's Cross Country	XC	Club Races	5	Brendan Beere		Men		21:29.0		Check distance														
 1037	27/09/2015	"Stamullen, Co Meath."	Star of the Sea Women's Cross Country	XC	Club Races	1	Leona O'Reilly		Women		11:14.0		Check distance														
-1038	04/10/2015	Phoenix Park	Dublin Novice Men's Cross Country	XC	Dublin	18	Michael O'Connor	Novice	Men		20:10.0		Check distance														
+1038	04/10/2015	Phoenix Park	Dublin Novice Men's Cross Country	XC	Dublin	18	Michael O'Conor	Novice	Men		20:10.0		Check distance														
 1039	04/10/2015	Phoenix Park	Dublin Novice Women's Cross Country	XC	Dublin	31	Frances Kinnane	Novice	Women		17:04.0		Check distance														
 1042	25/10/2015	"Moyvalley, Co. Meath"	Eastern Region Masters Cross Country	XC	Club Races	26	Billy Hanley	Master	Men	M40	21:21.0		Check distance														
 1044	01/11/2015	Santry	Dublin Senior Cross Country Women	XC	Dublin	7	Leona O'Reilly	Senior	Women		23:55.0		Check distance														

@@ -163,7 +163,7 @@ Matthew Blyth	M
 Melissa Thompson	W
 Michael Ferreira	M
 Michael Minogue	M
-Michael O'Connor	M
+Michael O'Conor	M
 Michelle Skeath	W
 Mike Griffin	M
 Mike McCarthy	M
@@ -238,3 +238,6 @@ Una Reilly	W
 Utpal Medhi	M
 William Cooper	M
 Katie Barry	W
+Mohamed Cadimi	M
+Mollie O'Driscoll	W
+Joe McDermott	M

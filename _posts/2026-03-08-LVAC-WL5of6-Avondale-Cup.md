@@ -101,7 +101,7 @@ Race 5 also welcomed **several new participants**, continuing to grow the league
     
 *   🆕 **David Carroll**
     
-*   🆕 **Michael O'Connor**
+*   🆕 **Michael O'Conor**
     
 *   🆕 **Ciaran Reilly**
     

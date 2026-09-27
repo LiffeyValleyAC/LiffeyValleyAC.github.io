@@ -14,7 +14,7 @@ location: Phoenix Park, Dublin
 <ul>
   <li><strong>27th</strong> - Geoffrey Alexandre (M35): <strong>16:00</strong></li>
   <li><strong>92nd</strong> - Antoine Daubigny (MS): <strong>17:16</strong></li>
-  <li><strong>102nd</strong> - Michael O'Connor (M35): <strong>17:33</strong></li>
+  <li><strong>102nd</strong> - Michael O'Conor (M35): <strong>17:33</strong></li>
   <li><strong>183rd</strong> - James Foley (M35): <strong>18:37</strong></li>
   <li><strong>193rd</strong> - Neil Duffy (M45): <strong>18:50</strong></li>
   <li><strong>208th</strong> - Bernard O'Sullivan (M45): <strong>18:57</strong></li>

@@ -22,7 +22,7 @@ results:
     category: MS
     note: Team Senior Men - 3 laps 2Miles 
   - place: 21
-    name: Michael O'Connor
+    name: Michael O'Conor
     time: 10.53
     category: MS
     note: Team Senior Men - 2 laps 2Miles     
