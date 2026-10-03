@@ -10,21 +10,21 @@ results:
     time: 15.06
     category: M35
     national: DUB M35
-    note: BIB 1025
+    note: BIB 1025 | 2nd 🥈 Team M35+ | 2nd 🥈 Dublin M35+
 
   - place: 32
     name: Pierce Geoghegan
     time: 15.15
     category: M40
     national: DUB M40
-    note: BIB 692
+    note: BIB 692 | 2nd 🥈 Team M35+ | 2nd 🥈 Dublin M40+
 
   - place: 93
     name: Geoffrey Alexandre
     time: 16.28
     category: M35
     national: DUB M35
-    note: BIB 690
+    note: BIB 690 | 2nd 🥈 Team M35+ 
 
   - place: 131
     name: Antoine Daubigny
@@ -52,7 +52,7 @@ results:
     time: 18.28
     category: M45
     national: DUB M45
-    note: BIB 860
+    note: BIB 860 | 2nd 🥈 Team M35+ 
 
   - place: 341
     name: Cliodhna Bardon
