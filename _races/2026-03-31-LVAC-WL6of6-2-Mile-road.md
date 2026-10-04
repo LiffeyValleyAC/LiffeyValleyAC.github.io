@@ -120,7 +120,7 @@ results:
     actual_time: 12.27
     note:
   - place: 20
-    name: Paul Bowler
+    name: Paul Bolger
     finish_time: 16.58
     handicap: 4.30
     actual_time: 12.28
