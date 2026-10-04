@@ -190,6 +190,64 @@ document.addEventListener('DOMContentLoaded', function() {
     height: 250px;
   }
 }
+
+/* REGISTER NOW - estilos exclusivos del boton principal */
+.race-register-cta {
+  display: inline-flex;
+  align-items: center;
+  margin: 6px 0;
+}
+
+.race-register-button {
+  background-color: #FCD515;
+  color: #181818;
+  font-weight: bold;
+  border: none;
+  padding: 15px 30px;
+  font-size: 18px;
+  border-radius: 12px;
+  cursor: pointer;
+  box-shadow: 0 6px #c2aa10;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.race-register-button:hover {
+  box-shadow: 0 4px #c2aa10;
+  transform: translateY(2px);
+}
+
+.race-register-button:active {
+  box-shadow: 0 2px #c2aa10;
+  transform: translateY(4px);
+}
+
+/* OPCION 1: pulso suave con una pausa entre llamadas de atencion */
+.race-register-button {
+  animation: register-button-pulse 4s ease-in-out infinite;
+}
+
+.race-register-button:hover,
+.race-register-button:focus-visible,
+.race-register-button:active {
+  animation: none;
+}
+
+@keyframes register-button-pulse {
+  0%, 20%, 100% {
+    box-shadow: 0 6px #c2aa10, 0 0 0 0 rgba(252, 213, 21, 0);
+    transform: scale(1);
+  }
+  8% {
+    box-shadow: 0 6px #c2aa10, 0 0 0 10px rgba(252, 213, 21, 0.25);
+    transform: scale(1.045);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .race-register-button {
+    animation: none;
+  }
+}
 </style>
 
 <div class="row content">
@@ -199,15 +257,11 @@ document.addEventListener('DOMContentLoaded', function() {
 
 <p><strong>Friday, 1 January 2027 at 9:30 AM - Phoenix Park</strong></p>
 <div style="text-align: center;">
-  <a href="https://eventmaster.ie/event/KA02TpnHGx" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-    <button type="button" style="background-color: #FCD515; color: #181818; font-weight: bold; border: none; padding: 15px 30px; font-size: 18px; border-radius: 12px; cursor: pointer; box-shadow: 0 6px #c2aa10; transition: all 0.2s ease;"
-      onmouseover="this.style.boxShadow='0 4px #c2aa10'; this.style.transform='translateY(2px)'"
-      onmouseout="this.style.boxShadow='0 6px #c2aa10'; this.style.transform='translateY(0)'"
-      onmousedown="this.style.boxShadow='0 2px #c2aa10'; this.style.transform='translateY(4px)'"
-      onmouseup="this.style.boxShadow='0 4px #c2aa10'; this.style.transform='translateY(2px)'">
-      REGISTER NOW!
-    </button>
-  </a>
+  <div class="race-register-cta">
+    <a href="https://eventmaster.ie/event/KA02TpnHGx" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+      <button type="button" class="race-register-button">REGISTER NOW!</button>
+    </a>
+  </div>
 </div>
    <br>
    <a href="/tombrennan5k/">Full race information</a>
