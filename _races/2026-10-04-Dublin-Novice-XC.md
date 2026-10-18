@@ -4,7 +4,7 @@ location: Phoenix Park, Dublin
 date: 2026-10-04 13:00
 latitude: 53.3522291
 longitude: -6.3214874
-distance: 5.8km Men, 3.9km Women
+distance: 5.4km Men, 3.6km Women
 results:
   - place: 29
     name: Lynn Devitt
