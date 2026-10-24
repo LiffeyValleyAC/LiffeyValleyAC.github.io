@@ -14,6 +14,7 @@ The National Autumn Open Cross Country Championships took place on <b>18 October
 
 <a href="https://myrunresults.com/events/national_autumn_open_xc__national_relays_2026/6430/results" target="_blank" rel="noopener noreferrer">MyRun Results</a>
 
+<a href="https://www.instagram.com/p/Der8boqEXG9/?img_index=1" target="_blank" rel="noopener noreferrer" >Instagram</a>
 
 <figure style="text-align: center;">
   <a href="/assets/images/races/2026/2026-10-18_men_group.jpeg" target="_blank" rel="noopener noreferrer">
