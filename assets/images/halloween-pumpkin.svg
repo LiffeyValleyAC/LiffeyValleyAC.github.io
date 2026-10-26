@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="68" height="60" viewBox="0 0 68 60">
+  <style>
+    /* A short playful shake, then a pause. All animation stays in this SVG. */
+    .pumpkin-body {
+      transform-origin: 34px 54px;
+      animation: halloween-sway 6s ease-in-out infinite;
+    }
+    .pumpkin-eye {
+      transform-box: fill-box;
+      transform-origin: center;
+      animation: halloween-wink 6s ease-in-out infinite;
+    }
+    @keyframes halloween-sway {
+      0%, 8%, 42%, 100% { transform: rotate(0deg); }
+      14%, 26% { transform: rotate(-9deg); }
+      20%, 32% { transform: rotate(9deg); }
+      37% { transform: rotate(-4deg); }
+    }
+    @keyframes halloween-wink {
+      0%, 48%, 64%, 100% { transform: scaleY(1); }
+      53%, 59% { transform: scaleY(0.12); }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .pumpkin-body, .pumpkin-eye { animation: none; }
+    }
+  </style>
+  <defs>
+    <linearGradient id="pumpkin" x1="0" y1="0" x2="0.8" y2="1">
+      <stop stop-color="#ffae38"/>
+      <stop offset="1" stop-color="#e65c0b"/>
+    </linearGradient>
+  </defs>
+  <g class="pumpkin-body">
+  <path d="M32 17C29 10 32 5 38 3L41 7C36 9 35 12 37 17" fill="#527333" stroke="#354b22" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M34 17C19 8 5 18 5 35C5 51 17 58 29 55C32 57 37 57 40 55C53 58 63 49 63 35C63 18 49 8 34 17Z" fill="url(#pumpkin)" stroke="#a53b0c" stroke-width="2"/>
+  <path d="M27 18C18 27 18 45 27 53M42 18C50 28 50 44 42 53" fill="none" stroke="#cc500d" stroke-width="2" opacity=".6"/>
+  <path d="M15 33L26 25L29 35ZM34 33L29 41H39Z" fill="#30213e" stroke-linejoin="round"/>
+  <path class="pumpkin-eye" d="M53 33L42 25L39 35Z" fill="#30213e" stroke-linejoin="round"/>
+  <path d="M17 41L25 45L29 42L34 47L39 42L44 45L52 40C49 51 23 56 17 41Z" fill="#30213e"/>
+  <path d="M22 22C17 24 14 28 13 32" fill="none" stroke="#ffcd71" stroke-width="3" stroke-linecap="round" opacity=".75"/>
+  </g>
+</svg>

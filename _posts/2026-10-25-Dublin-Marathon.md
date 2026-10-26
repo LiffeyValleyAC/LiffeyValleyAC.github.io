@@ -5,7 +5,7 @@ location: Dublin
 
 A huge congratulations to all <b>14 Liffey Valley AC athletes</b> who took on the <b>45th Irish Life Dublin Marathon</b> on <b>Sunday, 25th October 2026</b>!<br><br>
 
-Over <b>19,100 runners</b> lined up for the 42.2 km challenge, with the race starting at 8:45 AM. Conditions were challenging, with a cold and windy morning, strong gusty westerly winds and occasional showers, while temperatures reached around 10–12°C during the day. Despite the weather, thousands of enthusiastic spectators lined Dublin's streets, creating another unforgettable marathon atmosphere!<br><br>
+Over <b>19,100 runners</b> lined up for the 42.2 km challenge, with the race starting at 8:45 AM. Conditions were challenging, with a cold and windy morning, strong gusty westerly winds and occasional showers, while temperatures reached around 10-12°C during the day. Despite the weather, thousands of enthusiastic spectators lined Dublin's streets, creating another unforgettable marathon atmosphere!<br><br>
 
 Leading the way for <b>Liffey Valley AC</b> was <b>Simon Monds</b>, delivering a fantastic sub-three-hour performance in <b>2:57:35</b>! He was closely followed by <b>Jen Preston</b>, our first female finisher in an impressive <b>3:00:38</b>, and <b>Neil Duffy</b>, who crossed the line in <b>3:01:25</b>.<br><br>
 
@@ -25,11 +25,10 @@ A brilliant day for Irish athletics and another fantastic showing from <b>Liffey
 <a href="https://www.tdleventservices.co.uk/en/results-embed.php?event=4262#0_FB1A63" target="_blank" rel="noopener noreferrer">Oficial Results</a>
 
 
-<!-- Instagram and Facebook links 
-<a href="https://www.instagram.com/p/DQWfw_rDGAJ/?img_index=1" target="_blank" rel="noopener noreferrer">Instagram</a>
+<a href="https://www.instagram.com/p/De9-evzEctU/?img_index=1" target="_blank" rel="noopener noreferrer">Instagram</a>
 
-<a href="https://www.facebook.com/liffeyvalleyac/posts/pfbid0Jmqv24Y8jVHNVhS6QFyUg9roMixSE9PhChJJ6twq37An14MzyTEMrZwkqvtRwY3vl" target="_blank" rel="noopener noreferrer">Facebook</a>
--->
+<a href="https://www.facebook.com/liffeyvalleyac/posts/pfbid0kZ8FtcgeqSiM628rC7umEdDXkKaaXhViLBuVXhE3Xm4z31rHcneFKDaGNPAECoJHl" target="_blank" rel="noopener noreferrer">Facebook</a>
+<!---->
 
 <figure style="text-align: center;">
   <a href="/assets/images/races/2026/2026-10-25 neil michael jen.jpg" target="_blank" rel="noopener noreferrer">
