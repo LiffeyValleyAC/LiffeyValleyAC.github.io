@@ -18,7 +18,7 @@ results:
     actual_time: 34.10
     note: LVAC 10km 🥈
   - place: 3
-    name: Joe McDermott
+    name: Joseph McDermott
     finish_time: 39.35
     handicap: 5.10
     actual_time: 34.25

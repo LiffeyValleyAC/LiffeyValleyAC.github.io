@@ -16,7 +16,7 @@ title: Club 5k & 10k Road Championships and George Harrison and Myles Cullen Tro
 <b><u>Men’s 10km</u></b> – <a href="/races/2026-09-06-Myles-Cullen-10k" target="_blank" rel="noopener noreferrer">10k Results</a><br>
 🥇 Pierce Geoghegan<br>
 🥈 Jason McGlone<br>
-🥉 Joe McDermott<br>
+🥉 Joseph McDermott<br>
 <br>
 
 <b><u>Women’s 5km</u></b> – <a href="/races/2026-09-06-George-Harrison-5k" target="_blank" rel="noopener noreferrer">5k Results</a><br>

@@ -47,7 +47,7 @@ results:
     category: Novice Men
     note: BIB 198
   - place: 78
-    name: Joe McDermott
+    name: Joseph McDermott
     time: 21.42
     category: Novice Men
     note: BIB 195
