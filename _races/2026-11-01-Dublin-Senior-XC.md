@@ -2,8 +2,8 @@
 title: Dublin Senior XC Cross Country Championships
 location: Abbotstown, Co. Dublin, D15EPN4
 date: 2026-11-01 14:00
-latitude: 53.36853461892861
-longitude: -7.499836945924746
+latitude: 53.39867393844625
+longitude: -6.359284044234073
 distance: 7.5km Women | 7.5km Men
 results:
   - place: 18
