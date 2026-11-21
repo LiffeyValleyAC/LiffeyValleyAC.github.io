@@ -12,18 +12,18 @@ title: Club 5k & 10k Road Championships and George Harrison and Myles Cullen Tro
 
 <p> Well done to all our athletes for taking part. Thank you as always to our officials for organising a race and to our volunteers for providing refreshments afterwards.<p/>
 
-🥇 <b>Club Championship Medalists<br></b>
-<b><u>Men’s 10km</u></b><br>
+🥇 <b>Club Championship Medalists</b> <br>
+<b><u>Men’s 10km</u></b><a href="/races/2025-09-13-Myles-Cullen-10k" target="_blank" rel="noopener noreferrer">10k Results</a><br>
 🥇 Pierce Geoghegan<br>
 🥈 Mark Naylor<br>
 🥉 Paddy Murphy<br>
 <br>
-<b><u>Women’s 5km</u></b><br>
+<b><u>Women’s 5km</u></b> <a href="/races/2025-09-13-George-Harrison-5k" target="_blank" rel="noopener noreferrer">LVAC 5k Results</a><br>
 🥇 Jennifer Preston<br>
 🥈 Aifric Gallagher<br>
 🥉 Rebecca McLoughlin<br>
 
-<p><a href="/races/2025-09-13-Myles-10k-George-5k" target="_blank" rel="noopener noreferrer">LVAC 5k and 10k Results</a></p>
+<p></p>
 
 <p><a href="https://www.instagram.com/p/DOj04C7iGUw/?img_index=1" target="_blank" rel="noopener noreferrer">Instagram</a></p>
 

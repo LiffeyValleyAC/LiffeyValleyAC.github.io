@@ -52,7 +52,6 @@ Claire Kavanagh	W
 Claire Woods	W
 Clare Kavanagh	W
 Clare Woods	W
-Cliodhna Bardon	W
 Cliodhna Tutty Bardon	W
 Col Turpay	M
 Colin Garrigan	M
@@ -164,7 +163,7 @@ Matthew Blyth	M
 Melissa Thompson	W
 Michael Ferreira	M
 Michael Minogue	M
-Michael O'Connor	M
+Michael O'Conor	M
 Michelle Skeath	W
 Mike Griffin	M
 Mike McCarthy	M
@@ -178,7 +177,6 @@ Nikki Lynch	W
 Noel Cahill	M
 Oisin Murphy	M
 Orla Gordon	W
-Paddy Doyle	M
 Paddy Murphy	M
 Paddy Reilly	M
 Palina Piankova	W
@@ -187,7 +185,7 @@ Pat Gibbons	M
 Patrick Doyle	M
 Patrick Fox	M
 Paul Balfe	M
-Paul Bowler	M
+Paul Bolger	M
 Paul Griffin	M
 Paul Power	M
 Paul Quinn	M
@@ -239,3 +237,8 @@ Tony Timmons	M
 Una Reilly	W
 Utpal Medhi	M
 William Cooper	M
+Katie Barry	W
+Mohamed Cadimi	M
+Mollie O'Driscoll	W
+Joseph McDermott	M
+Bébhinn Ní Chiosáin	W

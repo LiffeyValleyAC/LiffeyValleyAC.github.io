@@ -9,13 +9,13 @@ Race 3 added another exciting chapter to the Winter League, continuing to reshap
 
 #### **Race 3 Podium – Handicap Applied 🏆**
 
-🥇 **Paddy Doyle** – Net Time: **22:13**
+🥇 **Patrick Doyle** – Net Time: **22:13**
 
 🥈 **Mark Naylor** – Net Time: **17:46**  (🥇 1st Man)
 
 🥉 **Simon Monds** – Net Time: **19:05**  (🥈 2nd Man)
 
-A well earned victory for **Paddy Doyle**, backed up by excellent runs from **Mark Naylor** and **Simon Monds**, who continues to show impressive consistency.
+A well earned victory for **Patrick Doyle**, backed up by excellent runs from **Mark Naylor** and **Simon Monds**, who continues to show impressive consistency.
 
 <h2>Winter League Standings – After Race 3 (of 6)</h2>
 
@@ -55,7 +55,7 @@ Race 3 marked a **major reshuffle at the top of the leaderboard** 🔄. While ea
     
 *   ⬆️ **Mark Naylor**: Race 3 podium performance propelled him into the **top 20** (+23 places, 39th ➜ 16th)
     
-*   🚀 **Paddy Doyle**: Race 3 victory resulted in a major overall jump (+24 places, 43rd ➜ 19th)
+*   🚀 **Patrick Doyle**: Race 3 victory resulted in a major overall jump (+24 places, 43rd ➜ 19th)
     
 
 #### **🆕 New Faces Since Race 2**

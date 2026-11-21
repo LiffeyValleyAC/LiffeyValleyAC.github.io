@@ -36,7 +36,7 @@ results:
     category: 800m Men A
     note: SB
   - place: 3
-    name: Michael O'Connor
+    name: Michael O'Conor
     time: 2.12.24
     category: 800m Men C H1
     note: SB

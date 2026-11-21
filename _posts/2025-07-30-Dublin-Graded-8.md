@@ -3,7 +3,7 @@ title: Dublin Graded Meeting 8 of 8
 location: Morton Stadium, Dublin.
 ---
 
-<p>Also worth highlighting is the club’s presence at <strong>Graded Meet 8</strong>, held on <strong>Wednesday, July 30th at Morton Stadium at 19:00</strong>, where several athletes wrapped up their 2025 track season with strong performances in the <strong>1500m event</strong>. </p>
+<p>It is worth highlighting is the club’s presence at <strong>Graded Meet 8</strong>, held on <strong>Wednesday, July 30th at Morton Stadium at 19:00</strong>, where several athletes wrapped up their 2025 track season with strong performances in the <strong>1500m event</strong>. </p>
 
 <p>From middle-distance to longer events across the series, our runners have consistently shown commitment and progression. It's been a season marked by steady improvement, new PBs, and growing depth across both men's and women's squads. Congratulations to all who competed and contributed to a successful and rewarding track campaign.</p>
 

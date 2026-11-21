@@ -18,7 +18,7 @@ results:
     actual_time: 13.29
     note:
   - place: 3
-    name: Michael O'Connor
+    name: Michael O'Conor
     finish_time: 16.15
     handicap: 5.50
     actual_time: 10.25
@@ -114,13 +114,13 @@ results:
     actual_time: 12.21
     note:
   - place: 19
-    name: Paddy Doyle
+    name: Patrick Doyle
     finish_time: 16.57
     handicap: 4.30
     actual_time: 12.27
     note:
   - place: 20
-    name: Paul Bowler
+    name: Paul Bolger
     finish_time: 16.58
     handicap: 4.30
     actual_time: 12.28

@@ -31,7 +31,7 @@ results:
     category: 1500m Men Grade A
     note: 
   - place: 3
-    name: Michael O'Connor
+    name: Michael O'Conor
     time: 4.30.21
     category: 1500m Men Grade C
     note: 

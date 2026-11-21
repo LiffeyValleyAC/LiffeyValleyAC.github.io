@@ -62,7 +62,7 @@ Race 4 reinforced the current shape of the league 🔄. The **top three remain u
     
 *   ⬆️ **Alejandro Cavallo**: moved from 18th into the **top 15** (+3 places, 18th ➜ 15th)
     
-*   🔥 **Paddy Doyle**: continued his upward momentum (+3 places, 19th ➜ 16th)
+*   🔥 **Patrick Doyle**: continued his upward momentum (+3 places, 19th ➜ 16th)
     
 *   ⬆️ **Peter Bowe**: steady improvement into the **top 20** (+3 places, 20th ➜ 17th)
     

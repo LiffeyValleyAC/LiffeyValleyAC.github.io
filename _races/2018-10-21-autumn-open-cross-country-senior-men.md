@@ -191,7 +191,7 @@ results:
     time: 25m44s
     club: Clonliffe Harriers A.C.
   - place: 47
-    name: Michael O'Connor
+    name: Michael O'Conor
     time: 25m44s
     club: Crusaders A.C.
   - place: 48
