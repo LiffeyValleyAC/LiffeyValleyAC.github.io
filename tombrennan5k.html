@@ -4,200 +4,219 @@ title: Tom Brennan Memorial Race
 ---
 
 <style>
-        :root {
-            --question-color: rgb(254, 213, 23);
-            --primary-blue: #87CEEB;
-            --site-bg: rgb(24, 24, 24);
-            --light-bg: #f8f9fa;
-            --text-dark: #333;
-            --text-light: #666;
-            --text-white: #ffffff;
-            --border-color: #e0e0e0;
-            --shadow: 0 2px 10px rgba(0,0,0,0.1);
-            --border-radius: 8px;
-        }
+  .tbm {
+    --tbm-yellow: #FCD50D;
+    --tbm-surface: #262932;
+    --tbm-border: rgba(252, 213, 13, 0.25);
+    --tbm-deep: #1c2160;
+  }
 
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
+  .tbm-band {
+    background: linear-gradient(135deg, #ffe25e 0%, var(--tbm-yellow) 100%);
+    color: var(--tbm-deep);
+    text-align: center;
+    padding: 10px 16px;
+    border-radius: 12px;
+    margin: 26px 0 18px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+  }
 
-        body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            line-height: 1.6;
-            color: var(--text-white);
-            background: var(--site-bg);
-            min-height: 100vh;
-            padding: 20px;
-        }
+  .tbm-band h1,
+  .tbm-band h2 {
+    margin: 0;
+    font-weight: 700;
+    letter-spacing: 0.03em;
+  }
 
-        .container {
-            max-width: 80%;
-            margin: 0 auto;
-            background: rgba(40, 40, 40, 0.95);
-            border-radius: var(--border-radius);
-            box-shadow: 0 4px 20px rgba(0,0,0,0.3);
-            overflow: hidden;
-            border: 1px solid rgba(254, 213, 23, 0.2);
-        }
+  .tbm-band h1 { font-size: 1.9rem; }
+  .tbm-band h2 { font-size: 1.4rem; }
 
-        .header {
-            background: linear-gradient(135deg, var(--question-color) 0%, rgb(230, 193, 20) 100%);
-            padding: 0.5rem;
-            text-align: center;
-            color: var(--site-bg);
-        }
+  .tbm .tbm-first-band { margin-top: 4px; }
 
-        .header h1 {
-            font-size: 2.5rem;
-            font-weight: 700;
-            margin-bottom: 0.5rem;
-            text-shadow: 1px 1px 2px rgba(0,0,0,0.1);
-        }
+  .tbm-intro {
+    text-align: center;
+    max-width: 720px;
+    margin: 0 auto;
+    font-size: 1.05rem;
+    line-height: 1.7;
+  }
 
-        .faq-container {
-            padding: 2rem;
-        }
+  /* FAQ accordion — native details/summary, no JavaScript needed */
+  .tbm-faq details {
+    border: 1px solid var(--tbm-border);
+    border-radius: 10px;
+    background: var(--tbm-surface);
+    margin-bottom: 12px;
+    overflow: hidden;
+    transition: box-shadow 0.2s ease, border-color 0.2s ease;
+  }
 
-        .faq-item {
-            margin-bottom: 1.5rem;
-            border: 1px solid rgba(254, 213, 23, 0.3);
-            border-radius: var(--border-radius);
-            overflow: hidden;
-            transition: all 0.3s ease;
-            background: rgba(50, 50, 50, 0.8);
-        }
+  .tbm-faq details:hover {
+    border-color: var(--tbm-yellow);
+    box-shadow: 0 4px 14px rgba(0, 0, 0, 0.3);
+  }
 
-        .faq-item:hover {
-            box-shadow: 0 4px 15px rgba(254, 213, 23, 0.2);
-            transform: translateY(-2px);
-            border-color: var(--question-color);
-        }
+  .tbm-faq summary {
+    list-style: none;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 13px 16px;
+    font-weight: 600;
+    font-size: 1.02rem;
+    color: #fff;
+    background: rgba(252, 213, 13, 0.06);
+    transition: background 0.2s ease;
+  }
 
-        .question {
-            background: linear-gradient(135deg, var(--question-color) 0%, rgb(240, 203, 15) 100%);
-            padding: 0.5rem;
-            cursor: pointer;
-            display: flex;
-            align-items: center;
-            gap: 1rem;
-            font-weight: 600;
-            font-size: 1.1rem;
-            transition: background 0.3s ease;
-            color: var(--site-bg);
-        }
+  .tbm-faq summary::-webkit-details-marker {
+    display: none;
+  }
 
-        .question:hover {
-            background: linear-gradient(135deg, rgb(240, 203, 15) 0%, var(--question-color) 100%);
-        }
+  .tbm-faq summary:hover,
+  .tbm-faq details[open] summary {
+    background: rgba(252, 213, 13, 0.12);
+  }
 
-        .question-icon {
-            background: var(--site-bg);
-            color: var(--question-color);
-            width: 30px;
-            height: 30px;
-            border-radius: 50%;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            font-weight: bold;
-            flex-shrink: 0;
-        }
+  .tbm-qicon {
+    background: var(--tbm-yellow);
+    color: var(--tbm-deep);
+    width: 28px;
+    height: 28px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 700;
+    flex-shrink: 0;
+  }
 
-        .answer {
-            background: rgba(60, 60, 60, 0.9);
-            padding: 1.5rem;
-            border-top: 1px solid rgba(254, 213, 23, 0.2);
-            color: var(--text-white);
-        }
+  .tbm-chevron {
+    margin-left: auto;
+    flex-shrink: 0;
+    color: var(--tbm-yellow);
+    transition: transform 0.2s ease;
+  }
 
-        .answer-icon {
-            background: var(--question-color);
-            color: var(--site-bg);
-            width: 30px;
-            height: 30px;
-            border-radius: 50%;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            font-weight: bold;
-            float: left;
-            margin-right: 1rem;
-            margin-top: 0.2rem;
-        }
+  .tbm-faq details[open] .tbm-chevron {
+    transform: rotate(180deg);
+  }
 
-        .answer-content {
-            overflow: hidden;
-        }
+  .tbm-answer {
+    padding: 14px 18px;
+    border-top: 1px solid rgba(255, 255, 255, 0.06);
+    line-height: 1.65;
+  }
 
-        .answer a {
-            color: var(--question-color);
-            text-decoration: none;
-            font-weight: 600;
-            padding: 2px 4px;
-            border-radius: 3px;
-            transition: all 0.3s ease;
-        }
+  .tbm-answer ul {
+    padding-left: 1.2rem;
+    margin: 8px 0 0 0;
+  }
 
-        .answer a:hover {
-            background: rgba(254, 213, 23, 0.2);
-            text-decoration: underline;
-        }
+  .tbm-answer ul li {
+    margin-bottom: 4px;
+  }
 
-        .note {
-            background: rgba(254, 213, 23, 0.15);
-            border: 1px solid rgba(254, 213, 23, 0.4);
-            border-radius: 4px;
-            padding: 0.75rem;
-            margin-top: 0.5rem;
-            font-weight: 600;
-            color: var(--question-color);
-        }
+  .tbm-answer a {
+    font-weight: 600;
+  }
 
-        .highlight {
-            background: rgba(254, 213, 23, 0.3);
-            padding: 2px 4px;
-            border-radius: 3px;
-            font-weight: 600;
-            color: var(--question-color);
-        }
+  .tbm-highlight {
+    background: rgba(252, 213, 13, 0.18);
+    padding: 1px 6px;
+    border-radius: 4px;
+    font-weight: 600;
+    color: var(--tbm-yellow);
+  }
 
-        @media (max-width: 768px) {
-            body {
-                padding: 10px;
-            }
+  .tbm-note {
+    background: rgba(252, 213, 13, 0.12);
+    border: 1px solid var(--tbm-border);
+    border-left: 4px solid var(--tbm-yellow);
+    border-radius: 6px;
+    padding: 10px 14px;
+    margin-top: 12px;
+    font-weight: 600;
+    color: var(--tbm-yellow);
+  }
 
-            .header {
-                padding: 1.5rem;
-            }
+  /* Register call to action */
+  .tbm-register-wrap {
+    text-align: center;
+    margin: 14px 0 6px;
+  }
 
-            .header h1 {
-                font-size: 2rem;
-            }
+  .tbm-register-button {
+    display: inline-block;
+    background: linear-gradient(145deg, #ffe15e 0%, var(--tbm-yellow) 100%);
+    color: var(--tbm-deep);
+    font-weight: 700;
+    font-size: 1.1rem;
+    border: 1px solid rgba(0, 0, 0, 0.15);
+    padding: 14px 36px;
+    border-radius: 12px;
+    cursor: pointer;
+    text-decoration: none;
+    box-shadow: 0 4px 14px rgba(0, 0, 0, 0.35);
+    transition: transform 0.2s ease, box-shadow 0.2s ease, filter 0.2s ease;
+  }
 
-            .faq-container {
-                padding: 1rem;
-            }
+  .tbm-register-button:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.45);
+    filter: brightness(1.05);
+    color: var(--tbm-deep);
+    text-decoration: none;
+  }
 
-            .question, .answer {
-                padding: 1rem;
-            }
+  .tbm-register-button:active {
+    transform: translateY(1px);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.35);
+  }
 
-            .question {
-                font-size: 1rem;
-            }
-        }
+  /* Course and gift images */
+  .tbm-media {
+    background: var(--tbm-surface);
+    border: 1px solid var(--tbm-border);
+    border-radius: 12px;
+    padding: 10px;
+    box-shadow: 0 4px 14px rgba(0, 0, 0, 0.3);
+  }
 
-        .fade-in {
-            animation: fadeIn 0.5s ease-in;
-        }
+  .tbm-media img {
+    display: block;
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+  }
 
-        @keyframes fadeIn {
-            from { opacity: 0; transform: translateY(20px); }
-            to { opacity: 1; transform: translateY(0); }
-        }
-    </style>
+  .tbm-hat {
+    margin: 10px auto 4px;
+    max-width: 220px;
+    width: 60%;
+  }
+
+  .tbm-entered {
+    text-align: center;
+    margin-top: 10px;
+    color: #fff;
+  }
+
+  @media (max-width: 768px) {
+    .tbm-band h1 { font-size: 1.5rem; }
+    .tbm-band h2 { font-size: 1.2rem; }
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .tbm-faq details,
+    .tbm-faq summary,
+    .tbm-chevron,
+    .tbm-register-button {
+      transition: none;
+    }
+  }
+</style>
 
 <div class="row img-section">
   <img src="/assets/images/tbm2027/tmb_banner_2027_a.jpg" alt="Tom Brennan Memorial Race" class="img-responsive center-block">
@@ -207,225 +226,203 @@ title: Tom Brennan Memorial Race
     &nbsp;
   </div>
 </div>
-</div class="row content">
-<div class="container fade-in">
-        <div class="header">
-            <h1>TOM BRENNAN 2027</h1>
-        </div>
-        
-        <div class="intro-paragraph">
-            Kick off your <b>2027</b> in fine style in the Phoenix Park as you run or jog the <b>Tom Brennan Memorial 5k race</b>. With our usual professionalism and trademark warmth and welcome, Liffey Valley AC is delighted to welcome you back to this flat, fast, pb-friendly course. One of the Phoenix Park's longest running events, we guarantee you an enjoyable morning, (<b>9.30 am start</b>) and the ideal beginning to your new year.
-            <br>
-            
-        </div>
-        <div class="header">
-            <h1>FAQ</h1>
-        </div>
-        <div class="faq-container">
-            <div class="faq-item">
-                <div class="question">
-                    <div class="question-icon">Q</div>
-                    <div>Are race entries open?</div>
-                </div>
-                <div class="answer">
-                    <div class="answer-icon">A</div>
-                    <div class="answer-content; text-align: center;">
-                        <div style="text-align: center;">
-                            <a href="https://eventmaster.ie/event/KA02TpnHGx" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-                            <button type="button" style="background-color: #FCD515; color: #181818; font-weight: bold; border: none; padding: 15px 30px; font-size: 18px; border-radius: 12px; cursor: pointer; box-shadow: 0 6px #c2aa10; transition: all 0.2s ease;"
-                            onmouseover="this.style.boxShadow='0 4px #c2aa10'; this.style.transform='translateY(2px)'"
-                            onmouseout="this.style.boxShadow='0 6px #c2aa10'; this.style.transform='translateY(0)'"
-                            onmousedown="this.style.boxShadow='0 2px #c2aa10'; this.style.transform='translateY(4px)'"
-                            onmouseup="this.style.boxShadow='0 4px #c2aa10'; this.style.transform='translateY(2px)'">
-                            REGISTER NOW!
-                            </button>
-                        </a>
-                        </div>
-                        <br>
-                        🏃‍♂️ Entries for the Tom Brennan Memorial 5k 2027 are now open! <a href="https://eventmaster.ie/event/KA02TpnHGx" target="_blank" rel="noopener noreferrer">Register now via Event Master</a>. We look forward to welcoming you to the start line for an unforgettable run on New Year's Day! 🌟
-                    </div>
-                </div>
-            </div>
 
-            <div class="faq-item">
-                <div class="question">
-                    <div class="question-icon">Q</div>
-                    <div>Can I register on the morning of the race?</div>
-                </div>
-                <div class="answer">
-                    <div class="answer-icon">A</div>
-                    <div class="answer-content">
-                        Unfortunately, this is not possible. Race entries must be registered via the 
-                        <a href="https://eventmaster.ie/event/KA02TpnHGx" target="_blank" rel="noopener noreferrer">Event Master</a> platform. Entries close on December 30th, 2026, or earlier if the race sells out before this date.
-                    </div>
-                </div>
-            </div>
+<div class="row content tbm">
+  <div class="col-md-12">
 
-            <div class="faq-item">
-                <div class="question">
-                    <div class="question-icon">Q</div>
-                    <div>Where is the START LINE?</div>
-                </div>
-                <div class="answer">
-                    <div class="answer-icon">A</div>
-                    <div class="answer-content">
-                        The race will start on the <a href="https://maps.app.goo.gl/1dPixdaHiYLKTe4b8" target="_blank" rel="noopener noreferrer">Furze Road</a>, which is just off Chesterfield Avenue in the Phoenix Park. 
-                        <br>The start line is <span class="highlight">500 meters</span> from the Number Collection area on the Furze Road / Chesterfield Avenue Junction.
-                    </div>
-                </div>
-            </div>
-
-            <div class="faq-item">
-                <div class="question">
-                    <div class="question-icon">Q</div>
-                    <div>What is the START TIME?</div>
-                </div>
-                <div class="answer">
-                    <div class="answer-icon">A</div>
-                    <div class="answer-content">
-                        The race starts at <span class="highlight">9:30 AM</span> on the 1st of January, 2027.
-                    </div>
-                </div>
-            </div>
-
-            <div class="faq-item">
-                <div class="question">
-                    <div class="question-icon">Q</div>
-                    <div>Will there be prizes presented?</div>
-                </div>
-                <div class="answer">
-                    <div class="answer-icon">A</div>
-                    <div class="answer-content">
-                    <p>Yes. All prizes will be presented on the day and will be awarded as follows:</p>
-                    <ul>
-                        <li>First three men and women</li>
-                        <li>Bonus prize €200 for first man/first woman if the course record is broken</li>
-                        <li>First three men’s and women’s teams (3 to score)</li>
-                        <li>
-                        First veteran men and women 
-                        <strong>+35</strong>, <strong>+40</strong>, <strong>+45</strong>, 
-                        <strong>+50</strong>, <strong>+55</strong>, <strong>+60</strong>, 
-                        <strong>+65</strong>, <strong>+70</strong>, <strong>+75</strong>
-                        </li>
-                        <li>3+ entrants per age group required for prize award</li>
-                        <li>First junior man and woman</li>
-                    </ul>
-                    </div>
-                </div>
-            </div>
-
-            <div class="faq-item">
-                <div class="question">
-                    <div class="question-icon">Q</div>
-                    <div>If I missed a postage entry, where do I collect my number?</div>
-                </div>
-                <div class="answer">
-                    <div class="answer-icon">A</div>
-                    <div class="answer-content">
-                        The Number Collection area is on the Furze Road / Chesterfield Avenue Junction. Please quote your number at the collection desk to speed the process up and allow help to avoid queues. You will receive a text message to the mobile number provided with your bib number.
-                    </div>
-                </div>
-            </div>
-
-            <div class="faq-item">
-                <div class="question">
-                    <div class="question-icon">Q</div>
-                    <div>What time can I collect my number?</div>
-                </div>
-                <div class="answer">
-                    <div class="answer-icon">A</div>
-                    <div class="answer-content">
-                        Number Collection will be open from <span class="highlight">8:00 AM</span>.
-                    </div>
-                </div>
-            </div>
-
-            <div class="faq-item">
-                <div class="question">
-                    <div class="question-icon">Q</div>
-                    <div>Where can I park my car?</div>
-                </div>
-                <div class="answer">
-                    <div class="answer-icon">A</div>
-                    <div class="answer-content">
-                        Please visit <a href="https://www.phoenixpark.ie/opening-hours/" target="_blank" rel="noopener noreferrer">Phoenix Park Opening Hours</a> for details on car parking.
-                        <div class="note">
-                            NOTE: Knockmaroon car park, inside Knockmaroon Gate will be CLOSED.
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <div class="faq-item">
-                <div class="question">
-                    <div class="question-icon">Q</div>
-                    <div>Where do I collect my race gift?</div>
-                </div>
-                <div class="answer">
-                    <div class="answer-icon">A</div>
-                    <div class="answer-content">
-                        Please collect your bobble hat AFTER you have crossed the finish line and completed the race. <br>
-                        <!-- PENDING 2027: Verify that this image exists at the indicated path -->
-                        <img src="/assets/images/tbm2027/tombrenann_2027_bobble_hat.png" alt="Tom Brennan Memorial 5K 2027 bobble hat" style="display:block; margin: 0px auto; max-width:35%; max-height: 35%;">
-                    </div>
-                </div>
-            </div>
-
-            <div class="faq-item">
-                <div class="question">
-                    <div class="question-icon">Q</div>
-                    <div>Will there be water and refreshments?</div>
-                </div>
-                <div class="answer">
-                    <div class="answer-icon">A</div>
-                    <div class="answer-content">
-                        Yes, water will be available approximately 20 meters after the finish line. 
-                        <br>Last Lap Cafe will have hot drinks & refreshments to purchase.
-                    </div>
-                </div>
-            </div>
-
-            <div class="faq-item">
-                <div class="question">
-                    <div class="question-icon">Q</div>
-                    <div>Will there be toilets?</div>
-                </div>
-                <div class="answer">
-                    <div class="answer-icon">A</div>
-                    <div class="answer-content">
-                        Yes, there will be portaloos available on Furze Road. There are also toilets at the Papal Cross Car Park.
-                    </div>
-                </div>
-            </div>
-
-            <!-- <div class="faq-item">
-                <div class="question">
-                    <div class="question-icon">Q</div>
-                    <div>Can I transfer my entry?</div>
-                </div>
-                <div class="answer">
-                    <div class="answer-icon">A</div>
-                    <div class="answer-content">
-                        Yes. You can transfer your entry and number to another person at the 
-                        PENDING 2027: Replace # with the official MyRunResults 2027 participants list 
-                        <a href="#" target="_blank" rel="noopener noreferrer">MyRunResults Participants List page</a> by following the instructions <a href="https://filedn.com/lWTDVY33YajR2yXNwuoX6g8/myrunresults/mrr-change-details.pdf" target="_blank" rel="noopener noreferrer">here</a>.
-                        <div class="note">
-                            NOTE: If you had your number posted and wish to transfer, you must exchange that number to the new participant. NO NEW NUMBER WILL BE ISSUED ON THE DAY.
-                        </div>
-                    </div>
-                </div>
-            </div>-->
-
-        </div>
-         <div class="header">
-            <h1>THE COURSE</h1>
-        </div>
-        <div class="course-image">
-            <!-- PENDING 2027: Verify that the 2027 course image exists at this path -->
-            <a href="/assets/images/tbm2027/tmbcircuit_corel_2027_jpg.jpg" target="_blank">
-                <img src="/assets/images/tbm2027/tmbcircuit_corel_2027_jpg.jpg" width="100%" height="auto" alt="Tom Brennan Memorial 5K Course 2027" loading="lazy">
-            </a>
-        </div>
+    <div class="tbm-band tbm-first-band">
+      <h1>TOM BRENNAN 2027</h1>
     </div>
 
+    <p class="tbm-intro">
+      Kick off your <b>2027</b> in fine style in the Phoenix Park as you run or jog the <b>Tom Brennan Memorial 5k race</b>.
+      With our usual professionalism and trademark warmth and welcome, Liffey Valley AC is delighted to welcome you back
+      to this flat, fast, pb-friendly course. One of the Phoenix Park's longest running events, we guarantee you an
+      enjoyable morning, (<b>9.30 am start</b>) and the ideal beginning to your new year.
+    </p>
 
+    <div class="tbm-band">
+      <h2>FAQ</h2>
+    </div>
+
+    <div class="tbm-faq">
+
+      <details open>
+        <summary>
+          <span class="tbm-qicon">Q</span>
+          <span>Are race entries open?</span>
+          <svg class="tbm-chevron" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="6 9 12 15 18 9"></polyline></svg>
+        </summary>
+        <div class="tbm-answer">
+          <div class="tbm-register-wrap">
+            <a href="https://eventmaster.ie/event/KA02TpnHGx" target="_blank" rel="noopener noreferrer"><span class="tbm-register-button">REGISTER NOW!</span></a>
+          </div>
+          <p class="tbm-entered">🏃‍♂️ Entries for the Tom Brennan Memorial 5k 2027 are now open! <a href="https://eventmaster.ie/event/KA02TpnHGx" target="_blank" rel="noopener noreferrer">Register now via Event Master</a>. We look forward to welcoming you to the start line for an unforgettable run on New Year's Day! 🌟</p>
+        </div>
+      </details>
+
+      <details>
+        <summary>
+          <span class="tbm-qicon">Q</span>
+          <span>Can I register on the morning of the race?</span>
+          <svg class="tbm-chevron" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="6 9 12 15 18 9"></polyline></svg>
+        </summary>
+        <div class="tbm-answer">
+          Unfortunately, this is not possible. Race entries must be registered via the
+          <a href="https://eventmaster.ie/event/KA02TpnHGx" target="_blank" rel="noopener noreferrer">Event Master</a> platform.
+          Entries close on December 30th, 2026, or earlier if the race sells out before this date.
+        </div>
+      </details>
+
+      <details>
+        <summary>
+          <span class="tbm-qicon">Q</span>
+          <span>Where is the START LINE?</span>
+          <svg class="tbm-chevron" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="6 9 12 15 18 9"></polyline></svg>
+        </summary>
+        <div class="tbm-answer">
+          The race will start on the <a href="https://maps.app.goo.gl/1dPixdaHiYLKTe4b8" target="_blank" rel="noopener noreferrer">Furze Road</a>,
+          which is just off Chesterfield Avenue in the Phoenix Park.
+          <br>The start line is <span class="tbm-highlight">500 meters</span> from the Number Collection area on the Furze Road / Chesterfield Avenue Junction.
+        </div>
+      </details>
+
+      <details>
+        <summary>
+          <span class="tbm-qicon">Q</span>
+          <span>What is the START TIME?</span>
+          <svg class="tbm-chevron" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="6 9 12 15 18 9"></polyline></svg>
+        </summary>
+        <div class="tbm-answer">
+          The race starts at <span class="tbm-highlight">9:30 AM</span> on the 1st of January, 2027.
+        </div>
+      </details>
+
+      <details>
+        <summary>
+          <span class="tbm-qicon">Q</span>
+          <span>Will there be prizes presented?</span>
+          <svg class="tbm-chevron" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="6 9 12 15 18 9"></polyline></svg>
+        </summary>
+        <div class="tbm-answer">
+          <p>Yes. All prizes will be presented on the day and will be awarded as follows:</p>
+          <ul>
+            <li>First three men and women</li>
+            <li>Bonus prize €200 for first man/first woman if the course record is broken</li>
+            <li>First three men’s and women’s teams (3 to score)</li>
+            <li>
+              First veteran men and women
+              <strong>+35</strong>, <strong>+40</strong>, <strong>+45</strong>,
+              <strong>+50</strong>, <strong>+55</strong>, <strong>+60</strong>,
+              <strong>+65</strong>, <strong>+70</strong>, <strong>+75</strong>
+            </li>
+            <li>3+ entrants per age group required for prize award</li>
+            <li>First junior man and woman</li>
+          </ul>
+        </div>
+      </details>
+
+      <details>
+        <summary>
+          <span class="tbm-qicon">Q</span>
+          <span>If I missed a postage entry, where do I collect my number?</span>
+          <svg class="tbm-chevron" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="6 9 12 15 18 9"></polyline></svg>
+        </summary>
+        <div class="tbm-answer">
+          The Number Collection area is on the Furze Road / Chesterfield Avenue Junction. Please quote your number at the collection desk to speed the process up and allow help to avoid queues. You will receive a text message to the mobile number provided with your bib number.
+        </div>
+      </details>
+
+      <details>
+        <summary>
+          <span class="tbm-qicon">Q</span>
+          <span>What time can I collect my number?</span>
+          <svg class="tbm-chevron" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="6 9 12 15 18 9"></polyline></svg>
+        </summary>
+        <div class="tbm-answer">
+          Number Collection will be open from <span class="tbm-highlight">8:00 AM</span>.
+        </div>
+      </details>
+
+      <details>
+        <summary>
+          <span class="tbm-qicon">Q</span>
+          <span>Where can I park my car?</span>
+          <svg class="tbm-chevron" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="6 9 12 15 18 9"></polyline></svg>
+        </summary>
+        <div class="tbm-answer">
+          Please visit <a href="https://www.phoenixpark.ie/opening-hours/" target="_blank" rel="noopener noreferrer">Phoenix Park Opening Hours</a> for details on car parking.
+          <div class="tbm-note">
+            NOTE: Knockmaroon car park, inside Knockmaroon Gate will be CLOSED.
+          </div>
+        </div>
+      </details>
+
+      <details>
+        <summary>
+          <span class="tbm-qicon">Q</span>
+          <span>Where do I collect my race gift?</span>
+          <svg class="tbm-chevron" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="6 9 12 15 18 9"></polyline></svg>
+        </summary>
+        <div class="tbm-answer">
+          Please collect your bobble hat AFTER you have crossed the finish line and completed the race.
+          <!-- PENDING 2027: Verify that this image exists at the indicated path -->
+          <div class="tbm-media tbm-hat">
+            <img src="/assets/images/tbm2027/tombrenann_2027_bobble_hat.png" alt="Tom Brennan Memorial 5K 2027 bobble hat">
+          </div>
+        </div>
+      </details>
+
+      <details>
+        <summary>
+          <span class="tbm-qicon">Q</span>
+          <span>Will there be water and refreshments?</span>
+          <svg class="tbm-chevron" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="6 9 12 15 18 9"></polyline></svg>
+        </summary>
+        <div class="tbm-answer">
+          Yes, water will be available approximately 20 meters after the finish line.
+          <br>Last Lap Cafe will have hot drinks &amp; refreshments to purchase.
+        </div>
+      </details>
+
+      <details>
+        <summary>
+          <span class="tbm-qicon">Q</span>
+          <span>Will there be toilets?</span>
+          <svg class="tbm-chevron" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="6 9 12 15 18 9"></polyline></svg>
+        </summary>
+        <div class="tbm-answer">
+          Yes, there will be portaloos available on Furze Road. There are also toilets at the Papal Cross Car Park.
+        </div>
+      </details>
+
+      <!-- <details>
+        <summary>
+          <span class="tbm-qicon">Q</span>
+          <span>Can I transfer my entry?</span>
+        </summary>
+        <div class="tbm-answer">
+          Yes. You can transfer your entry and number to another person at the
+          PENDING 2027: Replace # with the official MyRunResults 2027 participants list
+          <a href="#" target="_blank" rel="noopener noreferrer">MyRunResults Participants List page</a> by following the instructions <a href="https://filedn.com/lWTDVY33YajR2yXNwuoX6g8/myrunresults/mrr-change-details.pdf" target="_blank" rel="noopener noreferrer">here</a>.
+          <div class="tbm-note">
+            NOTE: If you had your number posted and wish to transfer, you must exchange that number to the new participant. NO NEW NUMBER WILL BE ISSUED ON THE DAY.
+          </div>
+        </div>
+      </details>-->
+
+    </div>
+
+    <div class="tbm-band">
+      <h2>THE COURSE</h2>
+    </div>
+
+    <div class="tbm-media">
+      <!-- PENDING 2027: Verify that the 2027 course image exists at this path -->
+      <a href="/assets/images/tbm2027/tmbcircuit_corel_2027_jpg.jpg" target="_blank" rel="noopener noreferrer">
+        <img src="/assets/images/tbm2027/tmbcircuit_corel_2027_jpg.jpg" alt="Tom Brennan Memorial 5K Course 2027" loading="lazy">
+      </a>
+    </div>
+
+  </div>
+</div>
