@@ -46,6 +46,19 @@ body {
   outline-offset: 2px;
 }
 
+/* Consistent club-yellow glow for interactive components */
+.btn:focus-visible,
+.nav-link:focus-visible,
+.dropdown-item:focus-visible,
+.navbar-toggler:focus-visible,
+.page-link:focus-visible,
+.tbm-register-button:focus-visible,
+#footer .search-box:focus-visible,
+#footer .search-button:focus-visible {
+  outline: none;
+  box-shadow: 0 0 0 3px rgba(252, 213, 13, 0.45);
+}
+
 h1, h2, h3, h4, h5, h6 {
   letter-spacing: -0.01em;
 }
@@ -325,12 +338,7 @@ h2, h3 {
 }
 
 .bar {
-  height: 12px;
-  width: 100%;
-  overflow: hidden;
-  background: linear-gradient(90deg, var(--lvac-yellow) 0%, rgba(252, 213, 13, 0.15) 100%);
-  border-radius: 6px;
-  color: transparent;
+  display: none;
 }
 
 /* --------------------------------------------------------------------------
@@ -725,6 +733,7 @@ dd {
 .table {
   color: var(--lvac-text);
   --bs-table-bg: transparent;
+  --bs-table-color: var(--lvac-text);
   --bs-table-striped-color: var(--lvac-text);
   --bs-table-hover-color: #fff;
   border-color: var(--lvac-border);
@@ -739,13 +748,13 @@ dd {
 }
 
 .table-striped > tbody > tr:nth-of-type(odd) > * {
-  --bs-table-accent-bg: rgba(255, 255, 255, 0.03);
+  --bs-table-bg-type: rgba(255, 255, 255, 0.03);
   color: var(--lvac-text);
 }
 
 .table-hover > tbody > tr:hover > * {
-  --bs-table-accent-bg: rgba(252, 213, 13, 0.06);
-  color: #fff;
+  --bs-table-hover-bg: rgba(252, 213, 13, 0.06);
+  --bs-table-hover-color: #fff;
 }
 
 /* Profile "tables" (Meet Us) rendered as cards. Results tables are excluded:
@@ -1143,6 +1152,214 @@ dd {
   background: linear-gradient(180deg, transparent 55%, rgba(0, 0, 0, 0.45) 100%);
   pointer-events: none;
   z-index: 1;
+}
+
+/* Homepage announcement cards */
+.announce-card {
+  background: var(--lvac-surface);
+  border: 1px solid var(--lvac-border);
+  border-radius: var(--lvac-radius);
+  padding: 16px 20px;
+  margin-bottom: 18px;
+}
+
+.announce-card h2 {
+  margin-top: 0;
+  font-size: 1.35rem;
+}
+
+/* Search results page */
+.result-label {
+  display: inline-block;
+  border-radius: 999px;
+  padding: 2px 10px;
+  font-size: 0.75em;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  color: #fff;
+}
+
+.result-label.label-news  { background: var(--lvac-blue); }
+.result-label.label-race  { background: #b22222; }
+
+/* --------------------------------------------------------------------------
+   Lightbox (photo albums)
+   -------------------------------------------------------------------------- */
+
+.lightbox {
+  position: fixed;
+  inset: 0;
+  z-index: 2000;
+  display: none;
+  align-items: center;
+  justify-content: center;
+  background: rgba(0, 0, 0, 0.92);
+}
+
+.lightbox.open {
+  display: flex;
+}
+
+.lightbox img {
+  max-width: 92vw;
+  max-height: 88vh;
+  border-radius: 8px;
+  box-shadow: 0 12px 48px rgba(0, 0, 0, 0.6);
+}
+
+.lightbox button {
+  position: absolute;
+  background: rgba(0, 0, 0, 0.6);
+  color: #fff;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 1.4rem;
+  line-height: 1;
+  transition: background 0.2s ease;
+}
+
+.lightbox button:hover {
+  background: rgba(252, 213, 13, 0.85);
+  color: #1c2160;
+}
+
+.lightbox-close {
+  top: 16px;
+  right: 16px;
+  width: 44px;
+  height: 44px;
+}
+
+.lightbox-nav {
+  top: 50%;
+  transform: translateY(-50%);
+  width: 52px;
+  height: 60px;
+  font-size: 2rem;
+}
+
+.lightbox-prev { left: 16px; }
+.lightbox-next { right: 16px; }
+
+.lightbox-counter {
+  position: absolute;
+  bottom: 18px;
+  left: 50%;
+  transform: translateX(-50%);
+  color: #ddd;
+  font-size: 0.9rem;
+  background: rgba(0, 0, 0, 0.6);
+  padding: 4px 12px;
+  border-radius: 999px;
+}
+
+/* --------------------------------------------------------------------------
+   Date chips
+   -------------------------------------------------------------------------- */
+
+.date-chip {
+  display: inline-block;
+  color: var(--lvac-yellow);
+  background: rgba(252, 213, 13, 0.10);
+  border: 1px solid rgba(252, 213, 13, 0.25);
+  border-radius: 999px;
+  padding: 2px 12px;
+  font-size: 0.75em;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+/* --------------------------------------------------------------------------
+   Page hero (banner image + optional title band)
+   -------------------------------------------------------------------------- */
+
+.page-hero {
+  border-radius: var(--lvac-radius);
+  overflow: hidden;
+  box-shadow: var(--lvac-shadow);
+  margin-bottom: 20px;
+}
+
+.page-hero img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 0;
+}
+
+.page-hero-band {
+  background: linear-gradient(135deg, #ffe25e 0%, var(--lvac-yellow) 100%);
+  color: var(--lvac-blue-deep);
+  text-align: center;
+  font-weight: 700;
+  font-size: 1.3rem;
+  padding: 10px 16px;
+  letter-spacing: 0.03em;
+}
+
+/* --------------------------------------------------------------------------
+   Print
+   -------------------------------------------------------------------------- */
+
+@media print {
+  html {
+    scroll-behavior: auto;
+  }
+
+  body {
+    background: #fff !important;
+    color: #111 !important;
+    font-family: Georgia, "Times New Roman", serif;
+  }
+
+  .navbar, #footer, .bar, .social-media-orga, #carouselExampleIndicators,
+  .lightbox, #map, #mapNews, #podcast, .race-register-cta, .tbm-register-wrap,
+  .btn, .news-timeline {
+    display: none !important;
+  }
+
+  .container, .content, .content table.table:not(:has(thead)):not(:has(tr th)),
+  .join, .showresults, .winterleague, .trackseason, .tbm-media,
+  .page-hero, .tbm-faq details {
+    background: #fff !important;
+    border: none !important;
+    border-radius: 0 !important;
+    box-shadow: none !important;
+    color: #111 !important;
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+
+  .content img {
+    max-width: 60% !important;
+  }
+
+  h1, h2, h3, h4, h5, h6, .tbm-band h1, .tbm-band h2 {
+    color: #111 !important;
+    text-shadow: none !important;
+  }
+
+  .tbm-band {
+    background: #eee !important;
+    border-bottom: 2px solid #999 !important;
+  }
+
+  a, a:hover, .date-chip, .tbm-highlight {
+    color: #111 !important;
+  }
+
+  a[href^="http"]::after {
+    content: " (" attr(href) ")";
+    font-size: 0.75em;
+    color: #555;
+  }
+
+  table, th, td {
+    border-color: #999 !important;
+  }
 }
 
 /* --------------------------------------------------------------------------

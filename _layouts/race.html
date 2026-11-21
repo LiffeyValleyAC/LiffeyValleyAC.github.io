@@ -2,18 +2,13 @@
 layout: base
 ---
 
-<div class="row">
-  <div class="bar">
-    &nbsp;
-  </div>
-</div>
 <!-- {% include tombrennan.html %} -->
 <div class="row content">
   <div class="col-md-8">
     <div class="title">
       <h3>
         {{ page.title }}
-        <br /><small>{{ page.date | date: "%A, %-d %B, %Y at %H:%M" }}</small>
+        <br /><span class="date-chip">{{ page.date | date: "%A, %-d %B, %Y at %H:%M" }}</span>
       </h3>
     </div>
     {% assign curDate = site.time | date: '%s' %}

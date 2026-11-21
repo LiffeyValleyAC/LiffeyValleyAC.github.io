@@ -5,8 +5,7 @@ Modernisation of the Liffey Valley AC website (branch: visual-improvements).
 All changes are local and uncommitted.
 
 assets/css/lvac.css
--------------------
-- Full restyle around CSS variables for the club palette (blue #2F318D,
+-------------------- Full restyle around CSS variables for the club palette (blue #2F318D,
   yellow #FCD50D): Inter font with system-stack fallback, smooth scrolling,
   custom selection colour and focus-visible rings.
 - Modern fixed body background (subtle gradient glows) replacing the old
@@ -86,3 +85,79 @@ Not changed
   navbar markup across all pages).
 - Header banner positioning untouched; tombrennan5k_old*.html archives left
   as they are.
+
+Second batch - 21 November 2026 (same day, after the first commit)
+==================================================================
+
+Dependencies removed
+--------------------
+- Dropped jQuery 1.11 and the blueimp gallery from base.html; both were
+  loaded on every page but no longer used by any active page.
+- Removed /assets/css/bootstrap-image-gallery.min.css link and the
+  bootstrap-image-gallery custom_js reference in gallery/index.html.
+- Rewrote assets/js/search.js and assets/js/results.js in vanilla JS
+  (same behaviour: footer search submits to /search?query=..., results
+  page builds the lunr 1.0 index over search.json).
+- New assets/js/lightbox.js: standalone photo lightbox for album pages
+  (prev/next, Esc/click to close, photo counter), wired via custom_js in
+  _layouts/gallery.html; album photos no longer open in new tabs.
+
+Dead tracking removed
+---------------------
+- Google Analytics Universal (UA-74269934-1, shut down in 2023) and the
+  Facebook Pixel removed from the production blocks of base.html.
+- Homepage embedded Facebook page plugin (iframe + SDK) replaced with a
+  follow-us card linking to the Facebook page.
+
+Bootstrap 5.3.9
+---------------
+- bootstrap upgraded 5.1.3 -> 5.3.9 (CSS + JS); separate Popper script
+  replaced by bootstrap.bundle.min.js; SRI hashes computed from the CDN
+  files.
+- Table CSS overrides migrated to the 5.3 variable names
+  (--bs-table-bg-type / --bs-table-hover-bg / --bs-table-color).
+- navbar-light replaced by data-bs-theme="dark" (5.3 color modes).
+
+Homepage
+--------
+- Left-column announcements restyled as cards (.announce-card); the two
+  expired-season retrospectives moved out of the homepage: the track
+  season wrap-up became a news post
+  (_posts/2026-10-04-Track-Season-2026-Wrap-up.md), the winter league
+  final and track season pointer texts were already covered by the news
+  posts they linked to.
+- Fixed a typo'd href (doubled quote) that was removed with that block.
+- JSON-LD image URL updated to https and the current logo.
+
+Layout and pages
+----------------
+- All remaining yellow .bar divider rows removed from active pages and
+  layouts (16 files); .bar rule reduced to display:none (kept for old
+  archive pages).
+- New shared _includes/page-hero.html (banner image + yellow title band)
+  applied to join-us, training and meet-us.
+- Date chips (.date-chip) added to the news and race page layouts.
+- Focus glow polish: consistent club-yellow focus rings for buttons, nav
+  links, dropdown items, toggler, pagination, register button and footer
+  search controls.
+- Social preview cards: Open Graph + Twitter meta tags in base.html
+  (title, description, canonical URL, club logo image).
+- Icons: apple-touch-icon (180), icon-192 and icon-512 generated from
+  LVAC_2024_logo.png into assets/icons/ and referenced in base.html.
+- Print stylesheet added to lvac.css (white background, nav/footer/maps
+  hidden, URLs printed after external links).
+
+Library update - 21 November 2026
+=================================
+- lunr.min.js (assets/js) 1.0.0 (2017) -> 2.3.9; used by the search page
+  and homepage via the rewritten vanilla results.js.
+- Chart.js local bundle (results dashboard) 4.4.0 -> 4.6.1.
+- PapaParse local bundle (results dashboard) 5.0.2 -> 5.7.1.
+- chartjs-plugin-datalabels unpinned jsdelivr URL pinned to 2.2.0 with
+  SRI hash (was resolving to floating "latest" - a future major version
+  would have broken the results dashboard silently).
+- Already latest: Bootstrap 5.3.9, Leaflet 1.9.4; Inter/DM Sans/Bebas
+  fonts are versionless Google Fonts.
+- Deliberately not touched: archived dashboards under results/old_index/
+  (Leaflet 0.7.3, html5shiv, anchor-js, Open Sans) and the vendored Ruby
+  gems under vendor/.

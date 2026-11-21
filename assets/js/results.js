@@ -1,44 +1,83 @@
-$(function(Query) {
-  var query = new Query();
+/* Search results page: builds the lunr index over search.json and renders hits. */
+(function () {
+  'use strict';
 
-  query
-    .setFromURL('query')
-    .getJSON('/search.json')
-    .done(function(data) {
-      var searchIndex,
-      results,
-      $results = $('.search-results');
+  function getParameterByName(name) {
+    var match = new RegExp('[?&]' + name + '=([^&#]*)').exec(window.location.search);
+    return match === null ? '' : decodeURIComponent(match[1].replace(/\+/g, ' '));
+  }
 
-      // set up the allowable fields
-      searchIndex = lunr(function() {
-        this.field('title');
-        this.field('content');
-        this.field('results');
-        this.ref('id');
-      });
+  function el(tag, className, html) {
+    var node = document.createElement(tag);
+    if (className) node.className = className;
+    if (html) node.innerHTML = html;
+    return node;
+  }
 
-      // add each item from search.json to the index
-      $.each(data,function(i,item) {
-        item['id'] = i;
-        searchIndex.add(item);
-      });
+  function renderTypeLabel(item) {
+    if (item.type === 'race') {
+      return '<span class="result-label label-race">Race Results</span>';
+    }
+    return '<span class="result-label label-news">News Item</span>';
+  }
 
-      // search for the query and store the results as an array
-      results = searchIndex.search(query.get());
+  document.addEventListener('DOMContentLoaded', function () {
+    var resultsEl = document.querySelector('.search-results');
+    var countEl = document.querySelector('.search-results-count');
+    if (!resultsEl) {
+      return;
+    }
 
-      $('h3').append(' for "' + query.get() + '"');
-      // go through the results
-      $.each(results, function(i,result) {
-        if(data[result.ref].type == 'news') {
-          $results.append(' <h4><span class="label label-primary">News Item</span> <a href="' + data[result.ref].url +'">'+ data[result.ref].title +'</a>' +
-              '<br /><small>'+ data[result.ref].date +'</small></h4>' +
-              data[result.ref].excerpt +
-              '<hr>');
-        } else if(data[result.ref].type == 'race') {
-          $results.append(' <h4><span class="label label-info">Race Results</span> <a href="' + data[result.ref].url +'">'+ data[result.ref].title +'</a>' +
-              '<br /><small>'+ data[result.ref].date +'</small></h4>' +
-              '<hr>');
+    var query = getParameterByName('query');
+    var heading = document.querySelector('.content h3');
+    if (heading && query) {
+      heading.append(' for "' + query + '"');
+    }
+
+    fetch('/search.json')
+      .then(function (response) { return response.json(); })
+      .then(function (data) {
+        var items = Object.keys(data).map(function (key) {
+          data[key].id = key;
+          return data[key];
+        });
+
+        var searchIndex = lunr(function () {
+          this.field('title');
+          this.field('content');
+          this.field('results');
+          this.ref('id');
+          // lunr 2.x: documents are added inside the builder callback.
+          items.forEach(function (item) { this.add(item); }, this);
+        });
+
+        var hits = searchIndex.search(query);
+        // Latest first: sort matched items by date, relevance as tiebreaker
+        hits.sort(function (a, b) {
+          var ta = data[a.ref].date_ts || 0;
+          var tb = data[b.ref].date_ts || 0;
+          return tb - ta || b.score - a.score;
+        });
+        if (countEl) {
+          countEl.textContent = hits.length === 1
+            ? '1 result found'
+            : hits.length + ' results found';
+        }
+
+        hits.forEach(function (hit) {
+          var item = data[hit.ref];
+          var li = el('li', null,
+            '<h4>' + renderTypeLabel(item) +
+            ' <a href="' + item.url + '">' + item.title + '</a>' +
+            '<br><small>' + (item.date || '') + '</small></h4>' +
+            (item.excerpt || '') +
+            '<hr>');
+          resultsEl.appendChild(li);
+        });
+
+        if (hits.length === 0) {
+          resultsEl.appendChild(el('li', null, '<p>No results found.</p>'));
         }
       });
-    });    
-}(Query));
+  });
+})();
