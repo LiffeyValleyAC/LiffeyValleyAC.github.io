@@ -16,7 +16,7 @@ results:
     category: MS
     note: BIB 416
   - place: 102
-    name: Michael O'Connor
+    name: Michael O'Conor
     time: 17.33
     category: M35
     note: BIB 279

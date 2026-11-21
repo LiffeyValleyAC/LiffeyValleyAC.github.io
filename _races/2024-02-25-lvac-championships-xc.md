@@ -4,7 +4,7 @@ location: Dog Pond, Phoenix Park
 date: 2024-02-25 11:30
 latitude: 53.3522291
 longitude: -6.3214874
-distance: "5km (ESTIMATED, Source: LVAC race listing: club cross country championship at Dog Pond/Phoenix Park, 5k era)"
+distance: 5km Women, 5km Men M60+, 10km MS
 results:
   - place: 1
     name: Brigid Long

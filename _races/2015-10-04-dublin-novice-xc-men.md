@@ -75,7 +75,7 @@ results:
     club: Civil Service
     time: 20m 06s
   - place: 18
-    name: Michael O'Connor
+    name: Michael O'Conor
     club: Crusaders
     time: 20m 10s
   - place: 19

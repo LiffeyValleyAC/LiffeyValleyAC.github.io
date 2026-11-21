@@ -70,14 +70,14 @@ results:
     note:
 
   - place: 10
-    name: Paddy Doyle
+    name: Patrick Doyle
     finish_time: 29.02
     handicap: 08.45
     actual_time: 20.17
     note:
 
   - place: 11
-    name: Michael O'Connor
+    name: Michael O'Conor
     finish_time: 29.04
     handicap: 11.30
     actual_time: 17.34

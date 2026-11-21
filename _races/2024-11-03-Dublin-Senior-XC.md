@@ -4,7 +4,7 @@ location: Citywest, Co. Dublin
 date: 2024-11-03 12:00
 latitude: 53.2886931478627
 longitude: -6.4446339701568895
-distance: "7.5km (ESTIMATED, Source: Dublin Senior 2024 report: 7.5k)"
+distance: 7.5km Senior Men, 7.5km Senior Women
 results: 
   - place: 12
     name: Pierce Geoghegan

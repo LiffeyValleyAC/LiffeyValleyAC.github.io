@@ -121,7 +121,7 @@ results:
     time: 45.09
     category: Men 10k
   - place: 14
-    name: Paddy Doyle
+    name: Patrick Doyle
     time: 46.04
     category: Men 10k
   - place: 15

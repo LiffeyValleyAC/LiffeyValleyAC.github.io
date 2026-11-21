@@ -4,7 +4,7 @@ location: Phoenix Park, George Harrison 5k Lap at The Magazine Fort
 date: 2024-03-10 11:30
 latitude: 53.348753
 longitude: -6.318130
-distance: "5km (ESTIMATED, Source: LVAC race listing: Avondale Cup on George Harrison 5k lap)"
+distance: 5km
 results:
   - place: 1
     name: Geoffrey Alexandre

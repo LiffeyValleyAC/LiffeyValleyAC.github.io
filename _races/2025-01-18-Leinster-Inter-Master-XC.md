@@ -4,7 +4,7 @@ location: Kilcormac, Co. Offaly
 date: 2025-01-18 13:30
 latitude: 53.183386616000014 
 longitude: -7.713003998439156
-distance: "5km Inter Women, 7km Master Men, 8km Inter Men (ESTIMATED, Source: Leinster booklet)"
+distance: 4.75km Inter Women, 7km Master Men, 8km Inter Men
 results: 
   - place: 11
     name: Mollie O'Donnell

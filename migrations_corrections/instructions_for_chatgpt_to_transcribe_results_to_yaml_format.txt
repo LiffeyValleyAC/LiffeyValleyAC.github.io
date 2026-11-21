@@ -1,0 +1,45 @@
+INSTRUCCIONES:
+
+Voy a pasarte resultados en formato YAML. Convertilos a tabla lista para copiar y pegar en Google Sheets, sin encabezados, con tabulacion para que se peguen en diferentes columnas.
+
+Reglas:
+
+ID: usar el ID que te indique y repetirlo para todas las filas (incrementa solo cuando cambie de carrera).
+DATE: formato YYYY-MM-DD (desde date)
+LOCATION: desde location
+RACE NAME: desde title
+SURFACE: XC, Road o Track (deducido del título)
+ORGANISATION: Dublin, Leinster, National, LVAC, Club Races, International (deducido del título)
+PLACE: desde place
+ATHLETE: nombre en Title Case
+CATEGORY: Novice, Intermediate, Senior, Master o Club Championships (deducido del título/categoría)
+GENDER: Men o Women (convertir Male/Female o M/F)
+GRADE: M35, W40, etc (solo si aplica)
+TIME: HH:MM:SS
+Si viene como MM.SS → convertir a 00:MM:SS
+Si hay actual_time, usar ese
+DISTANCE KM: deducir (ej: 5k → 5, 10k → 10)
+NOTES: incluir note + extras como:
+Finish MM:SS | Handicap MM:SS (si aplica)
+
+Formato de salida texto simple Separado por TAB Sin encabezados
+
+--------------------------------------------------------------
+
+Puedes transcribir la tabla de la imagen?
+A esa lista de nombres le puedes cambiar las mayúsculas por tipo título? Usa mayúsculas después del ' También.
+
+Indicar los tiempos como 00.00 en lugar de 00:00 o 00:00:00
+
+Formatear cada fila de la siguiente manera, respetando los espacios:
+  - place: Place
+    name: Name
+    time: Net Time
+    category: Nat Age Cat
+    note: BIB Bib
+
+Necesito la tabla en formato de texto sin formato YAML. Cada campo en un nuevo renglón. Delante de place insertar "  - " (dos espacios, un guión, otro espacio). Delante del resto de los campos insertar "    " (4 espacios)
+
+Eliminar el espacio entre cada párrafo.
+
+

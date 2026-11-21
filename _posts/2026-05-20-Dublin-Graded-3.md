@@ -57,7 +57,7 @@ Outstanding individual performances also came from <b>Pierce</b>, who secured <b
     </tr>
     <tr style="border-bottom: 1px solid #eee; background-color: #fff;">
         <td style="padding: 0px 0px 0px 0px; text-align: right; font-weight: bold;">3</td>
-        <td style="padding: 0px 10px;">Michael O'Connor</td>
+        <td style="padding: 0px 10px;">Michael O'Conor</td>
         <td style="text-align: right; padding: 0px 10px; font-family: monospace;">4:30.21</td>
         <td style="padding: 0px 20px;">1500m Men Grade C <span style="color: #007bff; font-weight: bold;">SB</span></td>
     </tr>

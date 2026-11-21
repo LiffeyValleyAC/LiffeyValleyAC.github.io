@@ -5,7 +5,7 @@ location: Munich Lap, Phoenix Park, Dublin
 
 Well done to our women's team who finished <b>1th</b>, and men's team <b>6th team</b> in the <b>Dublin Novice XC</b> in a very high quality field.
 
-Special mention to Mollie O'Connor who finished <b>2st</b> in the women's race.
+Special mention to Mollie O'Donnell who finished <b>2st</b> in the women's race.
 
 <a href="/races/2025-10-12-Dublin-Novice-XC/" target="_blank" rel="noopener noreferrer">Race Results</a>
 
