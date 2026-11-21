@@ -8,7 +8,7 @@ future: true
 # Halloween decoration: set enabled to false to hide, or true to show again.
 # Restart the local Jekyll server after changing this setting.
 halloween:
-  enabled: true
+  enabled: false
 
 site:
   title: Liffey Valley Athletics Club
