@@ -29,7 +29,10 @@ x64-mingw32
 
 wdm (>= 0.1.0)
 
-MODIFICADOS Y AGREGADOS QUE QUIZAS PRODUZCAN ERROR:
+
+
+
+MODIFIED AND ADDED THAT MIGHT PRODUCE ERRORS:
     eventmachine (1.2.7)
 
     faraday (2.14.1)
