@@ -159,6 +159,13 @@ h2, h3 {
     overflow-x: clip !important;
   }
 
+  /* Wide results tables: scroll horizontally instead of being clipped */
+  .content table:has(thead),
+  .content table:has(tr th) {
+    display: block;
+    overflow-x: auto;
+  }
+
   .timeline-points {
     min-width: auto !important;
     flex-wrap: wrap !important;
@@ -1011,6 +1018,13 @@ dd {
     margin-right: auto !important;
     overflow-x: hidden !important;
     overflow-x: clip !important;
+  }
+
+  /* Wide results tables: scroll horizontally instead of being clipped */
+  .content table:has(thead),
+  .content table:has(tr th) {
+    display: block;
+    overflow-x: auto;
   }
 }
 

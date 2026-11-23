@@ -161,3 +161,14 @@ Library update - 21 November 2026
 - Deliberately not touched: archived dashboards under results/old_index/
   (Leaflet 0.7.3, html5shiv, anchor-js, Open Sans) and the vendored Ruby
   gems under vendor/.
+
+Mobile fix - 23 November 2026
+=============================
+- Race results tables were cut off on mobile (no way to scroll): the
+  max-width 768px rules clip .container horizontally, so wide tables in
+  race pages, the winter-league table, records.html and result tables in
+  news posts were hard-clipped at the screen edge.
+- Fix in lvac.css (both mobile media blocks): tables with a header row
+  (.content table:has(thead), .content table:has(tr th)) now render as
+  scrolling blocks (display: block; overflow-x: auto) while "card"
+  tables without headers (Meet Us profiles) keep their layout.
