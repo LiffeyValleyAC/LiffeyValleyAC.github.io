@@ -10,29 +10,31 @@
     <title>{{ site.site.title }}</title>
     {% endif %}
 
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
-    <link rel="stylesheet" href="/assets/css/bootstrap-image-gallery.min.css">
+    <meta name="theme-color" content="#1c2160">
+    <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | truncate: 155 }}{% else %}Liffey Valley Athletic Club — running club based in Islandbridge, Dublin 8, beside the Phoenix Park. New members always welcome.{% endif %}">
+
+    <!-- Social sharing previews (Open Graph / Twitter) -->
+    <meta property="og:site_name" content="Liffey Valley Athletics Club">
+    <meta property="og:type" content="{% if page.category == 'news' or page.layout == 'news' %}article{% else %}website{% endif %}">
+    <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.site.title }}{% endif %}">
+    <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | truncate: 155 }}{% else %}Liffey Valley Athletic Club — running club based in Islandbridge, Dublin 8, beside the Phoenix Park. New members always welcome.{% endif %}">
+    <meta property="og:url" content="https://liffeyvalleyac.com{{ page.url }}">
+    <meta property="og:image" content="https://liffeyvalleyac.com/assets/images/LVAC_2024_logo.png">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@liffeyvalleyac">
+    <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.site.title }}{% endif %}">
+    <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | truncate: 155 }}{% else %}Liffey Valley Athletic Club — running club based in Islandbridge, Dublin 8, beside the Phoenix Park. New members always welcome.{% endif %}">
+    <meta name="twitter:image" content="https://liffeyvalleyac.com/assets/images/LVAC_2024_logo.png">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.9/dist/css/bootstrap.min.css" integrity="sha384-yEPZ7jP9S0QKiUQ0m3jjsO4ProIW7wvR9gXkI7JOGa2XVsw53Yke2bsdkBbjmmiX" crossorigin="anonymous">
     <link rel="stylesheet" href="/assets/css/lvac.css"/>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.3/leaflet.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
     <link rel="icon" type="image/png" sizes="32x32" href="/assets/images/LVAC_2024_logo.png">
-
-    {% if jekyll.environment == "production" %}
-    <!-- Facebook Pixel Code -->
-    <script>
-    !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-    n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
-    n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
-    t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
-    document,'script','//connect.facebook.net/en_US/fbevents.js');
-
-    fbq('init', '222123914800805');
-    fbq('track', "PageView");</script>
-    <noscript><img height="1" width="1" style="display:none"
-    src="https://www.facebook.com/tr?id=222123914800805&ev=PageView&noscript=1"
-    /></noscript>
-    <!-- End Facebook Pixel Code -->
-    {% endif %}
-
+    <link rel="apple-touch-icon" href="/assets/icons/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="/assets/icons/icon-192.png">
+    <link rel="icon" type="image/png" sizes="512x512" href="/assets/icons/icon-512.png">
   </head>
   <body>
     <div class="container">
@@ -41,9 +43,6 @@
           <h1 class="hidden-xs"><a href="/">Liffey Valley Athletic Club</a></h1>
           <div class="social-media-orga">
             <div class="social-media-orga-row">
-              {% if site.halloween.enabled == true %}
-              {% include halloween-pumpkin.html %}
-              {% endif %}
               <div class="logo-social-media facebook">
                 <a href="https://www.instagram.com/liffeyvalleyac/" target="_blank" rel="noopener noreferrer"><img src="/assets/images/social-media/Instagram_Glyph_Gradient.png" width="30" height="30" alt="Follow us on Instagram"></a>
               </div>
@@ -57,7 +56,7 @@
           </div>
         </div>
         <!-- Nav bar -->
-        <nav class="navbar navbar-expand-lg navbar-light">
+        <nav class="navbar navbar-expand-lg" data-bs-theme="dark">
           <div class="container-fluid">
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
               <span class="navbar-toggler-icon"></span>
@@ -90,9 +89,6 @@
                 </li>
                 -->
                 <li class="nav-item">
-                  <a class="nav-link" href="https://www.jfsports.ie/product-category/club-shop/liffey-valley-a-c/" target="_blank" rel="noopener noreferrer">Shop</a>
-                </li>
-                <li class="nav-item">
                   <a class="nav-link" href="/gallery">Gallery</a>
                 </li>
                 <li class="nav-item dropdown">
@@ -119,7 +115,7 @@
           <div class="footer-info">
             <p class="club-name">Liffey Valley Athletic Club</p>
             <p class="address">Sandpitts Cottage, Islandbridge, Dublin 8, D08HX92</p>
-            <p class="contact">Contact: Club Secretary, Clare Kavanagh <a href="mailto:lvacsecretary@gmail.com"><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span> lvacsecretary@gmail.com</a></p>
+            <p class="contact">Contact: Club Secretary, Clare Kavanagh <a href="mailto:lvacsecretary@gmail.com"><svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor" aria-hidden="true" style="vertical-align:-2px;"><path d="M0 4a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V4Zm2-1a1 1 0 0 0-1 1v.217l7 4.2 7-4.2V4a1 1 0 0 0-1-1H2Zm13 2.383-4.708 2.825L15 11.105V5.383Zm-.034 6.876-5.64-3.471L8 9.583l-1.326-.795-5.64 3.47A1 1 0 0 0 2 13h12a1 1 0 0 0 .966-.741ZM1 11.105l4.708-2.897L1 5.383v5.722Z"/></svg> lvacsecretary@gmail.com</a></p>
             <p class="privacy"><a href="http://liffeyvalleyac.com/privacy/">Club privacy statement</a></p>
           </div>
           <div class="footer-search">
@@ -131,27 +127,12 @@
         </div>
       </div>
     </div>
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-    <script src="//blueimp.github.io/Gallery/js/jquery.blueimp-gallery.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.10.2/dist/umd/popper.min.js" integrity="sha384-7+zCNj/IqJ95wo16oMtfsKbZ9ccEh31eOz1HGyDuCQ6wgnyJNSYdrPa03rtR1zdB" crossorigin="anonymous"></script>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js" integrity="sha384-QJHtvGhmr9XOIpI6YVutG+2QOK9T+ZnN4kzFN1RtK3zEFEIsxhlmWl5/YESvpZ13" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.9/dist/js/bootstrap.bundle.min.js" integrity="sha384-WyOxWvTyr1QaMPfiPJSv76iReVthorl5uWlFtZPyK0IEB0hGzo9y5Bp9mYanr8Bu" crossorigin="anonymous"></script>
     <script src="/assets/js/search.js"></script>
     {% if page.custom_js %}
     {% for js_file in page.custom_js %}
     <script src='/assets/js/{{ js_file }}.js' type="text/javascript"></script>
     {% endfor %}
-    {% endif %}
-    {% if jekyll.environment == "production" %}
-    <script>
-      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-          (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-      ga('create', 'UA-74269934-1', 'auto');
-      ga('send', 'pageview');
-
-    </script>
     {% endif %}
   </body>
 </html>

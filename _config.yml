@@ -1,6 +1,6 @@
 permalink: pretty
 highlighter: rouge
-exclude: [ README.md, CONTRIBUTING.md, LICENSE, Gemfile, Rakefile, scripts/, tests/, vendor/ ]
+exclude: [ README.md, CONTRIBUTING.md, LICENSE, Gemfile, Rakefile, scripts/, tests/, vendor/, changelogs/ ]
 paginate: 1000
 paginate_path: "/news/:num"
 future: true
@@ -9,7 +9,6 @@ future: true
 # Restart the local Jekyll server after changing this setting.
 halloween:
   enabled: false
-
 site:
   title: Liffey Valley Athletics Club
   url: http://new.liffeyvalleyac.com

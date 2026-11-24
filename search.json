@@ -8,6 +8,7 @@
     "content" : {{ post.content | strip_html | jsonify }},
     "excerpt" : {{ post.content | strip_html | truncatewords: 20 | jsonify }},
     "date"    : {{ post.date | date: '%B %-d, %Y' | jsonify }},
+    "date_ts" : {{ post.date | date: '%s' | jsonify }},
     "type"    : "news"
   },
 {% endfor %}
@@ -17,6 +18,7 @@
     "url"     : {{ race.url | jsonify }},
     "results" : "{% for result in race.results %} {{ result.name }}{% endfor %}",
     "date"    : {{ race.date | date: '%B %-d, %Y' | jsonify }},
+    "date_ts" : {{ race.date | date: '%s' | jsonify }},
     "type"    : "race"
   }
   {% unless forloop.last %},{% endunless %}

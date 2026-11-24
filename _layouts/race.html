@@ -2,18 +2,13 @@
 layout: base
 ---
 
-<div class="row">
-  <div class="bar">
-    &nbsp;
-  </div>
-</div>
 <!-- {% include tombrennan.html %} -->
 <div class="row content">
   <div class="col-md-8">
     <div class="title">
       <h3>
         {{ page.title }}
-        <br /><small>{{ page.date | date: "%A, %-d %B, %Y at %H:%M" }}</small>
+        <br /><span class="date-chip">{{ page.date | date: "%A, %-d %B, %Y at %H:%M" }}</span>
       </h3>
     </div>
     {% assign curDate = site.time | date: '%s' %}
@@ -38,11 +33,11 @@ layout: base
     <div id="map"></div>
   </div>
 </div>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.3/leaflet.js"></script>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 <script>
   var map = L.map('map').setView([{{ page.latitude }}, {{ page.longitude }}], 14);
-  L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-    attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors',
+  L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: '&copy; <a href="https://openstreetmap.org/copyright">OpenStreetMap</a> contributors',
   }).addTo(map);
   L.marker([{{ page.latitude }}, {{ page.longitude }}]).addTo(map)
   .bindPopup("{{ page.title }}")
